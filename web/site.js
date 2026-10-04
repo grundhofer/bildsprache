@@ -125,12 +125,14 @@
       var s = document.createElement('span'); s.lang = 'en'; s.textContent = text; d.appendChild(s);
       return d;
     }
-    function keepFocus(el, fallbackEl) {
-      // Ein Bedienelement, das deaktiviert oder versteckt wird, darf den Fokus nicht verlieren.
-      if (document.activeElement === el && (el.disabled || el.hidden)) fallbackEl.focus();
+    function keepFocus(el, fallbackEl, had) {
+      // Ein Bedienelement, das deaktiviert oder versteckt wird, darf den Fokus nicht verlieren. Geprüft wird der Fokus
+      // von vor dem Umbau (had): Sobald ein Knopf deaktiviert ist, steht document.activeElement schon auf <body>.
+      if (had === el && (el.disabled || el.hidden)) fallbackEl.focus();
     }
     function render(i, announceIt) {
       var c = cells[i]; current = i;
+      var had = document.activeElement;
       var fig = $('.lb-fig'); fig.innerHTML = '';
       fig.className = 'lb-fig ' + c.ar;
       if (c.base && $('[data-lb-compare]').getAttribute('aria-pressed') === 'true') {
@@ -173,9 +175,9 @@
       var prev = $('[data-lb-prev]'), next = $('[data-lb-next]'), close = $('[data-lb-close]');
       prev.disabled = pos <= 0;
       next.disabled = pos < 0 || pos >= vis.length - 1;
-      keepFocus(prev, next.disabled ? close : next);
-      keepFocus(next, prev.disabled ? close : prev);
-      keepFocus(cmpBtn, close);
+      keepFocus(prev, next.disabled ? close : next, had);
+      keepFocus(next, prev.disabled ? close : prev, had);
+      keepFocus(cmpBtn, close, had);
       var side = $('.lb-side'); if (side) side.scrollTop = 0;
       dlg.scrollTop = 0;
       if (announceIt && live) live.textContent = c.title + ' – ' + (pos + 1) + ' / ' + vis.length;
