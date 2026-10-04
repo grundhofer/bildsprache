@@ -7333,5 +7333,2061 @@
   "note_en": "Instead of a crude Paint doodle, this is a skilled cartoon illustration with pixelated edges, perspective and shading.",
   "alt_de": "Comiczeichnung mit gezackten Pixelkonturen: Eine grauhaarige Frau drückt kniend eine helle Planke auf ein umgedrehtes Holzboot, ein junger Mann mit Mütze nagelt sie fest. Dahinter Kiesstrand, Steg, Möwen.",
   "alt_en": "Cartoon drawing with jagged pixel outlines: a grey-haired woman kneels and presses a pale plank onto an upturned wooden boat while a young man in a cap nails it; pebble beach, jetty, gulls."
+ },
+ "product/three-strip-technicolor-4": {
+  "key": "product/three-strip-technicolor-4",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Style drifts toward a generic glossy AI retro-product render: high-gloss lacquer, crisp specular highlights, gold-plated fittings and strong table reflections, not the matte, evenly lit, dye-dense look of a 1940s Technicolor frame",
+   "The Technicolor cues are mostly the painted Mediterranean backdrop and the single ruby prop. The backdrop's sea and sky are also strongly saturated cobalt, so the ruby is not the only saturated accent",
+   "Backdrop slightly soft, which goes against 'everything in focus'",
+   "Tight product close-up rather than a medium-long shot of a dressed set (acceptable for a product motif)",
+   "Motif complete: left-half perforated grille, one large dial above a tick-only window, two small knobs, carry handle, angled telescopic antenna. Shell and plant are set dressing. No logo, text or real landmark. Format 1:1 is correct"
+  ],
+  "note_de": "Hochglanz und Goldbeschläge wirken eher wie ein modernes KI-Produktfoto als wie ein Technicolor-Filmstill.",
+  "note_en": "High gloss and gold fittings read more like a modern AI product shot than a Technicolor film still.",
+  "alt_de": "Technicolor-Filmstill im Studio: Ein rubinrotes Kofferradio mit cremefarbener Front, Lochgitter, Messingknöpfen und Antenne steht auf einem polierten Holztisch vor gemalter Mittelmeerküste.",
+  "alt_en": "Technicolor studio still: a ruby-red portable radio with a cream front, perforated grille, brass knobs and antenna sits on a polished wooden table before a painted Mediterranean coast."
+ },
+ "product/three-strip-technicolor-5": {
+  "key": "product/three-strip-technicolor-5",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [
+   "Antenna leans at roughly 45-50 degrees, more than 'slightly angled'"
+  ],
+  "problems": [
+   "Style drifts toward a modern AI product photo: shallow depth of field blurs the painted backdrop, a polished granite counter has strong reflections, and metal is crisply rendered",
+   "Dappled leaf shadows on the right pillar contradict the frontal arc light with short pale shadows",
+   "The painted Mediterranean backdrop and the single wine-red prop do read as a studio set, so the style is recognisable but generic",
+   "A faint dark smudge in the top-left of the speaker grille looks like a ghost of a script marking. It is not legible and not a clear logo",
+   "Otherwise the motif is complete: left-half grille, one large dial above a tick-only window, two small knobs, carry handle, telescopic antenna, radio alone and whole. Format 1:1 is correct and there is no real landmark"
+  ],
+  "note_de": "Unscharfer Hintergrund und Blätterschatten wirken eher wie ein modernes Produktfoto als wie ein gleichmäßig ausgeleuchtetes Technicolor-Filmstill.",
+  "note_en": "Background blur and dappled leaf shadows read more like a modern product photo than an evenly lit Technicolor still.",
+  "alt_de": "Technicolor-Filmstill im Studio: Ein weinrotes Kofferradio mit goldenem Lautsprechergitter, Messingknöpfen und schräger Antenne steht auf einer Granitplatte, dahinter Balustrade, Efeu und gemalte Küste.",
+  "alt_en": "Technicolor studio still: a wine-red portable radio with a gold speaker grille, brass knobs and slanted antenna stands on a granite slab before a balustrade, ivy and painted coast."
+ },
+ "people/three-strip-technicolor-8": {
+  "key": "people/three-strip-technicolor-8",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Reads as a modern, razor-sharp photorealistic digital image, not a 1940s dye-transfer frame enlargement",
+   "Real cloudy sky and real coastline cliffs instead of a canvas backdrop painted close behind a sound-stage set",
+   "Fine detail fully preserved (skin pores, wrinkles, hair strands, wood grain), where the style asks for softened, cleanly modelled colour",
+   "No carbon-arc frontal flood look; natural daylight with outdoor depth",
+   "No single ruby, emerald or cobalt accent garment or prop among greys, browns and creams",
+   "Not a static medium-long shot with whole figures; tight framing crops the woman behind the hull"
+  ],
+  "note_de": "Wirkt wie ein modernes, gestochen scharfes Digitalfoto mit echtem Himmel und Küste, nicht wie ein Technicolor-Studiobild der 1940er.",
+  "note_en": "Looks like a sharp modern digital photo with real sky and coastline, not a 1940s Technicolor studio frame.",
+  "alt_de": "Fotorealistisches Farbbild in satten Tönen: Eine grauhaarige Frau drückt eine neue Planke an ein umgedrehtes Boot, ein junger Mann mit Strickmütze nagelt sie fest; dahinter Steg, Meer, zwei Möwen.",
+  "alt_en": "Photorealistic, richly saturated colour image: a grey-haired woman presses a new plank onto an upturned boat while a young man in a knitted cap nails it; jetty and gulls behind."
+ },
+ "people/clay-animation-3": {
+  "key": "people/clay-animation-3",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Boat hull, toolbox, rope, hammer and many pebbles render as realistic wood, fibre, metal and stone rather than the same matte clay as the figures",
+   "Background is a deep, realistic seascape with distant headlands instead of a painted card backdrop close behind a shallow stage",
+   "Figures are detailed modern-studio puppets with individual fingers and sculpted brows rather than ball heads, bead eyes and mitten hands",
+   "Sea surface shows some gloss despite the no-shine rule"
+  ],
+  "note_de": "Boot, Werkzeugkiste und Seil wirken wie echtes Holz und Tau statt Knete, der Hintergrund ist eine tiefe Landschaft statt gemalter Kulisse.",
+  "note_en": "The boat, toolbox and rope look like real wood and rope rather than clay, and the background is a deep landscape instead of a painted backdrop.",
+  "alt_de": "Knetanimation: Eine grauhaarige Frau aus Knete kniet am umgedrehten Boot und drückt eine helle Planke an, ein junger Mann mit Strickmütze hämmert einen Nagel; Werkzeugkiste, Seil, Nageldose, Steg, Möwen.",
+  "alt_en": "Clay animation: a grey-haired plasticine woman kneels at an upturned boat pressing on a pale plank while a young man in a knitted cap hammers a nail; toolbox, rope, gulls."
+ },
+ "people/ancient-egyptian-wall-painting-4": {
+  "key": "people/ancient-egyptian-wall-painting-4",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Woman painted red-brown like the man instead of the pale ochre the style prescribes for women",
+   "Eyes drawn in profile, not the frontal eye of Egyptian convention; man's torso in naturalistic three-quarter crouch rather than frontal shoulders",
+   "Scene built in depth with overlaps (boat over sea, man in front of pebbles) instead of stacked registers on ruled ground lines",
+   "Pebbles fill the whole ground instead of plain ground; jetty drawn with perspective rather than flat side view",
+   "Boat planks carry modelled wood-grain shading rather than flat fills"
+  ],
+  "note_de": "Die Frau ist rotbraun wie der Mann statt blassocker gemalt, und Figuren, Boot und Steg sind räumlich statt in Registern angelegt.",
+  "note_en": "The woman is painted red-brown like the man instead of pale ochre, and figures, boat and jetty are drawn in depth rather than in registers.",
+  "alt_de": "Ägyptische Wandmalerei mit flachen Farben und rotbraunen Umrissen: Eine grauhaarige Frau kniet am umgedrehten Boot, ein junger Mann mit Strickmütze nagelt; dahinter blaues Zickzackwasser, gepunktete Hügel, Baumreihe, Möwen.",
+  "alt_en": "Egyptian wall painting in flat colours, red-brown outlines: a grey-haired woman kneels at an upturned boat while a young man in a beanie hammers a nail; zigzag water, dotted hills, gulls."
+ },
+ "people/ancient-egyptian-wall-painting-5": {
+  "key": "people/ancient-egyptian-wall-painting-5",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [
+   "Woman rests only one open hand on the hull instead of pressing the plank with both hands",
+   "No clearly distinguishable new plank"
+  ],
+  "problems": [
+   "No ruled bands or registers; the scene is one continuous space with overlaps in depth",
+   "Pebbles cover the whole ground instead of plain ground between bands",
+   "Jetty drawn in three-quarter perspective rather than straight from the side; hills rendered with soft gradients",
+   "Man's torso and raised knee in naturalistic three-quarter pose rather than frontal shoulders",
+   "Oversized hull with modelled wood-grain shading rather than flat colour fills"
+  ],
+  "note_de": "Die Frau legt nur eine Hand an den Rumpf, statt eine neue Planke mit beiden Händen anzudrücken, und die typischen Bildstreifen fehlen.",
+  "note_en": "The woman rests only one hand on the hull instead of pressing a new plank with both, and the style's painted bands are missing.",
+  "alt_de": "Ägyptische Wandmalerei auf rissigem Putz: Eine blassgelbe, grauhaarige Frau kniet am großen Bootsrumpf, ein rotbrauner junger Mann mit Strickmütze schlägt einen Nagel ein; Werkzeugkiste, Seil, Nageldose, Steg, Möwen.",
+  "alt_en": "Egyptian wall painting on cracked plaster: a pale-yellow, grey-haired woman kneels at the hull while a red-brown young man in a beanie hammers a nail; toolbox, rope, gulls on jetty."
+ },
+ "food/thermal-imaging-3": {
+  "key": "food/thermal-imaging-3",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [
+   "hand does not tear a piece off a bread slice; it holds an already torn piece above the soup bowl",
+   "bread knife has a smooth, unserrated blade (minor)",
+   "napkin reads as a terry towel rather than linen (minor)"
+  ],
+  "problems": [
+   "Filter-like: colour follows photographic brightness rather than temperature, so it reads as an ironbow gradient map laid over a photo",
+   "Cold objects glow, against the style's own rules: the steel knife blade is yellow (metal should be near black), the butter is yellow-white, the cherry tomatoes are orange and the napkin is red-orange with a glowing edge",
+   "Fine surface detail is kept everywhere (wood grain, crumb structure, napkin weave), along with a dark cast shadow under the bowl; the style asks for soft, blocky blobs",
+   "Thermal elements are present: ironbow palette, centre crosshair, vertical colour scale at right, close framing with the hand and napkin cut by the edges",
+   "Format is correct (square 1254x1254); no anatomy errors (hand blob is plausible), no logos, text or watermarks"
+  ],
+  "note_de": "Wirkt wie ein Farbfilter über einem Foto: Messer, Butter, Tomaten und Serviette glühen, obwohl sie kalt wären.",
+  "note_en": "Looks like a colour filter over a photo: the knife, butter, tomatoes and napkin glow although they would be cold.",
+  "alt_de": "Wärmebild in Violett, Rot und Gelbweiß: Eine Hand hält über einer Schüssel Tomatensuppe ein Stück Brot, daneben angeschnittener Laib, Messer, Butter, Kirschtomaten, Basilikum und Serviette; Fadenkreuz, Farbskala rechts.",
+  "alt_en": "Ironbow thermal image: a hand holds a piece of bread over glowing tomato soup, beside a sliced loaf, knife, butter, cherry tomatoes, basil and napkin; crosshair and colour scale."
+ },
+ "food/thermal-imaging-5": {
+  "key": "food/thermal-imaging-5",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [
+   "hand dips a torn piece of bread into the soup instead of tearing it off a bread slice"
+  ],
+  "problems": [
+   "Closer to real thermography than variant 3: the table, the linen napkin and the bowl body sink into violet, the wall behind goes to a dark band, and the crosshair, colour scale and edge cropping all fit",
+   "Cold items still glow, against the style block: the serrated steel knife blade is orange-yellow (metal should be near black), the butter is yellow-white, and the cherry tomatoes and basil are orange",
+   "The bread keeps fine photographic crumb texture and the wood shows fine grain; the style asks for broad soft gradients",
+   "All other motif elements are present: loaf with a third sliced, board, bread knife, crumbs, deep bowl with cream swirl, spoon, drip on the rim, butter dish, basil, vine tomatoes, folded napkin",
+   "Format is correct (square 1254x1254); the hand anatomy is fine; no logos, text or watermarks"
+  ],
+  "note_de": "Die Hand tunkt das Brot in die Suppe, statt es abzureißen, und Butter, Tomaten und Messer glühen, obwohl sie kalt wären.",
+  "note_en": "The hand dips the bread into the soup instead of tearing it, and the butter, tomatoes and knife glow although they would be cold.",
+  "alt_de": "Wärmebild in Violett bis Gelbweiß: Eine Hand tunkt ein Stück Brot in hell glühende Tomatensuppe, daneben angeschnittener Laib mit Brotmesser, Butter, Kirschtomaten, Basilikum und eine kalte, violette Serviette.",
+  "alt_en": "Thermal image in violet to yellow-white: a hand dips bread into glowing tomato soup, beside a sliced loaf with bread knife, butter, cherry tomatoes, basil and a cold violet napkin."
+ },
+ "landscape/new-color-photography-6": {
+  "key": "landscape/new-color-photography-6",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [
+   "three tiny figures stand on the bridge (at most one allowed)"
+  ],
+  "problems": [
+   "Generic saturated, HDR-like travel-postcard look, not a sober 1970s large-format colour print",
+   "None of the style's everyday facts: no road or track, utility poles, sagging wires, fences or parked car",
+   "Distant mountains are large, jagged and dominant rather than small and pale",
+   "Picturesque, scenic composition instead of a level, matter-of-fact record of an ordinary place",
+   "Three small figures on the bridge instead of at most one"
+  ],
+  "note_de": "Wirkt wie ein gesättigtes Reisefoto statt wie nüchterne Farbfotografie der 1970er, und auf der Brücke stehen drei Figuren.",
+  "note_en": "Looks like a saturated travel photo rather than sober 1970s colour photography, and three figures stand on the bridge.",
+  "alt_de": "Sonniges Farbfoto im Postkartenlook: Ein alter Baum mit Holzbank über trockenem Gras, dahinter ein Fluss mit Steinbogenbrücke, Dorf mit Glockenturm, Terrassenhänge und schroffe Berge.",
+  "alt_en": "Sunny, saturated postcard-style photo: an old tree with a wooden bench on dry grass, a river under a stone arch bridge, a village with bell tower, terraces and jagged peaks."
+ },
+ "landscape/new-color-photography-7": {
+  "key": "landscape/new-color-photography-7",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Generic AI holiday-landscape look: clear turquoise water, sparkling highlights, picturesque framing",
+   "The nearest tree is cut off by the top edge and its branches frame the view, though the style wants the nearest thing whole and some metres off",
+   "No gravel, asphalt or kerb along the bottom edge; no poles, wires, fences or parked cars",
+   "Mountains are large, sharp and prominent rather than small and pale"
+  ],
+  "note_de": "Generischer Urlaubsfoto-Look statt nüchterner Farbfotografie der 1970er.",
+  "note_en": "A generic holiday-photo look rather than sober 1970s colour photography.",
+  "alt_de": "Sonnenhelles Urlaubsfoto: Ein knorriger Baum rahmt das Bild, darunter eine Holzbank im trockenen Gras; dahinter ein klarer Fluss, Steinbrücke, Dorf mit Kapelle und schroffe Gipfel.",
+  "alt_en": "Bright holiday-style photo: a gnarled tree frames the view above a wooden bench on dry grass; beyond, a clear river, stone bridge, village with chapel and jagged peaks."
+ },
+ "landscape/ancient-egyptian-wall-painting-6": {
+  "key": "landscape/ancient-egyptian-wall-painting-6",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Western perspective landscape: the river recedes into depth and the picture has a horizon with a mountain ridge, which the style says to avoid, instead of stacked bands on ruled ground lines",
+   "Trees shrink with distance instead of staying the same size one band higher",
+   "Large gnarled naturalistic tree; houses and chapel drawn in three-quarter view rather than as flat fronts",
+   "The Egyptian look comes mainly from the palette, red-brown outlines, zigzag water, plaster ground and the one striding figure",
+   "The village is small: about four or five houses beside the chapel"
+  ],
+  "note_de": "Perspektivische Landschaft mit Horizont statt ägyptischer Bildstreifen auf Standlinien.",
+  "note_en": "A perspective landscape with a horizon instead of Egyptian stacked bands on ground lines.",
+  "alt_de": "Ägyptisch anmutende Wandmalerei in Ocker, Grün und Blau mit roten Konturen: Fluss als blaues Zickzackband, Steinbrücke mit Mann im Schurz, Dorf, Terrassenfelder, Baum mit Bank, fliegende Gänse.",
+  "alt_en": "Egyptian-inspired wall painting in ochre, green and blue with red outlines: a zigzag-patterned river, stone bridge with a kilted man, village, terraced fields, tree with bench, flying geese."
+ },
+ "landscape/ancient-egyptian-wall-painting-7": {
+  "key": "landscape/ancient-egyptian-wall-painting-7",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Deep perspective: the river winds to a vanishing point below a horizon, with no registers or ruled ground lines",
+   "Mountains are modelled with shading and atmospheric perspective",
+   "Bench and houses in three-quarter view; trees diminish with distance",
+   "Egyptian cues (zigzag water, papyrus clumps, palms, kilted figure, palette) sit on top of a Western landscape composition"
+  ],
+  "note_de": "Tiefe Perspektive und schattierte Berge statt flacher ägyptischer Bildstreifen.",
+  "note_en": "Deep perspective and shaded mountains instead of flat Egyptian registers.",
+  "alt_de": "Wandmalerei mit ägyptischen Anklängen: Papyrus säumt einen blauen Zickzackfluss, ein Mann im Schurz quert die Steinbrücke zum Dorf, links Terrassen, vorn Baum mit Bank, oben Gänse.",
+  "alt_en": "Egyptian-flavoured wall painting: papyrus lines a blue zigzag river, a kilted man crosses the stone bridge to the village, terraces on the left, tree and bench in front, geese above."
+ },
+ "landscape/ancient-egyptian-wall-painting-8": {
+  "key": "landscape/ancient-egyptian-wall-painting-8",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Reads as a Mediterranean fresco or naive mural, not Theban tomb painting",
+   "Full depth perspective with a horizon and the river vanishing into the distance; no bands or ground lines",
+   "Water drawn as wavy lines in perspective instead of a top-view zigzag panel",
+   "Bench, bridge and whitewashed houses with tiled roofs in three-quarter view",
+   "Apart from the tiny kilted figure and the cracked plaster, almost nothing is Egyptian",
+   "River layout is slightly confusing: a separate channel runs behind the tree"
+  ],
+  "note_de": "Wirkt wie ein mediterranes Fresko in Tiefenperspektive; ägyptisch ist nur die kleine Figur.",
+  "note_en": "Looks like a Mediterranean fresco in deep perspective; only the small figure is Egyptian.",
+  "alt_de": "Rissige Freskomalerei im Mittelmeerstil mit Tiefenperspektive: Baum und Holzbank am Ufer, ein Mann im Schurz auf der Steinbrücke, weiße Häuser mit Kapelle, Terrassen, blaue Berge, Gänse.",
+  "alt_en": "Cracked Mediterranean-style fresco in deep perspective: tree and wooden bench on the bank, a kilted man on the stone bridge, white houses with chapel, terraces, blue mountains, geese."
+ },
+ "editorial/retro-popular-science-cutaway-5": {
+  "key": "editorial/retro-popular-science-cutaway-5",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Defining style feature absent: the cup is not sliced open or cut away; the front half is intact, so there are no interior storeys, chambers, pipes, chutes or belts",
+   "No soil-layer strip below and no plain cream paper around; instead a full landscape with horizon, trees and sky",
+   "Palette strays from dulled red/ochre/teal/cream: strong cobalt-blue floral pattern dominates",
+   "No visible coarse halftone or airbrushed metal; grainy aged-paper texture only, so it reads as a generic vintage Americana magazine illustration rather than a popular-science cutaway",
+   "Minor: the rim worker's rope forms an odd second strand running past the bucket down to the rim",
+   "Minor: the glue-carrying woman walks in from the distance rather than standing at the base; the needle is only moderately oversized",
+   "Format correct (1536x1024 landscape); no logo, signature, watermark or real landmark; hands and limbs fine"
+  ],
+  "note_de": "Kein Schnittbild: Die Tasse steht unaufgeschnitten in einer Landschaft, ohne Stockwerke, Rohre oder Bodenschicht.",
+  "note_en": "Not a cutaway: the cup stands whole in a landscape, with no interior storeys, pipes or soil strip.",
+  "alt_de": "Gouache auf vergilbtem Papier: riesige gesprungene Teetasse mit blauen Blumen. Ein Mann vernäht von der Leiter einen Riss, einer senkt vom Rand einen Eimer, eine Frau schultert eine Klebstofftube.",
+  "alt_en": "Gouache on yellowed paper: giant cracked teacup with blue flowers in open country. A man on a ladder stitches, another lowers a bucket from the rim, a woman shoulders glue."
+ },
+ "editorial/retro-popular-science-cutaway-7": {
+  "key": "editorial/retro-popular-science-cutaway-7",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [
+   "glue tube is cradled in the woman's arms rather than carried on her shoulder (minor)"
+  ],
+  "problems": [
+   "Defining style feature absent: the cup is not sawn open as a factory; no front half removed, no stacked storeys, boiler rooms, shafts, pipes or belts inside",
+   "No soil-layer strip and no bare paper surround; a painted landscape with sky, clouds, trees and hills instead",
+   "Halftone screen and teal-leaning palette hint at the period print look, but overall it reads as a generic vintage storybook/magazine painting, not a popular-science cutaway",
+   "Minor: stitches are rendered as rope looped around peg-like rods rather than thread through holes",
+   "Format correct (1536x1024 landscape); no logo, signature, watermark or real landmark; hands and limbs fine"
+  ],
+  "note_de": "Kein Schnittbild: Die Tasse ist nicht aufgesägt, innen gibt es keine Fabrik-Stockwerke, nur ein altmodisches Landschaftsbild.",
+  "note_en": "Not a cutaway: the cup is not sawn open and has no factory storeys inside, just an old-fashioned landscape painting.",
+  "alt_de": "Gouache mit Rasterpunkten auf vergilbtem Papier: riesige, gesprungene Blümchentasse. Ein Mann vernäht von der Leiter einen Riss, einer senkt vom Rand einen Eimer, eine Frau trägt eine Klebstofftube.",
+  "alt_en": "Halftone-textured gouache on yellowed paper: giant cracked teacup with blue flowers in open country. A man on a ladder stitches a crack, another lowers a bucket, a woman carries glue."
+ },
+ "chart/ancient-egyptian-wall-painting-6": {
+  "key": "chart/ancient-egyptian-wall-painting-6",
+  "verdict": "fail",
+  "style_score": 3,
+  "motif_missing": [
+   "Proportional quantities wrong: stacks hold 5, 9, 7 and 3 boat units (2 heads each = 10/18/14/6) instead of a 12:30:24:6 ratio; July is only 3x September instead of 5x, 1.8x June instead of 2.5x"
+  ],
+  "problems": [
+   "Chart is not honest: unit counts do not match the printed numbers 12, 30, 24, 6; only September (3 boats x 2 = 6) is right",
+   "Large decorative ferry/island scene takes ~40% of the image and competes with the data",
+   "Island town drawn as a clustered pseudo-perspective view with varied tree shapes, against the style's flat ochre fronts and identical rounded tree crowns in rows",
+   "Aged-paper texture overlay reads as filter; overall recognisable Egyptian register look but generic",
+   "Format 1536x1024 landscape correct; no logo, watermark or landmark"
+  ],
+  "note_de": "Die Bootsstapel sind nicht maßstabsgetreu: Der Juli hat nur dreimal so viele Boote wie der September statt fünfmal. Alle Beschriftungen stimmen, aber die Bootsstapel sind nicht proportional: Juli und August zeigen deutlich zu wenige Boote (9 und 7 statt 15 und 12 bei je 2 Personen pro Boot).",
+  "note_en": "The boat stacks are out of proportion: July has only three times as many boats as September instead of five. All labels are correct, but the boat stacks are not proportional: July and August show far too few boats (9 and 7 instead of 15 and 12 at 2 people per boat).",
+  "alt_de": "Ägyptische Grabmalerei in Ocker, Rotbraun und Blau: Oben steigen Männer und Frauen in eine Fähre zur Palmeninsel, unten Stapel kleiner Boote mit je zwei Köpfen für Juni bis September.",
+  "alt_en": "Egyptian tomb painting in ochre, red-brown and blue: men and women board a ferry to a palm island above; below, stacks of small two-passenger boats for June to September.",
+  "text_exact": true,
+  "text_errors": [
+   "Pictogram counts not proportional: expected 6/15/12/3 two-person boats (12/30/24/6), found 5/9/7/3 boats (= 10/18/14/6 passengers)",
+   "JUL stack is 3x SEP instead of 5x; AUG stack is 2.3x SEP instead of 4x"
+  ]
+ },
+ "chart/ancient-egyptian-wall-painting-8": {
+  "key": "chart/ancient-egyptian-wall-painting-8",
+  "verdict": "fail",
+  "style_score": 3,
+  "motif_missing": [
+   "Proportional quantities wrong: figure counts are 8 (JUN, 2x4), 24 (JUL, 4x6), 18 (AUG, 3x6) and 6 (SEP) instead of 12, 30, 24, 6; July is 4x September instead of 5x"
+  ],
+  "problems": [
+   "Chart is not honest: people counted per boat contradict the printed numbers; only September is correct",
+   "Rows exceed the style's 'no stack above a handful' rule (rows of 6, up to 4 tiers)",
+   "Upper scene drifts Mediterranean: whitewashed cubic houses, cypresses and a sloping island shoreline in landscape view rather than a top-view plan or flat fronts",
+   "Decorative boat-and-island frieze takes about a third of the image",
+   "Figures on ruled band lines with red-brown men and yellow women are convincing; texture overlay slightly filter-like",
+   "Format 1536x1024 landscape correct; no logo, watermark or landmark"
+  ],
+  "note_de": "Die Figurenreihen zeigen 8, 24, 18 und 6 Personen statt 12, 30, 24 und 6. Alle Beschriftungen stimmen, aber die Figurenzahl passt nicht zu den Werten: Juni, Juli und August zeigen 8, 24 und 18 statt 12, 30 und 24 Personen.",
+  "note_en": "The rows of figures show 8, 24, 18 and 6 people instead of 12, 30, 24 and 6. All labels are correct, but the figure counts do not match the values: June, July and August show 8, 24 and 18 people instead of 12, 30 and 24.",
+  "alt_de": "Ägyptische Wandmalerei auf hellem Putz: Oben segelt ein Boot mit Passagieren zu einer Palmeninsel, unten stehen Reihen von Männern und Frauen in vier Booten für Juni bis September.",
+  "alt_en": "Egyptian wall painting on pale plaster: a sailing boat carries passengers to a palm island; below, rows of red-brown men and yellow women stand in four boats, June to September.",
+  "text_exact": true,
+  "text_errors": [
+   "Figure counts not proportional: expected 12/30/24/6 identical figures, found 8/24/18/6",
+   "Row stacks are 2:4:3:1 instead of 2:5:4:1 (JUN 33%, JUL 20%, AUG 25% short relative to SEP)"
+  ]
+ },
+ "product/three-strip-technicolor-6": {
+  "key": "product/three-strip-technicolor-6",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Finish reads as a crisp, glossy modern AI product render: razor-sharp grille mesh, brushed-metal knobs and wood grain instead of the softened, cleanly modelled detail of a dye-transfer print",
+   "Lighting is warm raking sunlight with long shadows rather than a flat frontal carbon-arc flood",
+   "Framing is a close tabletop product shot, not a static medium-long sound-stage set shot",
+   "Palette not restrained: intense blue sea/sky and red geraniums compete with the ruby radio instead of one ruby/emerald/cobalt accent among greys, browns and creams",
+   "Painted Mediterranean backdrop does read as stage canvas (positive), but the overall effect is a generic saturated retro look",
+   "Antenna at roughly 45 degrees, more than 'slightly angled' (minor)",
+   "Tiny illegible scale dots around the small knobs (negligible, no real text)",
+   "Motif complete: grille on left half, one large dial above tick-only window, two small knobs, carry handle, partly extended antenna; radio whole and alone; square format correct; no logos or landmarks"
+  ],
+  "note_de": "Wirkt eher wie ein glatter, gestochen scharfer Produkt-Render als wie ein weiches Technicolor-Filmbild.",
+  "note_en": "Reads more like a crisp, glossy product render than a soft Technicolor film frame.",
+  "alt_de": "Technicolor-Standbild in satten Farben: weinrotes Kofferradio mit Lautsprechergitter, großem Drehknopf über dem Skalenfenster, zwei kleinen Knöpfen und schräger Antenne auf einem Holztisch, dahinter gemalte Mittelmeerküste und Geranien.",
+  "alt_en": "Saturated Technicolor-style still: a maroon portable radio with speaker grille, large dial, tick-marked window, two small knobs and angled antenna on a wooden table, painted Mediterranean coast behind."
+ },
+ "people/thermal-imaging-5": {
+  "key": "people/thermal-imaging-5",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Reads as a colour-mapped photo, not a low-resolution thermogram: photo-sharp knit texture, wood grain and individual pebbles, against the 'avoid fine surface detail' rule",
+   "Colour follows brightness, not temperature: the cold boat hull, toolbox, rope and many pebbles glow orange, as warm as the people",
+   "Hair is as bright as or brighter than skin; the style requires it darker",
+   "Metal nail tin not near-black",
+   "The older woman's face reads somewhat gender-ambiguous (acceptable in thermal)"
+  ],
+  "note_de": "Wirkt wie ein eingefärbtes Foto: Das kalte Boot und die Steine leuchten so warm wie die Menschen.",
+  "note_en": "Looks like a colour-filtered photo: the cold boat and pebbles glow as warm as the people.",
+  "alt_de": "Wärmebild in Violett, Orange und Gelb: Eine ältere Frau drückt eine Planke auf das orange leuchtende, umgedrehte Boot, ein junger Mann mit Strickmütze hämmert; dahinter Steg und Möwen.",
+  "alt_en": "Thermal image in violet, orange and yellow: an older woman presses a plank onto the glowing orange upturned boat, a young man in a beanie hammers; jetty and gulls behind."
+ },
+ "people/thermal-imaging-6": {
+  "key": "people/thermal-imaging-6",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [
+   "New plank hard to make out: the woman's hands rest on the hull edge, and one seems to hold a small wedge instead of pressing a plank with both hands"
+  ],
+  "problems": [
+   "Photo-sharp detail (knit texture, wood grain, nail holes), so it reads as a false-colour filter rather than a blurry thermogram",
+   "Cold wooden hull glows bright orange, as warm as the clothed bodies",
+   "Hair as bright as skin; the style requires it darker"
+  ],
+  "note_de": "Wirkt wie ein eingefärbtes Foto mit glühend warmem Boot, und die neue Planke ist kaum zu erkennen.",
+  "note_en": "Looks like a colour-filtered photo with a glowing warm boat, and the new plank is hard to make out.",
+  "alt_de": "Wärmebild in Violett, Orange und Weißgelb: Eine ältere Frau und ein junger Mann mit Strickmütze arbeiten am orange glühenden, umgedrehten Boot, er hämmert einen Nagel; zwei leuchtende Möwen auf Pfählen.",
+  "alt_en": "Thermal image in violet, orange and yellow: an older woman and a young man in a beanie repair a glowing upturned boat; two bright gulls on jetty posts."
+ },
+ "people/thermal-imaging-7": {
+  "key": "people/thermal-imaging-7",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Glowing orange edge outlines on the hull, toolbox, rope, nail tin and pebbles, which the style explicitly says to avoid; looks like an edge filter",
+   "Photo-sharp facial and fabric detail instead of soft, blocky low-res blobs",
+   "Hair as bright as the face; the style requires it darker",
+   "Metal hammer head glows orange instead of near-black",
+   "Better than variants 5 and 6: the cold boat is mostly dim violet and the sky and sea are black"
+  ],
+  "note_de": "Leuchtende Konturen und fotoscharfe Details passen nicht zu einer echten Wärmebildkamera.",
+  "note_en": "Glowing outlines and photo-sharp detail are untypical for a real thermal camera.",
+  "alt_de": "Wärmebild: Vor schwarzem Meer leuchten Gesicht und Hände einer älteren Frau gelb, die eine Planke an ein violettes, umgedrehtes Boot drückt; ein junger Mann mit Mütze hämmert; Möwen am Steg.",
+  "alt_en": "Thermal image: against a black sea, an older woman's face and hands glow yellow as she presses a plank onto a dim violet upturned boat; a young man hammers."
+ },
+ "people/ms-paint-style-6": {
+  "key": "people/ms-paint-style-6",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Not a clumsy MS Paint mouse doodle but a competent cartoon illustration with jagged pixel edges",
+   "Three-quarter views of the boat and figures, correct anatomy, detailed faces with wrinkle hatching (all on the style's avoid list)",
+   "Finely textured multicoloured gravel and shaded jeans instead of one flat fill with spray dots",
+   "No single straight ground line in side view; background fully filled in",
+   "No big heads, dot eyes or mitten hands"
+  ],
+  "note_de": "Zu gekonnt für MS Paint: eine detaillierte Comiczeichnung mit Schrägansicht und strukturiertem Kies statt eines ungelenken Maus-Gekritzels.",
+  "note_en": "Too skilled for MS Paint: a detailed cartoon with angled views and textured gravel instead of a clumsy mouse doodle.",
+  "alt_de": "Comiczeichnung mit gezackten Pixelkanten und Flächenfarben: Eine grauhaarige Frau drückt eine helle Planke an ein umgedrehtes Holzboot, ein junger Mann mit blauer Mütze nagelt; Kiesstrand, Steg, zwei Möwen.",
+  "alt_en": "Cartoon with jagged pixel edges and flat colours: a grey-haired woman presses a pale plank onto an upturned boat, a young man in a blue beanie nails it; jetty, gulls."
+ },
+ "people/ms-paint-style-7": {
+  "key": "people/ms-paint-style-7",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Paint-program cues present (thick wobbly outlines, flat bucket fills, zigzag wave band, grey sprayed ground with ellipse stones)",
+   "Figures and boat are drawn too competently: three-quarter perspective, correct proportions, expressive faces instead of ellipse heads, dot eyes and stick limbs",
+   "Gulls drawn as detailed birds instead of V ticks; stones not identical copies",
+   "The older woman reads somewhat gender-ambiguous"
+  ],
+  "note_de": "Zu gekonnt gezeichnet: Figuren und Boot wirken wie ein Comic in Schrägansicht statt wie ungelenke Mausformen.",
+  "note_en": "Drawn too skilfully: the figures and boat look like an angled comic rather than clumsy mouse shapes.",
+  "alt_de": "Malprogramm-Zeichnung mit dicken schwarzen Konturen, Zickzackwellen und grauem Kies: Eine grauhaarige Frau drückt eine helle Planke aufs umgedrehte Boot, ein junger Mann mit grüner Mütze hämmert; zwei Möwen fliegen.",
+  "alt_en": "Paint-program drawing with thick black outlines, zigzag waves and grey pebbles: a grey-haired woman presses a pale plank onto an upturned boat, a young man in a green beanie hammers."
+ },
+ "people/ms-paint-style-8": {
+  "key": "people/ms-paint-style-8",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [
+   "Woman presses the plank with only one visible hand (motif asks for both hands)"
+  ],
+  "problems": [
+   "Not a pieced-together MS Paint picture: none of the pasted white rectangles around figures and objects that define this style block",
+   "Polished cartoon with three-quarter boat perspective, shaded planks and competent figures, against 'avoid depth, smooth outlines'",
+   "Densely detailed multicoloured pebble texture instead of one flat fill with sprayed dots",
+   "Odd grey band wrapped around the woman's forearm"
+  ],
+  "note_de": "Zu gekonnt für MS Paint: ein detaillierter Comic in Schrägansicht ohne die eingefügten weißen Rechtecke des Stils.",
+  "note_en": "Too polished for MS Paint: a detailed angled cartoon without the style's pasted white rectangles.",
+  "alt_de": "Comiczeichnung mit gezackten Konturen auf buntem Kiesstrand: Eine ältere Frau mit Hosenträgern drückt eine helle Planke ans umgedrehte Boot, ein junger Mann mit Mütze nagelt; Möwen auf Stegpfählen.",
+  "alt_en": "Cartoon with jagged outlines on a pebble beach: an older woman in braces presses a pale plank onto an upturned boat, a young man in a beanie nails; gulls perch."
+ },
+ "people/clay-animation-4": {
+  "key": "people/clay-animation-4",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [
+   "The woman rests her hands on the old dark hull boards above; she does not press the new (pale) plank into place"
+  ],
+  "problems": [
+   "Drifts toward the generic modern AI 'claymation' look: the sea, waves and distant cliffs are photographic, not painted card close behind",
+   "Shallow depth of field: jetty, gulls and background are soft and blurred, though the style block asks for everything in focus and no haze",
+   "Deep perspective instead of a shallow tabletop stage",
+   "Peeling paint on the boat, real-looking rope and wood grain on the toolbox read as photographic, not scored clay or twisted clay snakes",
+   "Toolbox, rope and nail tin sit in front of the man rather than between the two figures (minor)",
+   "No anatomy errors; hands have correct finger counts; format 1536x1024 landscape is correct; no logos or landmarks"
+  ],
+  "note_de": "Meer und Steg wirken fotografisch und unscharf statt aus Knete, und die Frau drückt nicht die neue Planke an.",
+  "note_en": "The sea and jetty look photographic and blurred rather than clay, and the woman is not pressing the new plank.",
+  "alt_de": "Knetfiguren am Kiesstrand: Eine grauhaarige alte Frau stützt sich auf ein umgedrehtes Ruderboot, ein junger Mann mit Wollmütze nagelt eine helle Planke an, dahinter Steg mit zwei Möwen.",
+  "alt_en": "Clay figures on a pebble beach: a grey-haired woman leans on an upturned boat as a young man in a knitted cap nails a pale plank; jetty with gulls behind."
+ },
+ "people/clay-animation-5": {
+  "key": "people/clay-animation-5",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [
+   "The woman's hands rest on the old dark boards; she is not clearly pressing the new (pale) plank into place"
+  ],
+  "problems": [
+   "Sea, surf and rocky outcrops on the left look photographic, not painted card close behind",
+   "Background (jetty, gulls, headland) is in soft focus, against the style's 'everything sharp, no soft focus' rule",
+   "Photoreal textures on the rope fibres, toolbox wood grain, boat planks and pebbles; reads as modern AI stop-motion rather than matte unmixed modelling clay",
+   "Deep perspective instead of a shallow stage on a board with its front edge showing",
+   "No anatomy errors; hands are correct; format 1536x1024 landscape is correct; no logos or landmarks"
+  ],
+  "note_de": "Meer und Felsen wirken fotografisch statt aus Knete, und die Frau stützt sich aufs alte Holz, statt die neue Planke anzudrücken.",
+  "note_en": "The sea and rocks look photographic rather than clay, and the woman leans on the old boards instead of pressing the new plank.",
+  "alt_de": "Knetfiguren am Kiesstrand vor realistisch wirkendem Meer: Eine alte Frau mit Schürze stützt sich aufs umgedrehte Boot, ein junger Mann mit Wollmütze hält Hammer und Nagel; rechts Steg mit Möwen.",
+  "alt_en": "Clay figures by a realistic sea: an old woman leans on an upturned boat while a young man in a knitted cap sets a nail; jetty with gulls behind."
+ },
+ "people/ancient-egyptian-wall-painting-3": {
+  "key": "people/ancient-egyptian-wall-painting-3",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Figures use naturalistic kneeling and crouching poses with three-quarter torsos, not the Egyptian convention of frontal shoulders with profile head and legs",
+   "The boat is drawn in curved three-quarter perspective with foreshortening rather than a flat side view",
+   "Figures overlap the boat in depth instead of standing on separate ruled ground lines; the scene is a single band, not stacked registers",
+   "Gulls are naturalistic and smaller than near objects (the style asks for same size for farther things)",
+   "Correct elements: zigzag blue water panel, plain pale plaster ground, red-brown outlines, pale yellow woman and red-brown man, flat ochre and blue palette",
+   "All motif elements present (kneeling grey-haired woman pressing the plank, young man in knitted cap with hammer and nail, toolbox, rope, nail tin, sea, jetty, two gulls); no anatomy errors; landscape format correct; no logos"
+  ],
+  "note_de": "Die Figuren knien und hocken naturalistisch, und das Boot ist perspektivisch statt in flacher Seitenansicht gemalt.",
+  "note_en": "The figures kneel and crouch naturalistically, and the boat is drawn in perspective rather than flat side view.",
+  "alt_de": "Ägyptische Wandmalerei auf hellem Putz: Eine gelbhäutige, grauhaarige Frau kniet am umgedrehten Boot und drückt eine Planke an, ein rotbrauner junger Mann hämmert einen Nagel; dahinter Zickzack-Meer, Steg, Möwen.",
+  "alt_en": "Egyptian wall painting on pale plaster: a yellow-skinned grey-haired woman kneels pressing a plank onto an upturned boat; a red-brown young man hammers a nail. Zigzag sea, jetty, gulls behind."
+ },
+ "food/thermal-imaging-4": {
+  "key": "food/thermal-imaging-4",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Reads as a sharp, high-resolution photo with an ironbow colour lookup applied by brightness, not a thermal image: colour follows light and surface tone, not temperature",
+   "Cold or room-temperature items glow warm: butter and cream swirl are yellow-white, cherry tomatoes orange, bread-knife blade bright orange (metal should be near black)",
+   "Crumbs glow like sparks; basil leaf veins, napkin weave and wood grain stay crisply resolved",
+   "No soft blocky sensor blobs or stripe noise; crosshair and colour scale are present but cannot rescue the filter look",
+   "Format 1:1 correct; no logos"
+  ],
+  "note_de": "Ein eingefärbtes Foto statt eines Wärmebilds: Butter, Brotmesser und Tomaten leuchten heiß, und alles ist gestochen scharf.",
+  "note_en": "A recoloured photo rather than a thermal image: butter, bread knife and tomatoes glow hot, and everything is razor-sharp.",
+  "alt_de": "Wärmebild in Ironbow-Farben mit Fadenkreuz und Farbskala: Rundes Brot mit Scheiben auf einem Brett, Tomatensuppe mit Sahnespirale, Butter, Rispentomaten, Basilikum, Serviette; eine Hand reißt ein Stück Brot ab.",
+  "alt_en": "Thermal image in ironbow colours with crosshair and scale: round loaf and slices on a board, tomato soup with cream swirl, butter, vine tomatoes, basil; a hand tears off bread."
+ },
+ "food/clay-animation-5": {
+  "key": "food/clay-animation-5",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [
+   "hand tearing a piece off a bread slice (it holds an already torn piece above the soup instead)"
+  ],
+  "problems": [
+   "Medium breaks: bread loaf and slices, knife with steel blade and riveted handle, cutting board and tabletop have photographic textures; soup is glossy and realistic",
+   "Only the hand, tomatoes, bowl, potted basil and background read as clay",
+   "Warm golden light and soft-focus background, both listed under Avoid",
+   "Bread knife is a plain straight blade, not a serrated bread knife",
+   "Format 1:1 correct; no logos"
+  ],
+  "note_de": "Brot, Messer, Brett und Suppe wirken fotografisch statt geknetet, und die Hand reißt nichts von einer Scheibe ab.",
+  "note_en": "Bread, knife, board and soup look photographic rather than clay, and the hand is not tearing a piece off a slice.",
+  "alt_de": "Szene im Knetanimationsstil auf einem Holztisch: Eine Hand aus Knete hält ein Stück Brot über die Tomatensuppe, daneben angeschnittener Laib, Messer, Butter, Rispentomaten, Basilikum; Brot und Tisch wirken fotografisch.",
+  "alt_en": "Clay-animation scene: a clay hand holds a piece of bread over tomato soup, beside a cut loaf, knife, butter, vine tomatoes and basil; bread and table look photographic."
+ },
+ "food/clay-animation-6": {
+  "key": "food/clay-animation-6",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [
+   "hand tearing a piece off a bread slice (it holds an already torn piece above the soup bowl instead)"
+  ],
+  "problems": [
+   "Medium breaks: bread loaf and slices, tabletop wood grain and the woven linen napkin are photographic, not clay",
+   "Clay only in hand, knife, bowl, tomatoes, basil, chair and backdrop, so the frame is a photo-clay hybrid",
+   "Background in soft focus and warm light, both listed under Avoid",
+   "Bread knife shows no serration",
+   "Format 1:1 correct; no logos"
+  ],
+  "note_de": "Brot, Tisch und Leinentuch wirken fotografisch statt geknetet, und die Hand reißt nichts von einer Scheibe ab.",
+  "note_en": "Bread, table and linen towel look photographic rather than clay, and the hand is not tearing a piece off a slice.",
+  "alt_de": "Knetanimation in einer Bauernküche: Eine Knethand mit blauem Ärmel hält ein Stück Brot über die Suppenschüssel; Brotlaib, Tischplatte und Leinentuch wirken eher fotografisch als geknetet.",
+  "alt_en": "Clay animation in a farmhouse kitchen: a clay hand in a blue sleeve holds a piece of bread over the soup bowl; loaf, tabletop and towel look photographic, not modelled."
+ },
+ "food/clay-animation-7": {
+  "key": "food/clay-animation-7",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [
+   "hand tearing a piece off a bread slice (it holds an already torn piece above the soup instead)"
+  ],
+  "problems": [
+   "Medium breaks: the bread (crumb holes, flour dusting, cracked crust), the cutting board, the tabletop grain and the woven linen napkin are photographic",
+   "Clay only in hand, sleeve, bowl, tomatoes, basil, chair and backdrop, so the frame is a photo-clay hybrid",
+   "Warm golden light and shallow depth of field, both listed under Avoid",
+   "Format 1:1 correct; no logos"
+  ],
+  "note_de": "Brot, Tisch und Leinentuch wirken fotografisch statt geknetet, und die Hand reißt nichts von einer Scheibe ab.",
+  "note_en": "Bread, table and linen towel look photographic rather than clay, and the hand is not tearing a piece off a slice.",
+  "alt_de": "Knetanimation vor blauer Kulisse: Eine Knethand im Strickärmel hält ein Stück Brot über eine Tonschale Tomatensuppe; daneben ein fotografisch wirkender Brotlaib, Brotmesser, Butter, Rispentomaten und Basilikum.",
+  "alt_en": "Clay animation: a clay hand in a knitted sleeve holds bread over a terracotta bowl of tomato soup; beside it a photo-real loaf, bread knife, butter, vine tomatoes and basil."
+ },
+ "landscape/new-color-photography-5": {
+  "key": "landscape/new-color-photography-5",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [
+   "Two tiny figures stand on the bridge instead of at most one"
+  ],
+  "problems": [
+   "The image reads as the generic AI or stock travel-postcard look (saturated, HDR-like, golden), not a 1970s New Color view-camera print. It lacks the dense, sober print quality, fine grain and flat matter-of-fact framing.",
+   "The nearest tree is cropped at the top and left edges and used as a framing device. The style block requires that even the nearest tree stand whole with sky around it.",
+   "Style-defining elements are missing: no utility wires crossing the sky, no poles, fences or parked car near the subject, and no plain gravel, asphalt or verge strip across the bottom.",
+   "The distant mountains are large, sharp and dramatic and dominate the centre. The style asks for small, pale distant mountains.",
+   "The composition is a picturesque, centred valley vista seen from a slope. It is not the level, eye-height, standing-well-back ordinary-place view of the style.",
+   "Minor: some houses sit on the left slope away from the cluster next to the bridge, so the village is spread out rather than one cluster of five or six houses.",
+   "Format is correct (1536x1024 landscape). No logos, signatures, watermarks or recognisable real landmarks were found."
+  ],
+  "note_de": "Statt nüchterner New-Color-Fotografie ein glattes Postkartenbild: Der Baum ist angeschnitten, die Berge dominieren, und es fehlen Leitungen, Masten und Autos.",
+  "note_en": "A glossy postcard shot rather than sober New Color photography: the tree is cropped, the mountains dominate, and there are no wires, poles or cars.",
+  "alt_de": "Glattes Landschaftsfoto im Postkartenlook: Unter einem alten Baum steht eine Holzbank am Hang, unten fließt ein Fluss unter einer Steinbogenbrücke beim Dorf mit Kirche, dahinter schroffe Berge.",
+  "alt_en": "Glossy postcard-style landscape photo: a wooden bench under an old tree on a slope above a river, a stone arch bridge, a village with a chapel, and jagged mountains behind."
+ },
+ "street/new-color-photography-4": {
+  "key": "street/new-color-photography-4",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Drifts toward a glossy, picturesque Tuscan holiday photo (overflowing geraniums, warmly lit shop window, pristine surfaces) rather than the plain, 'ordinary place' record of 1970s New Color; no visible film grain",
+   "Style cues mostly present: level eye-height camera, straight verticals, asphalt band across the bottom, building whole with sky around it, utility wires, parked car, small unposed figures",
+   "Parked hatchback carries a blurry pseudo-badge on the tailgate; not a readable brand mark",
+   "Lane slope is ambiguous (it recedes rather than visibly sloping down to the right); woman walks away up it, acceptable",
+   "Format correct (1024x1536 portrait); no anatomy errors found in the rug woman, cyclist or dog"
+  ],
+  "note_de": "Wirkt eher wie ein glattes Urlaubsfoto als wie eine nüchterne New-Color-Aufnahme.",
+  "note_en": "Looks more like a glossy holiday photo than a matter-of-fact New Color print.",
+  "alt_de": "Nüchterne Farbfotografie bei Mittagssonne: rote Eckbäckerei mit Brezelschild, Hund neben der Bank, Frau schüttelt Teppich aus dem Fenster, Wäscheleine, Stromleitungen, geparktes Auto, rechts Frau mit Fahrrad.",
+  "alt_en": "Straight colour photo in noon sun: red corner bakery with pretzel sign, dog by the bench, rug shaken from a window, laundry, wires, parked car, woman pushing a bicycle uphill.",
+  "text_exact": true,
+  "text_errors": []
+ },
+ "street/new-color-photography-5": {
+  "key": "street/new-color-photography-5",
+  "verdict": "fail",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Strongest drift of the three toward a generic AI travel photo: no parked car, no utility poles or sagging wires, flowers and warm interior lights make it picturesque instead of an unremarkable everyday place",
+   "Main building is cropped at the left edge and fills much of the frame, not a moderate off-centre subject standing whole; it reads wide rather than narrow",
+   "Large empty asphalt foreground with a heavy shadow band; no visible film grain",
+   "Clothesline geometry is a little vague (starts on the side wall, laundry hangs in front of the yellow neighbour), acceptable",
+   "Format correct (1024x1536 portrait); dog, rug woman and cyclist anatomically fine; small illegible notices in the shop window only"
+  ],
+  "note_de": "Ohne Autos, Masten und Leitungen kippt das Bild ins glatte Urlaubsfoto. Die Hausnummer 12 stimmt, aber im Schaufenster stehen zwei Kärtchen mit erfundener Pseudo-Schrift.",
+  "note_en": "Without parked cars, poles or wires it slides into a glossy holiday snapshot. The house number 12 is correct, but two small cards in the shop window carry invented pseudo-lettering.",
+  "alt_de": "Farbfotografie bei harter Mittagssonne: rote Eckbäckerei mit gestreifter Markise und Brezelschild, Hund neben der Bank, Frau schüttelt Teppich aus, Wäscheleine, Frau schiebt Fahrrad die Gasse hinauf, vorn leerer Asphalt.",
+  "alt_en": "Colour photograph in hard noon sun: red corner bakery with striped awning and pretzel sign, dog by the bench, rug shaken from a window, laundry, woman pushing a bicycle uphill.",
+  "text_exact": false,
+  "text_errors": [
+   "expected only '12', found additional pseudo-text on two small cards in the shop window",
+   "extra: shop-window card at about x315-329, y935-957: rows of illegible letter-like marks (fake small print)",
+   "extra: shop-window card at about x288-308, y997-1018: illegible lines of pseudo-text (fake small print)"
+  ]
+ },
+ "street/new-color-photography-6": {
+  "key": "street/new-color-photography-6",
+  "verdict": "fail",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Weathered plaster, wires across the sky, asphalt band at the bottom and level camera fit the style, but the red-white awning, cascading flowers and valley view make it a pretty postcard idyll, not a plain roadside record",
+   "Colours look creamy and slightly washed out rather than the dense, fresh print the style asks for; no parked car or utility poles",
+   "Soft, blurred foliage shadow in the bottom-left corner",
+   "Building is attached to its left neighbour; corner reading comes only from the lane on its right, acceptable",
+   "Format correct (1024x1536 portrait); no anatomy errors; only tiny illegible notices on the door besides '12'"
+  ],
+  "note_de": "Hübsche Postkartenidylle statt nüchterner Alltagsaufnahme; die Farben wirken eher blass als satt. Die Hausnummer 12 stimmt, aber an der Türscheibe hängt ein Zettel mit erfundener Pseudo-Schrift samt Überschrift und Zahlen.",
+  "note_en": "A pretty postcard idyll instead of a plain everyday record; the colours look washed out rather than dense. The house number 12 is correct, but a notice on the door glass shows invented pseudo-text with a heading, lines and numbers.",
+  "alt_de": "Sonnige Farbfotografie mit verwittertem Putz: rote Bäckerei mit rot-weißer Markise und Brezelschild, Hund an der Bank, Frau mit Teppich am Fenster, Wäscheleine, Stromdrähte, Glockenturm, Frau mit Fahrrad.",
+  "alt_en": "Sunlit colour photograph of weathered plaster: red bakery with striped awning and pretzel sign, dog by the bench, rug at a window, laundry, wires, bell tower, woman with bicycle.",
+  "text_exact": false,
+  "text_errors": [
+   "expected only '12', found an additional notice with pseudo-text on the door glass",
+   "extra: notice on door glass at about x510-530, y995-1018: illegible bold heading, several lines of fake small print and number-like marks at the bottom"
+  ]
+ },
+ "infographic/retro-popular-science-cutaway-3": {
+  "key": "infographic/retro-popular-science-cutaway-3",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Not a cutaway: six separate framed panels in a 2x3 grid, which the style block explicitly forbids ('avoid separate panels')",
+   "No sliced-open building, no stacked chambers, pipes, chutes or belts, no small workers in overalls, no soil-layer strip",
+   "Reads as a generic vintage-poster infographic (paper texture, red banner, circled numbers); only the palette and aged paper hint at the style",
+   "Close-up hands and objects rendered in a painterly modern illustration manner rather than flat gouache profile drawing",
+   "Motif complete: hand sowing over furrows, sickle in wheat, millstone with flour into 500 g sack, two hands kneading, dough under cloth in bowl, loaf in oven with 230 °C; arrows give order; no anatomy errors, no logos or watermarks; 1024x1536 portrait correct"
+  ],
+  "note_de": "Statt eines aufgeschnittenen Gebäudes zeigt das Bild sechs getrennte Bildfelder, der Cutaway-Stil fehlt.",
+  "note_en": "Instead of one sliced-open building it shows six separate panels, so the cutaway style is missing.",
+  "alt_de": "Retroplakat mit Rasterpunkten auf vergilbtem Papier: Sechs gerahmte Felder unter rotem Banner zeigen Säen, Sichel im Weizen, Mühlstein mit 500-g-Sack, Kneten, Teig unter Tuch und Ofen mit 230 °C.",
+  "alt_en": "Retro poster with halftone on yellowed paper: six framed panels under a red banner show sowing, sickle harvest, millstone with 500 g sack, kneading, rising dough, oven at 230 °C.",
+  "text_exact": true,
+  "text_errors": []
+ },
+ "infographic/retro-popular-science-cutaway-4": {
+  "key": "infographic/retro-popular-science-cutaway-4",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Not a cutaway: six separate scene panels on a red zigzag path instead of one building or machine sawn in half seen from the side",
+   "No stacked chambers joined by pipes/chutes/belts, no tiny uniform-height profile workers, no soil-layer strip; the mill panel's red wall edge is the only cutaway hint",
+   "Large painterly figures and close-up hands read as a generic retro-magazine illustration, not a popular-science cutaway",
+   "Motif complete: farmer scattering seed over furrows, reaper with sickle and sheaves, millstones with flour into 500 g sack, two hands kneading, dough under cloth in bowl, loaf in brick oven with 230 °C; order clear; no anatomy errors, no logos or watermarks; 1024x1536 portrait correct"
+  ],
+  "note_de": "Sechs getrennte Bildfelder statt eines aufgeschnittenen Gebäudes, vom Cutaway-Stil bleibt nur die Retro-Farbigkeit.",
+  "note_en": "Six separate panels instead of one sliced-open building; only the retro colouring of the cutaway style remains.",
+  "alt_de": "Retro-Illustration auf vergilbtem Papier: Sechs Bildfelder an einem roten Zickzackpfad zeigen einen säenden Bauern, einen Schnitter mit Sichel, Mühlsteine, Kneten, abgedeckten Teig und einen Ofen mit 230 °C.",
+  "alt_en": "Retro illustration on yellowed paper: six panels on a red zigzag path show a farmer sowing, a reaper with sickle, millstones, kneading, covered dough and a 230 °C oven.",
+  "text_exact": true,
+  "text_errors": []
+ },
+ "infographic/retro-popular-science-cutaway-5": {
+  "key": "infographic/retro-popular-science-cutaway-5",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Minor: painted farmland and trees fill the margins left and right instead of bare paper, and decorative wheat ears flank the title banner",
+   "Minor: label tabs sit directly in the storeys without leader lines; the millstone is drawn slightly from above rather than in strict flat profile",
+   "Minor: the baker at step 6 stands in front of the stone foundation at soil level rather than inside the storey (permitted 'at its foot' but spatially a little odd)",
+   "Otherwise strong: bread-slice outline used as factory wall, sawn open from the side, stacked storeys with pipes, chutes and ladders, small capped workers of one height, soil strip, halftone texture, dulled red/ochre/teal/cream, circled numbers, title banner",
+   "Motif complete: sowing over furrows, sickle in wheat, millstone pouring flour into 500 g sack, two hands kneading on table, dough under cloth in bowl, loaf in oven with 230 °C; downward arrows fix the order; no anatomy errors, no logos or watermarks; 1024x1536 portrait correct"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Retro-Schnittbild auf vergilbtem Papier: Eine Brotscheibe, aufgesägt wie eine Fabrik. Auf sechs Etagen säen, ernten, mahlen, kneten und backen kleine Arbeiter mit Schiebermützen.",
+  "alt_en": "Retro cutaway on yellowed paper: a bread slice sawn open as a factory; on six storeys capped workers sow, harvest, mill, knead, let dough rise and bake at 230 °C.",
+  "text_exact": true,
+  "text_errors": []
+ },
+ "editorial/retro-popular-science-cutaway-6": {
+  "key": "editorial/retro-popular-science-cutaway-6",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Defining feature of the style is missing: the cup is not sawn in half and has no removed front half, cut-wall band or interior chambers with pipes, chutes or belts; it is painted whole",
+   "Drawn in three-quarter perspective from slightly above with naturalistic modelling and cast shadows, not a flat side elevation with flat profile objects",
+   "No soil-layer strip at the ground; instead a naturalistic dirt field with grass tufts",
+   "Surface reads as generic grainy vintage gouache/lithograph; no clear coarse four-colour halftone; palette dominated by cobalt blue porcelain decoration rather than dulled red/ochre/teal/cream",
+   "Figures are naturalistic three-quarter figures of differing apparent sizes rather than tiny uniform profile workers",
+   "Minor: the rim-sitting worker and the cup rim reach into the upper third, so the headline space is only clear on the left",
+   "Motif content otherwise complete: giant cracked cup on open ground, ladder worker with oversized needle and thread, rim worker lowering a bucket on a rope into the cup, woman carrying a long glue tube on her shoulder, shards around the base; no anatomy errors, no logo, signature or watermark; landscape 1536x1024 matches requested size"
+  ],
+  "note_de": "Kein Schnittbild: Die Tasse ist ganz und in Schrägansicht gemalt statt aufgeschnitten mit sichtbarem Innenleben.",
+  "note_en": "Not a cutaway: the cup is painted whole in three-quarter view instead of sawn open to show its interior.",
+  "alt_de": "Retro-Gouache auf vergilbtem Papier: eine riesige, gesprungene Porzellantasse mit Blumendekor. Ein Mann vernäht von der Leiter einen Riss, einer lässt vom Rand einen Eimer hinab, eine Frau trägt eine Leimtube.",
+  "alt_en": "Retro gouache on yellowed paper: giant cracked porcelain teacup. One man on a ladder stitches a crack, another lowers a bucket from the rim, a woman shoulders a glue tube."
+ },
+ "map/clay-animation-3": {
+  "key": "map/clay-animation-3",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [
+   "The winding road does not link the town or the windmill. It runs from the lighthouse past the hill and dead-ends in the southern forest; Varn has no road at all.",
+   "The river does not come from the hill. It leaves the bay, passes under a bridge and runs south into the forest."
+  ],
+  "problems": [
+   "Generic AI 'clay diorama' look: steep oblique bird's-eye view, hundreds of tiny detailed trees and rocks, smooth surfaces with almost no fingerprints or tool marks, and water with a slight sheen. It is not a clay relief board shot straight on.",
+   "Saturated colours with smooth gradients on the grass, unlike unmixed clay colours.",
+   "Everything else is present: crescent island, harbour town in the inner bay with a pier and three boats, lighthouse on the north tip, windmill on the central hill, southern forest, wave marks, a whale, compass with N and scale bar with 1 km. Format is 1:1 as requested. No logos or watermarks."
+  ],
+  "note_de": "Die Straße verbindet weder Stadt noch Windmühle, und der Fluss entspringt nicht am Hügel.",
+  "note_en": "The road links neither the town nor the windmill, and the river does not start at the hill.",
+  "alt_de": "Knetrelief-Karte aus der Schrägsicht: sichelförmige Insel Lornholm mit Hafenstadt Varn, drei Booten, Windmühle auf dem Hügel Eskel, Leuchtturm Moa, dichtem Knetwald, Wal, Kompass und Maßstab.",
+  "alt_en": "Clay relief map seen at an angle: crescent island Lornholm with harbour town Varn, three boats, windmill on Eskel hill, Moa lighthouse, clay forest, whale, compass and scale bar.",
+  "text_exact": true,
+  "text_errors": []
+ },
+ "map/clay-animation-4": {
+  "key": "map/clay-animation-4",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [
+   "The harbour's stone piers and three boats sit on the outer south-west coast, facing the open sea, not in the inner bay of the crescent. Only the back of the town touches the inner bay.",
+   "The road links the lighthouse and the town but does not reach the windmill. A second branch dead-ends in the forest."
+  ],
+  "problems": [
+   "The medium reads as matte clay better than variant 3 (clay-snake waves, clay whale, matte sea), but the composition is still the generic AI miniature diorama: an oblique view with very many tiny trees, rather than a flat clay relief shot straight on.",
+   "The river starts near the hill but flows into the outer harbour basin, not the inner bay.",
+   "Everything else is present: crescent island, lighthouse on the north tip, windmill on the hill, southern forest, wave marks, a whale, compass with N and scale bar with 1 km. Format is 1:1. No logos or watermarks."
+  ],
+  "note_de": "Hafen und Boote liegen an der Außenküste statt in der inneren Bucht, und die Straße führt nicht zur Windmühle.",
+  "note_en": "The harbour and boats face the open sea instead of the inner bay, and the road does not reach the windmill.",
+  "alt_de": "Karte aus matter Knete in Schrägsicht: Insel Lornholm als Sichel, Hafenstadt Varn mit Mole und drei Booten, Fluss, Windmühle auf Eskel, Leuchtturm Moa, Wald, Wal zwischen Wellen aus Knetwürsten.",
+  "alt_en": "Matte modelling-clay map at an angle: crescent island Lornholm, harbour town Varn with stone pier and three boats, river, windmill on Eskel, Moa lighthouse, forest, whale among clay-snake waves.",
+  "text_exact": true,
+  "text_errors": []
+ },
+ "map/clay-animation-5": {
+  "key": "map/clay-animation-5",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Minor: the island is a thick boomerang rather than a slim crescent, but the inner bay on the east side is clear.",
+   "Minor: the buildings are still slightly tilted and the finish is clean, with few visible fingerprints. Otherwise it matches the style: a flat matte clay relief on a board with a clay frame, unmixed colours, clay-snake waves and letters, and chunky trees.",
+   "All motif elements are present: Varn with a pier and three boats in the inner bay, Moa lighthouse on the north tip, windmill on Eskel hill, a river from the hill under a bridge into the bay, a road linking lighthouse, windmill and town, southern forest, wave marks, a whale, compass with N and scale bar with 1 km. Format is 1:1. No logos or watermarks."
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Knetrelief auf einem Brett mit Knetrahmen: Insel Lornholm mit Leuchtturm Moa im Norden, Windmühle auf dem Hügel Eskel, Fluss zur Hafenbucht von Varn mit drei Booten, Wald, Wal.",
+  "alt_en": "Clay relief on a framed board: island Lornholm with Moa lighthouse in the north, windmill on Eskel hill, a river into Varn's harbour bay with three boats, forest, whale.",
+  "text_exact": true,
+  "text_errors": []
+ },
+ "chart/ancient-egyptian-wall-painting-7": {
+  "key": "chart/ancient-egyptian-wall-painting-7",
+  "verdict": "fail",
+  "style_score": 4,
+  "motif_missing": [
+   "Quantities not proportional: pictogram counts are JUN 10, JUL 20, AUG 15, SEP 6 instead of 12, 30, 24, 6 (July only about 3.3x September instead of 5x; stack heights give about 2.6x)",
+   "No consistent unit: the figures are neither one per passenger nor one per 6 (the GCD), so the printed numbers contradict the marks"
+  ],
+  "problems": [
+   "Data encoding wrong: JUN shows 10 figures labelled 12, JUL 20 labelled 30, AUG 15 labelled 24; only SEP (6) matches",
+   "Upper rows of figures stand on the heads of the row below without ruled ground lines; in JUN and SEP the men's lower legs disappear behind the women's heads",
+   "Decorative top band (boat with 11 passengers, hills, village, palms) takes about a third of the picture, though it does not obscure the data",
+   "Format correct (1536x1024 landscape); no logo, signature, hieroglyphs, gold or deities seen"
+  ],
+  "note_de": "Die Figurenzahl passt nicht zu den Werten: Juni, Juli und August zeigen 10, 20 und 15 statt 12, 30 und 24 Personen. Alle Beschriftungen stimmen, aber die Figurenzahl passt nicht zu den Werten (10, 20, 15 und 6 Figuren statt 12, 30, 24 und 6), daher sind die Mengen nicht proportional.",
+  "note_en": "The figure counts do not match the values: June, July and August show 10, 20 and 15 people instead of 12, 30 and 24. All labels are correct, but the figure counts do not match the values (10, 20, 15 and 6 figures for 12, 30, 24 and 6), so the quantities are not proportional.",
+  "alt_de": "Ägyptische Grabmalerei auf rissigem Putz: Unter einem Fährboot auf blauem Zickzack-Wasser stehen rotbraune Männer und ockerfarbene Frauen in Reihen über den Monaten Juni bis September, flankiert von Palmen.",
+  "alt_en": "Egyptian tomb painting on cracked plaster: below a ferry on blue zigzag water, red-brown men and ochre women stand in rows above the months June to September, framed by palms.",
+  "text_exact": true,
+  "text_errors": [
+   "JUN: expected 12 figures (or a proportional quantity), found 10 figures (2 rows of 5)",
+   "JUL: expected 30 figures (5x September), found 20 figures (4 rows of 5), so only about 3.3x September",
+   "AUG: expected 24 figures (2x June), found 15 figures (3 rows of 5), so only 1.5x June",
+   "SEP: 6 figures (2 rows of 3) is correct, but the stack is as tall as June's although June is double"
+  ]
+ },
+ "people/three-strip-technicolor-6": {
+  "key": "people/three-strip-technicolor-6",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [
+   "the young man's tool reads more like a punch or awl held upright than a small hammer driving a nail; his other hand holds no nail"
+  ],
+  "problems": [
+   "Not a 1940s Technicolor studio still: it reads as a modern outdoor location photo or HDR digital render with real cliffs, rocks and sea instead of a sound-stage set with a painted backdrop close behind",
+   "Surfaces are heavily textured and gritty (grime, weave, pebble detail), the opposite of smooth, grainless dye-transfer colour",
+   "No single ruby/emerald/cobalt accent against greys and creams; the whole frame is saturated blue sea and sky plus warm browns (the generic AI photoreal look)",
+   "Not a static medium-long shot with whole figures side by side: figures are cropped at the knees/feet edge and the framing is a tight, angled close-medium shot",
+   "Hammer action is ambiguous: tool held vertically like a nail set",
+   "No logo, brand, signature or watermark; format 1536x1024 landscape is correct; hands of the woman are fine"
+  ],
+  "note_de": "Wirkt wie ein modernes Außenfoto statt wie ein Technicolor-Studiostandbild der 1940er, und der Hammer ist kaum als Hammer zu erkennen.",
+  "note_en": "Looks like a modern outdoor photo rather than a 1940s Technicolor studio still, and the hammer barely reads as a hammer.",
+  "alt_de": "Fotorealistische Strandszene in kräftigen Farben: Eine alte Frau drückt eine helle Planke auf ein umgedrehtes Ruderboot, ein junger Mann mit Mütze nagelt sie fest, dahinter Meer, Steg, Möwen.",
+  "alt_en": "Saturated photorealistic beach scene: an old woman presses a plank onto an upturned rowing boat as a young man in a knitted cap nails it; sea, jetty, gulls behind."
+ },
+ "people/three-strip-technicolor-7": {
+  "key": "people/three-strip-technicolor-7",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Not a 1940s Technicolor studio still: real-looking location with natural sea, surf, rocks and distant cliffs instead of a shallow sound-stage set with a painted canvas backdrop",
+   "Gritty, highly detailed textures (tweed, peeling paint, wet pebbles) instead of smooth, evenly coloured dye-transfer areas; reads as contemporary HDR / AI photoreal look",
+   "No single saturated ruby/emerald/cobalt accent; blue sea and sky dominate rather than soft greys, browns and creams with one accent",
+   "Framing is an angled close-medium shot with the boat cropped at the right edge, not a static eye-level medium-long shot of a dressed set",
+   "Motif complete: woman kneels and presses the plank with both hands, man in knitted cap and oversized jacket crouches and hammers a nail held in his other hand, toolbox, rope, nail tin, sea, jetty end and two gulls present; neither looks at the viewer",
+   "No anatomy errors, logos, signatures or watermarks; format 1536x1024 landscape is correct"
+  ],
+  "note_de": "Wirkt wie ein modernes Außenfoto statt wie ein Technicolor-Studiostandbild der 1940er mit gemaltem Hintergrund.",
+  "note_en": "Looks like a modern outdoor photo rather than a 1940s Technicolor studio still with a painted backdrop.",
+  "alt_de": "Farbsattes, fotorealistisches Bild am Kiesstrand: Eine alte Frau hält eine neue Planke an den umgedrehten Bootsrumpf, ein junger Mann hämmert einen Nagel ein, hinten Steg und Möwen.",
+  "alt_en": "Saturated, photorealistic scene on a pebble beach: an old woman holds a new plank against an upturned hull while a young man hammers in a nail; jetty and gulls behind."
+ },
+ "people/three-strip-technicolor-9": {
+  "key": "people/three-strip-technicolor-9",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Reads as a modern photorealistic AI image, not a 1940s sound stage: real breaking surf and cliffs instead of a canvas backdrop with flat painted water",
+   "Visible skin pores, knit fibres and wood grain contradict smooth matte dye colour",
+   "No ruby-red costume piece or prop (only a faded red hull plank)",
+   "Gritty, grainy texture and directional sunlight rather than even studio light"
+  ],
+  "note_de": "Wirkt wie ein modernes Foto statt wie ein Technicolor-Studioset der 1940er.",
+  "note_en": "Looks like a modern photograph rather than a 1940s Technicolor studio set.",
+  "alt_de": "Fotorealistische Szene in warmen Brauntönen: Eine alte Frau drückt eine helle Planke an ein umgedrehtes Boot, ein junger Mann mit Mütze nagelt sie fest; dahinter Brandung, Steg, zwei Möwen.",
+  "alt_en": "Photorealistic scene in warm browns: an old woman presses a pale plank onto an upturned boat as a young man in a cap nails it; behind, surf, jetty, two gulls."
+ },
+ "people/three-strip-technicolor-10": {
+  "key": "people/three-strip-technicolor-10",
+  "verdict": "fail",
+  "style_score": 3,
+  "motif_missing": [
+   "The young man drives his nail into a separate wooden piece behind the woman, not into the plank she presses onto the boat"
+  ],
+  "problems": [
+   "The joint repair is broken: the woman stands between the man and the hull, and he hammers a different object",
+   "Only the sky reads as a painted backdrop; sea, cliffs, pebbles and skin are photorealistic",
+   "Red rag in the toolbox is the only Technicolor cue besides the sky"
+  ],
+  "note_de": "Der junge Mann nagelt an einem anderen Holzstück statt an der Planke, die die Frau hält.",
+  "note_en": "The young man is nailing a separate piece of wood, not the plank the woman holds.",
+  "alt_de": "Farbfilmszene mit gemaltem Himmel und rotem Lappen im Werkzeugkasten: Ein junger Mann hämmert einen Nagel neben einer alten Frau, die eine Planke an ein umgedrehtes Boot drückt; dahinter Steg, Möwen.",
+  "alt_en": "Colour-film scene, painted sky, red rag in the toolbox: a young man hammers a nail beside an old woman pressing a plank onto an upturned boat; jetty and gulls behind."
+ },
+ "people/three-strip-technicolor-11": {
+  "key": "people/three-strip-technicolor-11",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Photorealistic modern look: real calm sea and headland instead of an evenly lit painted backdrop",
+   "Skin, cloth and pebble textures are photographic, not smooth matte dye colour",
+   "No ruby-red costume piece or prop, no deep blacks or colour fringes",
+   "Nothing marks it as a built studio set"
+  ],
+  "note_de": "Wirkt wie ein modernes Foto statt wie ein Technicolor-Studioset mit gemalter Kulisse.",
+  "note_en": "Looks like a modern photograph, not a Technicolor studio set with a painted backdrop.",
+  "alt_de": "Fotorealistische Szene in gedämpften Grau- und Brauntönen: Eine alte Frau presst eine neue Planke an ein umgedrehtes Boot, ein junger Mann nagelt sie an; dahinter ruhiges Meer, Steg, zwei Möwen.",
+  "alt_en": "Photorealistic scene in muted greys and browns: an old woman presses a new plank onto an upturned boat, a young man nails it; behind, calm sea, jetty, two gulls."
+ },
+ "people/clay-animation-6": {
+  "key": "people/clay-animation-6",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [
+   "The young man nails into the hull near the keel, above the new plank, not into the plank itself"
+  ],
+  "problems": [
+   "Full 3D perspective puppet set instead of the flat low-relief clay slab square to the camera",
+   "Puppets have realistic faces and articulated fingers rather than ball heads, bead eyes and mitten hands",
+   "Boat wood and pebbles look painted and weathered rather than unmixed pressed clay"
+  ],
+  "note_de": "Räumliches Puppenset statt flachem Knetrelief; der junge Mann nagelt oberhalb der neuen Planke.",
+  "note_en": "A 3D puppet set rather than flat clay relief; the young man nails above the new plank.",
+  "alt_de": "Knetfiguren-Szene mit Fingerabdrücken im Ton: Eine grauhaarige Frau drückt eine helle Planke an ein umgedrehtes rot-blaues Boot, ein junger Mann mit roter Mütze hämmert; links Werkzeugkiste, Seil, Steg mit Möwen.",
+  "alt_en": "Clay-animation scene with thumbprinted surfaces: a grey-haired woman presses a pale plank onto an upturned red-and-blue boat, a young man in a red cap hammers; toolbox, rope, jetty, gulls."
+ },
+ "people/clay-animation-7": {
+  "key": "people/clay-animation-7",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Background sea, surf and cliff look photographic rather than painted card",
+   "Boat wood has realistic grain and weathering instead of brown clay with combed lines",
+   "Puppets have articulated fingers rather than mitten hands",
+   "The woman has only one hand on the new plank; the other rests on the old plank above"
+  ],
+  "note_de": "Meer und Klippe im Hintergrund wirken fotografisch statt wie bemalter Karton.",
+  "note_en": "The sea and cliff behind look photographic rather than painted card.",
+  "alt_de": "Knetfiguren am Kiesstrand: Ein junger Mann mit blauer Mütze nagelt eine helle Planke an ein umgedrehtes Boot, eine alte Frau im roten Pullover drückt sie an; dahinter Steg, Möwen.",
+  "alt_en": "Clay figures on pebbles: a young man in a blue cap nails a pale plank to an upturned boat, an old woman in red holds it; jetty, gulls behind."
+ },
+ "people/clay-animation-8": {
+  "key": "people/clay-animation-8",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [
+   "The tin and loose pieces hold double-ended, bone-like shapes instead of nails"
+  ],
+  "problems": [
+   "Wood shows realistic multi-tone grain, and pebbles and sea show photographic gradients instead of unmixed flat shop colours",
+   "Background sea reads as a real seascape rather than flat painted card",
+   "Figures themselves fit well: rounded heads, bead eyes, clay clothes"
+  ],
+  "note_de": "Die Nägel sehen aus wie kleine Knochen, und Holz und Meer wirken eher fotografisch als geknetet.",
+  "note_en": "The nails look like little bones, and the wood and sea look photographic rather than modelled.",
+  "alt_de": "Knetfiguren mit Knollennasen und Knopfaugen: Ein junger Mann mit roter Mütze nagelt eine helle Planke an ein umgedrehtes Boot, eine grauhaarige Frau drückt sie an; dahinter Steg, Möwen, blaues Meer.",
+  "alt_en": "Clay figures with bulbous noses and bead eyes: a young man in a red cap nails a pale plank to an upturned boat, a grey-haired woman holds it; jetty, gulls."
+ },
+ "people/ancient-egyptian-wall-painting-6": {
+  "key": "people/ancient-egyptian-wall-painting-6",
+  "verdict": "flawed",
+  "style_score": 4,
+  "motif_missing": [
+   "boat does not clearly read as upturned: the raised stem post at top right makes it look like an upright or tilted hull",
+   "boat is oversized for a rowing boat (ship-like, cropped at right edge)"
+  ],
+  "problems": [
+   "Boat orientation ambiguous: top edge rises to an upward-pointing stem post, so it reads as upright rather than keel-up",
+   "Boat scale far larger than a rowing boat",
+   "Style drift: boat planks with modelled woodgrain and 3D shading, toolbox and nail tin in perspective with realistic texture/sheen, ground is a dense field of grey pebbles instead of a plain ochre strip with sparse red dots",
+   "Young man's crouch is foreshortened three-quarter pose, not Egyptian profile convention",
+   "Strong cues present: red squared grid on whitewash, red-brown outlines, black zigzag water, ruled ground line with ochre strip, flat side-view jetty, men red-brown / woman pale yellow, profile heads with frontal eyes, woman kneeling upright with one knee raised",
+   "All other motif elements present: grey-haired wrinkled woman pressing a light plank with both hands, young man in knitted cap and loose jacket with hammer and nail, open toolbox, rope coil, tin of nails, sea, jetty end, two gulls; nobody looks at viewer",
+   "Hands and feet checked at full resolution: no finger or limb errors",
+   "Format 1536x1024 landscape correct; no logo, signature or watermark"
+  ],
+  "note_de": "Das Boot wirkt mit hochragendem Steven eher aufrecht als kieloben und ist viel zu groß.",
+  "note_en": "With its raised prow post the boat looks upright rather than upturned, and it is oversized.",
+  "alt_de": "Ägyptische Grabmalerei auf Putz mit rotem Raster: Eine grauhaarige Frau kniet und drückt eine Planke an den Bootsrumpf, ein junger Mann mit Strickmütze nagelt; dahinter Zickzack-Meer, Steg, Möwen.",
+  "alt_en": "Egyptian tomb painting on gridded plaster: a grey-haired woman kneels pressing a plank to the hull while a young man in a cap nails it; zigzag sea, jetty, two gulls."
+ },
+ "people/ancient-egyptian-wall-painting-7": {
+  "key": "people/ancient-egyptian-wall-painting-7",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Style drift toward modern illustration: jetty drawn in receding perspective, boat hull modelled with woodgrain and shading, toolbox in perspective, nail tin and rope coil with curved elliptical rims (style block asks for side-on objects with straight rims)",
+   "Naturalistic headland with blotchy trees at top right instead of rows of rounded tree crowns",
+   "Figures lean and hunch forward in three-quarter poses; man's torso not frontal; no register structure",
+   "Strong cues present: pinkish ground with red dots, zigzag-lined blue water panel, bare whitewash sky, red-brown outlines, men red-brown / woman pale yellow, profile heads with frontal eyes, ruled ground lines at bottom",
+   "All motif elements present: grey-haired wrinkled woman with rolled sleeves kneeling and pressing a light plank with both hands, young man in knitted bobble cap and oversized jacket crouching with hammer and nail, upturned hull, open toolbox, rope coil, tin of nails, sea, jetty end, two gulls; nobody looks at viewer",
+   "Hands checked at full resolution: correct finger counts, no fused fingers",
+   "Format 1536x1024 landscape correct; headland is generic, no real landmark; no logo, signature or watermark"
+  ],
+  "note_de": "Steg, Boot und Gefäße sind perspektivisch und schattiert gemalt statt flach ägyptisch.",
+  "note_en": "The jetty, boat and containers are drawn in perspective with shading rather than as flat Egyptian side views.",
+  "alt_de": "Ägyptische Grabmalerei in flachen Farben auf rosa getüpfeltem Grund: Eine grauhaarige Frau kniet am umgedrehten Boot, ein junger Mann mit blauer Mütze nagelt eine Planke; dahinter Meer, Steg, Möwen.",
+  "alt_en": "Egyptian tomb painting on pink dotted ground: a grey-haired woman kneels at an upturned boat, a young man in a blue cap nails a plank; behind, sea, jetty, gulls."
+ },
+ "product/three-strip-technicolor-7": {
+  "key": "product/three-strip-technicolor-7",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Polished, mirror-like wooden tabletop and very crisp metal rendering lean slightly toward a modern product photo rather than satin-finished studio props",
+   "Antenna base sits tight behind the right handle mount (plausible, not an error)"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Technicolor-Standbild im Studio: rotes Kofferradio mit cremefarbener Front, Messingknöpfen und ausgezogener Antenne auf poliertem Holztisch, dahinter eine gemalte Kulisse mit See, Zypressen und Villen.",
+  "alt_en": "Three-strip Technicolor studio still: a ruby-red portable radio with cream front, brass knobs and extended antenna on a polished wooden table before a painted lake backdrop with cypresses and villas."
+ },
+ "product/three-strip-technicolor-8": {
+  "key": "product/three-strip-technicolor-8",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Two strong reds (red radio body plus a bouquet of red flowers) break the style's single ruby-red accent rule",
+   "Glossy, render-like interior (drapes, marble table, vase) drifts toward the generic AI vintage-radio look; reads more like a 3D interior render than a dye-printed 1940s film frame",
+   "Speaker grille looks like perforated cork/rattan rather than metal or cloth (minor)"
+  ],
+  "note_de": "Neben dem roten Radio leuchten auch rote Blumen, und die glatte Inszenierung wirkt eher wie ein gewöhnliches KI-Retrobild.",
+  "note_en": "Red flowers compete with the red radio, and the glossy staging drifts toward a generic AI retro look.",
+  "alt_de": "Technicolor-Filmkulisse: rotes Kofferradio mit Messingknöpfen auf einem Marmortisch, links rote Blumen in einer blau-weißen Vase, dahinter blaue Vorhänge und ein gemalter Fensterblick auf Zypressen.",
+  "alt_en": "Technicolor film set: a red portable radio with brass knobs on a marble table, red flowers in a blue-and-white vase, blue drapes and a painted window view of cypresses behind."
+ },
+ "product/three-strip-technicolor-9": {
+  "key": "product/three-strip-technicolor-9",
+  "verdict": "flawed",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Speaker grille shows smudged, embossed ghost shapes resembling faded lettering across the perforation (rendering artifact, visible as mottled patches)",
+   "No deep blacks or colour fringing; product rendering is otherwise crisp and modern"
+  ],
+  "note_de": "Im Lautsprechergitter zeichnen sich verwischte, schriftartige Flecken ab.",
+  "note_en": "Smudged, text-like ghost marks show in the speaker grille.",
+  "alt_de": "Technicolor-Studioszene: braunes Kofferradio mit cremefarbener Front und Messingknöpfen auf gesprenkeltem Stein, links rote Geranien in einer Steinurne, dahinter eine gemalte Kulisse mit Meer und Felsküste.",
+  "alt_en": "Technicolor studio scene: a brown portable radio with cream front and brass knobs on speckled stone, red geraniums in a stone urn, and a painted backdrop of sea and cliffs."
+ },
+ "food/clay-animation-8": {
+  "key": "food/clay-animation-8",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [
+   "bread knife has a plain, unserrated blade"
+  ],
+  "problems": [
+   "The style block asks for a flat low-relief slab of clay seen square to the camera, with farther things higher up. The image is instead a deep three-quarter tabletop scene with a chair and wall behind it.",
+   "The loaf, slices, crumbs, butter and wood grain are rendered almost photographically, with realistic crumb holes, flour dusting and creamy butter, so they do not read as pressed clay.",
+   "Only the hand, the knitted sleeve, the chair, the bowls and the tomatoes read as modelling clay. The result is a mixed clay/photo look, close to the generic AI 'claymation' style.",
+   "The hand has realistic proportions and is no mitten hand.",
+   "Format is correct (1254x1254 square). No logo or watermark."
+  ],
+  "note_de": "Statt flachem Knetrelief eine räumliche Tischszene, Brot und Butter wirken fotografisch.",
+  "note_en": "Instead of a flat clay relief it shows a deep tabletop scene, and the bread and butter look photographic.",
+  "alt_de": "Knetszene in Schrägansicht auf Holztisch: Eine Hand aus Terrakotta-Knete reißt ein Stück von einer Brotscheibe, daneben blaue Schale mit Tomatensuppe, Butter, Rispentomaten und Leinentuch; das Brot wirkt fotografisch.",
+  "alt_en": "Angled clay scene on a wooden table: a terracotta-clay hand tears bread beside a blue bowl of tomato soup, butter, vine tomatoes and a linen napkin; the loaf looks photographic."
+ },
+ "food/clay-animation-9": {
+  "key": "food/clay-animation-9",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "The style block's material mapping is ignored. The bread should be one brown lump with flat cream cut faces, but it is photoreal, with an open crumb, flour-dusted crust and realistic crumbs.",
+   "The linen napkin shows a real woven fabric texture with loose threads instead of a rolled-thin clay sheet with pinched folds.",
+   "The soup and the wooden table look photographic rather than like smoothed clay sheets or combed brown clay.",
+   "Only the hand, the sleeve, the chair, the tomatoes and the basil read as clay. The result is a hybrid with a photo look rather than a clay-animation frame.",
+   "The hand holds the torn piece in mid-air; the tearing off a slice is only implied. Hand anatomy is fine.",
+   "Format is correct (1254x1254 square). No logo or watermark."
+  ],
+  "note_de": "Brot, Suppe und Leinentuch wirken fotografisch statt aus Knete geformt.",
+  "note_en": "The bread, soup and linen napkin look photographic rather than modelled in clay.",
+  "alt_de": "Knetszene vor gemalter blauer Wand: Eine Tonhand im Strickärmel hält ein abgerissenes Brotstück über Laib und Scheiben, daneben Tomatensuppe mit Sahnespirale, Butter, Rispentomaten, Basilikum und ein fotografisch wirkendes Leinentuch.",
+  "alt_en": "Clay scene before a painted blue wall: a clay hand holds torn bread above the loaf, beside tomato soup with a cream swirl, butter and vine tomatoes; bread looks photographic."
+ },
+ "food/clay-animation-10": {
+  "key": "food/clay-animation-10",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [
+   "the knife on the board is pointed with a plain edge, not a serrated bread knife",
+   "the hand dips a bread piece over the soup instead of tearing it off a slice"
+  ],
+  "problems": [
+   "The clay look is the strongest of the three. The painted card backdrop shows a window landscape and plants, and the blue bowl, butter dish, tomatoes, napkin and chunky hand read as clay.",
+   "The loaf and slices are still nearly photoreal, with an open crumb, flour dusting and graded browns. This breaks the rule that every part is one unmixed shop colour, edge to edge.",
+   "The table wood has realistic grain and tonal variation rather than even clay colour.",
+   "The landscape in the window is generic, not a real landmark. Hand anatomy is fine.",
+   "Format is correct (1254x1254 square). No logo or watermark."
+  ],
+  "note_de": "Das Brot wirkt fotografisch statt geknetet, und das Messer ist kein Brotmesser.",
+  "note_en": "The bread looks photographic rather than modelled, and the knife is not a bread knife.",
+  "alt_de": "Knetszene vor blauer Pappkulisse mit gemaltem Fenster: Eine Tonhand hält ein Brotstück über eine blaue Schale Tomatensuppe mit Sahnespirale, daneben Laib, Butter in Knetschälchen, Rispentomaten, Basilikum und gestreiftes Tuch.",
+  "alt_en": "Clay scene before blue painted card: a clay hand holds bread over a blue bowl of tomato soup with cream swirl, beside the loaf, butter, vine tomatoes and striped cloth."
+ },
+ "map/clay-animation-6": {
+  "key": "map/clay-animation-6",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [
+   "River ends in a pool behind the town houses instead of visibly flowing into the bay"
+  ],
+  "problems": [
+   "Style drift: an oblique 3D tabletop diorama with free-standing miniature trees and finely sculpted, near-photoreal rocks, where the style block asks for a flat clay slab in low relief, shot square to the camera; this is the generic AI clay-map look",
+   "Clay surface is convincing (matte, fingerprints, clay-snake letters on cream plaques, clay waves), so the medium still reads as clay",
+   "No anatomy issues, logos, landmarks or watermarks; format 1:1 as requested (1254x1254)"
+  ],
+  "note_de": "Eher räumliches Knetdiorama als flaches Relief, und der Fluss endet hinter der Stadt statt in der Bucht.",
+  "note_en": "More a 3D clay diorama than a flat relief, and the river ends behind the town instead of reaching the bay.",
+  "alt_de": "Knetanimation: Lornholm als Knetrelief auf blauem Knetmeer, mit Windmühle auf dem Hügel, Fluss, Leuchtturm im Norden, Hafenstadt mit drei Booten, Wald im Süden, Wal und Beschriftung aus Knetwürsten.",
+  "alt_en": "Clay animation: Lornholm as a modelling-clay relief in a blue clay sea, with hilltop windmill, river, northern lighthouse, harbour town with three boats, southern forest, a whale and clay-snake lettering.",
+  "text_exact": true,
+  "text_errors": []
+ },
+ "map/clay-animation-7": {
+  "key": "map/clay-animation-7",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [
+   "River does not reach the bay: it runs south from the hill under a bridge and ends in the meadow at the forest edge"
+  ],
+  "problems": [
+   "Geographic logic error: the river dead-ends inland, far from the western harbour bay",
+   "Island reads more as a broad landmass with a western bay than as a clear crescent",
+   "Style: generic oblique clay diorama with warm yellowish light and soft painterly finish, not a straight-on relief under white studio lamps; clay-snake lettering and matte clay texture are present",
+   "No anatomy issues, logos, landmarks or watermarks; format 1:1 as requested"
+  ],
+  "note_de": "Der Fluss endet mitten im Land, statt in die Bucht zu münden.",
+  "note_en": "The river ends inland instead of flowing into the bay.",
+  "alt_de": "Knetanimation in warmem Licht: Insel Lornholm als Knetdiorama, Hafenstadt Varn mit Holzstegen und drei Booten in der Westbucht, Windmühle auf dem Hügel, Leuchtturm im Norden, Wald im Süden, Wal.",
+  "alt_en": "Clay animation in warm light: Lornholm as a clay diorama, harbour town Varn with wooden piers and three boats in the western bay, hilltop windmill, northern lighthouse, southern forest, whale.",
+  "text_exact": true,
+  "text_errors": []
+ },
+ "map/clay-animation-8": {
+  "key": "map/clay-animation-8",
+  "verdict": "flawed",
+  "style_score": 4,
+  "motif_missing": [
+   "Town Varn sits on a separate islet surrounded by water, not on the crescent island itself",
+   "The winding road links only windmill and lighthouse; it does not reach the town"
+  ],
+  "problems": [
+   "Geographic logic error: the harbour town is cut off from the main island, so the town-windmill-lighthouse road link is broken",
+   "Style is the closest of the three to the brief: bright unmixed shop colours, chunky rounded forms, clay-snake letters, but still an oblique 3D diorama rather than a straight-on relief",
+   "No anatomy issues, logos, landmarks or watermarks; format 1:1 as requested"
+  ],
+  "note_de": "Die Stadt liegt auf einer eigenen kleinen Insel, die Straße erreicht sie nicht.",
+  "note_en": "The town sits on its own islet, and the road does not reach it.",
+  "alt_de": "Knetanimation in ungemischten Knetfarben: Lornholm mit Windmühle auf dem Hügel, Feldern, Fluss, Leuchtturm im Norden, Wald im Süden; Varn liegt mit drei Booten auf einer kleinen Nebeninsel, dazu ein Wal.",
+  "alt_en": "Clay animation in plain, unmixed clay colours: Lornholm with hilltop windmill, fields, river, northern lighthouse and southern forest; Varn and three boats sit on a separate islet; a whale.",
+  "text_exact": true,
+  "text_errors": []
+ },
+ "chart/ancient-egyptian-wall-painting-9": {
+  "key": "chart/ancient-egyptian-wall-painting-9",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Measured bar heights (baseline y=788): JUN 224, JUL 535, AUG 433, SEP 112 px. Best fit is 18.0 px/unit, so JUN and SEP are about 4% tall and JUL about 1% short (JUL:SEP 4.78, JUL:JUN 2.39, AUG:JUN 1.93). That is within tolerance.",
+   "The island on the right is a soft landscape vignette with Italian-looking cypresses, not an Egyptian convention. This is minor style drift.",
+   "The frayed, aged edges look like a digital 'old fresco' frame.",
+   "The ferry carries an anachronistic canopy and blue box structure. This is decoration only, not part of the motif."
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Ägyptische Wandmalerei auf Putz mit rotem Hilfsraster: vier flache Farbbalken zeigen 12, 30, 24 und 6 Fahrgäste; links steigt eine Familie im Profil einen Steg hinauf, rechts wartet ein Fährmann.",
+  "alt_en": "Egyptian wall painting on gridded plaster: four flat colour bars show 12, 30, 24 and 6 passengers; a family in profile climbs a gangplank, a ferryman waits in his boat.",
+  "text_exact": true,
+  "text_errors": []
+ },
+ "chart/ancient-egyptian-wall-painting-10": {
+  "key": "chart/ancient-egyptian-wall-painting-10",
+  "verdict": "fail",
+  "style_score": 4,
+  "motif_missing": [
+   "July band holds 31 passenger figures instead of 30",
+   "August band holds 23 passenger figures instead of 24"
+  ],
+  "problems": [
+   "The chart uses one seated figure per passenger: JUN has exactly 12 and SEP exactly 6. A count of hair blobs, checked by eye in zoomed crops, gives JUL 31 and AUG 23, so the pictogram counts contradict the labels 30 and 24.",
+   "Two pictograms in the July row are malformed: at x≈590 a figure with messy hair, turned and blurred, and at x≈1105 a smaller, misshapen figure.",
+   "Measured band lengths (shared left edge x=180): JUN 476, JUL 1235, AUG 974, SEP 265 px. SEP is about 8% too long against the fit, and JUL:SEP is 4.66 instead of 5.",
+   "The ferry is a modern motor launch with a glazed wheelhouse and a white-and-black hull, which breaks the 1400 BC look.",
+   "The flat-roofed houses on the right island read as modern Mediterranean buildings."
+  ],
+  "note_de": "Die Figurenreihen passen nicht zu den Zahlen: Im Juli sitzen 31, im August nur 23 Fahrgäste. Die Figuren lassen sich einzeln zählen, aber der Juli zeigt 31 statt 30 und der August 23 statt 24, obwohl die Zahlen daneben stimmen.",
+  "note_en": "The figure rows do not match the numbers: July shows 31 passengers, August only 23. Each figure stands for one passenger, but July shows 31 instead of 30 and August 23 instead of 24, even though the numbers beside them are right.",
+  "alt_de": "Ägyptische Grabmalerei in Registern: oben steigen Reisende über einen Steg in eine Fähre, darunter vier blaue Bänder aus sitzenden Figuren für Juni bis September mit 12, 30, 24 und 6.",
+  "alt_en": "Egyptian tomb painting in registers: travellers walk up a gangplank onto a ferry; below, four blue bands of seated figures for June to September, labelled 12, 30, 24, 6.",
+  "text_exact": true,
+  "text_errors": [
+   "expected 30 seated figures in the JUL row, found 31",
+   "expected 24 seated figures in the AUG row, found 23"
+  ]
+ },
+ "chart/ancient-egyptian-wall-painting-11": {
+  "key": "chart/ancient-egyptian-wall-painting-11",
+  "verdict": "flawed",
+  "style_score": 4,
+  "motif_missing": [
+   "September bar too short: July is 5.5 times September instead of 5 times"
+  ],
+  "problems": [
+   "Measured bar heights (ground line y=813): JUN 227, JUL 548, AUG 439, SEP 99.5 px. Best fit is 18.25 px/unit, so SEP should be about 110 px and is about 10% short. JUN:SEP is 2.28 instead of 2.",
+   "The style block asks for ruled lines behind the bars. None are visible.",
+   "The quay at the left is naturalistic grey stone masonry rather than a flat Egyptian sign.",
+   "Otherwise the image is faithful: single-colour bars of equal width on one ground line, numerals above, zigzag water strip, rows of rounded tree crowns and flat house fronts."
+  ],
+  "note_de": "Der September-Balken ist rund zehn Prozent zu kurz.",
+  "note_en": "The September bar is about ten percent too short.",
+  "alt_de": "Thebanische Grabmalerei auf Kalkputz: vier gleich breite blaue Balken auf einer Grundlinie mit 12, 30, 24 und 6, links steigen Reisende ins Boot, rechts ein Inseldorf mit Palmen.",
+  "alt_en": "Theban tomb painting on whitewash: four equal-width blue bars on one ground line read 12, 30, 24 and 6; left, travellers board a boat; right, a palm-lined island village.",
+  "text_exact": true,
+  "text_errors": []
+ },
+ "landscape/ancient-egyptian-wall-painting-9": {
+  "key": "landscape/ancient-egyptian-wall-painting-9",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Composition is a Western perspective landscape: the river recedes into the distance, the blue mountains fade with aerial perspective, and the hills are modelled. There are no registers on ruled ground lines and no water panel seen from above.",
+   "Overall look is a Mediterranean or Tuscan illustrated landscape with a speckled fresco or mosaic texture (cypresses, terracotta-roofed village), not a Theban tomb painting.",
+   "Egyptian cues are only surface additions: zigzag water lines, a faint grid, an ochre dado strip at the bottom, and a tiny red-brown figure in a kilt.",
+   "All motif elements are present: river, single-arch bridge with one figure, five or six houses plus a chapel, terraces on the left, forest on the right, a leaning old tree with a bench, birds and a jagged ridge. Format is correct (1536x1024). No logo, signature or real landmark."
+  ],
+  "note_de": "Wirkt wie eine mediterrane Landschaftsillustration mit Tiefenperspektive, nicht wie ägyptische Wandmalerei mit Standlinien.",
+  "note_en": "Reads as a Mediterranean perspective landscape illustration, not an Egyptian wall painting built on ground lines.",
+  "alt_de": "Wandmalerei auf hellem Putz mit Rasterlinien: Fluss mit Zickzackwellen, Steinbogenbrücke mit kleiner Figur, Dorf mit Kapelle, Terrassenhang, Wald, alter Baum mit Bank, Gänse vor blauen Bergen.",
+  "alt_en": "Wall painting on gridded pale plaster: zigzag-rippled river, arched stone bridge with a small figure, village with chapel, terraced slope, forest, old tree with bench, geese, blue mountains."
+ },
+ "landscape/ancient-egyptian-wall-painting-10": {
+  "key": "landscape/ancient-egyptian-wall-painting-10",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Many details fit the style: flat colour with red-brown outlines, bare whitewash sky, rows of rounded tree crowns, pink ground strips with red dots and ruled edges, papyrus clumps, and a red-brown man in a white kilt on the bridge.",
+   "The composition still uses deep Western perspective: the river winds toward a vanishing distance, the plain is dotted with shrinking trees, and the mountains form layered ranges. There are no registers on ground lines.",
+   "The bench is drawn in three-quarter view and the whitewashed village looks Greek or Mediterranean. Both pull the image toward a generic illustrated landscape.",
+   "All motif elements are present: river, single-arch bridge with one figure, about five houses and a chapel, terraced left slope, forested right slope, a leaning old tree with a bench, birds and a jagged ridge. Format is correct (1536x1024). No logo, signature or real landmark."
+  ],
+  "note_de": "Tiefenperspektive statt flacher Register auf Standlinien – ägyptisch wirken vor allem die Details.",
+  "note_en": "Uses deep Western perspective instead of flat registers on ground lines; mainly the details look Egyptian.",
+  "alt_de": "Flächige Malerei im ägyptischen Stil mit rotbraunen Umrissen: Fluss mit Zickzackwellen und Papyrus, Brücke mit Mann im Schurz, weiße Häuser mit Kapelle, Terrassen, rot getupfter Boden, alter Baum mit Bank.",
+  "alt_en": "Flat Egyptian-style painting with red-brown outlines: zigzag-rippled river with papyrus, bridge with a man in a kilt, white houses and chapel, terraces, red-dotted ground, old tree with bench."
+ },
+ "people/ancient-egyptian-wall-painting-8": {
+  "key": "people/ancient-egyptian-wall-painting-8",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Drift toward the default illustrated look: the scene has modern pictorial depth (horizon line with a distant headland, sea receding into the distance) instead of a flat frieze on a cord-ruled ground line",
+   "Jetty drawn in perspective with mirrored reflections in the water, which is foreign to Theban tomb painting",
+   "Both gulls are rendered naturalistically with modelled shading, not as flat outlined side views",
+   "Boat hull shown with perspective curvature and weathered wood-grain texture rather than a flat side elevation",
+   "Torsos in three-quarter view rather than the frontal-shoulder convention; Egyptian conventions (profile head, frontal eye, red-brown man, pale-yellow woman, zigzag water, dotted ground) are applied to an otherwise modern composition",
+   "Minor: the woman's near hand has simplified, partly merged fingers (small, not prominent)"
+  ],
+  "note_de": "Steg mit Spiegelungen, Horizont und naturalistische Möwen brechen die flache ägyptische Bildordnung.",
+  "note_en": "The jetty with reflections, the horizon and the naturalistic gulls break the flat Egyptian picture order.",
+  "alt_de": "Ägyptische Wandmalerei, Figuren im Profil mit Frontalauge: Eine grauhaarige Frau und ein junger Mann mit Strickmütze nageln eine Planke an ein umgedrehtes Boot am Kiesstrand, dahinter Zickzackwellen, Steg und Möwen.",
+  "alt_en": "Egyptian wall painting with profile figures: a grey-haired woman and a young man in a knitted cap nail a plank to an upturned boat; behind, zigzag sea, jetty and gulls."
+ },
+ "landscape/ancient-egyptian-wall-painting-11": {
+  "key": "landscape/ancient-egyptian-wall-painting-11",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Composition is a continuous Western perspective landscape with atmospheric recession and overlapping, not friezes on cord-ruled ground lines with flat side elevations",
+   "Village reads Tuscan/Provençal: white houses with pitched terracotta roofs, church with bell tower, many cypresses",
+   "Old tree trunk modelled with shading rather than flat colour fields",
+   "Egyptian cues are only surface-level: zigzag blue water, one profile figure on the bridge, plaster texture, flying ducks, bottom brick band",
+   "Would read as a Mediterranean folk mural or Minoan-style fresco without the caption"
+  ],
+  "note_de": "Perspektivische Mittelmeerlandschaft mit toskanisch wirkendem Dorf statt ägyptischer Friese auf Standlinien; nur Zickzackwasser und eine Figur erinnern an Grabmalerei.",
+  "note_en": "A perspective Mediterranean landscape with a Tuscan-looking village instead of Egyptian friezes on ground lines; only the zigzag water and one figure recall tomb painting.",
+  "alt_de": "Ägyptisch anmutende Wandmalerei auf hellem Putz in Blau, Ocker und Grün: Fluss mit Zickzackwellen, Steinbrücke mit Profilfigur, weißes Dorf mit Kapelle, Terrassen, Baum mit Bank, Enten über blauen Bergen.",
+  "alt_en": "Mural on pale plaster in blue, ochre and green: zigzag-waved river, stone bridge with profile figure, white village with chapel, terraces, tree with bench, ducks over blue mountains."
+ },
+ "landscape/new-color-photography-8": {
+  "key": "landscape/new-color-photography-8",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Generic AI travel-postcard look: warm golden colour grade, glowing haze, picturesque framing",
+   "Foreground tree is cut off by the top and left edges and used as a framing device; the style asks for the nearest tree whole with sky above it, camera well back and square-on",
+   "No deadpan view-camera quality or dense dye-transfer colour; reads as a modern digital stock photo",
+   "Motif elements all present (single-arch bridge with one figure, village with chapel, terraces, forest, bench under leaning tree, birds, jagged ridge)"
+  ],
+  "note_de": "Warmer Postkarten-Look mit angeschnittenem Rahmenbaum statt nüchterner, weit zurückgesetzter Großformat-Ansicht.",
+  "note_en": "A warm postcard look with a cropped framing tree instead of a sober, distant large-format view.",
+  "alt_de": "Farbfoto bei warmer Sonne: Unter einem angeschnittenen alten Baum steht eine Holzbank über dem Fluss, dahinter Steinbogenbrücke, Dorf mit Kapelle, Terrassenhang, bewaldeter Hang und zackige Berge.",
+  "alt_en": "Colour photograph in warm sun: wooden bench under a cropped old tree above the river; beyond, stone arch bridge, village with chapel, terraced and wooded slopes, jagged mountains."
+ },
+ "landscape/new-color-photography-9": {
+  "key": "landscape/new-color-photography-9",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [
+   "at most one tiny figure on the bridge: two tiny figures stand on it (one at the left end, one at the apex)"
+  ],
+  "problems": [
+   "Two tiny figures on the bridge instead of at most one",
+   "Tree reaches almost to the top edge, against the style's rule that nothing rises above two thirds of the frame",
+   "Three-band layout, deep focus, high sun and pale hazy ridges are close to the style, but the overall feel drifts toward a picturesque travel photo with a slightly smooth digital finish"
+  ],
+  "note_de": "Auf der Brücke stehen zwei winzige Figuren statt höchstens einer, und das Bild kippt leicht ins Reisefoto.",
+  "note_en": "Two tiny figures stand on the bridge instead of at most one, and the picture drifts slightly toward a travel photo.",
+  "alt_de": "Farbfoto im Mittagslicht unter blassblauem Himmel: Vorn trockenes Gras und ein schräger Baum mit Bank, in der Mitte Fluss, Steinbrücke, Dorf mit Kapelle, Terrassen, Wald, dahinter dunstige Felsgipfel.",
+  "alt_en": "Colour photograph, noon light, pale blue sky: dry grass and a leaning tree with bench in front; river, stone bridge, village with chapel, terraces, forest; hazy peaks beyond."
+ },
+ "landscape/new-color-photography-10": {
+  "key": "landscape/new-color-photography-10",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Foreground tree is cropped by the top and left edges and frames the view like a travel photo; the style asks for the nearest tree whole with white sky above it",
+   "Overcast white-grey sky, deep focus and saturated local colour match the style block, but the crisp, slightly HDR finish drifts toward the default stock-photo look",
+   "Lower trunk leans away from the river before the upper trunk bends toward it (minor)"
+  ],
+  "note_de": "Der Baum ist oben angeschnitten und rahmt das Bild wie ein Reisefoto, statt ganz und frei vor dem weißen Himmel zu stehen.",
+  "note_en": "The tree is cropped at the top and frames the view like a travel photo instead of standing whole against the white sky.",
+  "alt_de": "Farbfoto bei hellem, bedecktem Himmel: ein knorriger, oben angeschnittener Baum mit Bank am Hang, Fluss mit Steinbogenbrücke, Steinhäuser mit roten Dächern und Kapelle, Terrassen, bewaldete Hänge, helle Felsgipfel.",
+  "alt_en": "Colour photograph, white-grey overcast sky: gnarled tree cropped at the top, with bench; river, stone arch bridge, red-roofed stone houses and chapel, terraces, wooded slopes, pale peaks."
+ },
+ "street/new-color-photography-7": {
+  "key": "street/new-color-photography-7",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [
+   "The cobbled lane shows no clear downward slope to the right; the woman walks away into a level lane rather than up a slope",
+   "The pretzel sign is a crude ring with a cross rather than a clear pretzel shape"
+  ],
+  "problems": [
+   "The style block demands plain American vernacular (clapboard, cinder block, tin roofs), but the image shows a picturesque Italian/Mediterranean stone village with terracotta roofs, cypresses and geraniums, which is the model's stock postcard look",
+   "Light is warm and glowing with lifted, soft shadows and a slight warm-filter haze instead of hard noon sun with short dark shadows; it reads as a contemporary digital travel photo, not 8x10 dye transfer",
+   "Positives: level, square-on view from across the street with asphalt along the bottom; deep focus",
+   "Format correct (1024x1536 portrait); no logos or real landmarks; '12' present beside the door; no anatomy errors found (dog, rug woman, cyclist checked at full resolution)"
+  ],
+  "note_de": "Statt eines schlichten amerikanischen Orts zeigt das Bild ein sonniges italienisches Postkartendorf im typischen KI-Look.",
+  "note_en": "Instead of a plain American place, it shows a sunny Italian postcard village in the typical AI look.",
+  "alt_de": "Farbfoto in warmem Sonnenlicht von gegenüber: helles Eckhaus mit Bäckerei, Brezelschild und Hund an der Bank; oben schüttelt eine Frau einen Teppich aus, rechts Wäscheleine, Frau mit Fahrrad, Glockenturm.",
+  "alt_en": "Sunlit colour photograph from across the street: pale corner bakery, pretzel sign, dog by the bench; upstairs a woman shakes a rug; laundry line, woman pushing a bicycle, bell tower.",
+  "text_exact": true,
+  "text_errors": []
+ },
+ "street/new-color-photography-8": {
+  "key": "street/new-color-photography-8",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Instead of an 'unremarkable place' it shows a picturesque Tuscan hill-town panorama (terracotta roofs, cypresses, vineyard valley), which is the generic AI postcard look",
+   "Composition breaks the block: the block asks for three bands with nothing rising above two thirds of the frame, but the corner building fills almost the full height, and the plain ground is only the bottom quarter",
+   "High sun, short shadows, deep focus and hazy distant ridges do match the block, but the surface is smooth and digital, with no dye-transfer density",
+   "Every motif element is present: bakery, awning, pretzel sign, bench with dog, rug, flower boxes, clothesline to the next house, lane sloping down to the right, woman pushing a bicycle with bread uphill, generic bell tower, '12' beside the door",
+   "Format correct (portrait); no logos or real landmarks; no anatomy errors found"
+  ],
+  "note_de": "Ein malerisches toskanisches Postkartenmotiv statt eines unscheinbaren Orts; das Haus füllt die ganze Bildhöhe.",
+  "note_en": "A picturesque Tuscan postcard view rather than an unremarkable place; the house fills the full height of the frame.",
+  "alt_de": "Farbfoto in hoher Mittagssonne: rotes Eckhaus mit Bäckerei, Brezelschild und Hund an der Bank; rechts schiebt eine Frau ihr Fahrrad die Gasse hinauf, unten Dächer und Glockenturm im Dunst.",
+  "alt_en": "Colour photograph in high midday sun: red corner bakery, pretzel sign, dog by the bench; a woman pushes her bicycle up the lane, hazy rooftops and bell tower below.",
+  "text_exact": true,
+  "text_errors": []
+ },
+ "street/new-color-photography-9": {
+  "key": "street/new-color-photography-9",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [
+   "The pretzel sign hangs on the neighbouring white building to the left, not on the bakery's own building"
+  ],
+  "problems": [
+   "The block's light is followed well: bright high overcast, white-grey sky, matte surfaces, saturated local colour (red paint, dark green shutters, grey stone), pale far ridges, a strip of plain ground, small people going about their business",
+   "It still drifts toward the generic picturesque Italian lake-village travel photo (geraniums everywhere, lake, cypresses), and the surface is smooth digital rather than dense dye transfer",
+   "The clothesline starts at the top-floor window box and runs diagonally across the front of the facade before crossing to the next house (slightly odd but readable)",
+   "Extra element: an old man sits on the bench (allowed); the dog sits beside the bench",
+   "Format correct (portrait); '12' beside the door; no logos or real landmarks; no anatomy errors found"
+  ],
+  "note_de": "Wirkt eher wie ein Reisefoto aus einem italienischen Seedorf; das Brezelschild hängt am Nachbarhaus.",
+  "note_en": "Reads more like a travel photo of an Italian lake village; the pretzel sign hangs on the neighbouring house.",
+  "alt_de": "Farbfoto unter weißem Wolkenhimmel: rotes Eckhaus mit Bäckerei, alter Mann auf der Bank, daneben ein Beagle; oben Frau mit Teppich, rechts schiebt eine Frau ihr Fahrrad bergauf, dahinter ein See.",
+  "alt_en": "Colour photograph under white overcast sky: red corner bakery, old man on the bench beside a beagle, rug shaken from a window, woman pushing a bicycle uphill, lake beyond.",
+  "text_exact": true,
+  "text_errors": []
+ },
+ "editorial/retro-popular-science-cutaway-8": {
+  "key": "editorial/retro-popular-science-cutaway-8",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "The central idea of the style is there: a factory inside the cup with teal girders, red boilers, storeys, stairs, conveyors, chutes and small workers in overalls, all in muted red, ochre, teal and cream.",
+   "The style block asks for a phantom view in which the wall is a faint see-through skin. Here the porcelain wall is torn open with jagged holes and broken edges.",
+   "There is no coarse four-colour halftone. Up close the surface is a soft watercolour or digital-paint texture, not flat gouache in print, so it drifts toward the generic AI 'vintage illustration' look.",
+   "There is no soil slab cut straight in front: the dirt field runs back to the horizon and off the bottom edge.",
+   "The extra factory workers inside the cup come from the style, so they are acceptable, but they add figures beyond the motif's three.",
+   "The glue carrier wears a red polka-dot bandana, a Rosie-the-Riveter cliché. This is not a likeness, just a stock trope.",
+   "All motif elements are present: the ladder figure stitches with needle and thread, the rim sitter lowers a bucket on a rope, the woman carries the glue tube at her shoulder, shards lie around, and the upper left is empty. Format is 1536x1024 landscape, correct. No anatomy errors, logos or signature found."
+  ],
+  "note_de": "Statt durchscheinender Wand ist die Tasse aufgerissen; Rasterdruck und Erdsockel fehlen.",
+  "note_en": "The cup is torn open rather than shown through a see-through wall, and there is no halftone or soil slab.",
+  "alt_de": "Retro-Schnittbild auf vergilbtem Papier: Die aufgebrochene Riesentasse birgt eine Fabrik mit Kesseln und Treppen. Ein Mann vernäht einen Riss, einer lässt einen Eimer hinab, eine Frau schultert eine Klebetube.",
+  "alt_en": "Retro cutaway on yellowed paper: a giant cracked teacup opens onto a boiler-and-stairs factory. A man stitches a crack, another lowers a bucket, a woman hauls a glue tube."
+ },
+ "editorial/retro-popular-science-cutaway-9": {
+  "key": "editorial/retro-popular-science-cutaway-9",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "There is no cutaway at all: no tall sawn rectangular opening, no thick red band on the cut edge, and no factory interior with floors, stairs, boilers, pipes or tiny workers. The defining feature of the style is missing.",
+   "The result reads as a generic vintage storybook or magazine painting on yellowed paper, not a popular-science cutaway.",
+   "There is no coarse halftone, only a fine canvas-like texture.",
+   "There is no soil slab cut straight in front; the ground runs off the frame.",
+   "The glue carrier wears a red polka-dot bandana, a Rosie-the-Riveter cliché. This is a trope, not a likeness.",
+   "All motif elements are present: the ladder figure stitches the crack with needle and thread, the rim sitter lowers a bucket on a rope into the cup, the woman carries the glue tube on her shoulder, shards lie around, and the upper left is empty. Format is landscape, correct. No anatomy errors, logos or signature found."
+  ],
+  "note_de": "Die Schnittansicht mit der Fabrik im Inneren fehlt ganz; übrig bleibt eine allgemeine Retro-Malerei.",
+  "note_en": "The cutaway with the factory inside is missing entirely, leaving a generic retro painting.",
+  "alt_de": "Ausgeblichene Retro-Malerei auf vergilbtem Papier: Eine riesige, blau geblümte Teetasse mit Rissen steht zwischen Scherben. Ein Mann vernäht einen Riss, einer lässt einen Eimer hinab, eine Frau schultert eine Klebetube.",
+  "alt_en": "Faded retro painting on yellowed paper: a giant blue-flowered teacup with cracks stands among shards. A man stitches a crack, another lowers a bucket, a woman shoulders a glue tube."
+ },
+ "editorial/retro-popular-science-cutaway-10": {
+  "key": "editorial/retro-popular-science-cutaway-10",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "There is no wedge-shaped cutaway of the right front quarter, no red-band cut faces, and no factory with storeys, stairs, boilers, belts or workers. The style's defining feature is missing and the cup is shown only from outside.",
+   "The result reads as a generic faded vintage painting, not a popular-science cutaway.",
+   "There is no coarse halftone.",
+   "There is no soil slab cut straight in front, and the background shows distant hills and a plain instead of bare cream paper.",
+   "The glue carrier wears a red bandana and apron, a Rosie-the-Riveter cliché. This is a trope, not a likeness.",
+   "All motif elements are present: the ladder figure stitches the crack with needle and thread, the rim sitter lowers a bucket on a rope into the cup, the woman carries the glue tube on her shoulder, shards lie around, and the upper left is empty. Format is landscape, correct. No anatomy errors, logos or signature found."
+  ],
+  "note_de": "Der aufgeschnittene Keil mit der Fabrik fehlt; die Tasse ist nur von außen zu sehen.",
+  "note_en": "The cut-away wedge revealing the factory is missing; the cup is shown only from outside.",
+  "alt_de": "Ausgeblichene Retro-Malerei auf cremefarbenem Papier: Eine riesige, mehrfach gesprungene, geblümte Teetasse steht auf weiter Ebene. Ein Mann vernäht einen Riss, einer lässt einen Eimer hinab, eine Frau schultert eine Klebetube.",
+  "alt_en": "Faded retro painting on cream paper: a giant cracked floral teacup stands on open ground. A man stitches a crack, another lowers a bucket, a woman shoulders a glue tube."
+ },
+ "infographic/retro-popular-science-cutaway-6": {
+  "key": "infographic/retro-popular-science-cutaway-6",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Information architecture ignores the style block: not one building with a storey per step joined by chutes, but six separate picture panels in a zigzag of red arrows (motif tests exactly this).",
+   "Only step 3 (Mill) is a real cutaway (walls removed, storeys, stairs, belt drive, two workers in overalls); the other five panels are generic vintage close-up illustrations.",
+   "No phantom-view see-through skin, no soil slab cut straight in front; rendering reads more like pen-and-wash engraving than flat gouache with coarse halftone.",
+   "Labels are mixed-case, not hand-lettered capitals; numbers are circled on white tabs as specified.",
+   "Format 1024x1536 portrait correct; all six steps, '500 g' sack and '230 °C' oven present; hands anatomically fine; no logo, brand or watermark."
+  ],
+  "note_de": "Nur die Mühle ist als Schnittbild gezeigt, der Rest sind gewöhnliche Retro-Bildtafeln statt eines einzigen aufgeschnittenen Gebäudes.",
+  "note_en": "Only the mill is drawn as a cutaway; the rest are ordinary retro picture panels instead of one opened-up building.",
+  "alt_de": "Retro-Sachbuchillustration auf vergilbtem Papier: Sechs Bildfelder im Zickzack von Aussaat bis Backen, die Mühle als aufgeschnittenes Gebäude mit Arbeitern im Overall, rote Pfeile, nummerierte Etiketten.",
+  "alt_en": "Retro popular-science illustration on yellowed paper: six panels zigzag from sowing to baking, the mill drawn as an opened building with workers in overalls, red arrows, numbered tabs.",
+  "text_exact": true,
+  "text_errors": []
+ },
+ "infographic/retro-popular-science-cutaway-7": {
+  "key": "infographic/retro-popular-science-cutaway-7",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Style not recognisable as a popular-science cutaway: a plain 3x2 grid of vintage picture panels instead of one building with its front sawn away, a storey per step, chutes between storeys.",
+   "Only token gestures: red edge bands framing the mill panel and the oven arch, one tiny worker in overalls in the mill; no factory interior with floors, stairs, boilers, pipes, belts.",
+   "No soil slab in front, no blank paper above; halftone texture and dulled red/ochre/cream palette are present, so it reads as a generic retro poster filter.",
+   "Information architecture unchanged from the default panel infographic (the motif's test).",
+   "Format 1024x1536 portrait correct; all six steps with sack '500 g' and oven '230 °C' present; hands fine; no logo, brand or watermark."
+  ],
+  "note_de": "Statt eines aufgeschnittenen Fabrikgebäudes zeigt das Bild sechs gewöhnliche Retro-Bildtafeln; nur die Mühle hat einen roten Schnittrand.",
+  "note_en": "Instead of an opened-up factory building it shows six ordinary retro picture panels; only the mill has a red cut edge.",
+  "alt_de": "Retro-Plakat mit Rasterdruck in Rot, Ocker und Creme: sechs Bildfelder in zwei Reihen zeigen Säen, Ernten, Mühle mit Mehlsack, Kneten, Teig unter Tuch und Brot im Ofen.",
+  "alt_en": "Retro halftone poster in red, ochre and cream: six panels in two rows show sowing, harvesting, a mill filling a flour sack, kneading, dough under a cloth and bread baking.",
+  "text_exact": true,
+  "text_errors": []
+ },
+ "infographic/retro-popular-science-cutaway-8": {
+  "key": "infographic/retro-popular-science-cutaway-8",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "No cutaway at all: no wedge cut away from a building, no red cut faces, no storeys, stairs, boilers or belts, no small workers in overalls.",
+   "Layout is a generic 3x2 grid of painted close-up panels under a decorative banner with wheat-ear ornaments and blue sky ribbon; the information architecture is the default panel infographic.",
+   "Numbers are plain red numerals, not circled; no soil slab in front, no bare cream paper above; reads as generic AI vintage-poster look.",
+   "Format 1024x1536 portrait correct; all six steps with '500 g' sack and '230 °C' oven present; hands fine; no logo, brand or watermark."
+  ],
+  "note_de": "Kein Schnittbild, keine Fabrik, keine Arbeiter: nur sechs gewöhnliche Retro-Bildtafeln.",
+  "note_en": "No cutaway, no factory, no workers: just six ordinary retro picture panels.",
+  "alt_de": "Gemalte Retro-Bildtafel unter Titelband mit Ähren: sechs Felder in zwei Reihen, von der säenden Hand über Sichel, Mühlstein und Teig bis zum Brot im Steinofen.",
+  "alt_en": "Painted retro chart under a banner flanked by wheat ears: six panels in two rows, from a sowing hand via sickle, millstone and dough to bread in a brick oven.",
+  "text_exact": true,
+  "text_errors": []
+ },
+ "people/three-strip-technicolor-12": {
+  "key": "people/three-strip-technicolor-12",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [
+   "young man's jacket is not visibly one size too big (minor)"
+  ],
+  "problems": [
+   "Reads as a contemporary saturated/HDR digital photograph of a real beach, not a 1940s indoor sound stage: real sea with breaking surf instead of flat painted bands, photographic rock headland, depth-of-field blur on the jetty",
+   "No canvas backdrop meeting the floor in a straight line; only the sky shows a faint painted texture",
+   "No ruby-red costume piece or prop, which the style requires",
+   "Wood is realistically weathered planking, not painted plywood; pebbles are oversaturated multicoloured stones rather than even-sized studio dressing",
+   "Camera is close to the figures, which fill the frame, instead of several metres back framing a shallow set",
+   "Palette is vivid blue and tan, not muted dye creams, greys and browns",
+   "Motif otherwise complete: woman kneels pressing the plank with both hands, sleeves rolled up; young man in knitted cap hammers a nail; toolbox, rope coil, tin of nails, jetty end, two gulls; neither looks at the camera; hands anatomically fine; 1536x1024 landscape correct; no logos or watermarks"
+  ],
+  "note_de": "Wirkt wie ein heutiges Digitalfoto am echten Strand statt wie eine Technicolor-Studiokulisse der 1940er.",
+  "note_en": "Looks like a modern digital photo on a real beach, not a 1940s Technicolor studio set.",
+  "alt_de": "Farbfoto in satten Farben: Eine grauhaarige alte Frau drückt kniend eine helle Planke an ein umgedrehtes Boot, ein junger Mann mit Mütze nagelt sie fest; dahinter Meer, Steg, zwei Möwen.",
+  "alt_en": "Saturated photo-like colour image: a grey-haired woman kneels, pressing a new plank onto an upturned boat; a young man in a knitted cap nails it. Behind: sea, jetty, two gulls."
+ },
+ "portrait/ancient-egyptian-wall-painting-3": {
+  "key": "portrait/ancient-egyptian-wall-painting-3",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [
+   "Scar is on his right eyebrow (viewer's left), not his left",
+   "Nose reads straight, crookedness not visible"
+  ],
+  "problems": [
+   "The figure ignores the Egyptian figure canon: three-quarter head with a modelled, wrinkle-hatched face and naturalistic hands instead of profile head with frontal eye. It reads like a modern illustration in an Egyptian palette.",
+   "The wall-painting system itself is convincing: red squared grid, whitewash, red-brown outlines, red-brown male skin, blue water with black zigzags, ochre ground strip with red dots, flaking plaster",
+   "Scar on the wrong eyebrow (minor)",
+   "Crooked nose not discernible",
+   "Framing is half-figure rather than strict head-and-shoulders (acceptable)",
+   "Hands checked at full resolution: thumb plus four fingers, plaster on thumb present, mug rim chip present; no anatomy error",
+   "Format 1024x1536 portrait correct; no logo, hieroglyphs, gold or landmark"
+  ],
+  "note_de": "Das Gesicht ist modern in Dreiviertelansicht schattiert statt im ägyptischen Profil gemalt, und die Narbe sitzt an der falschen Braue.",
+  "note_en": "The face is shaded in a modern three-quarter view instead of the Egyptian profile, and the scar is on the wrong eyebrow.",
+  "alt_de": "Ägyptische Grabmalerei auf rissigem Putz mit rotem Raster: Ein bärtiger Mann mit blauer Mütze hält einen angeschlagenen Emaillebecher, dahinter Wasser mit Zickzacklinien und eine Fähre.",
+  "alt_en": "Egyptian tomb painting on cracked plaster over a red grid: a bearded man in a blue knitted cap holds a chipped enamel mug, behind him zigzag water and a ferry."
+ },
+ "portrait/clay-animation-4": {
+  "key": "portrait/clay-animation-4",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [
+   "Eyes look sharply sideways rather than just past the viewer",
+   "Scar reads as a fresh red cut rather than a healed scar",
+   "Nose is bulbous but not visibly crooked"
+  ],
+  "problems": [
+   "It drifts toward the modern high-detail AI claymation look: finely sculpted wrinkled skin, realistic hands with nails, mixed dirt smears on hands and jacket, warm cinematic lamp light and glossy eyes. The style asks for chunky, unmixed-colour 1970s-90s children's-TV clay with mitten hands and white studio light.",
+   "Recognisably clay (fingerprint texture, clay clouds on a painted-card sky), so not a fail",
+   "Hands checked at full resolution: four fingers plus thumb on each, plaster on right thumb, chipped enamel mug present; no anatomy error",
+   "Format 1024x1536 portrait correct; no logos or known characters"
+  ],
+  "note_de": "Fein modellierte Hände, Schmutzschlieren und warmes Kinolicht wirken eher wie moderne KI-Knetoptik als wie Kinderfernsehen der 70er bis 90er.",
+  "note_en": "Finely sculpted hands, dirt smears and warm cinematic light look more like modern AI clay than 1970s-90s children's TV.",
+  "alt_de": "Knetfigur aus Modelliermasse: Ein ergrauter, bärtiger Mann mit blauer Strickmütze hält einen angeschlagenen Emaillebecher, ein Daumen mit Pflaster; dahinter Schiff, Taue und ein Hafen.",
+  "alt_en": "Modelling-clay figure: a greying, bearded man in a blue knitted cap holds a chipped enamel mug, one thumb wrapped in a plaster; behind him a ship, ropes and a harbour."
+ },
+ "infographic/ancient-egyptian-wall-painting-3": {
+  "key": "infographic/ancient-egyptian-wall-painting-3",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Drifts toward modern illustration: the millstone, flour sack, bowl and especially the scored loaf are modelled with 3D shading and highlights instead of flat colour areas inside outlines",
+   "Lettering is a modern typeset-looking serif in red-brown, not brush-painted letters in ruled boxes",
+   "Torsos are drawn in naturalistic three-quarter view with muscle shading rather than the strict frontal-shoulder convention",
+   "A rotary quern with a handle is anachronistic for c. 1400 BC Egypt (a saddle quern would fit); the motif still reads as a millstone",
+   "Step 5: the cloth is being lifted, so the dough is only partly under it",
+   "Arrows only within rows (1>2, 3>4, 5>6); the register numbering keeps the order unambiguous",
+   "Style elements that do work: red squared grid, ruled ground lines in three registers, ochre ground strip with red dots, blue water band with black zigzags, red-brown men and pale yellow women",
+   "Format portrait 1024x1536 as requested; no logos, signatures, deities or hieroglyphs; anatomy acceptable"
+  ],
+  "note_de": "Mühlstein, Sack und Brot sind räumlich schattiert, und die Schrift wirkt gesetzt statt mit dem Pinsel gemalt.",
+  "note_en": "The millstone, sack and loaf are shaded in 3D, and the lettering looks typeset rather than brush-painted.",
+  "alt_de": "Ägyptische Grabmalerei auf rotem Raster: Rotbraune Männer und hellgelbe Frauen säen, ernten, mahlen, kneten, lassen Teig gehen und backen Brot, in drei Registern über blauem Zickzackwasser.",
+  "alt_en": "Egyptian tomb painting on a red grid: red-brown men and pale yellow women sow, reap, mill, knead, let dough rise and bake bread in three registers above blue zigzag water.",
+  "text_exact": true,
+  "text_errors": []
+ },
+ "infographic/clay-animation-4": {
+  "key": "infographic/clay-animation-4",
+  "verdict": "flawed",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "The loaf in step 6 is rendered with photorealistic crust browning, and the oven has a glowing orange firelight gradient. Both break the rule of unmixed shop-colour clay under white studio lamps",
+   "The kneaded and risen dough also has fine realistic bread texture rather than plain clay surface",
+   "Hands are fairly naturalistic, with separate detailed fingers rather than chunky mitten hands; finger count looks correct",
+   "No arrow between step 3 and step 4; numbered grid keeps the order clear",
+   "Otherwise convincing: clay-snake lettering on cream plaques, numbered clay discs, snake arrows, wheat sheaf of clay rolls, fingerprinted surfaces, clay landscape strip at top, wooden table front edge",
+   "Format portrait 1024x1536 as requested; no logos, known characters or watermarks"
+  ],
+  "note_de": "Das Brot im glühenden Ofen wirkt fotorealistisch statt aus Knete geformt.",
+  "note_en": "The loaf in the glowing oven looks photorealistic rather than modelled in clay.",
+  "alt_de": "Knetrelief wie aus dem Kinderfernsehen: Unter Hügeln und Haus zeigen sechs bunte Felder eine säende Hand, Ährenbündel mit Sichel, Mühlstein mit Mehlsack, knetende Hände, Teigschüssel und Brot im Ofen.",
+  "alt_en": "Children's-TV clay relief: six coloured panels under clay hills show a sowing hand, wheat sheaf with sickle, millstone and flour sack, kneading hands, a dough bowl and an oven loaf.",
+  "text_exact": true,
+  "text_errors": []
+ },
+ "landscape/ancient-egyptian-wall-painting-12": {
+  "key": "landscape/ancient-egyptian-wall-painting-12",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Composition is a European perspective landscape (receding river, aerial-perspective shaded mountains, Mediterranean tiled-roof village, cypresses) rather than Egyptian registers on ruled ground lines",
+   "Mountains and hills are modelled with soft gradients instead of flat colour fields",
+   "Egyptian cues are present but read as a surface treatment: red squared grid, black/blue zigzag water, ochre ground strip with red dots, red-brown outlines, profile figure on the bridge",
+   "All motif elements present: winding river, single-arch stone bridge with one tiny figure, village with chapel, terraces left, forest right, leaning tree with bench, jagged ridge, five birds",
+   "Format correct (1536x1024 landscape); no logo, signature, watermark or real landmark"
+  ],
+  "note_de": "Die Landschaft ist in europäischer Tiefenperspektive gemalt statt flach auf ägyptischen Standlinien.",
+  "note_en": "The landscape uses European perspective depth instead of flat Egyptian ground lines.",
+  "alt_de": "Ägyptische Grabmalerei auf Putz mit rotem Raster: Flusstal mit Zickzackwellen, Steinbrücke mit kleiner Gestalt, Dorf mit Kapelle, Terrassenfelder, Wald, alter Baum mit Bank, Gänse und Berge.",
+  "alt_en": "Egyptian tomb painting on plaster with a red grid: river valley with zigzag waves, stone bridge with a small figure, village with chapel, terraces, forest, tree with bench, geese, mountains."
+ },
+ "landscape/clay-animation-4": {
+  "key": "landscape/clay-animation-4",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Reads as a modern, finely detailed AI clay diorama rather than chunky 1970s-90s European children's TV clay animation",
+   "Snow-capped mountains are smooth and naturalistically shaded, almost painted, not clay",
+   "River has realistic white foam and gradients; tree bark and bench wood grain are finely sculpted and naturalistic",
+   "Many mixed, graded greens and blues instead of a dozen unmixed shop colours",
+   "Clay cues present: modelling-clay foliage blobs, clay clouds on a flat blue card sky, ball-headed figure on the bridge",
+   "All motif elements present: winding river, single-arch stone bridge with one small figure, about four to five houses plus chapel beside the bridge, terraces left, conifer forest right, leaning tree with bench, jagged ridge, birds above the river",
+   "Format correct (1536x1024 landscape); no logo, signature, watermark or real landmark"
+  ],
+  "note_de": "Berge, Wasser und Baumrinde wirken fein und naturalistisch statt grob und einfarbig geknetet.",
+  "note_en": "Mountains, water and bark look fine and naturalistic rather than chunky, single-colour clay.",
+  "alt_de": "Knetszene im Trickfilm-Look: Unter einem knorrigen Baum steht eine Holzbank, ein blauer Fluss fließt unter einer Steinbrücke mit Figur hindurch, daneben Dorf mit Kapelle, Terrassen, Nadelwald, verschneite Gipfel.",
+  "alt_en": "Clay-animation scene: a wooden bench under a gnarled tree, a blue river flowing beneath a stone bridge with a small figure, a village with chapel, terraces, pine forest, snowy peaks."
+ },
+ "product/ancient-egyptian-wall-painting-3": {
+  "key": "product/ancient-egyptian-wall-painting-3",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Radio drawn in three-quarter perspective with a visible right side face and depth, contrary to the flat, frontal Egyptian convention",
+   "Knobs and dial rendered as 3D knurled cylinders with hatched shading -- modern retro-illustration habit, not flat Egyptian colour fields",
+   "Surface texture reads as a canvas/paper filter overlay rather than dry plaster; red grid does not show through the painted object",
+   "Egyptian framing elements are correct (red squared grid, ruled ochre ground strip with red dots, blue water band with black zigzags, red-brown outlines, restrained palette), so style is recognisable but the object itself drifts to a generic vintage poster look",
+   "All motif elements present: grille on left half, large dial above tick-only window, two small knobs, pivoting top handle, angled partly extended telescopic antenna; radio alone and whole",
+   "Format 1:1 matches 1024x1024; no logo, text, signature or watermark"
+  ],
+  "note_de": "Das Radio ist räumlich mit sichtbarer Seitenfläche und schattierten Knöpfen gezeichnet statt flach wie in der ägyptischen Malerei.",
+  "note_en": "The radio is drawn in perspective with a visible side and shaded knobs instead of flat in the Egyptian manner.",
+  "alt_de": "Ägyptische Grabmalerei auf Kalkputz mit rotem Raster: Ein blaues Kofferradio mit ockerfarbenem Lautsprechergitter, Senderscheibe, Skalenfenster, zwei Knöpfen und schräger Antenne steht auf gepunktetem Ockerboden über Zickzack-Wasser.",
+  "alt_en": "Egyptian tomb painting over a red grid: a blue radio with ochre speaker grille, dial, scale window, two knobs and slanted antenna, standing on dotted ochre ground above zigzag water."
+ },
+ "product/clay-animation-4": {
+  "key": "product/clay-animation-4",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Telescopic antenna is glossy, reflective real metal (chrome highlights), breaking the 'every part is plain shop-colour clay' and 'avoid gloss' rules",
+   "Background clay trees and sky are softly out of focus (shallow depth of field) instead of everything sharp",
+   "Backdrop is clay relief rather than flat painted card",
+   "Radio is very precise and symmetrical (machine-regular grille holes, crisp edges), smooth surface with few fingerprints -- leans toward the generic AI 'clay render' look rather than chunky, lopsided 1970s-90s TV plasticine",
+   "Motif complete: brown boxy body with rounded corners, perforated grille on left half, large dial above tick-only window, two small knobs, pivoting top handle, partly extended angled antenna; radio alone and whole",
+   "Format 1:1 matches 1024x1024; no logo, text, signature or watermark"
+  ],
+  "note_de": "Die Antenne glänzt wie echtes Metall statt aus Knete zu sein, und der Hintergrund ist unscharf.",
+  "note_en": "The antenna is shiny real metal rather than clay, and the background is out of focus.",
+  "alt_de": "Standbild aus einem Knetfilm: Ein braunes Kofferradio aus Knete mit cremefarbenem Lochgitter, blauen Drehknöpfen, Skalenfenster und silberner Teleskopantenne steht auf gelbem Boden vor blauem Himmel mit Knetbäumen.",
+  "alt_en": "Clay-animation still: a brown plasticine portable radio with cream perforated grille, blue knobs, scale window and silver telescopic antenna stands on yellow ground against blue sky with clay trees."
+ },
+ "poster/ancient-egyptian-wall-painting-3": {
+  "key": "poster/ancient-egyptian-wall-painting-3",
+  "verdict": "flawed",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Trumpet has a second parallel tube ending in a knob under the main tube, which the far hand holds; the instrument reads as a malformed trumpet",
+   "Hands splay over the tubes instead of gripping them (small hand glitch, partly excused by Egyptian convention)",
+   "Island with red-tiled pitched-roof houses and mottled green/ochre modelling looks like a modern vignette, not an Egyptian plan or flat-colour shape",
+   "Lettering is a modern display serif and sans in two colours (red and blue), not single-colour brush lettering",
+   "Torso shown in naturalistic three-quarter twist rather than frontal shoulders",
+   "Otherwise strong: red squared grid on whitewash, black-zigzag water band, ochre ground strip with red dots, profile head with frontal eye, one knee raised, red-brown man, pleated kilt, no gold, deities or hieroglyphs; portrait 1024x1536 as requested; no logo, landmark or signature"
+  ],
+  "note_de": "Die Trompete hat ein überzähliges zweites Rohr, und die Insel mit Ziegeldachhäusern wirkt wie eine moderne Illustration.",
+  "note_en": "The trumpet has an extra parallel tube, and the island with its tiled-roof houses looks like a modern illustration.",
+  "alt_de": "Ägyptische Grabmalerei auf Putz mit rotem Raster: Ein kniender rotbrauner Mann bläst eine lange Trompete, dahinter Zickzackwasser, Insel mit Leuchtturm und gelbe Sonne; oben Schrift in Kästen.",
+  "alt_en": "Egyptian tomb painting on plaster over a red grid: a kneeling red-brown man blows a long trumpet; behind him zigzag water, a lighthouse island and a yellow sun.",
+  "text_exact": true,
+  "text_errors": []
+ },
+ "poster/clay-animation-4": {
+  "key": "poster/clay-animation-4",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Drifts toward the polished generic AI clay look: rocks are naturalistic grey-brown stone with soft modelling rather than unmixed shop-colour clay",
+   "Sea shows realistic wave rows with smooth gradients; no painted-card flat backdrop and no visible set front edge as the style block asks",
+   "Lettering is puffy rounded 3D clay rather than flattened clay snakes",
+   "Warm, soft cinematic lighting instead of plain white studio lamps",
+   "Figure itself is good clay work (ball nose, bead-like curls, mitten hands on valves); trumpet coherent; no anatomy error found; far leg hidden by pose, plausible",
+   "All motif elements present: single trumpeter, island with lighthouse, sun; portrait 1024x1536 as requested; no logo, known character or signature"
+  ],
+  "note_de": "Realistische Felsen und Wellen statt bemalter Kulisse: eher glatter KI-Knetlook als alter Fernseh-Trickfilm.",
+  "note_en": "Realistic rocks and waves instead of a painted-card backdrop drift toward the polished generic AI clay look.",
+  "alt_de": "Szene aus Knetmasse: Ein Trompeter mit hellem Hut und blauer Jacke sitzt auf einem Felsen am Meer, dahinter Leuchtturminsel vor großer orangefarbener Sonne; Schrift aus dicken Knetbuchstaben.",
+  "alt_en": "Clay-animation scene: a trumpeter in a cream hat and blue jacket sits on a rock by the sea, a lighthouse island before a big orange sun; chunky clay lettering.",
+  "text_exact": true,
+  "text_errors": []
+ },
+ "editorial/ancient-egyptian-wall-painting-3": {
+  "key": "editorial/ancient-egyptian-wall-painting-3",
+  "verdict": "flawed",
+  "style_score": 4,
+  "motif_missing": [
+   "Bucket is lowered in front of the cup's outer wall (below the front rim edge), not into the cup"
+  ],
+  "problems": [
+   "Bucket on rope hangs outside the cup: rim figure sits on the front rim and the bucket dangles over the exterior wall",
+   "Cup drawn with a perspective rim ellipse and shaded, faceted shards: a departure from flat Egyptian profile drawing",
+   "Crack fills in golden ochre read slightly as gold/kintsugi (style block says avoid gold)",
+   "Cup rim and rim figure intrude into the upper third; only the upper left stays fully empty",
+   "Format correct (1536x1024 landscape); no text, hieroglyphs, deities, logos or signatures; hands and limbs clean"
+  ],
+  "note_de": "Der Eimer hängt außen vor der Tasse statt hinein.",
+  "note_en": "The bucket hangs down outside the cup instead of into it.",
+  "alt_de": "Ägyptische Grabmalerei auf Putz mit rotem Raster: Ein Mann auf der Leiter vernäht eine riesige gesprungene Teetasse, einer sitzt mit Eimer auf dem Rand, eine Frau schultert eine Klebetube.",
+  "alt_en": "Egyptian tomb painting on gridded plaster: a man on a ladder stitches a giant cracked teacup, another sits on the rim with a bucket, a woman shoulders a glue tube."
+ },
+ "editorial/clay-animation-3": {
+  "key": "editorial/clay-animation-3",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Backdrop is a sculpted, naturalistic landscape (hills, lake, trees) with atmospheric haze and depth-of-field blur, not flat painted card close behind; violates 'everything sharp'",
+   "Mottled, multi-tone ground and graded greens go beyond the dozen unmixed shop colours; overall polish drifts toward the generic modern AI claymation look",
+   "Hands have separate fingers rather than mitten hands",
+   "All motif elements present: ladder stitcher with needle and thread, rim sitter lowering bucket into the cup, woman with glue tube on shoulder, several cracks, shards at base; open sky in upper third",
+   "Format correct (1536x1024 landscape); no logos, known characters or signatures; no anatomy errors"
+  ],
+  "note_de": "Der Hintergrund ist eine unscharfe, naturalistische Landschaft statt flacher, bemalter Pappe.",
+  "note_en": "The backdrop is a blurred, naturalistic landscape instead of flat painted card.",
+  "alt_de": "Knetanimation: Eine Knetfigur auf der Leiter vernäht eine riesige gesprungene Teetasse, eine zweite lässt vom Rand einen Eimer hinab, eine Frau trägt eine Klebetube, ringsum Scherben.",
+  "alt_en": "Plasticine animation frame: one figure on a ladder stitches a giant cracked teacup, one on the rim lowers a bucket inside, a woman carries a glue tube; shards lie around."
+ },
+ "street/ancient-egyptian-wall-painting-5": {
+  "key": "street/ancient-egyptian-wall-painting-5",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [
+   "Woman pushes the bicycle down the slope (walking right, front foot lower) instead of up it",
+   "Person at the upper window hangs/holds the rug on the clothesline rather than shaking it out",
+   "Bicycle's rear wheel is missing (chainring visible, no rear rim below or beside the skirt)"
+  ],
+  "problems": [
+   "Bicycle drawn without a rear wheel: only the chainring and front wheel show, no rear rim appears below the skirt hem",
+   "Movement direction reversed: lane descends to the right and the woman walks right/downhill",
+   "Style drift: side lane, receding buildings and cobbles are in modern linear perspective with shutters and a cypress backdrop, so the scene reads as a modern Mediterranean illustration in Egyptian dress rather than ruled registers on ground lines",
+   "House number '12' is plain black serif numerals, not brush letters in a ruled box",
+   "Strong Egyptian cues are present: red squared grid, whitewash plaster, red-brown outlines, profile heads with frontal eye, red-brown men and pale women, ochre ground strip with red dots, blue water band with black zigzags",
+   "Format 1024x1536 portrait correct; no logo, real landmark, signature or watermark; bell tower is generic"
+  ],
+  "note_de": "Die Frau schiebt ihr Rad bergab statt bergauf, und dem Fahrrad fehlt das Hinterrad.",
+  "note_en": "The woman pushes her bicycle downhill instead of uphill, and the bicycle has no rear wheel.",
+  "alt_de": "Ägyptische Wandmalerei auf Kalkputz mit rotem Raster: Bäckerei-Eckhaus mit Brezelschild, Hund an der Bank, oben Frau mit Teppich an der Wäscheleine, rechts Frau im Profil mit Fahrrad und Brotkorb.",
+  "alt_en": "Egyptian tomb painting on gridded whitewash: bakery corner house with pretzel sign, dog by the bench, woman hanging a rug from a window, profile woman pushing a bicycle with bread.",
+  "text_exact": true,
+  "text_errors": []
+ },
+ "street/clay-animation-3": {
+  "key": "street/clay-animation-3",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Style drift toward the generic polished AI clay-diorama look: warm golden light with a glowing shop lamp instead of flat white studio light",
+   "Far more than a dozen unmixed shop colours: walls, cobbles and stones have many tonal shades and realistic stone texture",
+   "Background is a deep sculpted hill town with atmospheric depth instead of flat painted card close behind; no front edge of the set showing",
+   "Figures lean toward a Aardman-like look with sculpted faces and detailed hands rather than ball heads, bead eyes and mitten hands (not a specific known character)",
+   "All motif elements present: three-storey corner bakery, awning, unlettered pretzel sign, bench with dog, flower boxes, man shaking a rug from an open window, clothesline to the next building, cobbled lane, woman pushing bicycle with bread basket uphill, generic bell tower, '12' beside the door",
+   "Format 1024x1536 portrait correct; no anatomy errors found on hands; no logo, landmark, signature or watermark"
+  ],
+  "note_de": "Wirkt eher wie ein detailreiches Miniaturdiorama in warmem Licht als wie Knetanimation aus wenigen ungemischten Knetfarben.",
+  "note_en": "Looks more like a detailed miniature diorama in warm light than clay animation in a few unmixed clay colours.",
+  "alt_de": "Knetanimation: gelbes Eckhaus mit rot-weißer Markise, Bäcker im Schaufenster, Hund an der Holzbank, oben schüttelt ein Mann einen Teppich aus, rechts schiebt eine alte Frau ihr Rad bergauf.",
+  "alt_en": "Clay animation set: yellow corner bakery with striped awning, baker in the window, dog by the bench, a man shaking a rug upstairs, an old woman pushing her bicycle uphill.",
+  "text_exact": true,
+  "text_errors": []
+ },
+ "food/ancient-egyptian-wall-painting-4": {
+  "key": "food/ancient-egyptian-wall-painting-4",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [
+   "Hand does not tear a piece off a bread slice; it only holds an already torn chunk over the soup"
+  ],
+  "problems": [
+   "Style drifts to modern illustration: table drawn in oblique perspective with visible top, bowl as a perspective ellipse, bread with naturalistic volume shading and texture, instead of flat Egyptian profile views stacked on ground lines",
+   "Egyptian cues are mostly in the setting (red squared grid, cracked whitewash, ochre ground strip with red dots, black ground line), so it reads partly as a filter or backdrop",
+   "Knife beside the board is a plain smooth-edged chef's knife, not clearly a serrated bread knife (minor)",
+   "Knife mark in the butter reads more as a broken-off corner (minor)",
+   "Format correct (1254x1254 square for 1024x1024); hand anatomy fine; no logo, signature, landmark or watermark; extra basil garnish on the soup is harmless"
+  ],
+  "note_de": "Tisch, Brot und Schüssel sind in moderner Perspektive schattiert statt flach im ägyptischen Profil gemalt.",
+  "note_en": "Table, bread and bowl are drawn in modern shaded perspective instead of flat Egyptian profile views.",
+  "alt_de": "Ägyptische Wandmalerei auf rissigem Kalkputz mit rotem Raster: Auf einem Holztisch Brotlaib mit Scheiben, Messer, Tomatensuppe, Butter, Basilikum, Kirschtomaten, Serviette; eine rotbraune Hand hält Brot über die Suppe.",
+  "alt_en": "Egyptian wall painting on cracked whitewash with grid: wooden table with sliced loaf, knife, tomato soup, butter, basil, vine tomatoes, napkin; a red-brown hand holds bread over the soup."
+ },
+ "animal/ancient-egyptian-wall-painting-3": {
+  "key": "animal/ancient-egyptian-wall-painting-3",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Heron plumage and yellow iris are rendered more naturalistically than typical tomb painting (minor)",
+   "White ripple rings and faint underwater leg reflections are non-Egyptian devices, though the motif requires them"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Altägyptische Wandmalerei auf Kalkputz mit rotem Raster: Ein Graureiher im Profil packt im blauen Zickzackwasser einen Fisch, links Papyrus, Seerosenblätter und Libelle, dahinter Palmen.",
+  "alt_en": "Ancient Egyptian wall painting on gridded whitewash: a grey heron in profile seizes a fish from blue zigzag water, papyrus, lily pads and a dragonfly at left, palms behind."
+ },
+ "animal/clay-animation-4": {
+  "key": "animal/clay-animation-4",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Glossy, photoreal water with gradients and leg reflections, against the style block's 'avoid gloss' and unmixed flat clay colours",
+   "Shallow depth of field: blurred foreground blades and soft background, where the style asks for everything sharp",
+   "Background is sculpted clay trees in many mixed greens, not flat painted card close behind",
+   "Overall reads as a modern AI 'claymation' look rather than a 1970s-90s TV clay frame"
+  ],
+  "note_de": "Glänzendes Wasser und unscharfer Hintergrund wirken eher wie moderner KI-Knetlook als wie ein Knetfilm der 1970er.",
+  "note_en": "Glossy water and a blurred background drift toward a modern AI clay look rather than 1970s clay animation.",
+  "alt_de": "Knetanimation: Ein Graureiher aus Knete hält im glänzend blauen Fluss einen zappelnden Fisch im Schnabel, Tropfen spritzen, links Rohrkolben, Seerosen und Libelle, dahinter Knetbäume.",
+  "alt_en": "Clay animation: a modelling-clay grey heron holds a wriggling fish in its beak above glossy blue water, droplets flying, cattails, lily pads and a dragonfly at left, clay trees behind."
+ },
+ "character/ancient-egyptian-wall-painting-3": {
+  "key": "character/ancient-egyptian-wall-painting-3",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [
+   "The badger does not glance back over its shoulder toward the viewer; its head is in strict profile facing the door",
+   "It stands on the ground line at the foot of the steps rather than on the doorstep itself"
+  ],
+  "problems": [
+   "Egyptian props are correct (red squared grid, red-brown outlines, ochre ground strip with red dots, blue water with black zigzags, papyrus), but the badger is drawn like a modern storybook illustration, with stippled fur, a diamond-quilted vest and a naturalistic satchel",
+   "The door frame and steps are drawn in oblique perspective with receding depth, which Egyptian flat ruled painting does not use",
+   "The village and palm vignette reads as a pictorial landscape inset, not as successive registers",
+   "No gold, deities, hieroglyphs, logos or signatures. Anatomy is fine: knocking paw and parcel paw are clean",
+   "Format is correct: 1024x1536 portrait"
+  ],
+  "note_de": "Der Dachs blickt im Profil zur Tür, statt über die Schulter zum Betrachter zu schauen.",
+  "note_en": "The badger looks at the door in profile instead of glancing back at the viewer.",
+  "alt_de": "Ägyptische Grabmalerei mit rotem Raster auf Kalkputz: Ein Dachs im Profil mit blauer Mütze, Steppweste, Schal und Umhängetasche klopft an eine Holztür, in der Pfote ein Paket; dahinter Nil und Palmen.",
+  "alt_en": "Egyptian tomb painting over a red grid: profile badger in blue cap, quilted vest, scarf and satchel knocks on a wooden door, parcel in paw; zigzag water and palms behind."
+ },
+ "character/clay-animation-3": {
+  "key": "character/clay-animation-3",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "It drifts toward the generic modern 'AI claymation' look rather than 1970s-90s TV clay: the background has strong depth-of-field blur, which breaks 'everything sharp'",
+   "Instead of painted card close behind, there is a detailed, near-photographic English stone-cottage set with naturalistic multi-tone stonework, so colours are not limited to a dozen unmixed shop colours",
+   "The scarf is rendered as real knitted yarn and the tail tip as wool fibres, not as modelling clay",
+   "Glance at the viewer is only partial: the head is turned three-quarters toward the camera, but the eyes look sideways toward the door",
+   "Motif is otherwise complete: peaked cap, pocketed vest, long scarf, satchel of letters, string-tied parcel, knocking paw, doorstep, short bushy tail, full body",
+   "No logo, known character, signature or watermark. Mitten paws are clean. Format is correct: 1024x1536 portrait"
+  ],
+  "note_de": "Wirkt wie moderne Knet-Optik mit Wollschal, unscharfer Steinhauskulisse und naturalistischen Farben statt schlichter Knete vor gemalter Pappe.",
+  "note_en": "Reads as a modern clay render with a woollen scarf, blurred stone-cottage set and naturalistic colours rather than plain clay before painted card.",
+  "alt_de": "Knetanimation: Ein Dachs aus Knete mit blauer Schirmmütze, blauer Weste, rotem Strickschal und Umhängetasche voller Briefe klopft an eine Holztür, ein verschnürtes Paket in der Pfote; dahinter Steinhäuser.",
+  "alt_en": "Clay animation: a plasticine badger in blue peaked cap and vest, red knitted scarf and letter-filled satchel knocks on a wooden door, string-tied parcel in its paw; stone cottages behind."
+ },
+ "map/ancient-egyptian-wall-painting-3": {
+  "key": "map/ancient-egyptian-wall-painting-3",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [
+   "The winding road does not link the windmill: it runs past the Eskel hill without branching up to it, so it only connects the lighthouse and the town"
+  ],
+  "problems": [
+   "The Egyptian look is mostly surface treatment (red squared grid, whitewashed plaster, blue water with black zigzags, red-brown outlines). Under it is a generic illustrated fantasy map",
+   "The hill is modelled with shading and oblique relief, the houses are drawn in perspective with red tiled roofs, and there are many shaded trees and palms. This breaks the flat, top-view plan and the flat colour the style block asks for",
+   "The land is not a plain ochre ground with sparse red dots. It is a busy green and ochre landscape texture",
+   "The lettering is a generic serif map typeface. Only the title sits in a ruled box; Varn, Eskel and Moa are not boxed",
+   "The windmill hill sits in the north-west part of the island's body, not clearly in the centre (minor)",
+   "Format is correct (1254x1254, square, as requested). No logo, signature, watermark, real landmark, deity, gold or hieroglyphs"
+  ],
+  "note_de": "Unter Raster und Zickzack-Wellen steckt eine gewöhnliche, schattierte Fantasy-Karte statt flacher ägyptischer Malerei, und die Straße führt nicht zur Windmühle.",
+  "note_en": "Beneath the grid and zigzag waves sits an ordinary shaded fantasy map rather than flat Egyptian painting, and the road does not reach the windmill.",
+  "alt_de": "Ägyptische Wandmalerei auf Putz mit rotem Raster: sichelförmige Insel Lornholm mit Hafenstadt, drei Booten, Leuchtturm, Windmühle auf Hügel, Wald, Fluss, Zickzack-Wellen, Fisch, Kompassrose und Maßstab.",
+  "alt_en": "Egyptian wall painting on gridded plaster: crescent island Lornholm with harbour town, three boats, lighthouse, hilltop windmill, forest, river, zigzag waves, a fish, compass rose and scale bar.",
+  "text_exact": true,
+  "text_errors": []
+ },
+ "icons/ancient-egyptian-wall-painting-3": {
+  "key": "icons/ancient-egyptian-wall-painting-3",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Outlines are very even and vector-crisp rather than brush-painted; the speckled plaster texture is uniform across the whole image, slightly overlay-like",
+   "Icon shapes are standard modern flat-icon silhouettes (unavoidable for the motif)"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Ägyptische Grabmalerei auf weißem Putz mit rotem Raster: neun Icons von Haus bis Herz in Blau, Ocker, Grün und Rotbraun, jede Reihe auf einem gepunkteten Ockerstreifen.",
+  "alt_en": "Egyptian tomb painting on whitewashed plaster over a red grid: nine icons from house to heart in blue, ochre, green and red-brown, each row on a dotted ochre ground strip."
+ },
+ "icons/clay-animation-3": {
+  "key": "icons/clay-animation-3",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Forms are rather neat and symmetric, less lopsided than the style asks; reads slightly like a modern plasticine stock icon set",
+   "Background is a blue clay slab shot top-down instead of painted card behind a visible front edge (acceptable for an icon grid)"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Neun Icons aus Knete auf blauer Knetplatte: Haus mit rotem Dach, cremefarbener Brief, Lupe, gelbe Glocke, Kalender, schwarze Kamera, roter Pin, graues Zahnrad, rotes Herz, mit Spachtelspuren.",
+  "alt_en": "Nine smeared, chunky modelling-clay icons on a blue clay board: house with red roof, cream envelope, magnifier, yellow bell, calendar, black camera, red pin, grey gear, red heart."
+ },
+ "chart/clay-animation-3": {
+  "key": "chart/clay-animation-3",
+  "verdict": "flawed",
+  "style_score": 4,
+  "motif_missing": [
+   "Proportional quantities only approximate: SEP bar about 17% too tall, so JUL:SEP is about 4.3:1 instead of 5:1, and AUG:JUN is about 1.8:1 instead of 2:1"
+  ],
+  "problems": [
+   "Proportions were measured at full resolution on the shared shelf baseline (y about 795). The bar heights are JUN 190 px, JUL 447 px, AUG 345 px and SEP 104 px. A best fit of about 14.85 px per unit predicts 178, 446, 356 and 89 px. SEP is about 17% too tall, JUN about 7% too tall and AUG about 3% short. The ratios are JUL:SEP 4.3 (should be 5), JUL:JUN 2.35 (should be 2.5) and AUG:JUN 1.82 (should be 2). The order and rough magnitudes are right.",
+   "The quay paving in the foreground is photoreal grey stone, not clay or painted card.",
+   "The backdrop is mildly soft. The ferry, sea and island are slightly out of focus, but the style block asks for everything sharp. The backdrop is modelled scenery, not flat painted card close behind.",
+   "Faces are smooth and fingerprint-free, with a mixed peach skin tone and blended cheek blush instead of one unmixed shop colour. This is a slight drift toward the polished generic AI claymation look.",
+   "The board is centred in hero framing, and no front edge of the set is visible.",
+   "Two figures were added (a sailor pointing and a girl with clasped hands), plus ferry and lighthouse scenery. They are decorative and do not overwhelm the data. The lighthouse and ferry are generic, with no real landmark or logo.",
+   "The chart itself fits the style well. It is a clay relief on a framed board, shot straight on. The bars show fingerprints and smears, and the title and labels are flat-pressed clay snake letters. Each number sits above its bar, and there are no axis titles or gridline numbers. The format is landscape 1536x1024, as requested. No anatomy errors were found."
+  ],
+  "note_de": "Die Balken sind nur ungefähr proportional: September ist zu hoch, Juli nur gut viermal statt fünfmal so hoch. Der September-Balken ist etwas zu hoch: Der Juli wirkt nur gut viermal so groß statt fünfmal.",
+  "note_en": "The bars are only roughly proportional: September is too tall, so July is just over four times its height instead of five. The September bar is slightly too tall: July looks only about 4.3 times as large instead of five times.",
+  "alt_de": "Knetanimation: Auf einer Tafel aus cremefarbener Knete stehen unter „LORNHOLM 2026“ vier Knetbalken mit 12, 30, 24 und 6; ein Seemann zeigt darauf, ein Mädchen staunt, dahinter Fähre und Leuchtturminsel.",
+  "alt_en": "Clay animation: under 'LORNHOLM 2026' on a cream clay board, four fingerprinted clay bars show 12, 30, 24, 6; a sailor points, a girl marvels, ferry and lighthouse behind.",
+  "text_exact": true,
+  "text_errors": [
+   "Proportion: expected SEP bar = 1/5 of JUL bar, found JUL 447 px vs SEP 104 px (ratio 4.3:1 instead of 5:1); at the best-fit scale (14.86 px/unit) SEP should be ~89 px, so it is ~17% too tall. Other bars are within tolerance: JUN 189 px (+6%), AUG 346 px (-3%)."
+  ]
+ },
+ "interior/ancient-egyptian-wall-painting-3": {
+  "key": "interior/ancient-egyptian-wall-painting-3",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [
+   "Open shelves hold stacked bowls, not stacked plates"
+  ],
+  "problems": [
+   "The Egyptian elements are there: whitewash with a red squared grid, flat blue, green and ochre fields, red-brown outlines, an ochre ground strip with red dot triplets and a blue zigzag water band at the bottom.",
+   "The drawing itself is a modern flat illustration rather than tomb painting. Chairs, table and sink are in three-quarter perspective with a foreshortened tabletop, where Egyptian convention would use composite profile or top views. The window opens onto a sky and a Mediterranean village with a cypress. The result reads as an Egyptian palette and texture over a contemporary picture-book kitchen.",
+   "Everything else in the motif is present and countable: window above the sink, 3 herb pots and a jar of wooden spoons on the sill, 2 mismatched chairs (blue and red), a half-finished jigsaw, teapot and one cup, a kettle on a two-burner stove, pasta and lentil jars, a radio, a wall calendar, a coat on a hook next to a second door, a newspaper on a chair, a bread bag on the counter and a tea towel on the oven handle. Nobody is present.",
+   "Correct landscape format (1536x1024). No logos, landmarks, signatures, gold, deities or hieroglyphs."
+  ],
+  "note_de": "Tisch, Stühle und Spüle sind in moderner Perspektive gezeichnet statt ägyptisch flach, und auf den Regalen stehen Schüsseln statt Teller.",
+  "note_en": "Table, chairs and sink are drawn in modern perspective rather than flat Egyptian views, and the shelves hold bowls instead of plates.",
+  "alt_de": "Ägyptisch anmutende Wandmalerei auf gekalktem Putz mit rotem Raster: leere Küche mit Kräutertöpfen am Fenster, Puzzle und Teekanne auf dem Tisch, Wasserkessel auf dem Herd, darunter blaues Zickzackwasser.",
+  "alt_en": "Egyptian-style wall painting on gridded whitewash: an empty kitchen with herb pots on the sill, jigsaw and teapot on the table, kettle on the stove, blue zigzag water below."
+ },
+ "interior/clay-animation-4": {
+  "key": "interior/clay-animation-4",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [
+   "The stove has three to four gas burners instead of two"
+  ],
+  "problems": [
+   "Clay texture with fingerprints and smears shows on the walls, table, chairs, stove, coat and calendar, so the set reads as clay animation.",
+   "Many materials are not modelled in clay. The glass jars are transparent, photoreal glass with reflections. The tap is shiny chrome and the bread bag is clear plastic. The window view is painted soft-focus. This breaks 'every part is clay' and 'avoid gloss'.",
+   "Warm, cosy tungsten lighting and many mixed, muted tones (sage green, several terracotta shades on the floor) push the image toward the generic AI cosy-diorama look. The style asks for a dozen plain shop colours under white studio lamps, 1970s-90s TV style.",
+   "The motif is otherwise complete: window above the sink, 3 herb pots and a spoon jar on the sill, 2 mismatched chairs (brown and blue), a half-done jigsaw, teapot and one cup, a blue kettle on the stove, stacked plates, pasta and lentil jars, a radio, a calendar, a coat on a hook next to a blue door, a newspaper on a chair, a bread bag on the counter and a tea towel on the oven handle. Nobody is present. The fridge, boots, rug and dish rack are extra clutter, which is acceptable.",
+   "Correct landscape format (1536x1024). No logos, known characters, landmarks or signatures."
+  ],
+  "note_de": "Gläser, Chromhahn und Brotbeutel wirken echt statt aus Knete geformt, und der Herd hat mehr als zwei Kochstellen.",
+  "note_en": "Glass jars, chrome tap and bread bag look real rather than modelled in clay, and the stove has more than two burners.",
+  "alt_de": "Kulisse aus Knete: leere Küche mit halb gelegtem Puzzle, Teekanne und Tasse auf einem knubbeligen Tisch, Kräutertöpfen am Fenster, blauem Kessel auf dem Herd und Jacke an der Tür.",
+  "alt_en": "Clay-animation set of an empty kitchen: a half-done jigsaw, teapot and cup on a lumpy table, herb pots on the sill, blue kettle on the stove, coat by the door."
+ },
+ "botanical/ancient-egyptian-wall-painting-3": {
+  "key": "botanical/ancient-egyptian-wall-painting-3",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [
+   "only three leaves instead of four (bitten, curled and one plain leaf present; fourth leaf missing)"
+  ],
+  "problems": [
+   "Only three leaves on the branch; motif asks for four (one curled, one bitten).",
+   "Style drift: rendering is a shaded naturalistic botanical watercolour (vein hatching, mottled fruit modelling, pink blush on petals) rather than flat Egyptian colour fields; the red grid and the dotted ochre ground strip carry the Egyptian look almost alone.",
+   "Elements float above the ground strip instead of standing on ruled ground lines; reads like a natural-history plate on gridded plaster.",
+   "A leafless side twig runs into the left flank of the fruit, looking like a second stalk.",
+   "Format correct (1024x1536 portrait); no logo, signature or watermark; five petals, bud, ripe lumpy fruit, lengthwise half with core and seeds, single seed and detached petal all present."
+  ],
+  "note_de": "Am Zweig fehlt ein Blatt, und die schattierte Malweise wirkt eher wie ein Botanikaquarell als wie flache ägyptische Wandmalerei.",
+  "note_en": "One leaf is missing from the branch, and the shaded painting reads more like a botanical watercolour than flat Egyptian wall painting.",
+  "alt_de": "Wandmalerei auf geweißtem Putz mit rotem Raster und ockerfarbenem Bodenstreifen: Quittenzweig mit Blüte, Knospe, angefressenem und eingerolltem Blatt und gelber Frucht, darunter Längsschnitt, Kern und Blütenblatt.",
+  "alt_en": "Wall painting on whitewashed plaster with red grid and ochre ground strip: quince branch with blossom, bud, bitten and curled leaf and yellow fruit; below, a halved fruit, seed and petal."
+ },
+ "botanical/clay-animation-4": {
+  "key": "botanical/clay-animation-4",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Style drift: petals carry soft pink blush gradients and the fruit an orange blush, against the brief of unmixed shop colours even from edge to edge.",
+   "Modelling is finely detailed and naturalistic (veined leaves, knobbly bark, realistic seeds), closer to a polished clay relief or sugarcraft than chunky, lopsided 1970s-90s children's TV claymation.",
+   "No front edge or painted card set visible; plain blue backdrop only.",
+   "Motif complete: four leaves (one curled, one bitten), five-petalled blossom, closed bud, lumpy ripe quince, lengthwise half with core and seeds, single seed, detached petal on empty ground.",
+   "Format correct (1024x1536 portrait); no logo, signature or watermark."
+  ],
+  "note_de": "Die zart verlaufenden Rosatöne und die feine, naturgetreue Modellierung entfernen sich vom groben, einfarbigen Knetfiguren-Look.",
+  "note_en": "Soft pink blushes and fine, lifelike modelling drift away from the chunky, single-colour plasticine look.",
+  "alt_de": "Knetrelief vor blauem Karton mit Fingerspuren: Quittenzweig mit rosa-weißer Blüte, Knospe, vier Blättern und gelber Frucht, darunter halbierte Quitte mit Kernen, ein Kern und ein Blütenblatt.",
+  "alt_en": "Modelling-clay relief on blue card with fingerprint texture: quince branch with pink-white blossom, bud, four leaves and yellow fruit; below, a halved quince with seeds, a seed and a petal."
+ },
+ "people/three-strip-technicolor-13": {
+  "key": "people/three-strip-technicolor-13",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [
+   "Woman presses the new plank with only one hand; the other rests on the old hull further up (minor)"
+  ],
+  "problems": [
+   "Style not achieved: reads as a gritty, hyper-detailed photorealistic/HDR digital image of a real seashore, i.e. the generic AI 'cinematic' look, not a 1940s Technicolor sound stage",
+   "Sea rendered as realistic breaking waves, not flat painted bands; no canvas backdrop meeting a studio floor in a straight line",
+   "Heavy grime, weathering and dirt on costumes, jetty, boat and toolbox, against the style's fresh costumes, clean set dressing and painted plywood",
+   "Pebbles and wood carry dense photographic micro-texture instead of satin-finished props",
+   "Saturated blue sea and sky dominate rather than the muted cream/grey/brown dye palette; only the sky clouds and the ruby-red vest hint at the style",
+   "Woman's kneeling pose is hidden behind the hull (not wrong, just not visible)",
+   "Format correct (1536x1024 landscape); hands and fingers clean; no logos, signatures or real landmarks seen"
+  ],
+  "note_de": "Wirkt wie ein körniges, fotorealistisches Digitalbild an echter Küste statt wie eine gemalte Technicolor-Studiokulisse.",
+  "note_en": "Looks like a gritty photorealistic digital image of a real coast rather than a painted Technicolor studio set.",
+  "alt_de": "Fotorealistisch und detailreich, mit gemaltem Himmel: Ein junger Mann mit Strickmütze nagelt eine Planke an ein umgedrehtes Boot, eine alte Frau in roter Weste drückt sie an; Steg, Möwen.",
+  "alt_en": "Gritty photorealism, painted sky: a young man in a knitted cap nails a plank to an upturned boat; an older woman in a red vest holds it. Jetty, gulls behind."
  }
 }
