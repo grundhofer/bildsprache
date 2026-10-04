@@ -82,7 +82,8 @@ COPY = {
    "eyebrow": "Lexikon", "h1": "{n} Bildstile",
    "lede": "Jeder Eintrag nennt Herkunft, Merkmale und einen englischen Prompt-Baustein, den du an eine eigene "
            "Motivbeschreibung anhängen kannst. Machbarkeit und Abstand zum KI-Look sind redaktionelle Einschätzungen. "
-           "Nur die Leitstile wurden mit Bildern geprüft.",
+           "Die Leitstile sind gründlich mit Bildern geprüft; zu {m} der übrigen Stile gibt es ein kleines Beispielbild, "
+           "kurz geprüft, bei Fehlschlag ein Neuversuch.",
    "search": "Stil, Epoche, Material …", "search_label": "Suchen", "entries_h": "Einträge", "only_lead": "nur Leitstile mit Bildern",
    "noscript": "Das Lexikon braucht JavaScript. Die Daten liegen auch als JSON im Repository (data/lexicon.json).",
   },
@@ -142,8 +143,14 @@ schon als Abweichung.</p>
 <h2>Lexikon</h2>
 <p>Das Lexikon mit {lex} Einträgen entstand in einer Recherche mit 32 KI-Agenten: 14 Fachgebiete von Fotografie bis
 Internetästhetik, danach Zusammenführung von Dubletten und drei Runden Lückensuche aus vier Blickwinkeln. Die Einträge
-wurden anschließend einzeln auf Plausibilität geprüft, aber nur die {lead} Leitstile auch im Bild. Machbarkeit und
+wurden anschließend einzeln auf Plausibilität geprüft, gründlich im Bild aber nur die {lead} Leitstile. Machbarkeit und
 Abstand zum KI-Look sind redaktionelle Einschätzungen, keine Messwerte.</p>
+<p>Zu {lex_images} der übrigen Stile gibt es ein kleines Beispielbild. Es entsteht aus dem Prompt-Baustein des Eintrags
+und einem von zwei einfachen Motiven: einer Leuchtturmwärterin mit Besen oder, bei Grafikdesign und Infografik, einem
+Infoblatt mit drei Punkten. Ein Prüfagent hat jedes Bild kurz angesehen: Ist der Stil erkennbar, ist das Motiv da, gibt
+es Logos oder erfundenen Text? Fiel ein Bild durch, gab es einen Neuversuch. {lex_flawed} Bilder zeigen eine dokumentierte
+Abweichung, {lex_failed} sind als Fehlversuch markiert; insgesamt waren es {lex_calls} Bildaufrufe. Die {lex_restricted}
+Einträge zu gemeinschaftsgebundenen Traditionen zeigen auf der Website weder Prompt-Baustein noch Bild.</p>
 <h2>Grenzen</h2>
 <ul>
 <li>Die Bilder sind nicht reproduzierbar. Der Katalog zeigt, was ein Prompt typischerweise bewirkt, nicht, was er garantiert.</li>
@@ -239,8 +246,8 @@ dasselbe für Benutzeroberflächen.</p>
    "title": "Lexicon: {n} image styles – Bildsprache", "desc": "{n} image styles with markers and a prompt fragment, searchable.",
    "eyebrow": "Lexicon", "h1": "{n} image styles",
    "lede": "Each entry gives the origin, the markers and an English prompt fragment you can append to your own motif "
-           "description. Feasibility and distance from the AI look are editorial judgements. Only the lead styles were "
-           "tested with images.",
+           "description. Feasibility and distance from the AI look are editorial judgements. The lead styles are tested "
+           "thoroughly with images; {m} of the other styles have a small example image, briefly reviewed, with one retry if it failed.",
    "search": "Style, period, material …", "search_label": "Search", "entries_h": "Entries", "only_lead": "lead styles with images only",
    "noscript": "The lexicon needs JavaScript. The data is also in the repository as JSON (data/lexicon.json).",
   },
@@ -298,8 +305,14 @@ a plaster on the wrong finger or four burners instead of two already count as a 
 <h2>Lexicon</h2>
 <p>The lexicon of {lex} entries comes from research with 32 AI agents: 14 fields from photography to internet
 aesthetics, followed by merging duplicates and three rounds of gap-finding from four perspectives. The entries were then
-checked one by one for plausibility, but only the {lead} lead styles were also tested with images. Feasibility and
+checked one by one for plausibility, but only the {lead} lead styles were tested thoroughly with images. Feasibility and
 distance from the AI look are editorial judgements, not measurements.</p>
+<p>{lex_images} of the other styles have a small example image. It is made from the entry's prompt fragment and one of
+two simple motifs: a lighthouse keeper with a broom or, for graphic design and infographics, an information sheet with
+three items. A review agent looked at each image briefly: is the style recognisable, is the motif there, are there logos
+or invented text? If an image failed, it got one retry. {lex_flawed} images show a documented deviation, {lex_failed}
+are marked as failed attempts; there were {lex_calls} image calls in total. The {lex_restricted} entries on
+community-bound traditions show neither a prompt fragment nor an image on the site.</p>
 <h2>Limits</h2>
 <ul>
 <li>The images cannot be reproduced. The catalogue shows what a prompt typically does, not what it guarantees.</li>

@@ -42,7 +42,7 @@ veröffentlichte Bild, dass sein Prompt genau so zusammengesetzt ist.
 
 - **[Motive](https://grundhofer.github.io/bildsprache/de/motive/):** 16 Grafiktypen, jeweils mit Basislinie und Stilraster, filterbar nach Kategorie.
 - **[Leitstile](https://grundhofer.github.io/bildsprache/de/stile/):** 115 Faktenblätter mit Herkunft, Merkmalen, Stilblock zum Kopieren und Quellen.
-- **[Lexikon](https://grundhofer.github.io/bildsprache/de/lexikon/):** 1.675 Stile in 14 Kategorien, jeweils mit Prompt-Baustein.
+- **[Lexikon](https://grundhofer.github.io/bildsprache/de/lexikon/):** 1.675 Stile in 14 Kategorien, jeweils mit Prompt-Baustein und, außer bei Leitstilen und gemeinschaftsgebundenen Traditionen, kleinem Beispielbild.
 - **[KI-Look & Hebel](https://grundhofer.github.io/bildsprache/de/hebel/):** typische Merkmale von KI-Bildern, jeweils mit Gegenhebel, und Stilhebel zu Licht, Optik, Komposition, Farbe und Schrift.
 - **[Methode](https://grundhofer.github.io/bildsprache/de/methode/):** wie Bilder und Texte entstanden, wie geprüft wurde und wo die Grenzen liegen.
 
@@ -68,6 +68,15 @@ python3 tools/manifest.py                # wählt pro Zelle die geprüfte Fassun
 python3 tools/optimize.py                # WebP-Dateien in images/
 ```
 
+Die Beispielbilder des Lexikons laufen über dasselbe Werkzeug:
+
+```sh
+python3 tools/lexicon.py plan jobs.json  # Lexikonstile ohne Beispielbild (--pilot, --category, --reroll)
+python3 tools/generate.py jobs.json      # erzeugt originals/lexicon/<stil>-<n>.png
+python3 tools/lexicon.py manifest        # wählt pro Stil die geprüfte Fassung (data/lexicon_qa.json)
+python3 tools/lexicon.py optimize        # WebP-Dateien in images/lexicon/
+```
+
 ## Projektaufbau
 
 | Pfad | Inhalt |
@@ -76,6 +85,7 @@ python3 tools/optimize.py                # WebP-Dateien in images/
 | `data/matrix.json` | Welcher Stil auf welchem Motiv erscheint |
 | `data/lexicon.json` | Alle Stile mit Kategorie, Merkmalen und Prompt-Baustein |
 | `data/qa.json` | Prüfergebnis jeder Bildfassung, auch der verworfenen |
+| `data/lexicon_motifs.json`, `data/lexicon_qa.json` | Motive und Prüfergebnisse der Lexikon-Beispielbilder |
 | `styles/*.json` | Zweisprachige Faktenblätter der Leitstile mit Stilblock |
 | `images/` | Veröffentlichte Bilder (WebP) und `manifest.json` mit Prompt und Metadaten je Bild |
 | `tools/` | Prompt-Baukasten, Generator, Planer, Prüfungen |

@@ -24,10 +24,10 @@ def dims(png):
     return int(out[out.index("pixelWidth:") + 1]), int(out[out.index("pixelHeight:") + 1])
 
 
-def convert(png, dest_base, force):
+def convert(png, dest_base, force, sizes=SIZES):
     w, h = dims(png)
     made = []
-    for suffix, (edge, q) in SIZES.items():
+    for suffix, (edge, q) in sizes.items():
         dest = dest_base.with_name(dest_base.name + suffix + ".webp")
         key = str(dest.relative_to(ROOT))
         if dest.exists() and not force and DONE.get(key) == png.name:

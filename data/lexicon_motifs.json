@@ -1,0 +1,33 @@
+{
+ "_comment": "Motive der Lexikon-Beispielbilder (tools/lexicon.py). Bewusst einfach, damit die Bilder auch klein lesbar bleiben. Kategorien in 'categories' bekommen das Infomotiv, alle anderen die Szene. Eine Änderung macht alle Lexikonbilder des Motivs ungültig.",
+ "categories": {
+  "infographic": "info",
+  "graphic-design": "info"
+ },
+ "default": "scene",
+ "motifs": [
+  {
+   "id": "scene",
+   "size": "1024x1024",
+   "figurative": true,
+   "name_de": "Leuchtturmwärterin",
+   "name_en": "Lighthouse keeper",
+   "text": [],
+   "motif_en": "On a rocky island shore, a lighthouse keeper, a woman of about 60 with short grey hair, wearing a thick blue wool sweater, stands in the open doorway of a small white lighthouse with a broom in her hand. A black-and-white dog sits beside her. A wooden rowing boat lies pulled up on the rocks, and two gulls fly over the sea. Viewpoint, light, time of day, season and framing are the style's choice."
+  },
+  {
+   "id": "info",
+   "size": "1024x1024",
+   "figurative": false,
+   "name_de": "Infoblatt",
+   "name_en": "Information sheet",
+   "text": [
+    "LORNHOLM",
+    "1 Ferry",
+    "2 Lighthouse",
+    "3 Market"
+   ],
+   "motif_en": "A one-page visitor information sheet for a fictional island, titled 'LORNHOLM' at the top. Three numbered items, each with one simple picture and one word: 1 'Ferry' (a small ferry boat), 2 'Lighthouse' (a lighthouse), 3 'Market' (a market stall with a striped awning). Layout, lettering, pictures and how the items are connected are the style's choice."
+  }
+ ]
+}

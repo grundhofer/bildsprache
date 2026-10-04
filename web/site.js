@@ -228,6 +228,19 @@
     var onlyLead = document.getElementById('lex-lead');
     var cats = Array.prototype.map.call(document.querySelectorAll('[data-lex-cat]'), function (c) { return c.dataset.lexCat; });
     var cat = '*', data = [], filtered = [], shown = 0, PAGE = 80;
+    var lexMotifs = {};
+    try { lexMotifs = JSON.parse(document.getElementById('lex-motifs').textContent); } catch (e) { /* ohne Beispielbilder */ }
+    // Beispielbild als Lightbox-Eintrag; den Prompt bilden Baustein, Motiv und Leitplanken wie beim Erzeugen.
+    function lexCell(s) {
+      var m = lexMotifs[s.ex.m] || {};
+      var parts = [['style', 'Style: ' + s.frag.trim()], ['motif', m.motif], ['guards', m.guards]];
+      return {
+        src: s.ex.src, alt: s.ex.alt, w: s.ex.w, h: s.ex.h, ar: s.ex.ar, title: s.name, href: s.page,
+        eyebrow: s.cat + ' · ' + s.fam, sub: s.ex.sub, parts: parts,
+        prompt: parts.map(function (p) { return p[1]; }).join('\n\n'), styleBlock: s.frag,
+        meta: s.ex.meta, note: s.ex.note, base: null
+      };
+    }
     var params = new URLSearchParams(location.search);
     if (params.get('q')) q.value = params.get('q');
     if (params.get('cat') && cats.indexOf(params.get('cat')) >= 0) cat = params.get('cat');
@@ -246,6 +259,18 @@
       a.appendChild(el('div', 'alt', s.alt));
       a.appendChild(el('div', 'fam', s.cat + ' · ' + s.fam));
       if (s.era) a.appendChild(el('div', 'dots', s.era));
+      if (s._cell != null) {
+        var ex = el('button', 'lx-ex'); ex.type = 'button'; ex.setAttribute('data-cell', s._cell);
+        ex.setAttribute('aria-label', t('showExample') + ': ' + s.name);
+        var im = el('img'); im.src = s.ex.thumb; im.alt = s.ex.alt; im.loading = 'lazy'; im.decoding = 'async';
+        im.width = 320; im.height = 320;
+        ex.appendChild(im);
+        if (s.ex.flag) {
+          ex.appendChild(el('span', 'flag warn', s.ex.flag));
+          ex.setAttribute('aria-label', t('showExample') + ': ' + s.name + ' (' + s.ex.flag + ')');
+        }
+        a.appendChild(ex);
+      }
       var b = el('div');
       if (s.desc) b.appendChild(el('p', 'desc', s.desc));
       if (s.markers && s.markers.length) b.appendChild(el('p', 'dots', s.markers.join(' · ')));
@@ -312,6 +337,10 @@
     fetch(lex.dataset.src).then(function (r) { return r.json(); }).then(function (rows) {
       data = rows;
       data.forEach(function (s) { s._idx = norm([s.name, s.alt, s.aka, s.cat, s.fam, s.desc, s.era, (s.markers || []).join(' '), s.frag].join(' ')); });
+      // cells gehört zur Lightbox oben; die Lexikonseite liefert dafür eine leere Liste mit.
+      if (typeof cells !== 'undefined' && cells) {
+        data.forEach(function (s) { if (s.ex && s.frag) { s._cell = cells.length; cells.push(lexCell(s)); } });
+      }
       return true;
     }, function () { tally.textContent = t('loadFailed'); return false; }).then(function (ok) {
       if (!ok) return;

@@ -61,7 +61,8 @@ def build(qa):
 def stats(images):
     """Zahlen für die Methodenseite. Die Originale liegen nicht im Repo, deshalb stehen die Summen im Manifest."""
     orig = ROOT / "originals"
-    metas = [p for p in orig.rglob("*.json") if not p.name.startswith(".")]
+    # originals/lexicon/ enthält die Lexikon-Beispielbilder (tools/lexicon.py), nicht Teil der Katalogzahlen.
+    metas = [p for p in orig.rglob("*.json") if not p.name.startswith(".") and p.relative_to(orig).parts[0] != "lexicon"]
     v1 = sum(1 for p in metas if "_v1" in p.parts)
     current = set()
     for t, s, lang, block in cells():

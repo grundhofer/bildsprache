@@ -128,9 +128,9 @@ a { color:var(--accent); text-underline-offset:3px; }
 .card figcaption b a:hover { color:var(--accent); text-decoration:underline; }
 .card figcaption span { font-family:var(--f-mono); font-size:11px; color:var(--ink-3); letter-spacing:.02em; }
 .card.base { border-style:dashed; border-color:var(--ink-3); }
-.card .flag { position:absolute; left:8px; top:8px; font:600 10.5px var(--f-mono); letter-spacing:.08em; text-transform:uppercase;
+.card .flag, .lx-ex .flag { position:absolute; left:8px; top:8px; font:600 10.5px var(--f-mono); letter-spacing:.08em; text-transform:uppercase;
   background:var(--ink); color:var(--ground); padding:3px 6px; }
-.card .flag.warn { background:var(--accent); color:var(--accent-ink); }
+.card .flag.warn, .lx-ex .flag.warn { background:var(--accent); color:var(--accent-ink); }
 .ar-landscape { --ar:3/2; } .ar-portrait { --ar:2/3; } .ar-square { --ar:1/1; }
 
 /* Reihe eines Stils über alle Motive (horizontal scrollbar) */
@@ -239,6 +239,9 @@ a.tag:hover { border-color:var(--accent); color:var(--accent); }
 .lx .frag { font-family:var(--f-mono); font-size:12px; color:var(--ink-2); background:var(--surface); padding:8px 10px; margin-top:6px; border-left:3px solid var(--accent); }
 .lx .row2 { display:flex; flex-wrap:wrap; gap:6px 12px; align-items:center; margin-top:6px; }
 .lx.hit { background:var(--accent-soft); padding-inline:10px; }
+.lx-ex { position:relative; display:block; width:min(100%, 200px); padding:0; margin-top:8px; border:1px solid var(--rule-soft); background:var(--surface); cursor:zoom-in; }
+.lx-ex img { display:block; width:100%; height:auto; }
+.lx-ex:hover, .lx-ex:focus-visible { border-color:var(--accent); }
 .lx .warn { font-size:13.5px; color:var(--ink-2); border-left:3px solid var(--brass); padding-left:8px; margin-top:6px; }
 .dots { font-family:var(--f-mono); font-size:11px; color:var(--ink-3); }
 .more { margin:20px 0; }

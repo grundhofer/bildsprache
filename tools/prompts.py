@@ -34,9 +34,10 @@ def motif_block(motif, lang="en"):
     return motif.get("motif_de") if lang == "de" and motif.get("motif_de") else motif["motif_en"]
 
 
-def compose(motif_id, style_block=None, lang="en"):
-    """Liefert (prompt, teile). teile dient der farbigen Prompt-Anatomie auf der Website."""
-    m = MOTIFS[motif_id]
+def compose(motif_id, style_block=None, lang="en", motifs=None):
+    """Liefert (prompt, teile). teile dient der farbigen Prompt-Anatomie auf der Website.
+    motifs: andere Motivliste, etwa die der Lexikon-Beispielbilder (data/lexicon_motifs.json)."""
+    m = (motifs or MOTIFS)[motif_id]
     parts = []
     if style_block:
         parts.append(("style", "Style: " + style_block.strip()))

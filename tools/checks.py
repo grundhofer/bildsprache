@@ -169,6 +169,63 @@ def check_texts(tells, levers):
     return errs
 
 
+def check_lexicon_images(root, lex, sheets):
+    """Lexikon-Beispielbilder: Prompt = Baustein + Lexikonmotiv + Leitplanken, Dateien vorhanden, keine gesperrten Stile."""
+    path = root / "images" / "lexicon" / "manifest.json"
+    lm = _load(root, "data/lexicon_motifs.json")
+    motifs = {m["id"]: m for m in lm["motifs"]}
+    errs = []
+    for m in lm["motifs"]:
+        if m.get("size") not in SIZES:
+            errs.append(f"Lexikonmotiv {m['id']}: ungültiges Format {m.get('size')}")
+        for t in m.get("text", []):
+            if not _text_in_block(t, m["motif_en"]):
+                errs.append(f"Lexikonmotiv {m['id']}: Text '{t}' steht nicht im Motivblock")
+    if lm["default"] not in motifs or any(v not in motifs for v in lm["categories"].values()):
+        errs.append("Lexikonmotive: Zuordnung verweist auf ein unbekanntes Motiv")
+    if not path.exists():
+        return errs
+    import sys
+    sys.path.insert(0, str(root))
+    from tools.prompts import compose
+    styles = {s["slug"]: s for s in lex["styles"]}
+    entries = json.loads(path.read_text(encoding="utf-8"))["images"]
+    for e in entries:
+        slug = e["slug"]
+        s = styles.get(slug)
+        if not s or s.get("verdict") in ("drop", "restrict") or slug in sheets:
+            errs.append(f"Lexikonbild {slug}: Stil darf kein Lexikonbild haben")
+            continue
+        mid = lm["categories"].get(s["category_id"], lm["default"])
+        if e.get("motif") != mid:
+            errs.append(f"Lexikonbild {slug}: falsches Motiv {e.get('motif')}")
+            continue
+        expected, parts = compose(mid, s["prompt_fragment"], "en", motifs=motifs)
+        if e["prompt"] != expected:
+            errs.append(f"Lexikonbild {slug}: Prompt weicht von Baustein und Motiv ab (neu erzeugen)")
+        if {k: v for k, v in parts} != e.get("parts"):
+            errs.append(f"Lexikonbild {slug}: Prompt-Teile passen nicht zum Prompt")
+        for suffix in ("", ".thumb"):
+            f = root / "images" / "lexicon" / f"{slug}{suffix}.webp"
+            if not f.exists():
+                errs.append(f"Lexikonbild {slug}: Datei fehlt {f.relative_to(root)}")
+        # Maße fehlen, solange die gewählte Fassung nicht umgewandelt ist; sonst läge noch die alte WebP-Datei bereit.
+        for f in ("generated_at", "width", "height", "attempt"):
+            if not e.get(f):
+                errs.append(f"Lexikonbild {slug}: Feld {f} fehlt (tools/lexicon.py optimize ausführen)")
+        size = motifs[mid]["size"]
+        if e.get("width") and e.get("height"):
+            want = int(size.split("x")[0]) / int(size.split("x")[1])
+            if abs(e["width"] / e["height"] - want) > 0.08:
+                errs.append(f"Lexikonbild {slug}: Seitenverhältnis {e['width']}x{e['height']} passt nicht zum Format {size}")
+    known = {e["slug"] for e in entries}
+    for f in sorted((root / "images" / "lexicon").glob("*.webp")):
+        slug = f.name.removesuffix(".webp").removesuffix(".thumb")
+        if slug not in known:
+            errs.append(f"Lexikonbild-Datei ohne Manifesteintrag: {f.relative_to(root)} (löschen)")
+    return errs
+
+
 def check_all(root):
     root = pathlib.Path(root)
     motifs = _load(root, "data/motifs.json")["motifs"]
@@ -181,4 +238,5 @@ def check_all(root):
     errs += check_matrix(matrix, motifs, sheets)
     errs += check_prompts(root, manifest, motifs, sheets)
     errs += check_texts(_load(root, "data/tells.json")["tells"], _load(root, "data/levers.json"))
+    errs += check_lexicon_images(root, lex, sheets)
     return errs

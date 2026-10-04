@@ -42,7 +42,7 @@ published image that its prompt is assembled exactly this way.
 
 - **[Motifs](https://grundhofer.github.io/bildsprache/en/motifs/):** 16 graphic types, each with a baseline and a style grid, filterable by category.
 - **[Lead styles](https://grundhofer.github.io/bildsprache/en/styles/):** 115 fact sheets with origin, markers, a copyable style block and sources.
-- **[Lexicon](https://grundhofer.github.io/bildsprache/en/lexicon/):** 1,675 styles in 14 categories, each with a prompt fragment.
+- **[Lexicon](https://grundhofer.github.io/bildsprache/en/lexicon/):** 1,675 styles in 14 categories, each with a prompt fragment and, apart from the lead styles and community-bound traditions, a small example image.
 - **[AI look & levers](https://grundhofer.github.io/bildsprache/en/levers/):** typical markers of AI images, each with a counter-lever, and style levers for light, optics, composition, colour and lettering.
 - **[Method](https://grundhofer.github.io/bildsprache/en/method/):** how images and texts were made, how they were checked and where the limits are.
 
@@ -68,6 +68,15 @@ python3 tools/manifest.py                # picks the reviewed version per cell (
 python3 tools/optimize.py                # WebP files in images/
 ```
 
+The lexicon example images use the same tool:
+
+```sh
+python3 tools/lexicon.py plan jobs.json  # lexicon styles without an example (--pilot, --category, --reroll)
+python3 tools/generate.py jobs.json      # writes originals/lexicon/<style>-<n>.png
+python3 tools/lexicon.py manifest        # picks the reviewed version per style (data/lexicon_qa.json)
+python3 tools/lexicon.py optimize        # WebP files in images/lexicon/
+```
+
 ## Project structure
 
 | Path | Contents |
@@ -76,6 +85,7 @@ python3 tools/optimize.py                # WebP files in images/
 | `data/matrix.json` | Which style appears on which motif |
 | `data/lexicon.json` | All styles with category, markers and prompt fragment |
 | `data/qa.json` | Review result for every image version, including discarded ones |
+| `data/lexicon_motifs.json`, `data/lexicon_qa.json` | Motifs and review results of the lexicon example images |
 | `styles/*.json` | Bilingual fact sheets of the lead styles with style block |
 | `images/` | Published images (WebP) and `manifest.json` with prompt and metadata per image |
 | `tools/` | Prompt builder, generator, planner, checks |

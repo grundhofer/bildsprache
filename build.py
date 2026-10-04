@@ -86,6 +86,10 @@ _MANIFEST = jload("images/manifest.json")
 MANIFEST = _MANIFEST["images"]
 STATS = _MANIFEST.get("stats", {})
 IMG = {(e["type"], e["style"], e.get("lang", "en")): e for e in MANIFEST}
+# Lexikon-Beispielbilder (tools/lexicon.py); fehlt das Manifest, zeigt das Lexikon keine Bilder.
+_LEXMAN = jload("images/lexicon/manifest.json") if (ROOT / "images" / "lexicon" / "manifest.json").exists() else {"images": []}
+LEXIMG = {e["slug"]: e for e in _LEXMAN["images"]}
+LEXMOTIFS = {m["id"]: m for m in jload("data/lexicon_motifs.json")["motifs"]}
 TELLS = jload("data/tells.json")["tells"]
 LEVERS = jload("data/levers.json")["levers"]
 AXES = jload("data/levers.json")["axes"]
@@ -122,6 +126,7 @@ UI = {
   "baseline": "Ohne Stilangabe", "baseline_2": "Ohne Stilangabe, zweiter Lauf",
   "images": "Bilder", "image": "Bild", "styles_n": "Stile", "lead_styles": "Leitstile", "motifs_n": "Motive",
   "in_lexicon": "Stile im Lexikon", "categories": "Kategorien", "all": "Alle",
+  "lex_example": "Beispielbild zum Prompt-Baustein: kurz geprüft, bei Fehlschlag ein Neuversuch, nicht so gründlich wie die Leitstile.",
   "copy_prompt": "Prompt kopieren", "copy_style": "Nur Stilblock kopieren", "copy_motif": "Motivblock kopieren",
   "copy_block": "Stilblock kopieren", "compare": "Neben „Ohne Stilangabe“ legen", "prev": "Vorheriges Bild", "next": "Nächstes Bild",
   "close": "Schließen", "download": "Bild öffnen",
@@ -142,6 +147,7 @@ UI = {
   "baseline": "No style given", "baseline_2": "No style given, second run",
   "images": "images", "image": "image", "styles_n": "styles", "lead_styles": "lead styles", "motifs_n": "motifs",
   "in_lexicon": "styles in the lexicon", "categories": "categories", "all": "All",
+  "lex_example": "Example image for the prompt fragment: briefly reviewed, with one retry if it failed, less thoroughly than the lead styles.",
   "copy_prompt": "Copy prompt", "copy_style": "Copy style block only", "copy_motif": "Copy motif block",
   "copy_block": "Copy style block", "compare": "Compare with “No style given”", "prev": "Previous image", "next": "Next image",
   "close": "Close", "download": "Open image",
@@ -161,13 +167,13 @@ JS_TEXT = {
         "baseline": "Ohne Stilangabe", "compareSlider": "Vergleich: Stil und Bild ohne Stilangabe",
         "part_style": "Stil", "part_motif": "Motiv", "part_guards": "Leitplanken",
         "copyFragment": "Baustein kopieren", "feasibility": "Machbarkeit", "distinct": "Abstand zum KI-Look",
-        "feas_high": "hoch", "feas_medium": "mittel", "feas_low": "niedrig", "withImages": "Leitstil mit Bildern", "noFragment": "Kein Prompt-Baustein: Diese Tradition ist an eine Gemeinschaft oder an religiöse Bedeutung gebunden. Der Eintrag dient nur zur Information.",
+        "feas_high": "hoch", "feas_medium": "mittel", "feas_low": "niedrig", "withImages": "Leitstil mit Bildern", "showExample": "Beispielbild ansehen", "noFragment": "Kein Prompt-Baustein: Diese Tradition ist an eine Gemeinschaft oder an religiöse Bedeutung gebunden. Der Eintrag dient nur zur Information.",
         "style": "Stil", "styles": "Stile", "showMore": "{n} weitere anzeigen", "loadFailed": "Lexikon konnte nicht geladen werden."},
  "en": {"copied": "Copied", "copyFailed": "Copy failed", "image": "image", "images": "images",
         "baseline": "No style given", "compareSlider": "Comparison: style and image without a style",
         "part_style": "Style", "part_motif": "Motif", "part_guards": "Guards",
         "copyFragment": "Copy fragment", "feasibility": "Feasibility", "distinct": "Distance from the AI look",
-        "feas_high": "high", "feas_medium": "medium", "feas_low": "low", "withImages": "Lead style with images", "noFragment": "No prompt fragment: this tradition is bound to a community or to religious meaning. The entry is for information only.",
+        "feas_high": "high", "feas_medium": "medium", "feas_low": "low", "withImages": "Lead style with images", "showExample": "View example image", "noFragment": "No prompt fragment: this tradition is bound to a community or to religious meaning. The entry is for information only.",
         "style": "style", "styles": "styles", "showMore": "Show {n} more", "loadFailed": "The lexicon could not be loaded."},
 }
 
@@ -699,7 +705,28 @@ def page_style(lang, slug):
     return write(page, "".join(out))
 
 
-def lexicon_rows(lang):
+def lex_example(slug, lang, page):
+    """Beispielbild eines Lexikonstils für Liste und Lightbox; Prompt-Teile setzt site.js aus Baustein und Motiv zusammen."""
+    e = LEXIMG.get(slug)
+    if not e:
+        return None
+    ui = UI[lang]
+    qa = e.get("qa") or {}
+    disc = e.get("discarded", 0)
+    att_txt = (f"{disc + 1}" + (f" ({disc} verworfen)" if lang == "de" else f" ({disc} discarded)")) if disc else "1"
+    return {
+        "src": rel(page, f"images/lexicon/{slug}.webp"), "thumb": rel(page, f"images/lexicon/{slug}.thumb.webp"),
+        "w": e.get("width"), "h": e.get("height"), "ar": AR[e["size"]], "m": e["motif"],
+        "alt": e.get(f"alt_{lang}", ""), "sub": ui["lex_example"],
+        "flag": ui["failed"] if qa.get("verdict") == "fail" else "",
+        "meta": [[ui["tool"], "Codex CLI · image_gen (OpenAI)"], [ui["date"], e["generated_at"][:10]],
+                 [ui["format"], f"{e.get('width')}×{e.get('height')}"], [ui["attempt"], att_txt]],
+        "note": (ui["failed" if qa.get("verdict") == "fail" else "flawed"] + ": " + qa[f"note_{lang}"])
+                if qa.get(f"note_{lang}") and qa.get("verdict") in ("fail", "flawed") else "",
+    }
+
+
+def lexicon_rows(lang, page):
     rows = []
     for s in LEXDATA["styles"]:
         if s.get("verdict") == "drop":
@@ -721,8 +748,15 @@ def lexicon_rows(lang):
             "feas": s["feasibility"], "dist": s["distinctiveness"],
             "sens": s[f"sensitivity_{lang}"] if f"sensitivity_{lang}" in s else (s["sensitivity_note"] if lang == "en" else ""),
             "page": ("../" + SEG["styles"][lang] + "/" + s["slug"] + "/") if s["slug"] in STYLES else None,
+            "ex": None if s.get("verdict") == "restrict" else lex_example(s["slug"], lang, page),
         })
     return rows
+
+
+def lex_motif_parts():
+    """Motiv- und Leitplankenteil je Lexikonmotiv; tools/checks.py stellt sicher, dass Baustein + diese Teile den Prompt ergeben."""
+    from tools.prompts import compose
+    return {mid: {k: v for k, v in compose(mid, None, "en", motifs=LEXMOTIFS)[1]} for mid in LEXMOTIFS}
 
 
 def page_lexicon(lang):
@@ -732,13 +766,13 @@ def page_lexicon(lang):
     data_rel = rel(page, f"data/lexicon.{lang}.json")
     (DOCS / "data").mkdir(parents=True, exist_ok=True)
     (DOCS / "data" / f"lexicon.{lang}.json").write_text(
-        json.dumps(lexicon_rows(lang), ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        json.dumps(lexicon_rows(lang, page), ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     chips = (f'<button type="button" class="chip" data-lex-cat="*" aria-pressed="true">{ui["all"]}</button>' +
              "".join(f'<button type="button" class="chip" data-lex-cat="{c_["id"]}" aria-pressed="false">{h(c_["name_" + lang])}</button>'
                      for c_ in CATS))
     out = [head(lang, page, c["title"].replace("{n}", num(N_LEX, lang)), c["desc"].replace("{n}", num(N_LEX, lang)), "lexicon"),
            f'<section class="mast"><div class="wrap mast-in"><div><p class="eyebrow">{c["eyebrow"]}</p>'
-           f'<h1>{c["h1"].replace("{n}", num(N_LEX, lang))}</h1><p class="lede">{c["lede"]}</p></div></div></section>',
+           f'<h1>{c["h1"].replace("{n}", num(N_LEX, lang))}</h1><p class="lede">{c["lede"].replace("{m}", num(len(LEXIMG), lang))}</p></div></div></section>',
            f"""<section class="sec" id="lexicon" data-src="{data_rel}"><div class="wrap">
 <h2 class="sr-only">{c['entries_h']}</h2>
 <div class="bar"><label class="ctl-label" for="lex-q">{c['search_label']}</label>
@@ -750,6 +784,7 @@ def page_lexicon(lang):
 <button type="button" class="btn more" id="lex-more" hidden></button>
 <noscript><p>{c['noscript']}</p></noscript>
 </div></section>""",
+           lightbox(lang) + jscript([], "cells-data") + jscript(lex_motif_parts(), "lex-motifs"),
            foot(lang, page)]
     return write(page, "".join(out))
 
@@ -825,8 +860,9 @@ def pilot_label(stem, lang):
 
 
 def method_stats():
-    dates = [e["generated_at"][:10] for e in MANIFEST] or ["–"]
-    versions = sorted({e.get("codex_version", "") for e in MANIFEST if e.get("codex_version")}) or ["Codex CLI"]
+    allimg = MANIFEST + list(LEXIMG.values())
+    dates = [e["generated_at"][:10] for e in allimg] or ["–"]
+    versions = sorted({e.get("codex_version", "") for e in allimg if e.get("codex_version")}) or ["Codex CLI"]
     return {
         "images": N_IMAGES, "calls": STATS.get("calls", N_IMAGES), "v1": STATS.get("pilot_v1", 0),
         "superseded": STATS.get("superseded", 0), "rerolls": STATS.get("rerolls", 0),
@@ -834,6 +870,10 @@ def method_stats():
         "failed": sum(1 for e in MANIFEST if (e.get("qa") or {}).get("verdict") == "fail"),
         "passed": sum(1 for e in MANIFEST if (e.get("qa") or {}).get("verdict") == "pass"),
         "lead": N_LEAD, "lex": N_LEX, "motifs": len(MOTIFS),
+        "lex_images": len(LEXIMG), "lex_calls": _LEXMAN.get("stats", {}).get("calls", len(LEXIMG)),
+        "lex_flawed": sum(1 for e in LEXIMG.values() if e["qa"]["verdict"] == "flawed"),
+        "lex_failed": sum(1 for e in LEXIMG.values() if e["qa"]["verdict"] == "fail"),
+        "lex_restricted": sum(1 for s in LEX_PUBLIC if s.get("verdict") == "restrict"),
         "first": min(dates), "last": max(dates), "codex": versions[-1],
     }
 
@@ -903,6 +943,13 @@ def copy_assets():
         for suffix in ("", ".thumb"):
             src = ROOT / "images" / e["type"] / f"{e['style']}{lang}{suffix}.webp"
             dst = DOCS / "images" / e["type"] / src.name
+            dst.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copyfile(src, dst)
+            n += 1
+    for slug in LEXIMG:
+        for suffix in ("", ".thumb"):
+            src = ROOT / "images" / "lexicon" / f"{slug}{suffix}.webp"
+            dst = DOCS / "images" / "lexicon" / src.name
             dst.parent.mkdir(parents=True, exist_ok=True)
             shutil.copyfile(src, dst)
             n += 1
