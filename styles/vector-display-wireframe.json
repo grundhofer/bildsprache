@@ -1,0 +1,68 @@
+{
+ "slug": "vector-display-wireframe",
+ "style_block": "A vector-scan arcade monitor, USA, c. 1977–1985: a beam plotting lines point to point. Medium: thin even glowing strokes, white or pale green, on pure black; bright vertex dots, slight bloom; no fills, shading, texture or scanlines. Composition: the screen fills the frame; separate low-polygon models in empty black, not a traced scene; one jagged polyline horizon as flat backdrop; ground bare black; depth only from model size, no layered terrain or haze; each object a see-through wireframe of under twenty straight segments, back edges visible; trees as cones on sticks, buildings as boxes with prism roofs, arches as angled polylines, slopes as parallel lines, water as a dashed strip, people as stick figures, flying things as chevrons. Lettering, where text is needed: small straight-stroke capitals, same line weight, along the top edge. Avoid curves, leaves, bricks, ripples, grass, hatching, foreground framing, synthwave suns and grids, neon tubes, arcade cabinets.",
+ "de": {
+  "name": "Vektorbildschirm-Grafik",
+  "aka": [
+   "Vektormonitor-Grafik",
+   "Vektorspiel-Grafik",
+   "Drahtgittergrafik"
+  ],
+  "era": "1977 bis Mitte der 1980er-Jahre, USA",
+  "summary": "Dünne, leuchtende Linien auf schwarzem Grund, Körper als durchsichtige Drahtgitter; im Katalog, weil die Technik keine Flächen kennt und das Bild auf wenige Linien im Dunkel reduziert.",
+  "origin": "Ein Vektorbildschirm führt den Elektronenstrahl einer Kathodenstrahlröhre auf beliebigen Bahnen von Punkt zu Punkt und zeichnet das Bild aus Linien, statt es Zeile für Zeile aus einem Raster aufzubauen; solche Anzeigen gab es seit den 1950er-Jahren am Whirlwind-Rechner des MIT und im Luftverteidigungssystem SAGE, und 1963 nutzte Ivan Sutherland einen Vektorbildschirm für sein Zeichenprogramm Sketchpad. Ende 1977 lieferte Cinematronics Space Wars aus, das erste käuflich erhältliche Videospiel mit Vektorgrafik, von Larry Rosenthal nach dem Vorbild des Computerspiels Spacewar! entwickelt; es wurde der meistverkaufte Videospielautomat des Jahres 1978. Atari setzte seinen Vektorgenerator QuadraScan, auch Digital Vector Generator genannt, zuerst in Lunar Lander und dann in Asteroids (1979) ein, das mit über 70.000 verkauften Geräten Ataris meistverkaufter Spielautomat wurde. Battlezone (1980) zeigte auf einem Schwarz-Weiß-Vektorbildschirm Panzer und geometrische Körper als Drahtgittermodelle vor einem Horizont aus Bergen mit ausbrechendem Vulkan; eine farbige Folie tönte die unteren vier Fünftel grün und das obere Fünftel mit Punktestand und Radar rot. Farbige Vektorbildschirme mit Lochmaske, bei Atari Color-QuadraScan genannt, liefen unter anderem in Tempest und Star Wars, die Heimkonsole Vectrex hatte einen eingebauten Vektorbildschirm, und in Spielautomaten hielt sich die Technik bis Mitte der 1980er-Jahre.",
+  "markers": [
+   "Dünne, gleichmäßig breite Leuchtlinien auf reinem Schwarz; keine gefüllten Flächen, keine Schattierung, keine Oberflächenstruktur",
+   "Körper als durchsichtige Drahtgittermodelle aus wenigen geraden Strecken; verdeckte Kanten auf der Rückseite bleiben sichtbar, Rundungen werden zu Vielecken",
+   "Linien weiß oder blassgrün; Farbe allenfalls durch eine durchscheinende Folie in waagerechten Streifen oder, bei Farbgeräten, durch wenige gesättigte Linienfarben",
+   "Hellere Punkte an Linienenden und Eckpunkten, einzelne Leuchtpunkte, leichtes Überstrahlen; kein Pixelraster, keine sichtbaren Bildzeilen",
+   "Weit auseinanderstehende Gegenstände in viel leerem Schwarz; Tiefe nur durch Perspektive, der Boden bleibt dunkel, der Horizont ist eine einzige gezackte Kontur",
+   "Buchstaben und Ziffern aus geraden Strichen in derselben Linienstärke wie die Zeichnung, meist klein am oberen Bildrand"
+  ],
+  "escapes": "Bildgeneratoren neigen zu gefüllten, weich ausgeleuchteten Flächen, Farbverläufen, Dunst in der Tiefe, vielen Details und einem mittig gestellten Hauptmotiv. Auf dem Vektorbildschirm gibt es keine Flächen und keine Beleuchtung, nur Linien auf Schwarz; Tiefe entsteht allein aus Perspektive und Linienlänge, und jeder Gegenstand muss auf ein Gerüst aus wenigen Strecken reduziert werden. Damit ändert sich der Aufbau des Bildes, nicht nur seine Farbe.",
+  "pitfalls": "Modelle füllen die Drahtgitter gern mit Flächen, blenden verdeckte Kanten aus oder legen so viele Linien an, dass ein dichtes Netz entsteht; Bäume, Wald und Wasser geraten leicht zu weichen Kurven statt zu Vielecken, oder sie fallen bei motivreichen Szenen ganz weg. Häufig kippt das Bild in die Synthwave-Ästhetik mit pinkfarbener Sonnenscheibe und regelmäßigem Bodenraster, in dicke Leuchtlinien wie aus Neonröhren oder in Pixelgrafik mit Bildzeilen. Manche Ergebnisse zeigen statt des Bildschirminhalts einen Spielautomaten im Raum. Am häufigsten zeichnet das Modell eine gewöhnliche naturalistische Landschaft mit gestaffelten Hügeln, Laub, Mauerwerk und Wellen und kehrt sie nur in Leuchtlinien auf Schwarz um, wie eine invertierte Federzeichnung; der Vektorbildschirm bleibt dann Oberfläche, statt den Bildaufbau zu bestimmen.",
+  "tip": "Für jeden Gegenstand wenige gerade Strecken verlangen und ausdrücklich schreiben: durchsichtiges Drahtgitter mit sichtbaren Rückkanten, keine gefüllten Flächen, Boden und Himmel bleiben schwarz. Landschaftselemente als Zeichen vorgeben: Bäume als Kegel, Häuser als Kästen mit Prismendach, Wasser als gestrichelter Streifen.",
+  "sensitivity": "Namen wie Atari, Asteroids, Battlezone oder Star Wars sind Marken; Spielfiguren, Raumschiffe oder Panzer bestimmter Spiele sollen nicht nachgebildet und erzeugte Bilder nicht als Bildschirmfoto eines echten Spiels ausgegeben werden."
+ },
+ "en": {
+  "name": "Vector display graphics",
+  "aka": [
+   "vector monitor graphics",
+   "vector arcade graphics",
+   "wireframe vector graphics"
+  ],
+  "era": "1977 to mid-1980s, USA",
+  "summary": "Thin glowing lines on black, solid bodies as see-through wireframes; in the catalog because the technique has no surfaces and reduces the image to a few lines in the dark.",
+  "origin": "A vector display steers the electron beam of a cathode-ray tube along arbitrary paths from point to point and draws the image from lines instead of building it row by row from a raster; such displays were used from the 1950s on MIT's Whirlwind computer and in the SAGE air defence system, and in 1963 Ivan Sutherland used a vector display for his drawing program Sketchpad. At the end of 1977 Cinematronics shipped Space Wars, the first commercially available video game with vector graphics, developed by Larry Rosenthal after the computer game Spacewar!; it became the best-selling coin-operated video game of 1978. Atari used its vector generator QuadraScan, also called the Digital Vector Generator, first in Lunar Lander and then in Asteroids (1979), which with more than 70,000 units sold became Atari's best-selling arcade game. Battlezone (1980) showed tanks and geometric solids as wireframe models in front of a mountainous horizon with an erupting volcano on a black-and-white vector monitor; a coloured overlay tinted the lower four fifths green and the top fifth, with score and radar, red. Shadow-mask colour vector monitors, which Atari called Color-QuadraScan, were used in Tempest and Star Wars among others, the Vectrex home console had a built-in vector screen, and in arcade machines the technology lasted until the mid-1980s.",
+  "markers": [
+   "Thin glowing lines of even width on pure black; no filled surfaces, no shading, no surface texture",
+   "Solid bodies as see-through wireframe models of a few straight segments; hidden back edges stay visible, curves become polygons",
+   "Lines white or pale green; colour only through a translucent overlay in horizontal bands or, on colour machines, a few saturated line colours",
+   "Brighter dots at line ends and vertices, single glowing points, slight bloom; no pixel grid, no visible scan lines",
+   "Widely spaced objects in a lot of empty black; depth only from perspective, the ground left dark, the horizon a single jagged outline",
+   "Letters and digits made of straight strokes in the same line weight as the drawing, usually small along the top edge"
+  ],
+  "escapes": "Image generators tend towards filled, softly lit surfaces, colour gradients, haze in the distance, lots of detail and a centred main subject. A vector display has no surfaces and no lighting, only lines on black; depth comes only from perspective and line length, and every object has to be reduced to a frame of a few segments. That changes the structure of the image, not just its colour.",
+  "pitfalls": "Models like to fill the wireframes with surfaces, remove hidden edges or add so many lines that a dense mesh results; trees, forest and water easily turn into smooth curves instead of polygons, or drop out altogether in busy scenes. The image often drifts into synthwave with a pink sun disc and a regular ground grid, into thick lines like neon tubes or into pixel art with scan lines. Some results show an arcade cabinet in a room instead of the screen content. Most often the model draws an ordinary naturalistic landscape with layered hills, foliage, masonry and ripples and merely inverts it into glowing lines on black, like a reversed pen drawing; the vector screen then stays a surface instead of deciding how the picture is built.",
+  "tip": "Ask for a few straight segments per object and state explicitly: see-through wireframe with back edges visible, no filled surfaces, ground and sky stay black. Prescribe landscape elements as signs: trees as cones, houses as boxes with prism roofs, water as a dashed strip.",
+  "sensitivity": "Names such as Atari, Asteroids, Battlezone or Star Wars are trademarks; characters, ships or tanks from specific games should not be copied, and generated images should not be passed off as screenshots of a real game."
+ },
+ "sources": [
+  {
+   "title": "Vector monitor – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Vector_monitor"
+  },
+  {
+   "title": "Cinematronics – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cinematronics"
+  },
+  {
+   "title": "Asteroids (video game) – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Asteroids_(video_game)"
+  },
+  {
+   "title": "Battlezone (1980 video game) – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Battlezone_(1980_video_game)"
+  }
+ ]
+}

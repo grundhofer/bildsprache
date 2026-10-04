@@ -1,0 +1,67 @@
+{
+ "slug": "clay-animation",
+ "style_block": "A frame from a clay-animation series for European children's television, 1970s–1990s. Medium: all matte modelling clay, unmixed colours, fingerprints, tool scores, lint; no real wood, water, stone, fur, plants, food. Figures and objects: kneaded lumps, ball heads, sausage limbs, mitten hands, bead eyes; hair, feathers, wrinkles: scored lines. Composition: even outdoors, a shallow tabletop stage: clay ground, figures side by side or in profile, nearby painted backdrop for anything distant; no depth, haze or blur; set edges visible; camera at figure height; white studio lamps, small hard shadows. Water: flat clay, pressed ripples, clay-bead drops; trees: clay balls on sticks; houses: clay blocks; hills: painted flats. Lettering, where text is needed: flat-pressed clay-snake letters, thick, legible. Information, where a diagram, map or chart is shown: clay relief on a board; arrows, columns to scale, symbol tiles. Avoid naturalistic miniatures, tilt-shift, bokeh, golden light, CG clay, lifelike faces, famous clay characters.",
+ "de": {
+  "name": "Knetanimation",
+  "aka": [
+   "Knetfigurentrick",
+   "Claymation"
+  ],
+  "era": "ab 1908, USA; Blütezeit im Fernsehen 1970er bis 1990er Jahre, Europa und USA",
+  "summary": "Knetfiguren mit Fingerabdrücken in einer Tischkulisse, fotografiert als Einzelbild eines Trickfilms; im Katalog, weil Handarbeit, klobige Formen und nüchternes Studiolicht der glatten KI-Oberfläche widersprechen.",
+  "origin": "Knetanimation arbeitet mit nicht trocknender Knetmasse auf Ölbasis, die in Deutschland auf den Münchner Apotheker Franz Kolb (1880, „Kunst-Modellierthon“) und in England auf den Kunstlehrer William Harbutt aus Bath (1897, „Plasticine“) zurückgeht. Die Figuren werden meist um ein Drahtskelett modelliert, in einer Miniaturkulisse aufgestellt und Bild für Bild fotografiert, zwischen den Aufnahmen von Hand ein wenig verändert; bei 24 Bildern pro Sekunde und zwei Bildern je Phase sind zwölf Veränderungen für eine Sekunde Film nötig. 1908 zeigten Trickfilme wie „The Sculptor’s Nightmare“ Büsten aus Ton, die sich selbst formen und bewegen, Willie Hopkins drehte von 1916 bis 1918 über fünfzig Beiträge „Miracles in Mud“ für das wöchentliche Kinomagazin „Universal Screen Magazine“, und Helena Smith Dayton zeigte 1917 ihre ersten Knetfilme. In den 1950er Jahren brachte Art Clokey die Technik mit „Gumby“ ins amerikanische Fernsehen; Will Vinton, der 1975 mit dem gemeinsam mit Bob Gardiner in Portland gedrehten Kurzfilm „Closed Mondays“ einen Oscar gewann, ließ später das Wort „Claymation“ als Marke schützen. Von den 1970er bis in die 1990er Jahre gehörten Knetfiguren fest zum europäischen Kinderfernsehen, etwa in den Serien „Mio Mao“ (Italien), „Plonsters“ (Deutschland) und „Pingu“ (Schweiz) oder mit der Figur Morph (Großbritannien).",
+  "markers": [
+   "matte Knetmasse mit Fingerabdrücken, Wischspuren, Kerben von Modellierwerkzeugen und Fusseln",
+   "klobige, vereinfachte Figuren: Kugelköpfe, wurstförmige Arme und Beine, Hände wie Fäustlinge, Knopfaugen",
+   "ungemischte Knetfarben, stellenweise marmoriert, wo zwei Farben zusammengeknetet wurden",
+   "Tischkulisse aus Karton, Stoff und Knete mit Klebestellen, sichtbarem Rand und gemaltem Hintergrund",
+   "feste Kamera auf Höhe der Figuren, halbtotale Einstellung, Figuren nebeneinander oder im Profil",
+   "neutrales weißes Studiolicht mit kleinen, harten Schatten, die ganze Kulisse scharf"
+  ],
+  "escapes": "Der Stil setzt der glatten, porenlosen Oberfläche und den glänzenden, aufgeblasenen 3D-Formen, an denen man KI-Bilder erkennt, sichtbare Handarbeit entgegen: Jede Fläche trägt Fingerabdrücke, Werkzeugkerben und Staub. Feste Kamera, neutrales Studiolicht und eine bühnenartige Anordnung ersetzen goldenes Gegenlicht, unscharfen Hintergrund und die mittig inszenierte Hauptfigur, und Diagramme werden als Knetrelief auf einem Brett gebaut statt als Kachelraster gesetzt.",
+  "pitfalls": "Am häufigsten kippt der Bildaufbau in eine naturalistische Szene mit Raumtiefe, Horizont und echtem Wasser, Holz, Laub und Essen, fotografiert wie ein Miniaturdiorama mit Unschärfe, in der nur die Figuren aus Knete sind. Das Modell rutscht leicht in ein glattes 3D-Rendering mit bloßer Knetoptik, in pastellfarbene, glänzende Symbolgrafik oder in eine Tilt-Shift-Miniatur mit warmem Licht und starker Hintergrundunschärfe. Bei Gesichtern neigt es zu gegossenen Silikonpuppen mit feinen Zügen oder zu Anlehnungen an bekannte Knetfiguren aus Film und Werbung. Buchstaben und Ziffern aus Knetwürsten geraten oft unleserlich oder fallen weg; Wörter und Zahlen deshalb einzeln prüfen.",
+  "tip": "Fingerabdrücke, Werkzeugkerben und Fusseln ausdrücklich nennen und Licht und Schärfe physisch beschreiben („neutrale weiße Studiolampen, kleine harte Schatten, ganze Kulisse scharf“), statt Stimmungswörter wie „gemütlich“ zu verwenden, die das Modell zu warmem Licht und Unschärfe verleiten. Den Raum als flache Tischbühne mit gemaltem Hintergrund beschreiben und sagen, was aus Landschaftselementen in Knete wird (Wasser als flache Kneteplatte mit eingedrückten Wellen, Bäume als Knetkugeln auf Stöcken, Hügel als gemalte Kulissen); sonst gibt das Modell die Umgebung naturalistisch wieder.",
+  "sensitivity": "„Claymation“ wurde von Will Vinton als Marke geschützt; als Gattungsbegriff „Knetanimation“ verwenden. Bekannte Knetfiguren aus Film, Fernsehen und Werbung sind urheber- und markenrechtlich geschützt und sollen nicht nachgebildet werden."
+ },
+ "en": {
+  "name": "Clay animation",
+  "aka": [
+   "claymation",
+   "plasticine animation",
+   "clay stop-motion"
+  ],
+  "era": "from 1908, USA; television heyday 1970s to 1990s, Europe and USA",
+  "summary": "Clay figures with fingerprints in a tabletop set, photographed as one frame of a stop-motion film; included because handwork, chunky forms and plain studio light contradict the smooth AI surface.",
+  "origin": "Clay animation uses non-drying, oil-based modelling clay, which goes back in Germany to the Munich pharmacist Franz Kolb (1880, “Kunst-Modellierthon”) and in England to the Bath art teacher William Harbutt (1897, Plasticine). Figures are usually sculpted around a wire armature, set up in a miniature set and photographed one frame at a time, moved slightly by hand between exposures; at 24 frames per second, shot on twos, one second of film needs twelve changes. In 1908 trick films such as The Sculptor’s Nightmare showed clay busts forming and moving by themselves, Willie Hopkins made more than fifty Miracles in Mud segments for the weekly Universal Screen Magazine from 1916 to 1918, and Helena Smith Dayton screened her first clay films in 1917. In the 1950s Art Clokey brought the technique to American television with Gumby; Will Vinton, who won an Academy Award in 1975 for Closed Mondays, made with Bob Gardiner in Portland, later had the word “Claymation” trademarked. From the 1970s to the 1990s clay figures were a regular part of European children’s television, for example in the series Mio Mao (Italy), Plonsters (Germany) and Pingu (Switzerland) or with the character Morph (Britain).",
+  "markers": [
+   "matte clay with fingerprints, smears, sculpting-tool scores and specks of lint",
+   "chunky simplified figures: ball heads, sausage limbs, mitten hands, bead eyes",
+   "unmixed clay colours, marbled in places where two colours were kneaded together",
+   "tabletop set of card, fabric and clay with glue seams, a visible edge and a painted backdrop",
+   "fixed camera at figure height, medium-wide framing, figures side by side or in profile",
+   "neutral white studio light with small hard shadows, the whole set in focus"
+  ],
+  "escapes": "The style sets visible handwork against the smooth, poreless surface and the glossy, inflated 3D shapes that give AI images away: every surface carries fingerprints, tool marks and dust. A fixed camera, neutral studio light and stage-like arrangement replace golden backlight, blurred backgrounds and the centred hero, and diagrams are built as clay relief on a board instead of being set as a tile grid.",
+  "pitfalls": "The most frequent drift is structural: a naturalistic scene with deep space, a horizon and real water, wood, foliage and food, photographed like a miniature diorama with soft focus, in which only the figures are clay. The model easily slides into a smooth 3D render with a mere clay look, into glossy pastel icon graphics, or into a tilt-shift miniature with warm light and heavy background blur. With faces it tends towards cast silicone puppets with fine features or towards echoes of well-known clay characters from film and advertising. Letters and numbers rolled from clay often come out illegible or go missing, so check every word and figure.",
+  "tip": "Ask explicitly for fingerprints, tool scores and lint, and describe light and focus physically (“neutral white studio lamps, small hard shadows, whole set in focus”) instead of mood words such as “cosy”, which pull the model towards warm light and blur. Describe the space as a shallow tabletop stage with a painted backdrop and say what landscape elements become in clay (water as a flat clay sheet with pressed ripples, trees as clay balls on sticks, hills as painted flats); otherwise the model renders the surroundings naturalistically.",
+  "sensitivity": "“Claymation” was trademarked by Will Vinton; use “clay animation” as the generic term. Well-known clay characters from film, television and advertising are protected by copyright and trademark and should not be reproduced."
+ },
+ "sources": [
+  {
+   "title": "Claymation – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Claymation"
+  },
+  {
+   "title": "Knetanimation – Wikipedia",
+   "url": "https://de.wikipedia.org/wiki/Knetanimation"
+  },
+  {
+   "title": "Will Vinton – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Will_Vinton"
+  },
+  {
+   "title": "Plasticine – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Plasticine"
+  }
+ ]
+}

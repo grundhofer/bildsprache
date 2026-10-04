@@ -1,0 +1,70 @@
+{
+ "slug": "four-color-newsprint-comic",
+ "style_block": "A 1950s American four-colour comic book page on newsprint. Medium: pen and brush in India ink, bold swelling contours, solid black shadows; flat cyan, magenta and yellow tints; skin, sky and other pale areas in fine, even dot screens; slightly off-register colour, unprinted slivers beside black lines; yellowed paper, spread ink, fibre specks. Composition: wide opening panel on top, then two or three tiers of black-bordered panels of unequal width, unprinted gutters, read left to right; close, foreshortened views, flat backgrounds. Lettering, where text is needed: even hand-inked capitals in yellow caption boxes; title in bold, outlined, slanted display letters with drop shadow. Information, where a diagram, map or chart is shown: one step per panel, number and word in its corner caption box. Avoid gradients, airbrush, white paper, uniform icon-tile grids and oversized pop-art dots; no invented balloons, sound effects or words; no superhero costumes or emblems.",
+ "de": {
+  "name": "Amerikanisches Comicheft im Vierfarbdruck",
+  "aka": [
+   "Golden-Age-Comic",
+   "Silver-Age-Comic",
+   "Vierfarb-Comic",
+   "Comic mit Ben-Day-Raster"
+  ],
+  "era": "1938 bis um 1970, USA",
+  "summary": "Kräftig getuschte Bildfelder in flächigen Cyan-, Magenta- und Gelbtönen mit feinen Rasterpunkten auf vergilbtem Zeitungspapier; im Katalog, weil billiger Druck und Bildfolge an die Stelle der glatten KI-Darstellung treten.",
+  "origin": "Das moderne amerikanische Comicheft entstand 1933/34 mit „Funnies on Parade“ und „Famous Funnies“, Heften auf Zeitungspapier, die Zeitungscomics farbig nachdruckten; die erste Nummer der monatlichen Reihe „Famous Funnies“ (Juli 1934) kostete zehn Cent. Mit dem ersten Auftritt von Superman in „Action Comics“ 1938 begann das Golden Age, ab 1956 folgte das Silver Age, dessen Ende meist um 1970 angesetzt wird. Die Seiten wurden mit Bleistift vorgezeichnet, mit Feder und Pinsel in Tusche ausgeführt und von Hand beschriftet; danach kolorierten Koloristen Kopien der getuschten Seiten mit flüssigen Farbstoffen und notierten darauf die Farbwerte, die dem Chemigrafen als Vorlage für die Farbauszüge der einzelnen Druckplatten dienten. Hellere und gemischte Töne entstanden mit den Punktrastern des Verfahrens, das der Illustrator und Drucker Benjamin Henry Day Jr. 1879 entwickelt hatte: Weit auseinanderliegende Magentapunkte ergaben Rosa, ineinandergreifende Cyan- und Gelbpunkte ein mittleres Grün. In den 1960er-Jahren vergrößerte Roy Lichtenstein (1923–1997) diese Punkte in seinen Gemälden und machte den billigen Comicdruck zum Motiv der Pop-Art.",
+  "markers": [
+   "Kräftige schwarze Pinselkonturen, die an- und abschwellen, dazu geschlossene schwarze Schattenflächen",
+   "Gleichmäßig gefüllte Farbflächen in wenigen Tonstufen von Cyan, Magenta und Gelb, ohne Verläufe",
+   "Feine, gleichmäßige Punktraster in hellen Flächen wie Haut und Himmel",
+   "Leichter Passerversatz: Die Farbe greift über die schwarze Kontur, daneben bleibt ein schmaler Streifen Papier unbedruckt",
+   "Vergilbtes, saugfähiges Zeitungspapier mit verlaufener Farbe und Faserpünktchen",
+   "Rechteckige Bildfelder mit Zwischenräumen, von Hand geschriebene Großbuchstaben in gelben Textkästen"
+  ],
+  "escapes": "Die übliche KI-Illustration zeigt glänzende, wie mit der Spritzpistole modellierte Körper, weiche Verläufe, Leuchteffekte und einen sauberen weißen oder dunklen Grund. Hier ist jede Form von einer schwarzen Pinselkontur umschlossen und mit einer einzigen, flächig gedruckten Farbe gefüllt, und das Papier selbst ist billig, vergilbt und fehlerhaft. Bei einer Infografik ersetzt der Stil die gewohnten gleichmäßigen Symbolkacheln durch nummerierte Bildfelder unterschiedlicher Breite, die sich wie eine kurze Bildgeschichte lesen.",
+  "pitfalls": "Modelle vergrößern die Rasterpunkte gern auf das Maß von Pop-Art-Gemälden, legen sie wie einen digitalen Rasterfilter gleichmäßig über das ganze Bild oder setzen eine heutige Digitalkolorierung mit Verläufen und Glanzlichtern unter die Punktstruktur. Außerdem fügen sie erfundene Sprechblasen, Lautmalereien und falsch geschriebene Wörter hinzu und schmuggeln Superheldenposen, Umhänge und Brustembleme ein. Bei Ablaufgrafiken ist zu prüfen, ob jeder Schritt in einem eigenen Bildfeld in der richtigen Lesereihenfolge steht und die Bildfelder nicht zu gleich großen Symbolkacheln schrumpfen.",
+  "tip": "Die Punkte als feines Raster nur in hellen Flächen verlangen, dunkle und kräftige Flächen als geschlossene Vollfarbe, und festlegen, dass im Bild nur der vorgegebene Titel, die vorgegebenen Beschriftungen und Zahlen stehen, Nummer und Wort jedes Schritts in einem gelben Textkasten.",
+  "sensitivity": "Superheldenkostüme, Brustembleme, Titelschriftzüge, Verlagslogos und die Umschlaggestaltung der Hefte dieser Zeit sind vielfach als Marken oder urheberrechtlich geschützt und gehören weder ins Bild noch in den Prompt. Manche Hefte jener Jahre enthalten rassistische Karikaturen und Kriegspropaganda, die der Stil nicht übernehmen darf."
+ },
+ "en": {
+  "name": "Four-color newsprint comic",
+  "aka": [
+   "Golden Age comic",
+   "Silver Age comic",
+   "four-color comic book",
+   "Ben-Day comic"
+  ],
+  "era": "1938 to c. 1970, USA",
+  "summary": "Boldly inked panels in flat cyan, magenta and yellow tints with fine dot screens on yellowed newsprint; in the catalog because cheap print and panel sequence replace glossy AI rendering.",
+  "origin": "The modern American comic book appeared in 1933–34 with Funnies on Parade and Famous Funnies, newsprint booklets that reprinted newspaper strips in colour; the first issue of the monthly Famous Funnies (July 1934) sold for ten cents. Superman's debut in Action Comics in 1938 opened the Golden Age, followed from 1956 by the Silver Age, usually taken to end around 1970. Pages were pencilled, inked with pen and brush in India ink and lettered by hand; colourists then coloured copies of the inked pages with liquid dyes and marked the colour values on them as a guide for the engraver, who made the colour separations for the individual printing plates. Lighter and mixed tones came from the dot screens of the process developed in 1879 by the illustrator and printer Benjamin Henry Day Jr.: widely spaced magenta dots gave pink, interleaved cyan and yellow dots a medium green. In the 1960s Roy Lichtenstein (1923–1997) enlarged these dots in his paintings and made cheap comic printing a motif of Pop Art.",
+  "markers": [
+   "Bold black brush contours that swell and taper, with solid black shadow shapes",
+   "Flat colour areas in a few tint steps of cyan, magenta and yellow, without gradients",
+   "Fine, even dot screens in light areas such as skin and sky",
+   "Slight misregistration: colour slips over the black contour, leaving a strip of bare paper beside it",
+   "Yellowed, absorbent newsprint with spread ink and fibre specks",
+   "Rectangular panels with gutters, hand-lettered capitals in yellow caption boxes"
+  ],
+  "escapes": "The default AI illustration shows glossy, airbrushed volumes, soft gradients, glow and a clean white or dark ground. Here every form is a black brush contour holding one flat printed colour, and the paper itself is cheap, yellowed and flawed. For an infographic the style replaces the familiar evenly spaced icon tiles with numbered panels of different widths that read like a short picture story.",
+  "pitfalls": "Models tend to enlarge the dots to the scale of Pop Art paintings, lay them evenly over the whole image like a digital halftone filter, or put present-day digital colouring with gradients and highlights under the dot texture. They also add invented speech balloons, sound effects and misspelled words, and slip in superhero poses, capes and chest emblems. In process graphics, check that each step sits in its own panel in the correct reading order and that the panels do not shrink into identical icon tiles.",
+  "tip": "Ask for the dots as a fine screen in light areas only, with dark and saturated areas as solid flat colour, and state that the only words in the picture are the given title, labels and numbers, with each step's number and word in a yellow caption box.",
+  "sensitivity": "Superhero costumes, chest emblems, title logos, publisher logos and the cover trade dress of this period are often protected as trademarks or by copyright and belong neither in the picture nor in the prompt. Some comics of those years contain racist caricatures and wartime propaganda, which the style must not adopt."
+ },
+ "sources": [
+  {
+   "title": "American comic book – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/American_comic_book"
+  },
+  {
+   "title": "Eastern Color Printing – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Eastern_Color_Printing"
+  },
+  {
+   "title": "Colorist – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Colorist"
+  },
+  {
+   "title": "Ben-Day process – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ben-Day_process"
+  }
+ ]
+}

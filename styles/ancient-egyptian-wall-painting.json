@@ -1,0 +1,66 @@
+{
+ "slug": "ancient-egyptian-wall-painting",
+ "style_block": "Tomb-chapel wall painting, Thebes, Egypt, about 1400 BC. Medium: Egyptian blue, green, ochres and soot black on whitewashed plaster; flat fills, freehand red-brown outlines; flaking surface. Composition: no perspective, horizon, sky, shadow or modelling; ruled ground lines in stacked registers on plain whitewash; distance means higher, not smaller. Schematic figures: profile head and legs, frontal eye and shoulders, even close up; men red-brown, women pale ochre. Objects: flat side views, never foreshortened; contents piled above their table or vessel. Landscape as signs: zigzag-lined blue water panels, dotted-hump hills, rows of identical trees, flat building fronts. Lettering, where text is needed: one-colour brush capitals and numerals in ruled boxes. Information, where a diagram, map or chart is shown: steps as successive registers; quantities as counted rows of identical objects; maps as top-view plans, buildings and trees in profile. Avoid landscape depth, three-quarter views, hero framing, souvenir-papyrus gold, deities and hieroglyphs.",
+ "de": {
+  "name": "Altägyptische Wandmalerei",
+  "aka": [
+   "Ägyptische Grabmalerei",
+   "Thebanische Grabmalerei"
+  ],
+  "era": "um 2600–1000 v. Chr., Ägypten; Theben um 1400 v. Chr.",
+  "summary": "Flache Mineralfarben auf trockenem Putz, Figuren in Aspektive auf Standlinien in übereinanderliegenden Registern: eine Bildordnung, die Szenen, Listen und Karten anders gliedert als das übliche KI-Bild.",
+  "origin": "Die Bildregeln der ägyptischen Flachbildkunst, etwa Aspektive und Bedeutungsgröße, blieben über Jahrtausende weitgehend gleich und galten für Relief wie Malerei; am bekanntesten sind die bemalten Beamtengräber der 18. Dynastie in Theben-West. Im Grab des Nacht (TT52, um 1400 v. Chr.) ebnete man die roh behauene Felswand mit Lehm und Häcksel, trug eine Schicht aus Gips und Mörtel und eine dünne Gipsschicht auf und tünchte sie weiß; gemalt wurde, wie in ägyptischen Gräbern üblich, auf den trockenen Grund (Secco) und nicht wie beim echten Fresko in den feuchten Putz. Der Maler legte größere Darstellungen mit Quadratnetzen an, zog Geraden mit in Farbe getauchten, gegen die Wand geschnellten Schnüren, füllte die Flächen mit Ocker, Ruß, weißen Mineralien und dem künstlich hergestellten Ägyptisch Blau und zog die Konturen zuletzt rotbraun nach. Die Malereien aus der Grabkapelle des Nebamun (um 1350 v. Chr.) wurden um 1820 von der Wand gelöst und 1821 von Henry Salt an das British Museum verkauft. Die Maler arbeiteten meist arbeitsteilig in Gruppen; ihre Namen sind nur selten überliefert.",
+  "markers": [
+   "Aspektive: Kopf und Beine im Profil, Auge und Schultern von vorn",
+   "Register: Szenen auf gezogenen Standlinien in übereinanderliegenden Bildstreifen",
+   "Bedeutungsgröße: die wichtigste Person ist am größten dargestellt",
+   "Flache Mineralfarben ohne Schattierung, mit rotbraunen oder schwarzen Konturen",
+   "Feste Hautfarben: Männer rotbraun, Frauen ockergelb",
+   "Gemischte Ansichten: Teiche und Wasserflächen von oben, Fische, Vögel und Bäume darum herum von der Seite"
+  ],
+  "escapes": "Der Stil kennt weder Zentralperspektive noch Lichtquelle, Schatten, Unschärfe oder Farbverläufe; damit fehlen das weiche Kinolicht, der unscharfe Hintergrund und die glänzenden 3D-Oberflächen, an denen man KI-Bilder erkennt. Statt der mittigen Heldenfigur oder des Kachelrasters gliedern Register und Bedeutungsgröße das Bild, sodass Infografik, Karte und Diagramm ihren Aufbau ändern und nicht nur ihre Oberfläche.",
+  "pitfalls": "Modelle greifen schnell zum Touristenpapyrus mit Goldgrund, Lapisblau, Göttern mit Tierköpfen und erfundenen Hieroglyphen, die jede freie Fläche füllen. Häufiger noch bleibt darunter das gewohnte naturalistische Bild stehen: eine Landschaft mit Horizont, Himmel und Tiefe, Möbel und Gefäße in Schrägansicht mit ovalen Rändern, modellierte Körper; Ägyptisch sind dann nur Bordüre, Farben und abblätternder Putz. Die Aspektive kippt oft in eine gewöhnliche Dreiviertelansicht mit plastischer Schattierung, und für Brustbilder gibt es in der Wandmalerei kaum Vorbilder, weil Figuren dort in der Regel vollständig gezeigt werden. Bei Text und Zahlen prüfen, dass keine zusätzlichen Schriftkolumnen erscheinen.",
+  "tip": "Die Regeln beschreiben (Aspektive, Standlinien, Register, feste Hautfarben, Bedeutungsgröße) statt nur „ägyptisch“ zu schreiben, denn das Wort allein ruft Pharaonen, Gold und Götter ab. Ausdrücklich sagen, was fehlt (kein Horizont, kein Himmel, keine Verkürzung) und wie Ferne gezeigt wird: ein Register höher, nicht kleiner.",
+  "sensitivity": "Viele Grabbilder haben religiöse und funeräre Bedeutung; Götterfiguren, Totengericht und heilige Zeichen sollten nicht als Dekor oder Werbung dienen und sind hier ausgeschlossen. Die festen Hautfarben sind eine Bildkonvention nach Geschlecht und keine Aussage über Herkunft."
+ },
+ "en": {
+  "name": "Ancient Egyptian wall painting",
+  "aka": [
+   "Egyptian tomb painting",
+   "Theban tomb painting"
+  ],
+  "era": "c. 2600–1000 BC, Egypt; Thebes c. 1400 BC",
+  "summary": "Flat mineral colours on dry plaster, composite-view figures on ground lines in stacked registers: a pictorial order that structures scenes, lists and maps differently from the AI default.",
+  "origin": "The pictorial rules of Egyptian two-dimensional art, such as composite view and hierarchical scale, stayed largely unchanged for millennia and applied to relief and painting alike; best known are the painted officials' tombs of the 18th Dynasty in western Thebes. In the tomb of Nakht (TT52, c. 1400 BC) the roughly hewn rock wall was levelled with mud and chopped straw, covered with a layer of gypsum and mortar and a thin gypsum coat, and whitewashed; as usual in Egyptian tombs, the paint went onto the dry ground (secco), not into wet plaster as in true fresco. The painter laid out larger scenes on squared grids, snapped paint-soaked cords against the wall for straight lines, filled the areas with ochre, soot, white minerals and the synthetic pigment Egyptian blue, and finally redrew the contours in red-brown. The paintings from the tomb-chapel of Nebamun (c. 1350 BC) were removed from the wall around 1820 and sold to the British Museum by Henry Salt in 1821. Painters usually worked in groups with divided tasks, and their names have rarely survived.",
+  "markers": [
+   "Composite view: head and legs in profile, eye and shoulders seen from the front",
+   "Registers: scenes on ruled ground lines in stacked horizontal bands",
+   "Hierarchical scale: the most important person is drawn largest",
+   "Flat mineral colours without shading, with red-brown or black outlines",
+   "Conventional skin colours: men red-brown, women ochre yellow",
+   "Mixed viewpoints: ponds and water surfaces seen from above, fish, birds and trees around them from the side"
+  ],
+  "escapes": "The style has no linear perspective, light source, shadows, blur or gradients, so the soft cinematic light, blurred backgrounds and glossy 3D surfaces that give AI images away have no place in it. Registers and hierarchical scale replace the centred hero figure and the tile grid, so infographic, map and chart change their structure, not just their surface.",
+  "pitfalls": "Models quickly reach for souvenir papyrus with gold ground, lapis blue, animal-headed gods and invented hieroglyphs filling every empty space. More often the usual naturalistic picture survives underneath: a landscape with horizon, sky and depth, furniture and vessels in oblique view with elliptical rims, modelled bodies; only the border, the colours and the flaking plaster are Egyptian. The composite view often slips into an ordinary three-quarter view with modelled shading, and head-and-shoulders crops have hardly any precedent in wall painting, because figures there are normally shown complete. With text and numbers, check that no extra columns of signs appear.",
+  "tip": "Describe the rules (composite view, ground lines, registers, fixed skin colours, hierarchical scale) instead of just writing 'Egyptian', because the word alone summons pharaohs, gold and gods. Say explicitly what is missing (no horizon, no sky, no foreshortening) and how distance is shown: in a higher register, not smaller.",
+  "sensitivity": "Many tomb images carry religious and funerary meaning; gods, the judgement of the dead and sacred signs should not serve as decoration or advertising and are excluded here. The fixed skin colours are a pictorial convention by gender, not a statement about anyone's origin."
+ },
+ "sources": [
+  {
+   "title": "Grab des Nacht (TT52) – Wikipedia",
+   "url": "https://de.wikipedia.org/wiki/Grab_des_Nacht_(TT52)"
+  },
+  {
+   "title": "Tomb of Nebamun – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tomb_of_Nebamun"
+  },
+  {
+   "title": "Altägyptische Kunst – Wikipedia",
+   "url": "https://de.wikipedia.org/wiki/Alt%C3%A4gyptische_Kunst"
+  },
+  {
+   "title": "Fresco – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fresco"
+  }
+ ]
+}

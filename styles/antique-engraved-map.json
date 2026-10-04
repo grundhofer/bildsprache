@@ -1,0 +1,68 @@
+{
+ "slug": "antique-engraved-map",
+ "style_block": "A hand-coloured copperplate map from a Flemish or Dutch atlas, c. 1570–1700. Medium: burin-cut lines printed black on laid paper with plate mark; fine hatching, no wash; thin watercolour bands of green, rose and yellow tracing coasts, cartouche fully coloured, sea uncoloured; colour overrunning lines, foxing, centre fold. Composition: land fills the plate within a ruled degree-scale border; ripple lines hug coasts, sea stippled; hills as shaded side-view molehills, woods as tiny trees, towns as miniature roofs; strapwork title cartouche in a corner. Lettering, where text is needed: engraved, widely spaced roman capitals for the title; slanting italic for places. Information, where a diagram, map or chart is shown: hierarchy by letter size, not colour fills; 32-point compass rose, fleur-de-lis north, rhumb lines crossing the sea; scale bar under dividers. Avoid coffee-stained fantasy parchment, burnt edges, 3D relief, drop shadows, invented Latin inscriptions, human figures in the cartouche.",
+ "de": {
+  "name": "Kupferstichkarte",
+  "aka": [
+   "Altkarte",
+   "alte Landkarte",
+   "kolorierte Atlaskarte"
+  ],
+  "era": "16.–18. Jh., Europa; Blüte in Antwerpen und Amsterdam",
+  "summary": "In Kupfer gestochene Landkarte mit feiner Schraffur, schmalen Farbsäumen an den Küsten, Titelkartusche und Windrose; im Katalog als gedrucktes Gegenstück zur KI-Fantasykarte auf verbranntem Pergament.",
+  "origin": "Atlaskarten des 16. bis 18. Jahrhunderts wurden mit dem Grabstichel in Kupferplatten gestochen, im Tiefdruck schwarz gedruckt und danach von Koloristen – in den Niederlanden „afzetters“ genannt – von Hand mit Wasserfarbe koloriert, bei Landkarten oft nur als farbige Linie entlang der Grenzen. 1570 erschien in Antwerpen das „Theatrum Orbis Terrarum“ des Kartografen Abraham Ortelius, der als Kartenkolorist begonnen hatte; es gilt als erster moderner Atlas, und fast alle seiner 53 Karten, einheitlich in Stil und Format, stach Frans Hogenberg. Joan Blaeus „Atlas Maior“, 1662–1672 in Amsterdam erschienen, umfasste 594 Karten und gilt als das größte und teuerste Buch des 17. Jahrhunderts. Titel, Maßstab und Widmung standen in ornamentalen Kartuschen, die im Barock ihre Blütezeit hatten und gegen Ende des 18. Jahrhunderts zu schlichten Ovalen wurden oder ganz entfielen.",
+  "markers": [
+   "Schwarze Grabstichellinien mit feiner Schraffur statt Tonflächen; um das Bild der eingeprägte Plattenrand",
+   "Handkolorit mit Wasserfarbe: schmale Säume in Grün, Rosa und Gelb entlang von Küsten und Grenzen, die Kartusche flächig koloriert, das Meer unkoloriert",
+   "Titelkartusche aus Rollwerk in einer Ecke, Maßstabsleiste mit Stechzirkel in einem kleineren Rahmen",
+   "Windrose mit Lilie als Nordzeichen, Rumbenlinien über das Meer gezogen, auf freien Wasserflächen Schiffe oder Seeungeheuer",
+   "Berge als schattierte Hügel in Seitenansicht (sogenannte Maulwurfshügel), Wälder als winzige Bäume, Orte als kleine Häusergruppen; parallele Wellenlinien säumen die Küsten",
+   "Gestochene, weit gesperrte Antiqua-Versalien für den Titel, Kursive für Ortsnamen; Größe und Art der Schrift bestimmen die Rangfolge"
+  ],
+  "escapes": "Das übliche KI-Bild einer alten Karte ist braunes, fleckiges Pergament mit verbrannten Rändern, eine mittig schwebende Insel mit weichem Schlagschatten und plastisch modelliertes Relief. Die gedruckte Atlaskarte arbeitet mit schwarzen Linien auf hellem Papier: Tonwerte entstehen durch Schraffur, Farbe erscheint nur als schmaler, von Hand aufgetragener Saum, und die Ordnung ergibt sich aus Größe und Art der Schrift statt aus Farbflächen und Piktogrammen im App-Stil.",
+  "pitfalls": "Das Modell verfällt leicht in das Klischee der Fantasykarte mit teegefärbtem Pergament, eingerissenen Rändern und erfundenen lateinischen oder runenartigen Inschriften und verteilt das Kolorit flächig über das Land statt in schmalen Säumen. Die gestochene Schrift wird gern zu einer modernen Antiqua oder zu Fraktur, und die Ränder füllen sich mit zusätzlichem Schmuck wie Putten, allegorischen Figuren und erfundenen Beischriften. Zu prüfen ist, ob die Schraffur scharf und schwarz bleibt und alle Beschriftungen genau stimmen.",
+  "tip": "Das Grenzkolorit ausdrücklich beschreiben, etwa „nur schmale Wasserfarbensäume entlang der Küsten, Meer unkoloriert“; sonst färbt das Modell das Land vollflächig ein oder tönt das ganze Blatt braun.",
+  "sensitivity": "Historische Atlaskarten spiegeln in Ortsnamen und Bildern koloniale Ansprüche wider. Kartuschen zeigten Menschen anderer Erdteile oft als exotisches Beiwerk; deshalb bleibt die Titelkartusche hier ohne menschliche Figuren."
+ },
+ "en": {
+  "name": "Antique engraved map",
+  "aka": [
+   "copperplate map",
+   "antique map",
+   "hand-coloured atlas map"
+  ],
+  "era": "16th–18th centuries, Europe; heyday in Antwerp and Amsterdam",
+  "summary": "A copperplate map with fine hatching, thin colour bands along coasts, title cartouche and compass rose; in the catalog as the printed counterpart to the AI's burnt-parchment fantasy map.",
+  "origin": "Atlas maps of the 16th to 18th centuries were engraved into copper plates with a burin, printed in black by intaglio and then coloured by hand in watercolour by colourists (in the Netherlands called 'afzetters'), who on maps often added only a coloured line along the borders. In 1570 the Theatrum Orbis Terrarum by the cartographer Abraham Ortelius, who had started out as a map colourist, appeared in Antwerp; it is regarded as the first modern atlas, and almost all of its 53 maps, uniform in style and size, were engraved by Frans Hogenberg. Joan Blaeu's Atlas Maior, issued in Amsterdam in 1662–1672, contained 594 maps and is regarded as the largest and most expensive book of the 17th century. Title, scale and dedication sat in ornamental cartouches, which had their heyday in the Baroque and towards the end of the 18th century were reduced to simple ovals or dropped altogether.",
+  "markers": [
+   "Black burin lines with fine hatching instead of tonal areas; the plate mark pressed into the paper around the image",
+   "Hand colouring in watercolour: thin bands of green, rose and yellow along coasts and borders, the cartouche coloured in full, the sea left uncoloured",
+   "Strapwork title cartouche in one corner, scale bar with dividers in a smaller frame",
+   "Compass rose with a fleur-de-lis marking north, rhumb lines drawn across the sea, ships or sea creatures in open stretches of water",
+   "Hills as shaded mounds in side view (so-called molehills), woods as tiny trees, towns as small clusters of buildings; parallel ripple lines edge the coasts",
+   "Engraved, widely spaced roman capitals for the title, italic for place names; size and style of the letters set the hierarchy"
+  ],
+  "escapes": "The usual AI picture of an old map is brown, stained parchment with burnt edges, an island floating in the centre with a soft drop shadow, and sculpted 3D relief. The printed atlas map works with black lines on pale paper: tone comes from hatching, colour only as a thin hand-applied band, and order from the size and style of the lettering rather than from coloured areas and app-style icons.",
+  "pitfalls": "The model easily slides into the fantasy-map cliché of tea-stained parchment, torn edges and invented Latin or runic inscriptions, and spreads the colour across whole land areas instead of keeping it to narrow bands. The engraved lettering tends to turn into a modern serif or blackletter, and the margins fill up with extra ornament such as cherubs, allegorical figures and invented captions. Check that the hatching stays crisp and black and that every label is spelled exactly.",
+  "tip": "Describe the outline colouring explicitly, for example 'only thin watercolour bands along the coasts, sea left uncoloured'; otherwise the model floods the land with colour or tints the whole sheet brown.",
+  "sensitivity": "Historic atlas maps reflect colonial claims in their place names and imagery. Cartouches often showed people from other continents as exotic decoration; for that reason the title cartouche here stays free of human figures."
+ },
+ "sources": [
+  {
+   "title": "Theatrum Orbis Terrarum – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Theatrum_Orbis_Terrarum"
+  },
+  {
+   "title": "Afzetter – Wikipedia (nl)",
+   "url": "https://nl.wikipedia.org/wiki/Afzetter"
+  },
+  {
+   "title": "Atlas Maior – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Atlas_Maior"
+  },
+  {
+   "title": "Cartouche (cartography) – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cartouche_(cartography)"
+  }
+ ]
+}

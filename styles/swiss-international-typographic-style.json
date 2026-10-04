@@ -1,0 +1,68 @@
+{
+ "slug": "swiss-international-typographic-style",
+ "style_block": "A Swiss printed poster or page from Zurich or Basel, 1950s–60s. Medium: flat opaque inks on white paper; black plus one or two strong colours; pictures as hard-cropped black-and-white photographs or pure circles and arcs. Composition: an invisible four- or six-column grid fixes every edge of image and type; asymmetric placement, large empty fields; one shape repeated or scaled in rhythm; nothing centred. Lettering, where text is needed: one neo-grotesque sans-serif in two or three sizes, flush left, ragged right; the main word huge, near full width; small lines hung on one column edge. Information, where a diagram, map or chart is shown: flush-left figures, thin rules, one-colour bars; hierarchy by size and position, never boxes or icons. Avoid centred hero framing, a sun disc over a horizon, gradients, shadows, invented small print, drawn grid lines, national crosses, gridless minimalism and the heavy bars of 1920s New Typography.",
+ "de": {
+  "name": "Schweizer Typografie",
+  "aka": [
+   "Internationaler Typografischer Stil",
+   "Swiss Style",
+   "Schweizer Stil"
+  ],
+  "era": "um 1950–1970, Zürich und Basel",
+  "summary": "Plakate und Drucksachen mit Raster, linksbündiger Groteskschrift in starkem Größenkontrast und viel Weißraum; im Katalog, weil ein Raster statt der üblichen Mittelachse Bild und Schrift ordnet.",
+  "origin": "Die Schweizer Typografie baute auf der Neuen Typografie der 1920er-Jahre auf und nahm in den 1950er-Jahren in Zürich und Basel Gestalt an. Vorbereitet hatten sie Lehrer wie Ernst Keller, der ab 1918 an der Kunstgewerbeschule Zürich einen Lehrgang für Grafik und Typografie aufbaute, und Emil Ruder, der ab 1942 an der Allgemeinen Gewerbeschule Basel unterrichtete und ab 1947 mit Armin Hofmann zusammenarbeitete. Josef Müller-Brockmann gestaltete ab 1950 Konzertplakate für die Zürcher Tonhalle, auf denen er die Ordnung der Musik in Maßstab, Rhythmus und Wiederholung übersetzte; 1958 gründete er mit Richard Paul Lohse, Hans Neuburg und Carlo Vivarelli die Zeitschrift „Neue Grafik“. Gesetzt wurde in Groteskschriften, vor allem in der Akzidenz-Grotesk aus den 1890er-Jahren; auf ihr aufbauend entwarf Max Miedinger mit Eduard Hoffmann 1956–1957 für die Haas’sche Schriftgießerei in Münchenstein bei Basel die Neue Haas Grotesk, die später unter dem Namen Helvetica vertrieben wurde. Ab den 1960er-Jahren übernahmen Unternehmen und Institutionen, vor allem in den USA, den Stil für ihr Erscheinungsbild; 1981 fasste Müller-Brockmann die Arbeit mit dem Gestaltungsraster in seinem Buch „Rastersysteme für die visuelle Gestaltung“ zusammen.",
+  "markers": [
+   "Ein Gestaltungsraster aus Spalten und Zeilen, das an den gemeinsamen Kanten von Bild und Schrift ablesbar ist",
+   "Eine einzige Groteskschrift in wenigen Größen, gesetzt im linksbündigen Flattersatz",
+   "Starker Größenkontrast zwischen einem sehr großen Hauptwort und kleinen Textzeilen",
+   "Asymmetrische Anordnung mit großen, bewusst leer gelassenen Flächen",
+   "Sachliche Schwarz-Weiß-Fotografie in harten Ausschnitten oder reine geometrische Formen, oft rhythmisch wiederholt",
+   "Schwarz und Weiß mit höchstens einer oder zwei flächigen Farben, ohne jeden Schmuck"
+  ],
+  "escapes": "Ohne Stilangabe baut das Modell ein Plakat aus einem mittig gesetzten, weich gemalten Bild mit Sonnenscheibe über dem Horizont und stapelt den Text zentriert darüber und darunter, oft mit Verläufen und Schatten. Die Schweizer Typografie ersetzt die Mittelachse durch ein Raster, an dem Schrift und Bild asymmetrisch hängen, gliedert allein durch Größe und Stellung und lässt große Flächen leer, statt sie mit Stimmung zu füllen.",
+  "pitfalls": "Das Modell zeichnet das Raster oft als sichtbare Linien oder Kästchenmuster ein, statt es nur über die Ausrichtung der Elemente erkennbar zu machen, oder gleitet in leeren, beliebigen Minimalismus mit dünner Schrift ab. Gern ergänzt es Blöcke mit Blindtext, erfundene Veranstalternamen und kleine Zeilen, die zu unlesbaren Zeichen verschwimmen; zu prüfen ist, ob nur der vorgegebene Text erscheint. Andere Ergebnisse geraten in die Bauhaus-Grafik der 1920er-Jahre mit schweren Balken und roten Quadraten oder in heutige Unternehmensgrafik mit abgerundeten Formen.",
+  "tip": "Das Raster in Zahlen vorgeben, etwa „vier Spalten, alle Kanten an Spaltengrenzen, Hauptwort über die volle Breite“, und die Zahl der Schriftgrößen auf zwei oder drei begrenzen; das Stichwort „Swiss Style“ allein ergibt oft nur glatten Minimalismus.",
+  "sensitivity": "Schriftnamen wie Helvetica, Univers oder Akzidenz-Grotesk sind Marken von Schriftanbietern und gehören weder in den Prompt noch ins Bild; die Schrift wird nur beschrieben. Das Schweizerkreuz ist in der Schweiz als Hoheitszeichen gesetzlich geschützt und sollte nicht als Schmuck ins Bild geraten."
+ },
+ "en": {
+  "name": "International Typographic Style",
+  "aka": [
+   "Swiss Style",
+   "Swiss typography",
+   "Swiss International Style"
+  ],
+  "era": "c. 1950–1970, Zurich and Basel",
+  "summary": "Posters and print with a grid, flush-left sans-serif in strong size contrast and wide white space; in the catalog because a grid, not a centre axis, orders image and type.",
+  "origin": "The International Typographic Style built on the New Typography of the 1920s and took shape in Zurich and Basel in the 1950s. Teachers laid the groundwork: Ernst Keller, who from 1918 developed a course in graphic design and typography at the Kunstgewerbeschule Zürich, and Emil Ruder, who taught at the Allgemeine Gewerbeschule Basel from 1942 and worked with Armin Hofmann from 1947. From 1950 Josef Müller-Brockmann designed concert posters for the Tonhalle in Zurich, translating the order of music into scale, rhythm and repetition; in 1958 he founded the journal Neue Grafik (New Graphic Design) with Richard Paul Lohse, Hans Neuburg and Carlo Vivarelli. Type was set in grotesques, above all the Akzidenz-Grotesk of the 1890s; building on it, Max Miedinger with Eduard Hoffmann drew the Neue Haas Grotesk in 1956–1957 for the Haas type foundry in Münchenstein near Basel, later sold under the name Helvetica. From the 1960s corporations and institutions, above all in the United States, adopted the style for their corporate design; in 1981 Müller-Brockmann summed up working with the grid in his book “Grid Systems in Graphic Design”.",
+  "markers": [
+   "A grid of columns and rows that can be read from the shared edges of image and type",
+   "A single sans-serif typeface in few sizes, set flush left, ragged right",
+   "Strong size contrast between one very large main word and small lines of text",
+   "Asymmetric arrangement with large areas deliberately left empty",
+   "Objective black-and-white photography in hard crops, or pure geometric shapes, often repeated in rhythm",
+   "Black and white with at most one or two flat colours and no ornament at all"
+  ],
+  "escapes": "Without a style, the model builds a poster from a centred, softly painted picture with a sun disc over the horizon and stacks the text centred above and below it, often with gradients and shadows. Swiss typography replaces the centre axis with a grid on which type and image hang asymmetrically, creates hierarchy through size and position alone and leaves large areas empty instead of filling them with mood.",
+  "pitfalls": "The model often draws the grid in as visible lines or a pattern of boxes instead of letting it show only through the alignment of elements, or drifts into empty, arbitrary minimalism with thin type. It likes to add blocks of dummy text, invented organiser names and small lines that blur into illegible marks, so check that only the given text appears. Other results slide into 1920s Bauhaus print with heavy bars and red squares, or into present-day corporate graphics with rounded shapes.",
+  "tip": "Give the grid in numbers, for example “four columns, every edge on a column line, main word across the full width”, and limit the type to two or three sizes; the term “Swiss Style” on its own often yields only smooth minimalism.",
+  "sensitivity": "Typeface names such as Helvetica, Univers or Akzidenz-Grotesk are trademarks of type vendors and belong neither in the prompt nor in the image; describe the typeface instead. In Switzerland the Swiss cross is a national emblem protected by law and should not slip into the image as decoration."
+ },
+ "sources": [
+  {
+   "title": "International Typographic Style – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/International_Typographic_Style"
+  },
+  {
+   "title": "Josef Müller-Brockmann – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Josef_M%C3%BCller-Brockmann"
+  },
+  {
+   "title": "Emil Ruder – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Emil_Ruder"
+  },
+  {
+   "title": "Helvetica – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Helvetica"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "slug": "early-instagram-filter",
+ "style_block": "A square phone snapshot with a one-tap retro filter from a San Francisco photo-sharing app, 2010–2013. Medium: early smartphone camera, tiny 5-megapixel sensor, fixed wide lens about 30 mm equivalent at f/2.8; dim room light or harsh LED flash; whole frame soft, as if enlarged from 600 pixels square: colour-noise blotches, JPEG blocks, over-sharpened halos. Baked-in filter: milky lifted blacks, yellow-orange highlights, greenish shadows, hard contrast, heavy vignette, thin rough black film-edge border. Composition: snapped one-handed and close from the photographer’s own spot, looking steeply down, slightly tilted, near things looming larger; subject near the centre, cropped tight, neighbours cut by the edges; deep focus; nothing arranged. Lettering, where text is needed: none laid over the photo; only words on objects, smeared by compression. Avoid crisp modern detail, bokeh, moody side light, golden backlight, styled magazine framing, muted film-look grading, film print or instant-photo frame, any app interface.",
+ "de": {
+  "name": "Frühes Instagram-Filterfoto",
+  "aka": [
+   "Handyfoto mit Retrofilter",
+   "Quadratisches Filterfoto",
+   "Instagram-Look der frühen 2010er-Jahre"
+  ],
+  "era": "2010–2013, von San Francisco aus weltweit",
+  "summary": "Quadratisches Handyfoto mit fest eingerechnetem Retrofilter, verblassten Schwarztönen, Gelbstich und dunkler Vignette; im Katalog, weil die schwache Handykamera und der grobe Filter die glatte Perfektion von KI-Bildern stören.",
+  "origin": "Kevin Systrom und Mike Krieger entwickelten Instagram in San Francisco aus ihrer Check-in-App Burbn; der Name verbindet die englischen Wörter „instant camera“ (Sofortbildkamera) und „telegram“ (Telegramm). Auf einer Urlaubsreise nach Mexiko im Sommer 2010 sagte Systroms Freundin, ihre mit dem iPhone 4 aufgenommenen Fotos sähen nicht gut genug zum Teilen aus; noch am selben Tag entwickelte Systrom den Filter X-Pro II, der die Schwächen der Handykamera überdecken sollte. Die App erschien am 6. Oktober 2010 für das iPhone und hatte im Dezember 2010 eine Million registrierte Nutzer; Fotos ließen sich bis August 2015 nur im quadratischen Format 1:1 teilen. Der US-amerikanische Fotograf Cole Rise baute seine eigene Bildbearbeitung mit Farbverschiebungen, Texturen und Vignette in mehrere frühe Filter ein, darunter Sutro und Amaro. Die Version 2.0 vom September 2011 brachte eine Live-Vorschau der Filter im Kamerabild, einen Tilt-Shift-Effekt und abschaltbare Rahmen; um 2013 verbreitete sich der Hashtag #nofilter für ungefilterte Bilder, und ab 2014 ließ sich die Stärke der Filter regeln.",
+  "markers": [
+   "Quadratisches Format 1:1 in geringer Auflösung: weiche Details, JPEG-Blockartefakte und helle Säume an Kanten durch Überschärfung",
+   "Milchig angehobene, verblasste Schwarztöne neben harten, ausgefressenen Lichtern",
+   "Kräftiger Farbstich wie nach einer Crossentwicklung: gelb-orange Lichter, grünliche oder blaugrüne Schatten",
+   "Starke dunkle Vignette zu den Ecken hin und ein schmaler Rahmen, etwa ein rauer schwarzer Filmrand",
+   "Bildrauschen und verschmierte Flächen in den Schatten, typisch für einen winzigen Handysensor bei Raumlicht oder grellem LED-Blitz",
+   "Beiläufiger Ausschnitt aus der Hand vom Platz des Fotografen: schräg von oben und leicht verkantet, Motiv mittig und eng beschnitten, durchgehend scharf statt mit unscharfem Hintergrund"
+  ],
+  "escapes": "Ohne Stilangabe zeigt das Modell Essen als gestylte Aufnahme mit geringer Schärfentiefe, weichem Bokeh, goldenem Gegenlicht und sauberen, satten Farben bis in jedes Detail. Das frühe Filterfoto ersetzt das durch eine schwache Handykamera mit winzigem Sensor: durchgehende Schärfe, Rauschen, Kompressionsspuren und das Licht, das gerade da war, darüber ein grober Farbfilter, der sichtbar auf dem Bild liegt. Der beiläufige, schräge Ausschnitt aus der Hand bricht zudem die ausgewogene, sorgfältig arrangierte Inszenierung.",
+  "pitfalls": "Oft erzeugt das Modell ein scharfes, modernes Foto mit dunklem, stimmungsvollem Seitenlicht und sauber angerichtetem Essen und legt nur Gelbstich, Vignette und Rahmen darüber; die Kamera muss aber schwach aussehen, mit Rauschen, weichen Details und ohne Hintergrundunschärfe. Der Filter braucht seine milchigen Schwarztöne und grünlichen Schatten; ein Gelbstich allein wirkt nur wie ein warmer Weißabgleich. Außerdem rutscht das Bild leicht in einen analogen Abzug mit Filmkorn und Lichteinfall am Filmrand, in ein Sofortbild mit breitem unterem Rand oder in einen Handybildschirm mit App-Oberfläche, Herzchen und Benutzernamen ab.",
+  "tip": "Die Schwäche der Kamera ausdrücklich beschreiben, etwa „das ganze Bild weich, wie aus rund 600 Pixeln im Quadrat vergrößert, Farbrauschen in den Schatten“, und den Filter in seine drei Bestandteile zerlegen: milchig angehobene Schwarztöne, Farbstich, Vignette. Der App-Name im Prompt ruft leicht eine Bildschirmansicht mit Bedienoberfläche statt des Fotos hervor.",
+  "sensitivity": "„Instagram“ und Filternamen wie „X-Pro II“ sind Marken- oder Produktnamen; im Prompt die Filterwirkung allgemein beschreiben und weder Logo noch App-Oberfläche zeigen."
+ },
+ "en": {
+  "name": "Early Instagram filter photo",
+  "aka": [
+   "Retro phone filter",
+   "Square filter photo",
+   "Instagram 2012 look"
+  ],
+  "era": "2010–2013, San Francisco, then worldwide",
+  "summary": "Square phone photo with a baked-in retro filter, faded blacks, yellow cast and dark vignette; in the catalog because a weak camera and heavy filter break AI’s smooth perfection.",
+  "origin": "Kevin Systrom and Mike Krieger developed Instagram in San Francisco out of their check-in app Burbn; the name combines ‘instant camera’ and ‘telegram’. On a holiday in Mexico in the summer of 2010, Systrom’s girlfriend said her iPhone 4 photos did not look good enough to post; by the end of the day Systrom had made the X-Pro II filter, meant to hide the weaknesses of the phone camera. The app launched for the iPhone on 6 October 2010 and had one million registered users by December 2010; photos could only be shared in a square 1:1 format until August 2015. The American photographer Cole Rise put his own editing, with colour shifts, textures and vignettes, into several early filters, among them Sutro and Amaro. Version 2.0 of September 2011 added a live preview of the filters in the camera view, a tilt-shift effect and optional borders; around 2013 the hashtag #nofilter for unfiltered images became popular, and from 2014 the strength of the filters could be adjusted.",
+  "markers": [
+   "Square 1:1 format at low resolution: soft detail, JPEG block artefacts and bright over-sharpening halos along edges",
+   "Milky, lifted, faded blacks next to hard, blown-out highlights",
+   "A strong colour cast as after cross processing: yellow-orange highlights, greenish or teal shadows",
+   "A heavy dark vignette towards the corners and a thin frame, such as a rough black film edge",
+   "Noise and smeared patches in the shadows, typical of a tiny phone sensor in room light or under a harsh LED flash",
+   "A casual handheld crop from where the photographer sits: from above at an angle and slightly tilted, subject centred and tightly cropped, sharp throughout instead of a blurred background"
+  ],
+  "escapes": "Unprompted, the model shows food as a styled shot with shallow depth of field, soft bokeh, golden backlight and clean, rich colour in every detail. The early filter photo replaces this with a weak phone camera with a tiny sensor: deep focus, noise, compression artefacts and whatever light was there, topped by a heavy colour filter that visibly sits on the picture. The casual, tilted handheld crop also breaks the balanced, carefully arranged set-up.",
+  "pitfalls": "The model often produces a crisp modern photo with dark, moody side light and neatly plated food, and only lays a yellow cast, vignette and border over it; the camera has to look weak, with noise, soft detail and no background blur. The filter needs its milky blacks and greenish shadows; a yellow cast alone reads as nothing more than a warm white balance. The picture also easily drifts into an analogue print with film grain and light leaks, an instant photo with a wide bottom margin, or a phone screen with app interface, hearts and user names.",
+  "tip": "Describe the camera’s weakness explicitly, for example ‘whole frame soft, as if enlarged from about 600 pixels square, colour noise in the shadows’, and break the filter into its three parts: milky lifted blacks, colour cast, vignette. The app’s name in a prompt easily calls up a screenshot with interface instead of the photo itself.",
+  "sensitivity": "‘Instagram’ and filter names such as ‘X-Pro II’ are trademarks or product names; describe the filter effects generically in prompts and show neither logo nor app interface."
+ },
+ "sources": [
+  {
+   "title": "Instagram – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Instagram"
+  },
+  {
+   "title": "Instagram CEO Kevin Systrom: ‘We’re working on time travel’ – The Guardian (2015)",
+   "url": "https://www.theguardian.com/technology/2015/oct/02/instagram-kevin-systrom-interview-working-on-time-travel"
+  },
+  {
+   "title": "Filter (social media) – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Filter_(social_media)"
+  },
+  {
+   "title": "Filter focus: the story behind the original Instagram filters – TechRadar (2017)",
+   "url": "https://www.techradar.com/news/filter-focus-the-story-behind-the-original-instagram-filters"
+  }
+ ]
+}

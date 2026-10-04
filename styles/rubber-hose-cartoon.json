@@ -1,0 +1,68 @@
+{
+ "slug": "rubber-hose-cartoon",
+ "style_block": "A full-bleed frame from a black-and-white American theatrical cartoon short, New York, around 1930, on 35 mm nitrate film. Medium: even hand-inked cel outlines, flat opaque black and white fills, greys only in painted backgrounds; figures built from circles, jointless rubber-hose limbs in smooth arcs, bare mitten hands, big round shoes, pie-cut eyes (wedge-notched black ovals), wide grin; grain, dust, hairline scratches, dark corners. Composition: static eye-level camera, full figure in profile or three-quarter view, off-centre on a flat stage-like ground line, action running sideways; sparse inked setting with swaying objects; squash-and-stretch pose readable in silhouette, oval shadow underfoot. Lettering, where text is needed: hand-brushed round bouncy capitals, uneven baseline, white on black like a period title card. Avoid crisp vector retro revivals, colour, glossy highlights, rim light, depth blur, centred hero pose, realistic anatomy, white four-finger gloves, large round black mouse ears, famous cartoon characters, racial caricature.",
+ "de": {
+  "name": "Rubber-Hose-Stil",
+  "aka": [
+   "Rubber-Hose-Cartoon",
+   "Rubber-Hose-Animation",
+   "Gummischlauch-Stil"
+  ],
+  "era": "1920er bis Ende der 1930er Jahre, USA (vor allem New York)",
+  "summary": "Schwarz-weiße Zeichentrickfiguren aus Kreisen, mit gelenklosen Schlauchgliedern und Tortenstück-Augen, auf verkratztem Film; im Katalog, weil flächiges Schwarz und Filmverschleiß dem weich ausgeleuchteten KI-Maskottchen widersprechen.",
+  "origin": "Der Rubber-Hose-Stil war der erste Zeichenstil, der sich in der amerikanischen Trickfilmindustrie als Standard durchsetzte; er entstand in den 1920er Jahren in New Yorker Studios, in denen viele frühere Comiczeichner von Zeitungen Kurzfilme für das Kino herstellten und mit der Nachfrage kaum nachkamen. Arme und manchmal auch Beine wurden als geschwungene Schläuche ohne Ellbogen und Knie gezeichnet, die sich weit dehnen und sogar verknoten ließen und schneller zu zeichnen waren; als Urheber gilt Bill Nolan (1894–1954), der 1924 die Figur Felix the Cat runder und glatter umgestaltete. Ub Iwerks baute Micky Maus 1928 aus Kreisen auf, damit sie sich leicht animieren ließ, und flächiges Schwarz sparte nach Otto Messmer, der Felix animierte, viele Umrisslinien und bewegte sich besser; ab 1929 trug Micky weiße Handschuhe, auch weil schwarze Hände vor dem schwarzen Körper nicht zu sehen waren. Mit dem Tonfilm ab Ende der 1920er Jahre ließen sich die Bewegungen Bild für Bild genau auf die Musik abstimmen; nach dem Erfolg von Walt Disneys abendfüllendem Zeichentrickfilm „Schneewittchen und die sieben Zwerge“ (1937) wandten sich die meisten Studios in Hollywood einer wirklichkeitsnäheren Anatomie zu, und die Fleischer Studios hielten am längsten, bis etwa 1940, an dem Stil fest. Seit den frühen 2010er Jahren greifen Fernsehserien, ein Kino-Kurzfilm und Videospiele wie „Cuphead“ den Stil wieder auf.",
+  "markers": [
+   "gelenklose Arme und Beine als biegsame Schläuche ohne Ellbogen und Knie, in weichen Bögen",
+   "Figuren aus Kreisen: runder Kopf, runder Rumpf, große runde Schuhe",
+   "Tortenstück-Augen (schwarze Ovale mit ausgeschnittenem Keil) und ein breites Grinsen",
+   "flächiges Schwarz und Weiß in gleichmäßiger Tuschkontur, Grautöne vor allem im gemalten Hintergrund",
+   "Figuren und Gegenstände in federnder, schwankender Tanzhaltung, gestaucht oder gestreckt",
+   "Spuren alten Filmmaterials: Korn, Staub, Kratzer, dunkle Bildecken"
+  ],
+  "escapes": "Die übliche KI-Figur ist plastisch modelliert, weich ausgeleuchtet, mit Glanzlichtern, Kantenlicht und unscharfem Hintergrund, und steht in Heldenpose in der Bildmitte. Der Rubber-Hose-Stil setzt dem reine Schwarz- und Weißflächen ohne modellierendes Licht entgegen, eine bühnenartige Ansicht aus fester Kamera mit seitlich ablaufender Handlung und Gliedmaßen, die keiner Anatomie folgen. Filmkorn, Staub und Kratzer stören zudem die makellose Oberfläche.",
+  "pitfalls": "Modelle liefern gern eine heutige Retro-Nachahmung mit sauberen Vektorlinien, kräftigen Farben und aufgelegtem Kratzerfilter statt eines gealterten Schwarz-Weiß-Filmbilds. Fast von selbst bekommen die Figuren weiße Handschuhe mit vier Fingern und große runde Ohren und rücken damit in die Nähe bekannter Maus-, Katzen- und Hasenfiguren. Außerdem schleichen sich Ellbogen und Knie wieder ein, sodass die Schlauchglieder verloren gehen.",
+  "tip": "Die Hände ausdrücklich als nackte, fäustlingartige Hände ohne Handschuhe beschreiben und das Filmmaterial physisch benennen („Schwarz-Weiß-Film, 35 mm, Korn, Staub, feine Kratzer, dunkle Ecken“), sonst ergänzt das Modell Handschuhe und eine saubere Digitaloberfläche.",
+  "sensitivity": "Weiße Handschuhe, breites Grinsen und schwarze Figuren mit heller Mundpartie gehen zum Teil auf Blackface-Minstrel-Shows zurück; rassistische Karikaturen sind auszuschließen. Bekannte Figuren dieser Zeit wie die Maus, der Kater, der Hase und die Sängerin mit Bubikopf sind teils noch urheber- oder markenrechtlich geschützt und sollen nicht nachgebildet werden."
+ },
+ "en": {
+  "name": "Rubber hose animation",
+  "aka": [
+   "rubber-hose cartoon",
+   "rubber hose style",
+   "pie-eyed cartoon"
+  ],
+  "era": "1920s to late 1930s, USA (mainly New York)",
+  "summary": "Black-and-white cartoon figures built from circles, with jointless tube limbs and pie-cut eyes, on scratched film; included because flat black and film wear contradict the softly lit AI mascot.",
+  "origin": "Rubber hose animation was the first drawing style to become standard in the American animation industry; it developed in the 1920s in New York studios, where many former newspaper comic-strip artists made short films for cinemas and struggled to keep up with demand. Arms and sometimes legs were drawn as flowing tubes without elbows or knees that could stretch far and even be tied in knots and were quicker to draw; the style is credited to Bill Nolan (1894–1954), who in 1924 gave Felix the Cat a rounder, smoother look. Ub Iwerks built Mickey Mouse out of circles in 1928 to make him easy to animate, and solid black, according to Otto Messmer, who animated Felix, saved a lot of outlines and moved better; from 1929 Mickey wore white gloves, partly because black hands could not be seen in front of the black body. With sound from the end of the 1920s, movement could be matched to the music frame by frame; after the success of Walt Disney's feature-length cartoon Snow White and the Seven Dwarfs (1937) most Hollywood studios turned to more lifelike anatomy, and Fleischer Studios held on to the style longest, until about 1940. Since the early 2010s television series, a theatrical short and video games such as Cuphead have taken the style up again.",
+  "markers": [
+   "jointless arms and legs as bendy tubes without elbows or knees, curving in smooth arcs",
+   "figures built from circles: round head, round body, big round shoes",
+   "pie-cut eyes (black ovals with a wedge cut out) and a wide grin",
+   "flat black and white within an even ink outline, greys mainly in the painted background",
+   "figures and objects in a bouncing, swaying dance pose, squashed or stretched",
+   "wear of old film stock: grain, dust, scratches, dark corners"
+  ],
+  "escapes": "The default AI character is sculpted, softly lit, with highlights, rim light and a blurred background, and stands in a hero pose in the centre. Rubber hose animation answers with flat black and white areas without modelled light, a stage-like view from a fixed camera with the action running sideways, and limbs that follow no anatomy. Film grain, dust and scratches also break up the flawless surface.",
+  "pitfalls": "Models tend to deliver a present-day retro imitation with clean vector lines, strong colours and an overlaid scratch filter instead of an aged black-and-white film frame. They almost automatically give figures white four-finger gloves and large round ears, which pushes them towards well-known mouse, cat and rabbit characters. Elbows and knees also creep back in, so the tube limbs are lost.",
+  "tip": "Describe the hands explicitly as bare, mitten-like hands without gloves and name the film stock physically (“black-and-white 35 mm film, grain, dust, hairline scratches, dark corners”); otherwise the model adds gloves and a clean digital surface.",
+  "sensitivity": "White gloves, wide grins and black figures with a pale mouth area derive in part from blackface minstrel shows; racial caricature must be excluded. Well-known characters of the period such as the mouse, the cat, the rabbit and the bob-haired singer are in part still protected by copyright or trademark and should not be reproduced."
+ },
+ "sources": [
+  {
+   "title": "Rubber hose animation – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rubber_hose_animation"
+  },
+  {
+   "title": "Bill Nolan (animator) – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bill_Nolan_(animator)"
+  },
+  {
+   "title": "Felix the Cat – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Felix_the_Cat"
+  },
+  {
+   "title": "Mickey Mouse – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mickey_Mouse"
+  }
+ ]
+}

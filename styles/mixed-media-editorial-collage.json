@@ -1,0 +1,69 @@
+{
+ "slug": "mixed-media-editorial-collage",
+ "style_block": "A mixed-media collage illustration for a European or North American opinion page of the 2010s–2020s, pasted up from scanned paper. Medium: black-and-white photographs in coarse halftone, scissor-cut or torn; flat matte paper shapes in two or three spot colours (cobalt, coral, ochre); off-white ground; sparse crayon marks; torn white fibres, lifted corners, faint scan shadows. Composition: one metaphor readable at a glance, from few pieces; no shared perspective or light; abrupt scale jumps; every edge visible; pieces cropped by the frame; much bare paper. Lettering, where text is needed: a few words in plain newspaper type on a pasted paper strip, slightly askew. Information, where a diagram, map or chart is shown: photo fragments on paper tags, quantities as paper strips cut to length. Avoid seamless compositing, glossy 3D or vector rendering, a centred hero before a colour disc, scrapbook tape and stamps, stray newsprint text, Dada red-and-black diagonals.",
+ "de": {
+  "name": "Mixed-Media-Collage",
+  "aka": [
+   "Collage-Illustration",
+   "Editorial-Collage",
+   "Analoge Collage"
+  ],
+  "era": "2010er- und 2020er-Jahre, Europa und Nordamerika",
+  "summary": "Ausgeschnittene Schwarz-Weiß-Rasterfotos, gerissenes Papier und zwei, drei flache Schmuckfarben bilden eine Bildmetapher; im Katalog, weil sichtbare Kanten und Maßstabssprünge die nahtlose Bildmontage aufbrechen.",
+  "origin": "Die Collage, von französisch coller („kleben“), kam 1912 in die moderne Kunst, als Pablo Picasso für sein „Stillleben mit Rohrstuhl“ ein bedrucktes Wachstuch auf die Leinwand klebte; in Berlin setzte Hannah Höch 1919/20 Bilder aus Zeitungen und Zeitschriften zur Fotomontage „Schnitt mit dem Küchenmesser“ zusammen. Von 1930 bis 1938 erschienen John Heartfields Fotomontagen regelmäßig auf den Titelseiten der Arbeiter-Illustrierten-Zeitung (AIZ, ab 1936 Volks-Illustrierte) und brachten geschnittene Fotos als politischen Kommentar auf die Zeitschriftenseite. Romare Bearden kombinierte ab 1963/64 aus Zeitschriften geschnittene Bilder mit Farbpapier und bearbeitete sie mit Schleifpapier, Bleichmittel, Grafit oder Farbe. 1970 führte die New York Times unter John B. Oakes, dem Leiter der Leitartikelseite, die moderne Op-Ed-Seite für Gastbeiträge ein; ihr erster künstlerischer Leiter war der Illustrator Jean-Claude Suarès. Heute werden solche Collagen oft digital aus Scans montiert; die hier beschriebene Spielart verbindet gerasterte Schwarz-Weiß-Fotos, Papierschnipsel und flache Farbformen zu Illustrationen für Meinungsbeiträge und Magazinessays.",
+  "markers": [
+   "Schwarz-Weiß-Fotos mit grobem, sichtbarem Raster, mit der Schere ausgeschnitten oder gerissen",
+   "flache Formen aus mattem Farbpapier in zwei oder drei Schmuckfarben, ohne Schattierung und Verlauf",
+   "sichtbare Papierkanten: weiße Reißfasern, leicht abstehende Ecken, schwache Schatten vom Scannen",
+   "abrupte Maßstabssprünge zwischen Teilen aus verschiedenen Vorlagen, ohne gemeinsame Perspektive oder Lichtführung",
+   "wenige Teile auf viel freiem, gebrochen weißem Papier, einzelne vom Bildrand angeschnitten",
+   "einzelne lockere Wachsmalkreide- oder Bleistiftstriche über dem Papier"
+  ],
+  "escapes": "KI-Bilder verschmelzen meist alle Elemente zu einer einheitlichen Lichtführung und Perspektive mit weichen, leuchtenden Übergängen; die Collage lässt jedem Teil das Licht seiner Vorlage und zeigt seine Schnittkante, sodass die Fuge selbst zur Aussage gehört. Rasterpunkt, mattes Papier und wenige Schmuckfarben schließen glänzende 3D-Optik und knallige Farbverläufe aus, und der freie Papiergrund ersetzt das vollgestellte Bild mit mittig inszenierter Hauptfigur.",
+  "pitfalls": "Häufig montiert das Modell die Fotoausschnitte nahtlos mit einheitlichem Licht oder legt nur eine Papierstruktur über ein glattes Digitalbild; jedes Teil braucht eine echte Kante. „Mixed Media“ kippt leicht in eine überladene Sammelalbum-Optik mit Klebeband, Stempeln, Handschrift und Kaffeeflecken, und Zeitungsschnipsel tragen oft unleserlichen Scheintext. Bei mehreren kleinen Figuren auf Haltung, Hände und Werkzeug achten und die Zahl der Teile niedrig halten.",
+  "tip": "Für jedes Teil die Herkunft benennen – „ausgeschnittenes Schwarz-Weiß-Rasterfoto“ für Figuren und Gegenstände, „flaches mattes Farbpapier“ für Formen – und die fertige Collage flach gescannt mit schwachen Kantenschatten verlangen; so bleiben die Ebenen getrennt.",
+  "sensitivity": "Fotocollagen können reale Personen oder Ereignisse vortäuschen; erkennbare reale Menschen oder Pressefotos gehören nicht in irreführende politische Montagen. Die heutige Editorial-Collage ist oft mit einzelnen lebenden Illustratorinnen und Illustratoren verbunden; deren Namen und konkrete Arbeiten gehören nicht in den Prompt."
+ },
+ "en": {
+  "name": "Mixed-media editorial collage",
+  "aka": [
+   "collage illustration",
+   "editorial collage",
+   "analogue collage",
+   "cut-and-paste illustration"
+  ],
+  "era": "2010s–2020s, Europe and North America",
+  "summary": "Cut-out black-and-white halftone photographs, torn paper and two or three flat spot colours form one visual metaphor; included because visible edges and scale jumps break seamless compositing.",
+  "origin": "Collage, from French coller ('to glue'), entered modern art in 1912, when Pablo Picasso pasted a printed oilcloth onto the canvas of his Still Life with Chair Caning; in Berlin in 1919–20 Hannah Höch assembled pictures from newspapers and magazines into the photomontage Cut with the Kitchen Knife. From 1930 to 1938 John Heartfield's photomontages regularly appeared on the covers of the Arbeiter-Illustrierte-Zeitung (AIZ; from 1936 Volks-Illustrierte), bringing cut photographs onto the magazine page as political comment. From 1963 or 1964 Romare Bearden combined images cut from magazines with coloured paper, altering them with sandpaper, bleach, graphite or paint. In 1970 The New York Times introduced the modern op-ed page for outside contributors under editorial page editor John B. Oakes; its first art director was the illustrator Jean-Claude Suarès. Today such collages are often assembled digitally from scans; the variant described here combines black-and-white halftone photographs, paper scraps and flat colour shapes into illustrations for opinion pieces and magazine essays.",
+  "markers": [
+   "black-and-white photographs with a coarse, visible halftone screen, cut out with scissors or torn",
+   "flat shapes of matte coloured paper in two or three spot colours, with no shading or gradients",
+   "visible paper edges: white torn fibres, slightly lifted corners, faint shadows from the scan",
+   "abrupt scale jumps between pieces from different sources, with no shared perspective or lighting",
+   "few pieces on a large area of bare off-white paper, some cropped by the frame",
+   "a few loose crayon or pencil marks over the paper"
+  ],
+  "escapes": "AI images usually merge every element into one lighting scheme and one perspective with soft, glowing transitions; collage keeps each piece in the light of its source and shows its cut edge, so the join itself becomes part of the message. The halftone dot, matte paper and a few spot colours rule out glossy 3D surfaces and loud gradients, and the bare paper ground replaces the crowded, centred hero composition.",
+  "pitfalls": "The model often composites the photo fragments seamlessly with matching light, or lays a paper texture over an otherwise smooth digital image; every piece needs a real edge. 'Mixed media' easily drifts into cluttered scrapbook looks with tape, stamps, handwriting and coffee stains, and newspaper scraps tend to carry garbled pseudo-text. With several small figures, check posture, hands and tools, and keep the number of pieces low.",
+  "tip": "Name the source of each piece – 'cut-out black-and-white halftone photo' for figures and objects, 'flat matte coloured paper' for shapes – and ask for the finished collage scanned flat with faint edge shadows; this keeps the layers apart.",
+  "sensitivity": "Photo collages can fake real people or events; recognisable real persons or press photographs do not belong in misleading political compositions. Contemporary editorial collage is often associated with individual living illustrators; their names and specific works stay out of the prompt."
+ },
+ "sources": [
+  {
+   "title": "Collage – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Collage"
+  },
+  {
+   "title": "John Heartfield – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/John_Heartfield"
+  },
+  {
+   "title": "Romare Bearden – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Romare_Bearden"
+  },
+  {
+   "title": "Op-ed – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Op-ed"
+  }
+ ]
+}

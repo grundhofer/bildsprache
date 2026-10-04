@@ -1,0 +1,68 @@
+{
+ "slug": "shonen-manga",
+ "style_block": "A black-and-white page from a 1980s Japanese weekly boys' action manga on cheap newsprint. Medium: steel-nib ink lines swelling and tapering with pressure, heavy contours, fine strokes in hair and folds; solid blacks; dot and gradient screentones, scraped-out highlights; faint print grain. Composition: four to six panels with slanted gutters fill the frame; one large steep low- or high-angle panel with foreshortened limbs; close-ups of eyes and hands; a figure breaking a border; one panel shows the setting in sparse line, elsewhere ruled speed or focus lines replace the background; faces true to each person's age. Lettering, where text is needed: hand-lettered capitals in oval balloons; sound effects in thick slanted strokes, jagged white outlines. Avoid glossy anime cel shading, centred hero framing, a photographed page, shōjo sparkles, gekiga's dense hatching; no invented words, sound effects or pseudo-Japanese glyphs; no spiky hair or uniforms from famous series.",
+ "de": {
+  "name": "Shōnen-Manga",
+  "aka": [
+   "Shōnen",
+   "Action-Manga",
+   "Battle-Manga"
+  ],
+  "era": "seit 1959 (Wochenmagazine), Japan; Action-Stil seit den 1980er Jahren",
+  "summary": "Schwarzweiße Federzeichnung mit Rasterfolie, Bewegungslinien, steilen Blickwinkeln und schräg geschnittenen Einzelbildern; im Katalog, weil die Seitenaufteilung das einzelne, mittig gebaute KI-Bild aufbricht.",
+  "origin": "Shōnen-Manga, Comics für Jungen, gingen aus japanischen Jungenzeitschriften wie Shōnen Club (ab 1914) hervor; nach dem Zweiten Weltkrieg prägte Osamu Tezuka (1928–1989) mit Serien wie Astro Boy den langen, filmisch erzählten Story-Manga. 1959 erschienen mit Weekly Shōnen Magazine (Kōdansha) und Weekly Shōnen Sunday (Shōgakukan) die ersten wöchentlichen Shōnen-Manga-Magazine; am 11. Juli 1968 folgte bei Shūeisha Shōnen Jump, erst zweimal im Monat, ab 1969 wöchentlich, und das Neujahrsheft 1995 erreichte eine Auflage von 6,53 Millionen Exemplaren. In den 1980er Jahren wurden kampfbetonte „Battle-Manga“ wie Dragon Ball (ab 1984) von Akira Toriyama (1955–2024) und Hokuto no Ken (Fist of the North Star) zu typischen Vertretern der Gattung. Gezeichnet wird mit Tusche und Zeichenfeder, vor allem mit der weichen G-Feder, deren Strich mit dem Druck an- und abschwillt; schattiert wird mit selbstklebender Rasterfolie, die sich ab etwa 1954 unter japanischen Manga-Zeichnern verbreitete. Seit das Muster um 1966 auf die Oberseite der Folie gedruckt wurde, lassen sich Glanzlichter mit der Klinge herausschaben; heute entsteht vieles davon am Rechner.",
+  "markers": [
+   "Federstriche, die mit dem Druck an- und abschwellen: kräftige Konturen, feine Linien in Haaren und Falten, satte Schwarzflächen",
+   "Schattierung mit Punkt- und Verlaufsrasterfolie, Glanzlichter herausgeschabt, keine Farbe",
+   "Mit dem Lineal gezogene Bewegungslinien und strahlenförmige Fokuslinien, die oft den Hintergrund ersetzen",
+   "Steile Frosch- oder Vogelperspektive mit stark verkürzten Körpern",
+   "Unregelmäßige Einzelbilder mit schrägen Rändern, Figuren, die über den Rahmen hinausragen, eingeschobene Nahaufnahmen von Augen und Händen",
+   "Von Hand gezeichnete Lautmalereien, in die Zeichnung eingebaut, oft mit gezackter weißer Umrandung"
+  ],
+  "escapes": "Der Stil ersetzt das weiche, volumetrische Licht, die glänzende Haut und die Hintergrundunschärfe des KI-Standards durch Tuschelinie, Schwarzflächen und mechanisches Punktraster; Farbverläufe fehlen ganz. Statt einer mittig inszenierten Hauptfigur zerlegt die Seite den Moment in ein steiles Hauptbild und mehrere Nahaufnahmen, und Bewegungslinien treten an die Stelle der Kulisse.",
+  "pitfalls": "Modelle gleiten leicht in farbigen Anime-Stil mit flächiger Schattierung und Glanzlichtern ab oder greifen zum üblichen Gesicht mit großen Augen, das auch ältere Figuren jünger macht. Die Rasterfolie wird oft zum weichen digitalen Grauverlauf oder zu einem Punktfilter über dem ganzen Bild, und Lautmalereien füllen sich mit erfundenen, japanisch wirkenden Zeichen, selbst wenn kein Text verlangt ist. Ohne Vorgabe zur Seitenaufteilung entsteht ein einzelnes, mittig gebautes Plakatbild; mit Vorgabe wechseln Figuren leicht von Bild zu Bild Gesicht oder Kleidung.",
+  "tip": "Werkzeuge statt Gattung benennen (Tuschefeder, Punktrasterfolie, mit dem Lineal gezogene Bewegungslinien) und festlegen, wie viele Einzelbilder die Seite hat und welche Nahaufnahmen hineingehören.",
+  "sensitivity": "Figuren bekannter Serien sind urheberrechtlich geschützt und an markanten Frisuren, Kostümen und Posen sofort erkennbar; Serien- und Zeichnernamen gehören deshalb nicht in den Prompt. Erfundene, japanisch aussehende Zeichen in Lautmalereien wirken wie Scheinschrift und haben in Szenen außerhalb Japans nichts zu suchen."
+ },
+ "en": {
+  "name": "Shōnen manga",
+  "aka": [
+   "shonen",
+   "boys' manga",
+   "battle manga"
+  ],
+  "era": "from 1959 (weekly magazines), Japan; action style from the 1980s",
+  "summary": "Black-and-white pen drawing with screentone, speed lines, steep angles and slanted panels; in the catalog because the page layout breaks up the single, centred AI picture.",
+  "origin": "Shōnen manga, comics aimed at boys, grew out of Japanese boys' magazines such as Shōnen Club (from 1914); after the Second World War Osamu Tezuka (1928–1989) shaped the long, cinematically told story manga with series such as Astro Boy. In 1959 Kodansha's Weekly Shōnen Magazine and Shogakukan's Weekly Shōnen Sunday appeared as the first weekly shōnen manga magazines; on 11 July 1968 Shueisha followed with Shōnen Jump, published twice a month at first and weekly from 1969, and its 1995 New Year issue reached a circulation of 6.53 million copies. In the 1980s combat-centred “battle manga” such as Dragon Ball (from 1984) by Akira Toriyama (1955–2024) and Fist of the North Star became representative works of the genre. The pages are drawn with ink and dip pen, above all the soft G-pen nib, whose line swells and thins with pressure, and shaded with adhesive screentone, which spread among Japanese manga artists from around 1954. Since the pattern came to be printed on the top surface of the sheet around 1966, highlights can be scraped out with a blade; today much of this work is done digitally.",
+  "markers": [
+   "Pen lines that swell and thin with pressure: heavy outlines, fine lines in hair and folds, solid black areas",
+   "Shading with dot and gradient screentone, scraped-out highlights, no colour",
+   "Ruled speed lines and radiating focus lines that often replace the background",
+   "Steep worm's-eye or bird's-eye views with strongly foreshortened bodies",
+   "Irregular panels with slanted borders, figures breaking out of the frame, inset close-ups of eyes and hands",
+   "Hand-drawn sound effects built into the drawing, often with a jagged white outline"
+  ],
+  "escapes": "The style replaces the soft volumetric light, glossy skin and background blur of the AI default with ink line, solid black and mechanical dot tone; there are no colour gradients at all. Instead of one centred hero shot, the page splits the moment into a steep main panel and several close-ups, and speed lines take the place of the scenery.",
+  "pitfalls": "Models easily slide into colour anime with cel shading and glossy highlights, or into the usual big-eyed face that makes older characters look young. Screentone often turns into a soft digital grey gradient or a dot filter laid over the whole image, and sound effects fill with invented Japanese-looking glyphs even when no text is wanted. Without a layout instruction the result is a single centred poster image; with one, characters tend to change face or clothing from panel to panel.",
+  "tip": "Name the tools rather than the genre (ink dip pen, dot screentone, ruled speed lines) and state how many panels the page has and which close-ups belong in it.",
+  "sensitivity": "Characters from well-known series are protected by copyright and instantly recognisable by signature hairstyles, costumes and poses, so series and artist names stay out of the prompt. Invented Japanese-looking glyphs in sound effects read as mock script and do not belong in scenes set outside Japan."
+ },
+ "sources": [
+  {
+   "title": "Shōnen manga – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sh%C5%8Dnen_manga"
+  },
+  {
+   "title": "Weekly Shōnen Jump – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Weekly_Sh%C5%8Dnen_Jump"
+  },
+  {
+   "title": "スクリーントーン (Screentone) – Wikipedia (ja)",
+   "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%88%E3%83%BC%E3%83%B3"
+  },
+  {
+   "title": "つけペン (Dip pen) – Wikipedia (ja)",
+   "url": "https://ja.wikipedia.org/wiki/%E3%81%A4%E3%81%91%E3%83%9A%E3%83%B3"
+  }
+ ]
+}

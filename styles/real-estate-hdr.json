@@ -1,0 +1,68 @@
+{
+ "slug": "real-estate-hdr",
+ "style_block": "A real-estate listing photograph with overcooked HDR tone mapping, as posted on property portals worldwide since the mid-2000s. Medium: APS-C digital SLR on a tripod, rectilinear ultra-wide lens at about 14 mm full-frame equivalent, f/8; three frames 2 EV apart, hard local tone mapping; every lamp on beside daylight, no flash; flat grey shadows, oversaturated colour, mixed yellow and blue casts, crunchy microcontrast, bright halos along window frames and edges, a pasted cartoon-blue sky outside. Composition: camera in a corner at chest height, aimed diagonally: two walls, much floor and a strip of lit ceiling fill the frame; no single subject; edges stretched, verticals leaning outward; sharp throughout; objects left as found. Lettering, where text is needed: only what exists in the scene, haloed too; no overlay or watermark. Avoid magazine interiors, soft golden light, bokeh, straight-verticals architectural photography, fisheye curvature, grungy surreal HDR art, 3D renders, agency logos.",
+ "de": {
+  "name": "Immobilienfotografie (HDR)",
+  "aka": [
+   "Übertriebenes HDR",
+   "Exposéfoto mit HDR-Effekt",
+   "HDR-Look"
+  ],
+  "era": "ab Mitte der 2000er-Jahre, international (Immobilienportale)",
+  "summary": "Weitwinkliges Exposéfoto aus der Raumecke mit überzogenem Tonemapping: alle Lampen an, Lichtsäume an den Fenstern, flache Schatten; im Katalog, weil Verarbeitungsfehler statt gefälliger Inszenierung das Bild bestimmen.",
+  "origin": "Mehrere verschieden belichtete Aufnahmen zu einem Bild zu verbinden, ist fast so alt wie die Fotografie: Gustave Le Gray verwendete in den 1850er-Jahren für Seestücke ein Negativ für den Himmel und ein länger belichtetes für das Meer und kopierte beide zu einem Abzug zusammen. 1995 veröffentlichten Steve Mann und Rosalind Picard eine mathematische Theorie unterschiedlich belichteter Aufnahmen desselben Motivs; im Februar 2003 erschien das HDR-Programm Photomatix, und 2005 nahm Adobe das Zusammenfügen von Belichtungsreihen zu HDR-Bildern samt Tonemapping in Photoshop CS2 auf. Immobilienfotografen griffen das Verfahren auf, weil es den hellen Blick aus dem Fenster und den dunkleren Innenraum zugleich wiedergibt: Vom Stativ aus wird eine Belichtungsreihe aufgenommen, die Software verrechnet sie zu einem Bild. Lokales Tonemapping erzeugt dabei häufig helle Säume um dunkle und dunkle Säume um helle Gegenstände und mitunter comichaft grelle Farben – das Klischee des überzogenen HDR-Exposéfotos. Später gingen viele professionelle Immobilienfotografen zu Mischformen aus HDR und Blitz über oder zur Belichtungsfusion (Exposure Fusion), die Lichter- und Schattenzeichnung aus den unter- und überbelichteten Aufnahmen in eine normal belichtete überträgt und natürlicher wirkt.",
+  "markers": [
+   "Ultraweitwinkel mit rund 14 mm Brennweite (auf Kleinbild umgerechnet) aus der Raumecke: Möbel und Wände an den Bildrändern gedehnt, leicht stürzende Linien",
+   "Alle Lampen und Deckenleuchten eingeschaltet, gelbliches Kunstlicht und bläuliches Tageslicht nebeneinander",
+   "Helle Lichtsäume (Halos) entlang von Fensterrahmen, Türkanten und Möbelkonturen",
+   "Flache, graue Schatten ohne Tiefe, dazu übersättigte Farben und harter Mikrokontrast auf allen Oberflächen",
+   "Comichaft blauer, nachträglich eingesetzter Himmel im Fenster oder über dem Dach",
+   "Durchgehende Schärfe vom Vordergrund bis zur Rückwand, nichts verschwimmt"
+  ],
+  "escapes": "Ohne Stilangabe zeigen Bildgeneratoren Innenräume wie in einem Einrichtungsmagazin: warmes, weiches Fensterlicht, sorgfältig arrangierte Gegenstände, unscharfer Hintergrund und ein ausgewogener Ausschnitt auf Augenhöhe. Das HDR-Exposéfoto ersetzt diese Stimmung durch flaches, gleichmäßiges Licht und die gedehnten Bildränder des Ultraweitwinkels, dazu Halos und grelle Farben, die sichtbar aus der Software stammen und nicht aus dem Raum. Ziel ist nicht Atmosphäre, sondern möglichst viel Raum in einem Bild.",
+  "pitfalls": "Modelle machen daraus gern eine saubere, moderne Innenaufnahme mit korrigierten stürzenden Linien und natürlichem Licht oder ein 3D-Rendering mit makellosen Oberflächen; Halos und grober Mikrokontrast müssen ausdrücklich verlangt werden. Umgekehrt kippt das Bild leicht in düstere, surreale HDR-Kunst mit dramatischem Wolkenhimmel oder in die gewölbten Linien eines Fischauges statt der gedehnten Ränder eines rektilinearen Weitwinkels. Außerdem tauchen schnell Maklerlogo, Wasserzeichen oder eine Portaloberfläche im Bild auf.",
+  "tip": "Die Verarbeitungsfehler einzeln benennen statt nur „HDR“ zu schreiben, etwa „helle Lichtsäume entlang der Fensterrahmen, flache graue Schatten, alle Lampen an“, und die Optik als „rektilineares 14-mm-Weitwinkel aus der Raumecke in Brusthöhe“ festlegen, damit kein Fischauge entsteht.",
+  "sensitivity": "Weil der Stil wie ein echtes Exposé wirkt, sollten erzeugte Bilder nicht als Angebotsfotos realer Wohnungen ausgegeben werden; Logos und Wasserzeichen von Maklern und Portalen gehören nicht ins Bild, Programmnamen wie „Photomatix“ nicht in den Prompt."
+ },
+ "en": {
+  "name": "Real-estate HDR",
+  "aka": [
+   "Overcooked HDR",
+   "Overprocessed listing photo",
+   "Tone-mapped HDR"
+  ],
+  "era": "from the mid-2000s, international (online listings)",
+  "summary": "Ultra-wide listing photo from a room corner with overdone tone mapping: every lamp on, haloed windows, flat shadows; in the catalog because processing flaws, not pleasing staging, shape the image.",
+  "origin": "Combining several differently exposed pictures into one is almost as old as photography: in the 1850s Gustave Le Gray used one negative for the sky and a longer-exposed one for the sea in his seascapes and printed them together as one picture. In 1995 Steve Mann and Rosalind Picard published a mathematical theory of differently exposed pictures of the same subject; in February 2003 the HDR program Photomatix appeared, and in 2005 Adobe added merging bracketed exposures into HDR images, together with tone mapping, to Photoshop CS2. Real-estate photographers took up the method because it holds both the bright view through the window and the darker room: a bracketed series is shot from a tripod and the software merges it into one image. Local tone mapping often produces bright halos around dark objects and dark halos around bright ones, and sometimes cartoon-like, vivid colour, which became the stereotype of the overdone HDR listing photo. Later many professional real-estate photographers moved on to hybrids of HDR and flash, or to exposure fusion, which carries highlight and shadow detail from the under- and overexposed frames into a normally exposed one and looks more natural.",
+  "markers": [
+   "Ultra-wide view at about 14 mm full-frame equivalent from a room corner: furniture and walls stretched at the frame edges, verticals slightly converging",
+   "Every lamp and ceiling light switched on, yellowish artificial light and bluish daylight side by side",
+   "Bright halos along window frames, door edges and furniture outlines",
+   "Flat grey shadows without depth, with oversaturated colour and harsh microcontrast on every surface",
+   "A cartoonishly blue sky pasted in afterwards, in the window or above the roof",
+   "Sharp throughout from the foreground to the back wall, nothing blurred"
+  ],
+  "escapes": "Without a style, image generators show interiors as in a home-decor magazine: warm, soft window light, carefully arranged objects, a blurred background and a balanced eye-level crop. Real-estate HDR replaces that mood with flat, even light and the stretched edges of an ultra-wide lens, plus halos and garish colour that visibly come from the software rather than from the room. The aim is not atmosphere but as much space as possible in one picture.",
+  "pitfalls": "Models readily turn the picture into a clean modern interior shot with straight verticals and natural light, or into a 3D render with flawless surfaces; halos and coarse microcontrast have to be asked for explicitly. In the other direction the picture easily tips into dark, surreal HDR art with a dramatic cloudy sky, or into the curved lines of a fisheye instead of the stretched edges of a rectilinear wide-angle lens. An agency logo, a watermark or a listing-portal interface also creeps in quickly.",
+  "tip": "Name the processing flaws one by one instead of just writing ‘HDR’, for example ‘bright halos along the window frames, flat grey shadows, every lamp on’, and fix the optics as ‘rectilinear 14 mm wide-angle from the room corner at chest height’ so that no fisheye appears.",
+  "sensitivity": "Because the style reads as a genuine listing, generated images should not be passed off as photos of real properties for sale; agency and portal logos and watermarks do not belong in the picture, nor software names such as ‘Photomatix’ in the prompt."
+ },
+ "sources": [
+  {
+   "title": "Multi-exposure HDR capture – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Multi-exposure_HDR_capture"
+  },
+  {
+   "title": "Tone mapping – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tone_mapping"
+  },
+  {
+   "title": "About HDRsoft (Photomatix, February 2003) – HDRsoft",
+   "url": "https://www.hdrsoft.com/about.html"
+  },
+  {
+   "title": "Using HDR Real Estate Photography: Good or Bad? – Photography for Real Estate (PFRE)",
+   "url": "https://photographyforrealestate.net/using-hdr-photos-for-real-estate-good-or-bad/"
+  }
+ ]
+}

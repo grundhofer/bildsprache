@@ -1,0 +1,68 @@
+{
+ "slug": "greek-red-figure-vase-painting",
+ "style_block": "A red-figure panel painted on an Athenian clay vase, Greece, about 480 BC. Medium: figures in bare orange-red clay on a lustrous black gloss ground, uneven and worn; crisp raised black relief lines for contours; fine lines and golden-brown dilute washes for anatomy, wrinkles and folds; no other colours, no shading or cast shadows. Composition: panel seen straight on, filling the frame, edges curving away; large figures on one ground line above a meander band, heads in profile, bodies in profile or three-quarter view, linked by gesture; no sky, horizon, perspective or landscape, only a few objects in outline; tongue pattern along the top. Lettering, where text is needed: thin straight-stroked capitals in purple-red beside what they name; without text, the black stays empty. Avoid black figures on orange, glossy 3D vase photos, smooth gradients, centred hero poses, heroic nudity, Greek costume replacing described clothing and pseudo-Greek letters.",
+ "de": {
+  "name": "Rotfigurige Vasenmalerei",
+  "aka": [
+   "Rotfiguriger Stil",
+   "Rotfigurige Keramik",
+   "Attisch-rotfigurige Vasenmalerei"
+  ],
+  "era": "um 530–300 v. Chr., Athen und Unteritalien",
+  "summary": "Orangefarbene, tongrundig ausgesparte Figuren vor glänzend schwarzem Grund, mit feinen Linien gezeichnet; im Katalog, weil Standlinie, Ornamentrahmen und fehlende Raumtiefe den üblichen KI-Bildaufbau ersetzen.",
+  "origin": "Die rotfigurige Technik entstand um 530 v. Chr. in Athen; als ihr Erfinder gilt der Andokides-Maler, und zu den frühesten Gefäßen gehören Bilinguen mit einer schwarzfigurigen und einer rotfigurigen Seite, wie sie auch Psiax bemalte. Der Maler zog die Umrisse auf dem lederharten Gefäß mit Pinsel und Glanzton nach, wichtige Konturen als leicht erhabene Relieflinie, die Binnenzeichnung mit verdünntem Glanzton, und füllte danach den Grund mit Glanzton; im Dreiphasenbrand wurde der Glanzton schwarz, während die ausgesparten Figuren tongrundig orangerot blieben. Weil Einzelheiten nun gemalt statt wie im schwarzfigurigen Stil geritzt wurden, konnten die Maler der Pioniergruppe um Euphronios, Euthymides und Phintias (etwa 520–500 v. Chr.) Figuren von vorn, von hinten und in Verkürzung zeigen; es folgten unter anderem der Berliner Maler, der Kleophrades-Maler und Duris. Kalos-Inschriften und gemalte Namensbeischriften neben den Figuren waren verbreitet. In Athen entstanden die letzten figürlich bemalten Vasen spätestens um 320 v. Chr., in Unteritalien arbeiteten rotfigurige Werkstätten bis um 300 v. Chr.",
+  "markers": [
+   "Tongrundig orangefarbene Figuren vor glänzend schwarzem Grund",
+   "Schwarze Relieflinien als Umriss; Muskeln und Gewandfalten in feinen Linien und goldbraun verdünntem Glanzton",
+   "Figuren meist auf einer gemeinsamen Standlinie, Köpfe im Profil, kaum Landschaft, keine Raumtiefe",
+   "Bildfeld gerahmt von Mäander, Eierstab, Zungenmuster oder Palmetten",
+   "Kleine gemalte Beischriften in den schwarzen Lücken zwischen den Figuren",
+   "Bildfeld folgt der Wölbung des Gefäßes, der schwarze Glanzton ist ungleichmäßig und stellenweise berieben"
+  ],
+  "escapes": "Der schwarze Grund lässt keinen Platz für KI-übliche Merkmale wie Dunst, goldenes Abendlicht, unscharfen Hintergrund oder eine Sonnenscheibe über dem Horizont, denn es gibt weder Himmel noch Lichtquelle. Volumen entsteht nur aus Linien und verdünntem Glanzton statt aus glatt gerechneter Schattierung. Standlinie und Ornamentrahmen ersetzen die mittige Heldeninszenierung durch einen Fries, den man der Länge nach liest.",
+  "pitfalls": "Modelle geraten leicht in den schwarzfigurigen Stil (schwarze Silhouetten auf Orange) oder liefern ein glänzendes 3D-Produktfoto einer Museumsvase mit winzigen Figuren. Ältere Gesichter werden gern jugendlich geglättet, heutige Kleidung weicht antiken Gewändern oder heroischer Nacktheit, und die Binnenlinien werden zu dicht. Außerdem tauchen griechisch wirkende Scheinbuchstaben auf, auch wo kein Text vorgesehen ist.",
+  "tip": "Das Bildfeld frontal und formatfüllend verlangen, damit die Figuren groß bleiben und aus dem Bild kein Produktfoto einer Vase wird.",
+  "sensitivity": ""
+ },
+ "en": {
+  "name": "Greek Red-Figure Vase Painting",
+  "aka": [
+   "Red-figure pottery",
+   "Attic red-figure",
+   "Red-figure technique"
+  ],
+  "era": "c. 530–300 BC, Athens and southern Italy",
+  "summary": "Orange figures left in bare clay against glossy black, drawn in fine lines; in the catalog because ground line, ornament frame and absent depth replace the usual AI composition.",
+  "origin": "Red-figure painting was developed in Athens around 530 BC and is usually credited to the Andokides Painter; among the earliest pieces are bilingual vases with black-figure on one side and red-figure on the other, a format Psiax also painted. The painter traced the figures on the leather-hard vessel with a brush and glossy clay slip, using a slightly raised relief line for important contours and diluted slip for inner detail, then filled the background with slip; a three-phase firing turned the slip black while the reserved figures kept the orange colour of the clay. Because details were now painted rather than incised as in black-figure, the Pioneer Group around Euphronios, Euthymides and Phintias (c. 520–500 BC) could show figures from the front, from behind and foreshortened; the Berlin Painter, the Kleophrades Painter and Douris were among those who followed. Kalos inscriptions and painted name labels beside the figures were common. The last Athenian vases with figural scenes were made around 320 BC at the latest, while red-figure workshops in southern Italy continued until about 300 BC.",
+  "markers": [
+   "Figures in bare orange clay against a lustrous black ground",
+   "Black relief lines for contours; muscles and drapery folds in fine lines and golden-brown dilute slip",
+   "Figures usually on one shared ground line, heads in profile, little landscape, no spatial depth",
+   "Picture field framed by meander, egg-and-dart, tongue or palmette bands",
+   "Small painted labels in the black gaps between the figures",
+   "Picture field follows the curve of the vessel; the black gloss is uneven and worn in places"
+  ],
+  "escapes": "The black ground leaves no room for AI defaults such as haze, golden-hour light, a blurred background or a sun disc over the horizon, because there is neither sky nor light source. Volume comes only from lines and dilute slip instead of smooth rendered shading. The ground line and ornament frame replace centred hero framing with a frieze read along its length.",
+  "pitfalls": "Models easily slip into black-figure (black silhouettes on orange) or deliver a glossy 3D product shot of a museum vase with tiny figures. Older faces tend to be smoothed into youthful ones, modern clothing gives way to ancient drapery or heroic nudity, and inner lines become too dense. Greek-looking pseudo-letters also appear even where no text is wanted.",
+  "tip": "Ask for the picture field seen straight on and filling the frame, so the figures stay large and the image does not become a product photo of a vase.",
+  "sensitivity": ""
+ },
+ "sources": [
+  {
+   "title": "Red-figure pottery – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Red-figure_pottery"
+  },
+  {
+   "title": "Rotfigurige Vasenmalerei – Wikipedia",
+   "url": "https://de.wikipedia.org/wiki/Rotfigurige_Vasenmalerei"
+  },
+  {
+   "title": "Red-Figure Pottery – World History Encyclopedia",
+   "url": "https://www.worldhistory.org/Red-Figure_Pottery/"
+  },
+  {
+   "title": "Andokides Painter – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Andokides_Painter"
+  }
+ ]
+}

@@ -1,0 +1,312 @@
+{
+ "tells": [
+  {
+   "tell_de": "Gelbstich und warmer Grauschleier",
+   "tell_en": "Yellow cast and a warm, muddy haze",
+   "applies_de": "Alle Motive, ChatGPT/gpt-image-1, 2025",
+   "applies_en": "All subjects, ChatGPT/gpt-image-1, 2025",
+   "why_de": "In Tests von Freepik kamen selbst exakte Kopien von Referenzbildern wärmer zurück, der Blaukanal sank stärker als Rot und Grün – das deutet auf das Modell selbst als Ursache. Weitere Erklärungen, etwa ein Prompt-Umschreiber, der „cinematic“ ergänzt, sind nur vermutet; laut Wikipedia wurde der Warmstich mit gpt-image-1.5 (Dez. 2025) korrigiert.",
+   "why_en": "In Freepik's tests even exact-copy requests of reference images came back warmer, with blue dropping more than red or green, which points to the model itself. Other explanations, such as a prompt rewriter adding “cinematic”, are only hypotheses; according to Wikipedia, gpt-image-1.5 (Dec 2025) addressed the warm bias.",
+   "fix_de": "Weißabgleich und Lichtquelle ausdrücklich nennen, etwa „neutral white balance, daylight 5600K, no warm or yellow cast, accurate skin tones“, und „cinematic“ oder „golden hour“ weglassen. Mit „make it less yellow“ rendert ChatGPT das ganze Bild neu; besser nachträglich die Farbkanäle korrigieren.",
+   "fix_en": "Name white balance and light source, e.g. “neutral white balance, daylight 5600K, no warm or yellow cast, accurate skin tones”, and leave out “cinematic” and “golden hour”. Asking ChatGPT to “make it less yellow” re-renders the whole image, so correct the colour channels afterwards instead.",
+   "source": "https://www.freepik.com/blog/fixing-openais-color-bias-with-simple-rgb-scaling/"
+  },
+  {
+   "tell_de": "Goldene Stunde und Gegenlicht als Standardlicht",
+   "tell_en": "Golden-hour backlight as the default light",
+   "applies_de": "Lifestyle- und Werbefotos, alle Modelle",
+   "applies_en": "Lifestyle and ad photos, all models",
+   "why_de": "Ohne Lichtangabe greift das Modell auf sein Standardlicht zurück – vermutlich, weil goldenes Gegenlicht in ästhetischen Fotodaten stark überrepräsentiert ist. Selbst OpenAIs Werbebild-Beispiel für gpt-image-2.5 zeigt es, obwohl der Prompt nicht danach fragt.",
+   "why_en": "When no light is specified, the model falls back to its default, likely because golden backlight is heavily over-represented in aesthetic photo data. Even OpenAI's own ad example for gpt-image-2.5 shows it, although the prompt does not ask for it.",
+   "fix_de": "Uhrzeit, Wetter und Lichtquelle physisch beschreiben, etwa „overcast 11 a.m. flat light“, „harsh noon sun with hard short shadows“ oder „on-camera direct flash at night“. OpenAI rät selbst, zu beschreiben, woher das Licht kommt, statt „beautiful lighting“ zu verlangen.",
+   "fix_en": "Describe time, weather and light source physically, e.g. “overcast 11 a.m. flat light”, “harsh noon sun with hard short shadows” or “on-camera direct flash at night”. OpenAI itself advises describing where the light comes from instead of asking for “beautiful lighting”.",
+   "source": "https://learn.chatgpt.com/docs/image-generation"
+  },
+  {
+   "tell_de": "Blaugrün-Orange-Look, HDR-Glanz und Übersättigung",
+   "tell_en": "Teal-and-orange grade, HDR glow, oversaturation",
+   "applies_de": "Midjourney, DALL-E 3, „cinematic“-Prompts",
+   "applies_en": "Midjourney, DALL-E 3, “cinematic” prompts",
+   "why_de": "Hohe Guidance-Werte führen in Diffusionsmodellen nachweislich zu Übersättigung, und KI-Bilder zeigen einen erkennbaren Hang zu Sättigung und Kontrast, wahrscheinlich aus überrepräsentierten Werbe- und Selfie-Bildern. Dass der in Hollywood verbreitete Blaugrün-Orange-Look über die Trainingsdaten durchschlägt, ist naheliegend, aber nicht belegt.",
+   "why_en": "High classifier-free guidance demonstrably causes oversaturation in diffusion models, and AI images show a recognisable saturation and contrast bias, probably from over-represented ads and selfies. That Hollywood's dominant teal-orange grade carries over via the training data is plausible but unproven.",
+   "fix_de": "„cinematic“, „epic“, „vibrant“ und „8k“ streichen und einen konkreten Filmlook nennen, etwa „Kodak Portra 400 colour negative, soft contrast“, oder „muted, low saturation, matte blacks“ verlangen.",
+   "fix_en": "Drop “cinematic”, “epic”, “vibrant” and “8k” and name a specific film look such as “Kodak Portra 400 colour negative, soft contrast”, or ask for “muted, low saturation, matte blacks”.",
+   "source": "https://academic.oup.com/jaac/advance-article/doi/10.1093/jaac/kpag027/8661496"
+  },
+  {
+   "tell_de": "Gegenbeispiel: zu neutrales Grau mit flachen Schatten",
+   "tell_en": "Counter-example: too-neutral grey with shallow shadows",
+   "applies_de": "Fotos, Google Nano Banana (Pro)",
+   "applies_en": "Photos, Google Nano Banana (Pro)",
+   "why_de": "Die Ursache ist nicht belegt; möglicherweise ist es eine Gegenreaktion beim Tuning auf den glänzenden KI-Look. Das Beispiel zeigt, dass auch „neutral“ ein erkennbarer Standard sein kann.",
+   "why_en": "The cause is unknown; it may be a tuning reaction against the glossy AI look. It shows that “neutral” can be a recognisable default too.",
+   "fix_de": "Eine bewusste Farbgebung und einen bewussten Kontrast vorgeben, etwa „deep blacks, rich shadow density“.",
+   "fix_en": "Specify a deliberate grade and contrast, e.g. “deep blacks, rich shadow density”.",
+   "source": "https://denisdevcic.com/nano-banana-pro-vs-chatgpt-image-gen-review/"
+  },
+  {
+   "tell_de": "Künstliches Rauschen und überschärfte Details",
+   "tell_en": "Synthetic noise and over-sharpened micro-detail",
+   "applies_de": "Fotos, ChatGPT Images 2.5 (Sept. 2026)",
+   "applies_en": "Photos, ChatGPT Images 2.5 (Sept 2026)",
+   "why_de": "Laut TechRadar hat das Modell gelernt, dass Fotos Korn und kleine Unregelmäßigkeiten enthalten, und reproduziert diese Signale besonders eifrig – Rauschen wirkt dann wie Detail. Bei mehreren aufeinanderfolgenden Bearbeitungen verstärkt sich das Korn zusätzlich.",
+   "why_en": "According to TechRadar, the model learned that photos contain grain and small variations and reproduces these signals unusually eagerly, so noise passes for detail. Chaining several edits adds more grain each time.",
+   "fix_de": "Ein verlässlicher Prompt-Fix ist nicht bekannt: TechRadars Bitte um glatte Verläufe ohne Rauschen half nicht. Für Grafiken „flat solid fills, clean vector-like edges, no texture“ versuchen, vom sauberen Original neu ansetzen statt Bearbeitungen zu verketten und notfalls nachträglich entrauschen.",
+   "fix_en": "No reliable prompt fix is known: TechRadar asked for smooth gradients without noise and the grain stayed. For graphics try “flat solid fills, clean vector-like edges, no texture”, restart from the clean original instead of chaining edits, and denoise afterwards if needed.",
+   "source": "https://www.techradar.com/ai-platforms-assistants/the-noise-patterns-are-awful-some-reddit-users-arent-happy-with-the-new-chatgpt-images-2-5-so-i-did-my-own-tests-and-have-to-agree"
+  },
+  {
+   "tell_de": "Wachsfigurenhaut: porenlos, glattgebügelt, makellose Zähne",
+   "tell_en": "Waxwork skin: poreless, airbrushed, perfect teeth",
+   "applies_de": "Personenfotos, alle Modelle",
+   "applies_en": "Photos of people, all models",
+   "why_de": "Trainingsdaten sind voller retuschierter Fotos, und das Entrauschen im Modell glättet feine Strukturen wie Poren und Fältchen. Ästhetik-Bewertungsmodelle und Verstärkerwörter wie „flawless“ oder „8k“ ziehen das Bild zusätzlich Richtung CGI.",
+   "why_en": "Training data is full of retouched photos, and the model's denoising smooths away fine texture such as pores and fine lines. Aesthetic reward models and booster words like “flawless” or “8k” push it further towards CGI.",
+   "fix_de": "OpenAIs eigenes Rezept nutzen: „real photograph, real texture (pores, wrinkles, fabric wear, imperfections), no glamorization, no heavy retouching“. Verstärkerwörter wie „flawless“ oder „masterpiece“ weglassen.",
+   "fix_en": "Use OpenAI's own recipe: “real photograph, real texture (pores, wrinkles, fabric wear, imperfections), no glamorization, no heavy retouching”. Leave out booster words such as “flawless” or “masterpiece”.",
+   "source": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide"
+  },
+  {
+   "tell_de": "Stockfoto-Besetzung: jung, schön, alle lächeln in die Kamera",
+   "tell_en": "Stock-photo cast: young, attractive, all smiling at the camera",
+   "applies_de": "Personenbilder, alle Modelle",
+   "applies_en": "Images of people, all models",
+   "why_de": "Werbe- und Instagram-Daten bringen einen Schönheits-Bias mit, und Bewertungsmodelle belohnen Positivität und Attraktivität. Der frühere DALL-E-3-Systemprompt in ChatGPT verlangte, Herkunft und Geschlecht jeder Person zu „diversifizieren“ – daher Gruppen mit Vielfalt nach Checkliste.",
+   "why_en": "Ad and Instagram data carry a beauty bias, and reward models favour positivity and attractiveness. ChatGPT's DALL-E 3-era system prompt told the rewriter to diversify descent and gender for each person, which produced checklist diversity.",
+   "fix_de": "Bewusst besetzen: Alter, Statur, Kleidung, Tätigkeit und Ausdruck angeben, etwa „concentrating, tired, mid-sentence, laughing at each other, not at the camera“. Weniger Personen zeigen und Ort und Zeit konkret machen.",
+   "fix_en": "Cast on purpose: give age, build, clothing, activity and expression, e.g. “concentrating, tired, mid-sentence, laughing at each other, not at the camera”. Show fewer people and make place and time specific.",
+   "source": "https://academic.oup.com/jaac/advance-article/doi/10.1093/jaac/kpag027/8661496"
+  },
+  {
+   "tell_de": "Immer dasselbe Gesicht, etwa das „Flux-Gesicht“",
+   "tell_en": "The same face every time, e.g. the “Flux face”",
+   "applies_de": "Flux, Midjourney, SD; seltener GPT",
+   "applies_en": "Flux, Midjourney, SD; less in GPT",
+   "why_de": "Modellfamilien fallen auf einen schmalen Gesichtstyp zurück, der sich laut Nutzern kaum wegprompten lässt. Laut einer Studie zur Bildvielfalt verengt die Guidance-Technik die Vielfalt zusätzlich.",
+   "why_en": "Model families collapse onto a narrow face archetype that users find hard to prompt away. According to a study on output diversity, classifier-free guidance narrows variety further.",
+   "fix_de": "Gesichtszüge konkret beschreiben, etwa „crooked nose, heavy eyebrows, asymmetric jaw, freckles“, dazu Alter und Herkunft. Für wiederkehrende Figuren ein Referenzbild statt nur Text verwenden.",
+   "fix_en": "Describe facial features concretely, e.g. “crooked nose, heavy eyebrows, asymmetric jaw, freckles”, plus age and ethnicity. For a recurring character use a reference image rather than text alone.",
+   "source": "https://huggingface.co/black-forest-labs/FLUX.1-dev/discussions/45"
+  },
+  {
+   "tell_de": "Geklonte Menge: gleiche Gesichter im Hintergrund",
+   "tell_en": "Crowd clones: near-identical faces in the background",
+   "applies_de": "Belebte Szenen mit vielen Menschen",
+   "applies_en": "Busy scenes with many people",
+   "why_de": "Vermutlich bekommt jedes kleine Gesicht zu wenig Aufmerksamkeit des Modells, das dann auf ein Durchschnittsgesicht zurückfällt. Im Everypixel-Test mit 34 Aufgaben scheiterte gpt-image-2 nur an einer belebten Marktstraße in Tokio.",
+   "why_en": "Likely each small face gets too little of the model's attention, so it falls back to an average face. In Everypixel's 34-brief test, the one brief gpt-image-2 failed was a busy Tokyo street market.",
+   "fix_de": "Wenige Personen (1–4) zeigen, Menschenmengen als „motion-blurred crowd“ oder „back-lit silhouettes“ anlegen und jede Person im Vordergrund einzeln beschreiben. Hintergrundgesichter in der 100-%-Ansicht prüfen.",
+   "fix_en": "Show few people (1–4), render crowds as a “motion-blurred crowd” or “back-lit silhouettes”, and describe each foreground person individually. Check background faces at 100% zoom.",
+   "source": "https://research.everypixel.com/gpt-image-2-0/"
+  },
+  {
+   "tell_de": "Zu perfekt inszeniert: aufgeräumt, makellos, stockfotohaft",
+   "tell_en": "Too perfectly staged: tidy, flawless, stock-photo polish",
+   "applies_de": "Fotorealistische Bilder, ChatGPT 2025–2026",
+   "applies_en": "Photoreal images, ChatGPT 2025–2026",
+   "why_de": "Das Feintuning zielt auf werbliche, redaktionelle Glätte: Bohacek et al. maßen bei 26 Generatoren einen einheitlichen Zug zur Lifestyle- und Editorial-Fotografie. Was der Prompt offenlässt, füllt das Modell mit der statistisch typischen, aufgeräumten Variante.",
+   "why_en": "Tuning leans towards commercial, editorial polish: Bohacek et al. measured a uniform pull towards lifestyle and editorial photography across 26 generators. Whatever the prompt leaves open gets filled with the statistically typical, tidy version.",
+   "fix_de": "Einen Moment statt einer Pose beschreiben und Alltagsspuren nennen, etwa „mid-action, not looking at the camera, receipts, a coffee ring and a chipped mug on the table“. Unperfekte Ausschnitte zulassen, zum Beispiel eine angeschnittene Person oder eine leichte Schräglage.",
+   "fix_en": "Describe a moment instead of a pose and add everyday traces, e.g. “mid-action, not looking at the camera, receipts, a coffee ring and a chipped mug on the table”. Allow imperfect framing, such as a person cut off by the edge or a slight tilt.",
+   "source": "https://louvresae.github.io/"
+  },
+  {
+   "tell_de": "Unscharfer Hintergrund und Bokeh, auch wo es nicht passt",
+   "tell_en": "Blurred background and bokeh, even where it doesn't fit",
+   "applies_de": "Fotos, vor allem Flux, Midjourney, SD",
+   "applies_en": "Photos, especially Flux, Midjourney, SD",
+   "why_de": "Fotos mit geringer Schärfentiefe sind in den Trainingsdaten vermutlich so häufig, dass sie zum Standard wurden; selbst OpenAIs Beispielprompt für Fotorealismus verlangt „shallow depth of field“. Negative Prompts zum Abschalten gibt es bei Flux und den GPT-Bildmodellen nicht.",
+   "why_en": "Shallow-focus photos are likely so common in training data that they became the default; even OpenAI's own photorealism example prompt asks for “shallow depth of field”. Flux and the GPT image models have no negative prompt to switch it off.",
+   "fix_de": "Ausdrücklich „deep focus, everything sharp from foreground to background, f/11, 28mm wide angle“ oder „smartphone snapshot“ verlangen. Wie zuverlässig GPT-Modelle das umsetzen, ist nicht geprüft.",
+   "fix_en": "Ask explicitly for “deep focus, everything sharp from foreground to background, f/11, 28mm wide angle” or a “smartphone snapshot”. How reliably GPT models follow this is untested.",
+   "source": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev/discussions/9"
+  },
+  {
+   "tell_de": "Mittig, auf Augenhöhe, symmetrisch: die Helden-Komposition",
+   "tell_en": "Centred, eye-level, symmetrical hero composition",
+   "applies_de": "Fotos, Illustrationen, Infografiken; alle Modelle",
+   "applies_en": "Photos, illustrations, infographics; all models",
+   "why_de": "Vortrainierte Bildmodelle setzen Objekte nachweislich bevorzugt in die Bildmitte, vermutlich weil zentrierte Produkt- und Porträtfotos die Daten dominieren. Dazu kommt das quadratische Standardformat.",
+   "why_en": "Pre-trained text-to-image models are demonstrably biased towards placing the subject in the centre, likely because centred product and portrait shots dominate the data. The square default format adds to it.",
+   "fix_de": "Platzierung und Ausschnitt vorgeben, etwa „subject in the lower-left third, cut off at the knee, horizon in the top fifth“, und ein nicht quadratisches Format wählen. Ungewohnte Kamerahöhen wie Frosch- oder Vogelperspektive helfen zusätzlich.",
+   "fix_en": "Specify placement and crop, e.g. “subject in the lower-left third, cut off at the knee, horizon in the top fifth”, and choose a non-square format. Unusual camera heights such as worm's-eye or overhead views help too.",
+   "source": "https://arxiv.org/html/2404.12333v2"
+  },
+  {
+   "tell_de": "Produkt auf Pastell-Podest mit Spritzer und Farbverlauf",
+   "tell_en": "Product on a pastel podium with splash and gradient",
+   "applies_de": "Produktfotos, Vorlagen-Tools und Bildmodelle",
+   "applies_en": "Product shots, template tools, image models",
+   "why_de": "Vorlagen-Marktplätze und KI-Produktfoto-Tools wie Pebblely oder CreatorKit haben diesen Look standardisiert. Dass er deshalb auch in den Trainingsdaten häufig ist, ist wahrscheinlich, aber nicht belegt.",
+   "why_en": "Template marketplaces and AI product-shot tools such as Pebblely or CreatorKit standardised this look. That it is therefore common in training data is likely but unproven.",
+   "fix_de": "Das Produkt in einen echten Gebrauchskontext mit Spuren stellen, etwa „on a kitchen counter with crumbs“, oder einen Katalog-Look einer Epoche nennen wie „1970s mail-order catalog photo with on-camera flash“.",
+   "fix_en": "Place the product in a real context with traces of use, e.g. “on a kitchen counter with crumbs”, or name a period catalog look such as “1970s mail-order catalog photo with on-camera flash”.",
+   "source": "https://creatorkit.com/printify/templates/a-podium-with-pastel-shapes-ai-background"
+  },
+  {
+   "tell_de": "Standard-Cartoon: Ghibli-, Pixar- oder Disney-Anmutung",
+   "tell_en": "Default cartoon: Ghibli-, Pixar- or Disney-ish",
+   "applies_de": "Illustrationen, ChatGPT seit März 2025",
+   "applies_en": "Illustrations, ChatGPT since March 2025",
+   "why_de": "Der virale Ghibli-Trend ab Ende März 2025 und OpenAIs Linie, Studio-Stile zu erlauben, Stile einzelner lebender Künstler aber abzulehnen, haben die Anfragen auf wenige Studio-Looks gelenkt. Vermutlich sind diese Looks zudem in den Trainingsdaten stark vertreten.",
+   "why_en": "The viral Ghibli trend from late March 2025 and OpenAI's line of allowing studio styles while refusing individual living artists funnelled requests to a few studio looks. These looks are likely also heavily represented in training data.",
+   "fix_de": "Weniger abgenutzte Traditionen nennen und über Merkmale beschreiben, etwa „1950s UPA limited animation: flat colour shapes, minimal backgrounds, angular characters“ oder „ligne claire: uniform black outline, flat colours, no hatching“.",
+   "fix_en": "Name less-worn traditions and describe their features, e.g. “1950s UPA limited animation: flat colour shapes, minimal backgrounds, angular characters” or “ligne claire: uniform black outline, flat colours, no hatching”.",
+   "source": "https://www.techcrunch.com/2025/03/28/openai-peels-back-chatgpts-safeguards-around-image-creation"
+  },
+  {
+   "tell_de": "Corporate Memphis und generische Flachvektor-Figuren",
+   "tell_en": "Corporate Memphis and generic flat-vector people",
+   "applies_de": "Blog- und SaaS-Illustrationen, alle Modelle",
+   "applies_en": "Blog and SaaS illustrations, all models",
+   "why_de": "Der Stil wurde ab 2017 (Facebooks „Alegria“ von Buck) zur Standard-Bildsprache des Tech-Marketings; flache und isometrische Vektorgrafik prägt bis heute SaaS-, KI- und Fintech-Websites. Entsprechend häufig dürfte er in den Trainingsdaten sein.",
+   "why_en": "From 2017 (Facebook's “Alegria” by Buck) the style became the default visual language of tech marketing; flat and isometric vector art still dominates SaaS, AI and fintech sites. It is likely just as common in training data.",
+   "fix_de": "Ein konkretes Handwerk mit seinen Fehlern verlangen, etwa „risograph two-ink overprint with misregistration“ oder „gouache with dry-brush edges“, dazu eine feste Palette in Hex-Codes und „no pastel blobs, no gradients“.",
+   "fix_en": "Ask for a specific craft with its flaws, e.g. “risograph two-ink overprint with misregistration” or “gouache with dry-brush edges”, plus a fixed hex palette and “no pastel blobs, no gradients”.",
+   "source": "https://www.linearity.io/blog/corporate-illustrations/"
+  },
+  {
+   "tell_de": "Aufgeblasene 3D-Icons in Pastell-Knetoptik",
+   "tell_en": "Inflated, glossy 3D icons in pastel clay",
+   "applies_de": "Icons und Marketinggrafik, ChatGPT 2025–2026",
+   "applies_en": "Icons and marketing graphics, ChatGPT 2025–2026",
+   "why_de": "Ein verbreiteter Trend, den ChatGPT besonders gut trifft. Der Look wirkt mit wenig Aufwand hochwertig und ist vermutlich deshalb überall.",
+   "why_en": "A widespread trend that ChatGPT reproduces especially well. The look appears premium with little effort, which is likely why it is everywhere.",
+   "fix_de": "Ein anderes Icon-System festlegen, etwa „1.5px monoline pictograms on a 24px grid, square caps“ oder „ISOTYPE-style solid silhouettes in two colours“, und „no 3D, no shading, no gradients“ ergänzen.",
+   "fix_en": "Specify a different icon system, e.g. “1.5px monoline pictograms on a 24px grid, square caps” or “ISOTYPE-style solid silhouettes in two colours”, and add “no 3D, no shading, no gradients”.",
+   "source": "https://promptplaza.store/blogs/creator-guides/chatgpt-image-prompts-icon-pack-design"
+  },
+  {
+   "tell_de": "Falsche Handarbeit: Aquarell und Siebdruck wirken digital",
+   "tell_en": "Fake traditional media that still look digital",
+   "applies_de": "Illustrationsstile, alle Modelle",
+   "applies_en": "Illustration styles, all models",
+   "why_de": "Modelle lernen die Farbpalette eines Stils vermutlich schneller als die Spuren seines Herstellungsprozesses. Belegt ist, dass ästhetisch optimierte Modelle bewusst raue Vorgaben glätten: Eine solche Flux-Variante verfehlte vielfältige Ästhetik-Anfragen in rund 64 % der Fälle.",
+   "why_en": "Models likely learn a style's palette faster than the traces of its physical process. It is documented that aesthetically aligned models clean up deliberately rough requests: one aligned Flux variant failed wide-ranging aesthetic requests about 64% of the time.",
+   "fix_de": "Das Verfahren samt typischem Fehler nennen, etwa „watercolour with backruns and pigment granulation on cold-press paper“ oder „two spot inks, slight misregistration, halftone dots“. Zuverlässiger ist ein Referenzbild des Mediums.",
+   "fix_en": "Name the process and its signature flaw, e.g. “watercolour with backruns and pigment granulation on cold-press paper” or “two spot inks, slight misregistration, halftone dots”. A reference image of the medium is more reliable.",
+   "source": "https://arxiv.org/html/2512.11883v1"
+  },
+  {
+   "tell_de": "Überall Details, keine Bildhierarchie",
+   "tell_en": "Detail everywhere, no visual hierarchy",
+   "applies_de": "Illustrationen, Konzeptkunst, auch Fotos",
+   "applies_en": "Illustrations, concept art, also photos",
+   "why_de": "Vermutlich füllen Modelle jede Fläche mit plausibler Textur, ohne Vorgabe, was wegfallen soll; diese Erklärung stammt aus Künstlerkreisen, nicht aus der Forschung. Wiederholungen geraten zu regelmäßig, etwa gleichmäßig verteilte Wassertropfen im Everypixel-Test von gpt-image-2.",
+   "why_en": "Models likely fill every area with plausible texture without being told what to leave out; this explanation comes from artists, not research. Repetitions come out too regular, such as evenly spaced water droplets in Everypixel's gpt-image-2 test.",
+   "fix_de": "Sagen, was vereinfacht wird, etwa „background reduced to two flat tones, distant buildings fade into haze, one point of sharp focus“. Unregelmäßigkeit ausdrücklich verlangen: „droplets of varying size, clustered unevenly“.",
+   "fix_en": "Say what to simplify, e.g. “background reduced to two flat tones, distant buildings fade into haze, one point of sharp focus”. Ask for irregularity: “droplets of varying size, clustered unevenly”.",
+   "source": "https://research.everypixel.com/gpt-image-2-0/"
+  },
+  {
+   "tell_de": "Schablonen-Infografik: nummerierte Kreise, Pfeile, Slogan, 3D-Schnittbild",
+   "tell_en": "Template infographic: numbered circles, arrows, slogan, 3D cutaway",
+   "applies_de": "Infografiken, gpt-image-2 und 2.5",
+   "applies_en": "Infographics, gpt-image-2 and 2.5",
+   "why_de": "Eine knappe Bitte um eine „detaillierte Infografik“ ruft vermutlich das Standardbild eines Marketing-Erklärplakats ab: hohe Dichte, Deko und Fülltext. In OpenAIs eigenen Kaffeemaschinen-Beispielen landen beide Modellgenerationen bei fast derselben Vorlage.",
+   "why_en": "A short request for a “detailed infographic” likely triggers the model's idea of a marketing explainer poster: high density, decoration and filler copy. In OpenAI's own coffee-machine examples both model generations land on almost the same template.",
+   "fix_de": "Wie eine Spezifikation prompten: Zielgruppe, Format, Raster, Hierarchie und jeden Text vorgeben und eine Tradition wählen, etwa „Neurath ISOTYPE pictogram rows“ oder „Swiss grid with one typeface“. Ausdrücklich begrenzen: „no icons, no tagline, no decorative clutter“.",
+   "fix_en": "Prompt it like a spec: audience, canvas, grid, hierarchy and every text string, plus a tradition such as “Neurath ISOTYPE pictogram rows” or “Swiss grid with one typeface”. Constrain it explicitly: “no icons, no tagline, no decorative clutter”.",
+   "source": "https://developers.openai.com/api/docs/guides/image-prompting"
+  },
+  {
+   "tell_de": "Scheinpräzision: Balken, Werte und Beschriftungen stimmen nicht",
+   "tell_en": "Fake precision: wrong bars, values and labels",
+   "applies_de": "Diagramme und Infografiken, alle Modelle",
+   "applies_en": "Charts and infographics, all models",
+   "why_de": "Im IGenBench-Test (600 Fälle, 10 Modelle) war selbst das beste Modell nur bei 49 % der Infografiken vollständig korrekt; Datentreue war bei allen Modellen der größte Schwachpunkt. Die Fehler, etwa verzerrte Balkenlängen, fallen auf den ersten Blick nicht auf.",
+   "why_en": "In IGenBench (600 cases, 10 models) even the best model got only 49% of infographics fully right, and data accuracy was the weakest point for every model. The errors, such as distorted bar lengths, are easy to miss at first glance.",
+   "fix_de": "Alle Zahlen und Beschriftungen in den Prompt schreiben und Diagramme einfach halten, etwa „exactly three bars labelled 20, 40, 60, heights proportional to the values“; danach jeden Wert prüfen. Exakte Diagramme besser per Code erzeugen und das Bildmodell nur für die Illustration nutzen.",
+   "fix_en": "Put every number and label in the prompt and keep charts simple, e.g. “exactly three bars labelled 20, 40, 60, heights proportional to the values”, then check every value. Better still, render exact charts in code and use the image model only for illustration.",
+   "source": "https://arxiv.org/abs/2601.04498"
+  },
+  {
+   "tell_de": "Textfehler: vertauschte Buchstaben, erfundene Wörter, Pseudo-Schrift",
+   "tell_en": "Text glitches: swapped letters, invented words, pseudo-text",
+   "applies_de": "Langer Text; selten seit gpt-image-2",
+   "applies_en": "Long text; rare since gpt-image-2",
+   "why_de": "Text entsteht als Bildinhalt ohne echte Schrift-Engine, und die Genauigkeit sinkt mit der Länge. Kittl fand bei gpt-image-2 in Blöcken über 100 Wörtern gelegentliche Buchstabendreher in den letzten Zeilen; ältere Modelle wie GPT-4o und DALL-E patzten deutlich öfter.",
+   "why_en": "Text is generated as image content without a real font engine, and accuracy drops with length. Kittl found occasional letter swaps in the last lines of 100+ word blocks from gpt-image-2; older models such as GPT-4o and DALL-E erred far more often.",
+   "fix_de": "Den genauen Text in Anführungszeichen angeben, seltene Wörter buchstabieren, „render exactly once, no extra text“ ergänzen und Beschriftungen auf höchstens acht Wörter halten. Jedes Wort Korrektur lesen; OpenAI empfiehlt, längere Texte im Layoutprogramm zu setzen.",
+   "fix_en": "Give the exact copy in quotes, spell rare words letter by letter, add “render exactly once, no extra text” and keep callouts to eight words or fewer. Proofread every word; OpenAI recommends setting dense copy in a design tool.",
+   "source": "https://www.kittl.com/blogs/kittl-review-gpt-image-2-0/"
+  },
+  {
+   "tell_de": "Ungefragte Logos und Markenzeichen",
+   "tell_en": "Unrequested logos and brand marks",
+   "applies_de": "Produkt- und Infografikbilder, gpt-image-2/2.5",
+   "applies_en": "Product and infographic images, gpt-image-2/2.5",
+   "why_de": "Das Modell kennt Marken gut und nimmt Markenhinweise im Prompt wörtlich. In OpenAIs eigenem Beispiel steht nach „like a Jura“ ein „jura“-Schriftzug auf der Kaffeemaschine.",
+   "why_en": "The model knows brands well and takes brand references in the prompt literally. In OpenAI's own example, “like a Jura” produced a “jura” wordmark on the coffee machine.",
+   "fix_de": "Produkte generisch beschreiben und „no logos, no brand names, no trademarks“ ergänzen, wie OpenAI selbst empfiehlt. Schuhe, Geräte und Verpackungen gezielt auf Markenzeichen prüfen.",
+   "fix_en": "Describe products generically and add “no logos, no brand names, no trademarks”, as OpenAI itself recommends. Check shoes, devices and packaging for marks.",
+   "source": "https://developers.openai.com/cookbook/assets/images/infographic_coffee_machine_gpt-image-2.png"
+  },
+  {
+   "tell_de": "Grafik ohne Stil: „modern“, „clean“, Bastelmarkt-Pastell",
+   "tell_en": "Design with no style: “modern”, “clean”, craft-fair pastels",
+   "applies_de": "Plakate, Flyer, Cover, Social-Media-Grafiken",
+   "applies_en": "Posters, flyers, covers, social graphics",
+   "why_de": "Laut Mika Reyes ist „gar kein Stil“ das größte KI-Merkmal, weil Wörter wie „modern“ oder „clean“ dem Modell fast nichts sagen. Ohne klare Vorgabe landet es oft bei Bastelmarkt-Optik mit Wimpeln, gezeichneten Blumen und Pastell, die schon durch die Wiederholung ermüdet.",
+   "why_en": "According to Mika Reyes, “no style at all” is the biggest AI tell, because words like “modern” or “clean” mean almost nothing to the model. Left to itself it often lands on a craft-fair look with bunting, hand-drawn florals and pastels that grates through sheer repetition.",
+   "fix_de": "Eine Designrichtung oder Epoche nennen, etwa „Swiss International Style poster, one grotesk typeface, strict grid“, 2–3 Farben festlegen und eine echte Schrifthierarchie vorgeben. Den Standard ausdrücklich ausschließen: „avoid pastel, airbrush, hand-drawn florals“.",
+   "fix_en": "Name a design movement or period, e.g. “Swiss International Style poster, one grotesk typeface, strict grid”, fix 2–3 colours and set a real type hierarchy. Exclude the default explicitly: “avoid pastel, airbrush, hand-drawn florals”.",
+   "source": "https://mikareyes.com/ai/how-to-fix-ai-looking-graphic-design-and-posters"
+  },
+  {
+   "tell_de": "Generische UI-Optik: Inter, Lila-Blau-Verlauf, drei Karten",
+   "tell_en": "Generic UI look: Inter, purple-blue gradient, three cards",
+   "applies_de": "UI-Mockups und Folien, Bildmodelle und Agenten",
+   "applies_en": "UI mockups, slides; image models, agents",
+   "why_de": "Tailwind- und SaaS-Standards dominieren die Daten; 925studios nennt den Blau-Lila-Verlauf das lauteste KI-Merkmal 2026. Selbst OpenAIs Beispielprompt für Folien verlangt „Inter“ und „muted blues and grays“.",
+   "why_en": "Tailwind and SaaS defaults dominate the data; 925studios calls the blue-to-purple gradient the loudest AI tell of 2026. Even OpenAI's own slide example prompt asks for “Inter” and “muted blues and greys”.",
+   "fix_de": "Schriften über Klasse und Charakter beschreiben, etwa „condensed grotesk headlines, slab serif body“, und eine Palette jenseits von Blau-Grau sowie ein Layoutsystem vorgeben. OpenAIs eigene Ausschlussliste hilft: „no clip art, stock photography, gradients, shadows, decorative elements“.",
+   "fix_en": "Describe typefaces by class and character, e.g. “condensed grotesk headlines, slab serif body”, and set a palette outside blue-grey and a layout system. OpenAI's own avoid-list helps: “no clip art, stock photography, gradients, shadows, decorative elements”.",
+   "source": "https://www.925studios.co/blog/ai-slop-design-tells"
+  },
+  {
+   "tell_de": "Hausstil des Modells liegt über jedem Prompt",
+   "tell_en": "A model house style laid over every prompt",
+   "applies_de": "Midjourney, DALL-E 3 (bis Mai 2026)",
+   "applies_en": "Midjourney, DALL-E 3 (until May 2026)",
+   "why_de": "Hersteller stimmen ihre Modelle bewusst auf einen Look ab: Midjourney auf stimmungsvolles Licht und malerische Oberflächen, DALL-E 3 „vivid“ auf hyperreal und filmisch. Bohacek et al. zeigen, dass solche Standardprofile stabile Eigenschaften eines Modells sind und sich die Modellfamilien einander annähern.",
+   "why_en": "Vendors deliberately tune their models towards a look: Midjourney towards moody light and a painterly finish, DALL-E 3 “vivid” towards hyper-real and cinematic. Bohacek et al. show these default profiles are stable properties of each model and that model families are converging.",
+   "fix_de": "In Midjourney „--style raw --s 50“ nutzen. In gpt-image gibt es keinen Stilschalter, also Stimmungsadjektive streichen und Medium, Licht und Palette ausdrücklich nennen, etwa „35mm film photo, overcast light, muted palette“.",
+   "fix_en": "In Midjourney use “--style raw --s 50”. gpt-image has no style switch, so drop mood adjectives and name medium, light and palette explicitly, e.g. “35mm film photo, overcast light, muted palette”.",
+   "source": "https://louvresae.github.io/"
+  },
+  {
+   "tell_de": "Heimlich ausgeschmückter Prompt: „warm“, „cinematic“, „tasteful“",
+   "tell_en": "Hidden prompt embellishment: “warm”, “cinematic”, “tasteful”",
+   "applies_de": "ChatGPT, Codex $imagegen, Responses-API",
+   "applies_en": "ChatGPT, Codex $imagegen, Responses API",
+   "why_de": "Laut OpenAI-Dokumentation schreibt das Hauptmodell den Prompt automatisch um; im offiziellen Beispiel ergänzt es „depicted in a warm, heartwarming style“. Der Codex-Skill für Bildgenerierung weist den Agenten an, generische Prompts geschmackvoll anzureichern („tasteful augmentation“).",
+   "why_en": "OpenAI's docs say the mainline model automatically revises your prompt; the official example adds “depicted in a warm, heartwarming style”. Codex's image-generation skill tells the agent to apply “tasteful augmentation” to generic prompts.",
+   "fix_de": "Einen vollständig ausformulierten Prompt geben, denn detaillierte Prompts bleiben laut Codex-Skill weitgehend erhalten, und „use this prompt verbatim“ dazuschreiben. In der API das Feld revised_prompt mitloggen und prüfen.",
+   "fix_en": "Give a fully specified prompt, since the Codex skill largely preserves detailed prompts, and add “use this prompt verbatim”. In the API, log and inspect revised_prompt.",
+   "source": "https://developers.openai.com/api/docs/guides/image-generation"
+  },
+  {
+   "tell_de": "Gewollt Hässliches wird heimlich schöngefärbt",
+   "tell_en": "Deliberately ugly requests get quietly beautified",
+   "applies_de": "Lo-fi-Bilder; Flux, SDXL, Nano Banana",
+   "applies_en": "Lo-fi images; Flux, SDXL, Nano Banana",
+   "why_de": "Bewertungsmodelle überbetonen Helligkeit, Positivität und Prominenz und schneiden bei ästhetisch vielfältigen Bildern schlechter ab als Zufall; darauf ausgerichtete Generatoren machen negative Stimmungen neutral oder positiv. Für GPT ist das wahrscheinlich ähnlich, aber nicht geprüft.",
+   "why_en": "Reward models overemphasise brightness, positivity and prominence and do worse than chance on aesthetically diverse images; generators aligned to them turn negative moods neutral or positive. This likely applies to GPT too but is untested.",
+   "fix_de": "Den Verfall physisch beschreiben statt „ugly“ zu schreiben, etwa „JPEG blocking, 1-bit dithering, photocopier toner streaks, blown highlights“, und ein Referenzbild mitgeben. Mit mehreren Versuchen rechnen.",
+   "fix_en": "Describe the degradation physically instead of writing “ugly”, e.g. “JPEG blocking, 1-bit dithering, photocopier toner streaks, blown highlights”, and supply a reference image. Expect several attempts.",
+   "source": "https://arxiv.org/html/2512.11883v1"
+  },
+  {
+   "tell_de": "Gleichförmigkeit: Varianten und Anbieter sehen fast gleich aus",
+   "tell_en": "Sameness: variants and vendors look nearly alike",
+   "applies_de": "Alle aktuellen Bildmodelle",
+   "applies_en": "All current image models",
+   "why_de": "Varianten desselben Prompts nutzen nur rund 10 von 768 effektiven Dimensionen, und DALL-E 3 und Imagen 4 erreichen bei identischen Prompts eine Kosinus-Ähnlichkeit von 0,86. Stilneutrale Prompts entkommen den Standardeinstellungen der Modelle laut Bohacek et al. nicht.",
+   "why_en": "Variants of one prompt use only about 10 of 768 effective dimensions, and DALL-E 3 and Imagen 4 reach a cosine similarity of 0.86 on identical prompts. According to Bohacek et al., style-neutral prompts cannot escape model defaults.",
+   "fix_de": "Vielfalt muss aus dem Prompt kommen: Medium, Verfahren, Epoche, Licht, Objektiv oder Palette ausdrücklich nennen, etwa „1970s Kodachrome slide, 35mm, harsh flash, faded reds“, und Stil-Referenzbilder nutzen.",
+   "fix_en": "Variety has to come from the prompt: name medium, process, era, light, lens or palette explicitly, e.g. “1970s Kodachrome slide, 35mm, harsh flash, faded reds”, and use style reference images.",
+   "source": "https://zenodo.org/records/21385707"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "slug": "child-s-crayon-drawing",
+ "style_block": "A wax-crayon drawing by a six-year-old in a European kindergarten today, scanned edge to edge. Medium: crayons in bright unmixed colours, one per thing, on white paper; streaky strokes flecked with paper white; colouring-in scribbled over outlines. Composition: no horizon, perspective, overlap or shading; green ground line below, blue sky strip on top, bare paper between, rayed corner sun; everything stands in one row on the line, things behind float higher, never smaller; important things big. People are flat schemas: circle head, dot eyes, box body, stick limbs bent sharply to kneel or sit, rake fingers; working heads in profile, one eye, nose bump. Objects flat in side view; water a blue zigzag strip, stones a few circles, birds ticks. Lettering, where text is needed: big wobbly capitals drifting uphill. Avoid adult skill (correct anatomy, three-quarter views, detailed faces, textured ground fields), crayon texture over a clean illustration, picture-book cuteness.",
+ "de": {
+  "name": "Kinderzeichnung mit Wachsmalstiften",
+  "aka": [
+   "Kinderzeichnung",
+   "Wachsmalbild",
+   "Kinderkunst"
+  ],
+  "era": "weltweit; seit den 1880er-Jahren gesammelt und erforscht",
+  "summary": "Wachsmalbild eines etwa sechsjährigen Kindes mit Standlinie, Himmelsstreifen und Schemafiguren; im Katalog, weil es in Bildaufbau, Proportionen und Raumdarstellung mit der KI-Voreinstellung bricht.",
+  "origin": "Kinder durchlaufen beim Zeichnen typische Stufen: Auf das Kritzeln folgt mit etwa drei Jahren der Kopffüßler, dessen Arme und Beine direkt am Kopf ansetzen, danach entstehen feste Schemata für Mensch, Haus und Baum, angeordnet zwischen einer Standlinie unten und einem Himmelsstreifen oben. Zum Forschungsgegenstand wurde die Kinderzeichnung in den 1880er-Jahren, als der italienische Kunsthistoriker Corrado Ricci „L’arte dei bambini“ veröffentlichte; 1897 eröffnete Franz Cižek in Wien eine kostenlose Jugendkunstklasse, die Fantasie und freien Ausdruck förderte, und 1905 erschien Georg Kerschensteiners Massenuntersuchung „Die Entwickelung der zeichnerischen Begabung“. Künstler nahmen solche Bilder als Kunst ernst: Der Almanach „Der Blaue Reiter“ (1912) bildete dreizehn Arbeiten von Kindern ab, mehr als von van Gogh, Cézanne und Gauguin zusammen. Wachsmalstifte aus Paraffin und Farbpigmenten werden in den USA seit dem späten 19. Jahrhundert industriell hergestellt; ihr Strich springt über die Körnung des Papiers und lässt weiße Pünktchen stehen.",
+  "markers": [
+   "grüne Standlinie am unteren Rand, blauer Himmelsstreifen oben, dazwischen leeres weißes Papier",
+   "Sonne mit Strahlen in einer oberen Ecke",
+   "Menschen als Schema: Kreiskopf, Punktaugen, Strichmund, Arme und Beine als Striche oder Schläuche, Finger wie die Zinken eines Rechens",
+   "Größe nach Bedeutung statt nach Entfernung; keine Überschneidung, keine Perspektive, keine Schatten",
+   "streifige Wachsstriche mit weißen Papierpünktchen, Ausmalen in Hin-und-her-Strichen über die Umrisse hinaus",
+   "reine, ungemischte Farben, je Gegenstand eine Farbe"
+  ],
+  "escapes": "Die KI-Voreinstellung baut ein Bild mit Tiefenstaffelung, weichem Licht, Schatten, richtiger Anatomie und mittig inszenierter Hauptfigur. Die Kinderzeichnung kennt nichts davon: Alles steht nebeneinander auf einer Linie, die Größe folgt der Bedeutung, Licht ist eine Sonne in der Ecke, und große Teile des Blatts bleiben leer. Statt glatter Flächen deckt der Wachsstift ungleichmäßig, und bei Karte oder Diagramm ersetzen gemalte Bildreihen mit dicken Pfeilen das übliche Kachelraster.",
+  "pitfalls": "Das Modell zeichnet fast immer zu geschickt: richtige Proportionen, Überschneidungen und Tiefe, schwungvolle Konturen oder niedliche Bilderbuchfiguren mit großen Augen, also eher die Zeichnung eines Erwachsenen, der sich kindlich gibt. Oft baut es eine erwachsene Szene mit Horizont, in die Tiefe laufendem Wasser oder Gelände und randvoll gefülltem Boden, Figuren im Dreiviertelprofil davor, und legt nur Wachsmaltextur, Himmelsstreifen und Ecksonne darüber; oder es zeigt das Blatt als Foto auf dem Tisch, mit Stiften daneben. Prüfen: Fehlt ein Horizont, stehen alle Figuren auf der Standlinie, sind die Hände Striche oder Kreise, und bleibt zwischen den Strichen Papier sichtbar?",
+  "tip": "Ein konkretes Alter nennen (etwa sechs Jahre) und die Schemata einzeln aufzählen – Standlinie, Himmelsstreifen, Sonne in der Ecke, Finger als Striche –, ausdrücklich ausschließen, was fehlt (Horizont, Überschneidung, Schatten), und Landschaft in Zeichen übersetzen (Wasser als Zickzackstreifen, Steine als ein paar Kreise); „kindlicher Stil“ allein ergibt fast immer eine niedliche Illustration.",
+  "sensitivity": "In Spendenaufrufen, in der Therapie und in Berichten über Krieg oder Missbrauch gelten Kinderzeichnungen als Zeugnis echter Erfahrung; erzeugte Bilder dürfen dort nicht als Zeichnungen wirklicher Kinder ausgegeben werden."
+ },
+ "en": {
+  "name": "Child's crayon drawing",
+  "aka": [
+   "children's drawing",
+   "child art",
+   "kid's drawing"
+  ],
+  "era": "worldwide; collected and studied since the 1880s",
+  "summary": "A wax-crayon picture by a child of about six, with ground line, sky strip and schematic figures; included because it breaks with the AI default in composition, proportion and space.",
+  "origin": "Children's drawing passes through typical stages: after scribbling comes, at around three, the 'tadpole' figure with arms and legs growing straight from the head, followed by fixed schemas for person, house and tree, set between a ground line at the bottom and a strip of sky at the top. Child art became a subject of study in the 1880s, when the Italian art historian Corrado Ricci published L’arte dei bambini; in 1897 Franz Cižek opened a free juvenile art class in Vienna that encouraged imagination and free expression, and in 1905 Georg Kerschensteiner published his large-scale study of schoolchildren's drawings, Die Entwickelung der zeichnerischen Begabung. Artists took such pictures seriously as art: the Blaue Reiter almanac of 1912 reproduced thirteen works by child artists, more than by van Gogh, Cézanne and Gauguin together. Wax crayons of paraffin and pigment have been made industrially in the USA since the late 19th century; their stroke skips over the paper grain and leaves white flecks.",
+  "markers": [
+   "green ground line along the bottom, blue strip of sky at the top, bare white paper in between",
+   "a sun with rays in a top corner",
+   "people as schemas: circle head, dot eyes, line mouth, arms and legs as sticks or tubes, fingers like the tines of a rake",
+   "size by importance rather than distance; no overlap, no perspective, no shadows",
+   "streaky waxy strokes flecked with white paper, colouring-in scribbled back and forth over the outlines",
+   "pure unmixed colours, one colour per object"
+  ],
+  "escapes": "The AI default builds a picture with receding depth, soft light, shadows, correct anatomy and a centred hero figure. A child's drawing has none of this: everything stands side by side on one line, size follows importance, light is a sun in the corner, and large parts of the sheet stay empty. Instead of smooth surfaces the crayon covers unevenly, and on maps or diagrams drawn rows of pictures with fat arrows replace the usual tile grid.",
+  "pitfalls": "The model almost always draws too well: correct proportions, overlap and depth, confident contours or cute picture-book figures with big eyes, in effect an adult pretending to draw like a child. It often builds an adult scene with a horizon, water or land receding into depth and the ground filled edge to edge, figures in three-quarter view in front, and only lays crayon texture, sky strip and corner sun on top; or it shows the sheet as a photo on a table with crayons beside it. Check: is there no horizon, do all figures stand on the ground line, are the hands strokes or circles, and does paper show between the strokes?",
+  "tip": "Name a concrete age (about six) and list the schemas one by one – ground line, sky strip, corner sun, stroke fingers – rule out what is missing (horizon, overlap, shadows) and turn landscape into signs (water as a zigzag strip, stones as a few circles); 'childlike style' on its own almost always returns a cute illustration.",
+  "sensitivity": "In charity appeals, therapy and reports on war or abuse, children's drawings count as testimony of real experience; generated images must not be passed off there as drawings by real children."
+ },
+ "sources": [
+  {
+   "title": "Child art – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Child_art"
+  },
+  {
+   "title": "Kinderzeichnung – Wikipedia",
+   "url": "https://de.wikipedia.org/wiki/Kinderzeichnung"
+  },
+  {
+   "title": "Der Blaue Reiter – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Der_Blaue_Reiter"
+  },
+  {
+   "title": "Crayon – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Crayon"
+  }
+ ]
+}

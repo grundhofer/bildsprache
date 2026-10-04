@@ -1,0 +1,68 @@
+{
+ "slug": "mid-century-modern-infographic",
+ "style_block": "A 1950s mid-century modern explanatory chart from an American or European magazine, company report or schoolbook. Medium: flat colour shapes slightly off-register from a thin black line drawing; overlaps print a darker third tone; dry-brush and crayon grain; mustard, teal, tomato red, olive, black on warm off-white paper. Composition: asymmetric and airy, much bare paper, strong diagonals, abrupt scale jumps; simple geometric pictures, people as dot-eyed figures, on free-floating colour shapes, never boxed. Lettering, where text is needed: small plain sans-serif labels beside each picture; hand-drawn title on a slanting baseline. Information, where a diagram, map or chart is shown: items in a loose diagonal zigzag at varied sizes, linked in order by one thin dashed arrow; oversized solid-colour numerals overlap them. Avoid equal grid tiles, rounded cards, icon badges, gradients, drop shadows, textureless vector art, broad arrow bands, rigid pictogram statistics, starbursts, boomerangs, fake halftone or worn paper.",
+ "de": {
+  "name": "Infografik der Fünfzigerjahre",
+  "aka": [
+   "Mid-Century-Modern-Infografik",
+   "Mid-Century-Infografik",
+   "Schaubild der 1950er-Jahre"
+  ],
+  "era": "um 1945–1965, USA und Europa",
+  "summary": "Erklärendes Schaubild aus flachen, leicht verschobenen Farbflächen in Senfgelb, Petrol und Tomatenrot, dazu Figuren mit Punktaugen; im Katalog, weil unterschiedlich große, frei verteilte Schritte das übliche Kachelraster ersetzen.",
+  "origin": "Die Bildstatistik kam aus Wien in die USA: Rudolf Modley, der am Wiener Gesellschafts- und Wirtschaftsmuseum Assistent Otto Neuraths gewesen war, gründete 1934 in New York Pictorial Statistics Incorporated, um für Redaktionen und Verlage Bildstatistiken zu zeichnen, und veröffentlichte 1937 das Handbuch „How to Use Pictorial Statistics“. In den 1940er- und 1950er-Jahren prägten aus Europa emigrierte Gestalter die amerikanische Erklärgrafik: Will Burtin war von 1945 bis 1949 künstlerischer Leiter der Wirtschaftszeitschrift „Fortune“ und gestaltete daneben die Medizinzeitschrift „Scope“ des Pharmaherstellers Upjohn. Ladislav Sutnar, von 1941 bis 1960 künstlerischer Leiter von Sweet’s Catalog Service, ordnete dort mit Knud Lönberg-Holm Produktinformationen mit Rastern, Registerreitern, Piktogrammen und Symbolen (Buch „Catalog Design Progress“, 1950). Für die Container Corporation of America entwarf der frühere Bauhaus-Lehrer Herbert Bayer 1953 den „World Geo-Graphic Atlas“, den ein Rezensent 1955 den schönsten und besten je in Amerika erschienenen Atlas nannte. Was heute unter diesem Begriff zusammengefasst wird, verbindet diese planvolle Ordnung mit der flachen, verspielten Zeichnung der damaligen Werbe- und Schulbuchillustration, gedruckt in wenigen Sonderfarben.",
+  "markers": [
+   "Flache Farbflächen ohne Schattierung, leicht gegen eine dünne schwarze Strichzeichnung verschoben gedruckt; wo sich Farben überlagern, entsteht ein dunklerer dritter Ton",
+   "Wenige Druckfarben: Senfgelb, Petrol, Tomatenrot, Oliv und Schwarz auf warmweißem Papier, mit Trockenpinsel- und Kreidekörnung",
+   "Asymmetrischer, luftiger Aufbau mit viel freiem Papier, kräftigen Diagonalen und harten Größensprüngen",
+   "Die Schritte in deutlich unterschiedlicher Größe im lockeren Zickzack schräg über die Fläche verteilt, in ihrer Folge durch einen dünnen gestrichelten Pfeil verbunden, mit übergroßen Ziffern in Volltonfarbe; keine Kästen oder Kacheln",
+   "Vereinfachte geometrische Piktogramme und kleine stilisierte Figuren mit Punktaugen auf frei schwebenden Farbflächen",
+   "Kleine Beschriftungen in schlichter Groteskschrift neben dem Bild, Titel in handgezeichneter Schrift auf schräger Grundlinie"
+  ],
+  "escapes": "Die übliche KI-Infografik ist ein symmetrisches Raster gleich großer Kacheln mit abgerundeten Ecken, je einem mittigen Symbol im Kreis, weichen Verläufen und Schlagschatten. Dieser Stil verteilt die Schritte in unterschiedlicher Größe locker und schräg über freie Fläche, verbindet sie nur durch einen dünnen gestrichelten Pfeil und arbeitet mit wenigen flachen, leicht verschobenen Druckfarben mit Körnung; so entstehen weder Kachelraster noch glänzende App-Symbole.",
+  "pitfalls": "Ohne ausdrücklichen Hinweis auf Passerversatz und Körnung entsteht saubere heutige Vektorgrafik in Retrofarben, und oft fällt das Modell in eine Reihe gleich großer Kästen mit Pfeilen dazwischen oder in ein breites Pfeilband wie in Schulbuchgrafiken zurück. Gern streut es außerdem Strahlensterne, Bumerangs und Atomsymbole als Schmuck, legt künstliche Rasterpunkte oder abgestoßene Papierränder darüber und verstümmelt kleine Beschriftungen. Zu prüfen ist, ob Ziffern und Beschriftungen genau dem Vorgabetext entsprechen, ob der gestrichelte Pfeil die Schritte in der richtigen Reihenfolge verbindet und ob auch der kleinste Schritt lesbar bleibt.",
+  "tip": "Die Anordnung ausdrücklich beschreiben, etwa „Schritte in deutlich unterschiedlicher Größe im lockeren Zickzack von links oben nach rechts unten, verbunden durch einen dünnen gestrichelten Pfeil“, und „keine Kästen oder Kacheln“ dazuschreiben; sonst zeichnet das Modell sein übliches Raster.",
+  "sensitivity": "Viele Vorbilder waren Firmenschriften und Geschäftsberichte; Namen, Logos und Werbefiguren noch bestehender Unternehmen gehören nicht ins Bild."
+ },
+ "en": {
+  "name": "Mid-Century Modern Infographic",
+  "aka": [
+   "1950s infographic",
+   "atomic-age chart",
+   "mid-century illustrated statistics"
+  ],
+  "era": "c. 1945–1965, USA and Europe",
+  "summary": "Explanatory chart in flat, off-register mustard, teal and tomato-red shapes with dot-eyed figures; in the catalog because freely placed steps of different sizes replace the tile grid.",
+  "origin": "Picture statistics reached the United States from Vienna: Rudolf Modley, who had assisted Otto Neurath at the Gesellschafts- und Wirtschaftsmuseum in Vienna, founded Pictorial Statistics Incorporated in New York in 1934 to draw picture charts for editors and publishers, and published the handbook How to Use Pictorial Statistics in 1937. In the 1940s and 1950s, designers who had emigrated from Europe shaped American explanatory graphics: Will Burtin was art director of the business magazine Fortune from 1945 to 1949 and also designed Scope, the medical magazine of the drug maker Upjohn. Ladislav Sutnar, art director of Sweet's Catalog Service from 1941 to 1960, worked there with Knud Lönberg-Holm to order product information with grids, tabs, icons and symbols (Catalog Design Progress, 1950). For the Container Corporation of America, the former Bauhaus teacher Herbert Bayer designed the World Geo-Graphic Atlas in 1953, which a reviewer in 1955 called the handsomest and best atlas ever published in America. What the term covers today combines that systematic order with the flat, playful drawing of period advertising and schoolbook illustration, printed in a few spot colours.",
+  "markers": [
+   "Flat colour shapes without shading, printed slightly off-register from a thin black line drawing; where inks overlap, a darker third tone appears",
+   "A few inks: mustard, teal, tomato red, olive and black on warm off-white paper, with dry-brush and crayon grain",
+   "Asymmetric, airy layout with much bare paper, strong diagonals and abrupt jumps in scale",
+   "Steps of clearly different sizes spread in a loose diagonal zigzag across the page, linked in order by one thin dashed arrow, with oversized solid-colour numerals; no boxes or tiles",
+   "Simplified geometric pictograms and small stylised figures with dot eyes on free-floating colour shapes",
+   "Small labels in a plain sans-serif beside the picture; title in hand-drawn letters on a slanting baseline"
+  ],
+  "escapes": "The model's default infographic is a symmetrical grid of equal rounded tiles, each with a centred icon in a circle, soft gradients and drop shadows. This style spreads the steps loosely and diagonally over open space at different sizes, links them only by a thin dashed arrow and works with a few flat, slightly misregistered inks with grain, so neither the tile grid nor the glossy app-icon look appears.",
+  "pitfalls": "Without an explicit mention of misregistration and grain, the result turns into clean present-day vector art in retro colours, and the model often falls back on a row of equal boxes with arrows between them or on a broad textbook-style arrow band. It also likes to scatter starbursts, boomerangs and atom symbols as decoration, lay fake halftone dots or scuffed paper edges over the image and garble small captions. Check that numerals and labels match the given text exactly, that the dashed arrow connects the steps in the right order and that even the smallest step stays legible.",
+  "tip": "Describe the arrangement, for example 'steps of clearly different sizes in a loose zigzag from top left to bottom right, linked by one thin dashed arrow', and add 'no boxes or tiles'; otherwise the model draws its usual grid.",
+  "sensitivity": "Many originals were company publications and annual reports; names, logos and mascots of companies that still exist do not belong in the image."
+ },
+ "sources": [
+  {
+   "title": "Rudolf Modley – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rudolf_Modley"
+  },
+  {
+   "title": "Will Burtin – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Will_Burtin"
+  },
+  {
+   "title": "Ladislav Sutnar – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ladislav_Sutnar"
+  },
+  {
+   "title": "Herbert Bayer (Künstler) – Wikipedia",
+   "url": "https://de.wikipedia.org/wiki/Herbert_Bayer_(K%C3%BCnstler)"
+  }
+ ]
+}

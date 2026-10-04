@@ -1,0 +1,70 @@
+{
+ "slug": "web-1-0-geocities-homepage",
+ "style_block": "Full-page screenshot of a hand-coded amateur homepage on a free web host, late-1990s USA. Medium: unsmoothed screen pixels; tiled starfield or marble background with visible seams; dithered 256-colour GIFs with jagged edges and white halos; lime, magenta, cyan, yellow on black; clip-art GIFs: spinning globe, flames, construction sign. Composition: one narrow centred table column, grey bevelled borders, awkward gaps, tiled margins either side; sections stacked between rainbow divider bars; wordless footer of tiny 88x31 pictogram buttons. Lettering, where text is needed: clashing default serif and comic fonts, centred, sizes jumping; headline as bevelled, drop-shadowed 3D gradient graphic; labels as blue underlined links. Information, where a diagram, map or chart is shown: stacked table rows, each a GIF digit, clip art and linked label, joined by GIF down-arrows. Avoid modern website mockups, tile-grid infographics, vaporwave, tidy pixel art, browser windows, cursors, logos, and words on buttons or signs.",
+ "de": {
+  "name": "Web-1.0-Homepage",
+  "aka": [
+   "GeoCities-Ästhetik",
+   "Homepage der 1990er-Jahre",
+   "Amateur-Homepage",
+   "Old Web"
+  ],
+  "era": "etwa 1995–2002, USA und weltweit",
+  "summary": "Selbst gebaute private Homepage mit gekacheltem Sternenhimmel, animierten GIF-Grafiken, Regenbogen-Trennlinien und Standardschriften in grellen Farben; im Katalog, weil sie ungeschönt nach Laienarbeit aussieht statt glatt und aufgeräumt.",
+  "origin": "GeoCities wurde im November 1994 von David Bohnett und John Rezner als Beverly Hills Internet gegründet und im Dezember 1995 umbenannt; ab Mitte 1995 bot der Dienst kostenlosen Speicherplatz für Homepages, anfangs 2 MB, in thematischen Stadtvierteln wie Hollywood oder SiliconValley, in denen jede Seite eine fortlaufend vergebene Hausnummer in der Adresse erhielt. Im Oktober 1997 zählte GeoCities eine Million Mitglieder; als Yahoo den Dienst im Januar 1999 für Aktien im Wert von 3,57 Milliarden US-Dollar kaufte, galt er als drittmeistbesuchte Website im Netz. In den USA wurde GeoCities am 26. Oktober 2009 abgeschaltet, in Japan erst am 31. März 2019. Gebaut wurden die Seiten von Laien, oft aus frei verfügbaren Grafiksammlungen: Tabellen und Frames hielten den Seitenaufbau zusammen, dazu kamen gekachelte Hintergründe – anfangs vor allem Sternenhimmel –, animierte GIFs, Baustellenschilder, Regenbogen-Trennlinien, MIDI-Musik, Besucherzähler, Gästebücher und kleine Grafikknöpfe im Format 88 × 31 Pixel. Die Netzkünstlerin Olia Lialina beschrieb dieses Laienweb 2005 in ihrem Essay „A Vernacular Web“; seit 2011 wertet sie mit Dragan Espenschied im Projekt „One Terabyte of Kilobyte Age“ das vom Archive Team gerettete GeoCities-Archiv aus, und seit Februar 2013 erscheinen dort laufend Bildschirmfotos der Seiten.",
+  "markers": [
+   "Gekachelter Hintergrund aus Sternenhimmel, Marmor oder Wolken mit sichtbaren Kachelkanten",
+   "Kleine animierte GIF-Grafiken wie drehende Weltkugel, Flammen oder gelbes Baustellenschild, oft in nicht zueinander passenden Größen nebeneinander",
+   "Regenbogen- oder Flammenbalken als Trennlinien zwischen den Abschnitten",
+   "Eine schmale, mittig gesetzte Tabellenspalte mit grauen, plastisch wirkenden Zellrahmen und ungleichen Lücken",
+   "Standardschriften in grellen Farben und wechselnden Größen, eine Überschrift als plastische Schriftgrafik mit Farbverlauf und Schlagschatten, blau unterstrichene Links",
+   "Auf 256 Farben reduzierte GIFs mit Dithering-Punktmuster, Treppeneffekt an den Kanten und weißen Säumen"
+  ],
+  "escapes": "Der KI-Standardlook baut eine Infografik als ausgewogenes Raster aus gleich großen Kacheln mit flachen Vektorsymbolen, gedämpfter, abgestimmter Palette, sauberer Groteskschrift und viel Weißraum. Die Homepage stapelt dagegen alles in einer schmalen Tabellenspalte auf dunklem Kachelgrund, mischt grelle Farben, Standardschriften und GIFs in ungleichen Größen und lässt Lücken, Treppenkanten und weiße Säume stehen. Nichts ist aufeinander abgestimmt, und gerade das unterscheidet sie von heutiger, glatter Gebrauchsgrafik.",
+  "pitfalls": "Häufig liefert das Modell eine heutige Website im Retro-Look mit sauberem Raster und abgerundeten Karten, ein pastellfarbenes Vaporwave-Bild mit Palmen und Verläufen oder ein komplettes Browserfenster mit Adressleiste, erfundenem Logo und Mauszeiger. Die typische Ausstattung lädt zu zusätzlichem Text ein – Begrüßung, Zählerziffern, Gästebuch-Aufforderung, Beschriftung der 88×31-Knöpfe –, der gegen die Vorgabe des exakten Textes verstößt; kleine Schrift wird zudem oft zu unleserlichem Scheintext. Prüfen: Steht nur der vorgegebene Text im Bild, und sind die Schritte untereinander gestapelt statt im Kachelraster?",
+  "tip": "Die Seite als von oben nach unten gestapelte Tabelle beschreiben und jedes Ausstattungsstück als GIF benennen – Trennbalken, Pfeil, Ziffer, Clipart –, Knöpfe und Schilder dabei ausdrücklich ohne Schrift verlangen, damit kein zusätzlicher Text ins Bild gerät.",
+  "sensitivity": "GeoCities gehörte ab 1999 zu Yahoo; der Name dient nur als historische Bezeichnung und steht nicht im Prompt. Logos von Browsern und Betriebssystemen, die auf vielen originalen 88×31-Knöpfen standen, gehören nicht ins Bild, und archivierte Privatseiten realer Personen sollten nicht erkennbar nachgebaut werden."
+ },
+ "en": {
+  "name": "Web 1.0 homepage",
+  "aka": [
+   "GeoCities aesthetic",
+   "90s personal homepage",
+   "old web",
+   "vernacular web"
+  ],
+  "era": "c. 1995–2002, USA and worldwide",
+  "summary": "A hand-built personal page with tiled starfield, animated GIF clip art, rainbow dividers and default fonts in garish colours; in the catalog because it looks plainly amateur, not polished.",
+  "origin": "GeoCities was founded in November 1994 by David Bohnett and John Rezner as Beverly Hills Internet and renamed in December 1995; from mid-1995 the service offered free space for homepages, at first 2 MB, in themed neighbourhoods such as Hollywood or SiliconValley, where each page received a sequentially assigned street number in its address. GeoCities registered its millionth member in October 1997; when Yahoo! bought it in January 1999 for US$3.57 billion in stock, it was reportedly the third most visited website on the web. The service was shut down in the United States on 26 October 2009 and in Japan only on 31 March 2019. Amateurs built the pages themselves, often from free collections of web graphics: tables and frames held the layout together, joined by tiled backgrounds (at first mostly starry skies), animated GIFs, under-construction signs, rainbow dividers, MIDI music, visitor counters, guestbooks and small 88×31-pixel buttons. The net artist Olia Lialina described this amateur web in her 2005 essay 'A Vernacular Web'; since 2011 she and Dragan Espenschied have been working through the GeoCities archive rescued by the Archive Team in the project 'One Terabyte of Kilobyte Age', which has been posting screenshots of the pages continuously since February 2013.",
+  "markers": [
+   "Tiled starfield, marble or cloud background with visible tile seams",
+   "Small animated GIF clip art such as a spinning globe, flames or a yellow construction sign, often side by side at mismatched sizes",
+   "Rainbow or flame bars as dividers between sections",
+   "One narrow, centred table column with grey bevelled cell borders and uneven gaps",
+   "Default fonts in garish colours and changing sizes, a headline as a 3D title graphic with gradient and drop shadow, blue underlined links",
+   "GIFs reduced to 256 colours with dither dot patterns, stair-stepped edges and white fringes"
+  ],
+  "escapes": "The AI default builds an infographic as a balanced grid of equal tiles with flat vector icons, a muted, matched palette, clean sans-serif type and plenty of white space. The homepage instead stacks everything in one narrow table column on a dark tiled ground, mixes loud colours, default fonts and GIFs at mismatched sizes, and leaves gaps, jagged edges and white fringes in. Nothing is matched to anything else, and that is exactly what sets it apart from smooth present-day graphics.",
+  "pitfalls": "The model often produces a present-day retro website with a clean grid and rounded cards, a pastel vaporwave picture with palm trees and gradients, or a complete browser window with address bar, invented logo and mouse pointer. The typical page furniture invites extra text – a welcome line, counter digits, a guestbook prompt, labels on the 88×31 buttons – that breaks the exact-text rule, and small type often turns into illegible pseudo-text. Check: does only the given text appear, and are the steps stacked one below the other rather than in a tile grid?",
+  "tip": "Describe the page as a table stacked from top to bottom and name every piece of furniture as a GIF – divider bar, arrow, digit, clip art – asking explicitly for buttons and signs without lettering so that no extra text creeps in.",
+  "sensitivity": "GeoCities belonged to Yahoo! from 1999; the name serves only as a historical label and does not appear in the prompt. Browser and operating-system logos, which appeared on many original 88×31 buttons, stay out of the image, and archived personal pages of real people should not be recreated recognisably."
+ },
+ "sources": [
+  {
+   "title": "GeoCities – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/GeoCities"
+  },
+  {
+   "title": "Olia Lialina: A Vernacular Web. The Indigenous and the Barbarians (2005)",
+   "url": "http://art.teleportacia.org/observation/vernacular/"
+  },
+  {
+   "title": "Web 2.0, section Web 1.0 – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Web_2.0#Web_1.0"
+  },
+  {
+   "title": "About – One Terabyte of Kilobyte Age (Olia Lialina, Dragan Espenschied)",
+   "url": "https://blog.geocities.institute/about"
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "slug": "ulm-systematic-design",
+ "style_block": "Pictogram sign systems in the systematic design of the Ulm design school, West Germany, 1960s to early 1970s. Medium: solid-ink offset print on matt white paper; flat colour, no outlines; light blue, mid blue, green, orange, silver-grey, white; never red or black; photographs posterised into three flat tonal bands. Composition: one square construction grid fixes everything; each sign white in an identical square colour field, built only from bars of one width, circles and quarter circles, straight edges horizontal, vertical or 45-degree, parts split by narrow gaps; fields edge-aligned, equal gutters. Lettering, where text is needed: one neo-grotesque sans-serif, one weight, small, flush left, never all capitals. Information, where a diagram, map or chart is shown: colour as a code, never decoration; lines only orthogonal or 45-degree. Avoid rounded outline app icons, squircle tiles, gradients, shadows, brick-and-ochre pictorial statistics, black-on-white airport symbols, rings, emblems and sports figures.",
+ "de": {
+  "name": "Ulmer Schule (systematisches Erscheinungsbild)",
+  "aka": [
+   "HfG Ulm",
+   "Systemdesign",
+   "Erscheinungsbild München 1972"
+  ],
+  "era": "1953–1972, Ulm und München",
+  "summary": "Kühle Zeichensysteme aus Piktogrammen auf strengem Raster, Volltonflächen ohne Rot und Schwarz und kleiner Grotesk; im Katalog, weil die Einheitlichkeit aus Konstruktionsregeln entsteht statt aus einem gemeinsamen Filter.",
+  "origin": "Die Hochschule für Gestaltung Ulm wurde 1953 von Inge Aicher-Scholl, Otl Aicher und Max Bill gegründet und bestand bis 1968; ihr Gebäude auf dem Oberen Kuhberg nach Entwürfen Bills wurde 1955 eröffnet. In Entwicklungsgruppen arbeiteten Dozenten und Studierende direkt für die Industrie, etwa an Audiogeräten für Braun und an Zügen für die Hamburger Hochbahn; nach Bills Rücktritt als Rektor setzte sich ein stärker wissenschaftlich und methodisch begründetes Verständnis von Gestaltung durch. Die Entwicklungsgruppe E5 unter der Leitung von Otl Aicher konzipierte 1961/62 das erste systematische Erscheinungsbild der Lufthansa. Für die Olympischen Spiele 1972 in München arbeitete Aicher als Gestaltungsbeauftragter: Hausschrift war die Univers 55, Schwarz und Rot fehlten bewusst, um nicht an die Berliner Spiele von 1936 unter nationalsozialistischer Herrschaft zu erinnern, und Hellblau, Grün, Orange, Silber und Weiß bestimmten das Bild. Sein Team entwickelte, teils aufbauend auf den Zeichen der Spiele von Tokio 1964, auf Rastern konstruierte Sportpiktogramme sowie Plakate, deren Fotografien von Hand per Tontrennung in flächige Tonwertstufen in den Farben der Spiele zerlegt wurden.",
+  "markers": [
+   "Piktogramme aus Balken gleicher Breite und Kreisen; gerade Kanten nur waagerecht, senkrecht oder im 45-Grad-Winkel",
+   "Ein gemeinsames Konstruktionsraster legt Größe, Abstände und Strichstärke aller Zeichen fest",
+   "Weiße Zeichen, aus gleich großen quadratischen Farbfeldern ausgespart; Einzelteile wie der Kopf durch schmale Zwischenräume abgesetzt",
+   "Volltonflächen in Hellblau, Grün, Orange, Silber und Weiß, ohne Rot und Schwarz",
+   "Fotografien per Tontrennung in wenige flächige Stufen der Hausfarben zerlegt",
+   "Eine Grotesk in einem Schnitt, linksbündig gesetzt und meist kleingeschrieben"
+  ],
+  "escapes": "Ohne Stilangabe zeichnet das Modell ein Icon-Set als dünne, abgerundete Umrisslinien oder als glänzende App-Kacheln mit Verlauf und weichem Schatten; einheitlich wirkt es nur, weil alle Zeichen dieselbe Oberfläche tragen. Im Ulmer System entsteht die Einheit aus Regeln: dieselbe Balkenbreite, dieselben Winkel und dasselbe Raster für jedes Zeichen, dazu Volltonflächen ohne Schatten, Glanz und Verlauf.",
+  "pitfalls": "Das Modell rundet Ecken und Enden gern ab und landet bei heutigen flachen App-Symbolen, oder es mischt Strichstärken und freie Winkel, sodass die Zeichen nicht mehr aus einem Raster stammen. Ein Hinweis auf München 1972 kann olympische Ringe, Sportlerfiguren oder einen Strahlenkranz ins Bild holen, und Rot oder Schwarz schleichen sich als Akzent ein. Silber erscheint oft als metallischer Verlauf statt als flaches Grau.",
+  "tip": "Die Bauregeln ausdrücklich nennen – eine Balkenbreite, nur waagerecht, senkrecht und 45 Grad, Kreise und Viertelkreise – statt nur „Piktogramm“ zu schreiben; das Wort allein liefert beliebige Symbole in beliebiger Strichstärke.",
+  "sensitivity": "Die olympischen Ringe und die offiziellen Zeichen der Spiele von 1972 sind geschützt und gehören nicht ins Bild; übernommen wird nur die Bauweise, nicht die originalen Piktogramme."
+ },
+ "en": {
+  "name": "Ulm School systematic design",
+  "aka": [
+   "HfG Ulm",
+   "Ulm design",
+   "systems design",
+   "Munich 1972 design"
+  ],
+  "era": "1953–1972, Ulm and Munich",
+  "summary": "Cool sign systems of grid-built pictograms, flat colour without red or black and small sans-serif type; in the catalog because consistency comes from construction rules, not a shared filter.",
+  "origin": "The Ulm School of Design (Hochschule für Gestaltung Ulm) was founded in 1953 by Inge Aicher-Scholl, Otl Aicher and Max Bill and ran until 1968; its building on the Oberer Kuhberg, designed by Bill, opened in 1955. Staff and students worked directly for industry in development groups, for example on audio equipment for Braun and trains for the Hamburger Hochbahn; after Bill stepped down as rector, a more scientific and methodical view of design took over. Development group E5, led by Otl Aicher, conceived the first systematic visual identity of Lufthansa in 1961/62. For the 1972 Olympic Games in Munich Aicher served as head of design: the house typeface was Univers 55, black and red were left out on purpose so as not to recall the Berlin Games of 1936 held under Nazi rule, and light blue, green, orange, silver and white set the look. His team, building in part on the signs of the 1964 Tokyo Games, developed grid-constructed sports pictograms as well as posters whose photographs were separated by hand into flat tonal steps in the colours of the Games.",
+  "markers": [
+   "Pictograms built from bars of one width and circles; straight edges only horizontal, vertical or at 45 degrees",
+   "A shared construction grid fixes the size, spacing and line weight of every sign",
+   "White signs reversed out of equal square colour fields; parts such as the head set off by narrow gaps",
+   "Flat areas of light blue, green, orange, silver and white, with no red or black",
+   "Photographs posterised into a few flat tonal steps in the house colours",
+   "One sans-serif in one weight, set flush left and mostly lowercase"
+  ],
+  "escapes": "Without a style, the model draws an icon set as thin, rounded outlines or as glossy app tiles with gradients and soft shadows; it looks consistent only because every sign wears the same surface. In the Ulm system unity comes from rules: the same bar width, the same angles and the same grid for every sign, with flat colour and no shadow, gloss or gradient.",
+  "pitfalls": "The model likes to round corners and ends and slides into present-day flat app symbols, or it mixes line weights and free angles so the signs no longer come from one grid. A reference to Munich 1972 can bring in Olympic rings, athlete figures or a radiating emblem, and red or black creep in as an accent. Silver often appears as a metallic gradient instead of a flat grey.",
+  "tip": "Spell out the construction rules – one bar width, only horizontal, vertical and 45 degrees, circles and quarter circles – instead of just writing “pictogram”; the word alone yields arbitrary symbols in arbitrary line weights.",
+  "sensitivity": "The Olympic rings and the official marks of the 1972 Games are protected and must not appear; borrow only the method of construction, not the original pictograms."
+ },
+ "sources": [
+  {
+   "title": "Hochschule für Gestaltung Ulm – Wikipedia (de)",
+   "url": "https://de.wikipedia.org/wiki/Hochschule_für_Gestaltung_Ulm"
+  },
+  {
+   "title": "Vom Logo zur Identität: Visuelle Erscheinungsbilder der Bundesrepublik – HfG-Archiv Ulm",
+   "url": "https://hfg-archiv.museumulm.de/ausstellung/vom-logo-zur-identitaet-visuelle-erscheinungsbilder-der-bundesrepublik/"
+  },
+  {
+   "title": "Otl Aicher – Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Otl_Aicher"
+  },
+  {
+   "title": "Olympic Posters: Branding – V&A Blog (Victoria and Albert Museum)",
+   "url": "https://www.vam.ac.uk/blog/posters-stories-va-collection/olympic-posters-branding-olympics"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "slug": "cuban-silkscreen-film-poster",
+ "style_block": "A screen-printed film poster for Cuba's national film institute, Havana, late 1960s. Medium: three to five opaque inks on matte paper, hard stencil edges, no halftone; hot magenta, orange or acid-green ground with black and one clashing ink; slight misregistration, hairline gaps, squeegee streaks. Composition: one graphic idea fills the tall sheet: a big silhouette on flat colour, repeated in pop-art rows or ringed by vibrating concentric stripes running off the edges; figure-ground reversal; wide empty ground. Lettering, where text is needed: hand-drawn for this sheet, one flat ink, stacked or bent into the shape; secondary text small, at the bottom. Information, where a diagram, map or chart is shown: one pictogram repeated in rows, hand-lettered numbers, no boxes. Avoid a centred scene with sun disc over the horizon, gradients, vector-perfect edges, digital grunge, photo montage, billing blocks, painterly Polish-school posters, letter-filled psychedelic sheets, tropical clichés, flags, political portraits.",
+ "de": {
+  "name": "Kubanisches Filmplakat",
+  "aka": [
+   "ICAIC-Plakat",
+   "Kubanisches Siebdruckplakat",
+   "Kubanisches Kinoplakat"
+  ],
+  "era": "ab 1960, Havanna, Kuba",
+  "summary": "Siebdruckplakate in wenigen leuchtenden, deckenden Farben, die einen Film mit einer einzigen grafischen Idee und eigens gezeichneter Schrift ankündigen; im Katalog, weil Wiederholung und Bildwitz die Szene ersetzen.",
+  "origin": "Das Filminstitut ICAIC (Instituto Cubano del Arte e Industria Cinematográficos) wurde im März 1959 von der kubanischen Regierung gegründet und gab eigene Kinoplakate heraus, nicht nur für kubanische, sondern auch für ausländische Filme, etwa aus Großbritannien. Erhaltene Blätter wie die im Victoria and Albert Museum in London sind Farbsiebdrucke im Hochformat von etwa 76 × 51 Zentimetern; das Museum nahm schon 1968 Plakate aus dem Vorjahr in seine Sammlung auf. Eduardo Muñoz Bachs (1937–2001) entwarf ab 1960 mehr als 2000 Filmplakate für das Institut; typisch für ihn sind kindlich-komische Figuren und handgezeichnete Schrift. Alfredo Rostgaard (1943–2004) gestaltete ab 1965 Plakate für das ICAIC und war ab 1966 neun Jahre lang künstlerischer Leiter der Solidaritätsorganisation OSPAAAL; seine oft humorvollen Entwürfe greifen Pop-Art und psychedelische Plakatkunst auf.",
+  "markers": [
+   "Wenige deckende Siebdruckfarben ohne Raster, leicht versetzt gedruckt, mit Rakelspuren und feinen weißen Lücken (Blitzern) zwischen den Farbflächen",
+   "Eine einzige grafische Idee: eine große Silhouette oder ein Zeichen auf einfarbigem Grund, mit viel freier Fläche",
+   "Eine Form, in Reihen wiederholt oder von konzentrischen Ringen und Streifen umgeben, die optisch flirren",
+   "Leuchtende, mitunter grelle Farbkontraste wie Magenta, Orange oder Giftgrün neben Schwarz, oft mit Umkehr von Figur und Grund",
+   "Eigens für das Blatt gezeichnete Schrift, gestapelt, gebogen oder Teil der Bildform",
+   "Hochformat von etwa 76 × 51 Zentimetern"
+  ],
+  "escapes": "Ohne Stilangabe zeigt ein KI-Festivalplakat meist eine mittig gesetzte, weich ausgeleuchtete Szene mit Sonnenscheibe über dem Horizont, Farbverläufen und sauberer Satzschrift darüber und darunter. Das kubanische Filmplakat ersetzt die Szene durch eine einzige Form auf einfarbigem Grund, vervielfacht sie in Reihen oder Ringen und zeichnet die Schrift als Teil dieser Form. Die Plakate kommen ohne weiche Verläufe aus und zeigen nur wenige deckende Farben mit sichtbaren Druckspuren.",
+  "pitfalls": "Das Modell rutscht leicht in heutige Vektorgrafik mit makellosen Kanten ab oder legt einen digitalen Körnungs- und Knitterfilter über das Bild, statt echte Passerverschiebungen und Rakelspuren zu zeigen. Die Ortsangaben „Cuba“ und „Havana“ im englischen Stilblock können Oldtimer, Palmen, Zigarren, Fahnen oder Revolutionsporträts hervorrufen, die im Plakat nichts zu suchen haben. Bei gezeichneter Schrift misslingen leicht einzelne Buchstaben, das Et-Zeichen und der Halbgeviertstrich im Datum, und konzentrische Ringe werden schnell zur Sonnenscheibe hinter einer mittigen Figur.",
+  "tip": "Zahl der Druckfarben und Art der Wiederholung ausdrücklich nennen, etwa „vier deckende Siebdruckfarben, eine Silhouette zwölfmal in vier Reihen auf magentafarbenem Grund“; sonst malt das Modell leicht wieder eine einzelne Szene mit Verläufen.",
+  "sensitivity": "Das ICAIC ist eine staatliche Einrichtung Kubas, und die verwandten OSPAAAL-Plakate waren politische Propaganda; Fahnen, Waffen, Parolen und Porträts politischer Persönlichkeiten nur bewusst einsetzen. Viele Plakate sind noch urheberrechtlich geschützt; keine bestimmten Blätter nachbilden und keine Gestalternamen in den Prompt schreiben."
+ },
+ "en": {
+  "name": "Cuban Silkscreen Film Poster",
+  "aka": [
+   "ICAIC poster",
+   "Cuban film poster",
+   "Cuban screen-print poster"
+  ],
+  "era": "from 1960, Havana, Cuba",
+  "summary": "Screen-printed posters in a few vivid, opaque inks that announce a film with one graphic idea and hand-drawn letters; in the catalog because repetition and visual wit replace the scene.",
+  "origin": "The film institute ICAIC (Instituto Cubano del Arte e Industria Cinematográficos) was established by the Cuban government in March 1959 and issued its own cinema posters, not only for Cuban films but also for foreign ones, for example from Britain. Surviving sheets such as those in the Victoria and Albert Museum in London are colour screen prints in a portrait format of about 76 × 51 centimetres; the museum added posters from the previous year to its collection as early as 1968. Eduardo Muñoz Bachs (1937–2001) designed more than 2,000 film posters for the institute from 1960 onwards; childlike, comic figures and hand-drawn lettering are typical of his work. Alfredo Rostgaard (1943–2004) designed posters for ICAIC from 1965 and from 1966 was art director of the solidarity organisation OSPAAAL for nine years; his often humorous designs draw on pop art and psychedelic poster art.",
+  "markers": [
+   "A few opaque screen-print inks without halftone, slightly off-register, with squeegee streaks and thin white gaps between colour areas",
+   "A single graphic idea: one large silhouette or emblem on a single-colour ground, with plenty of empty space",
+   "One shape repeated in rows or surrounded by concentric rings and stripes that seem to vibrate",
+   "Vivid, sometimes loud colour clashes such as magenta, orange or acid green beside black, often with figure and ground reversed",
+   "Lettering drawn for this one sheet, stacked, bent or part of the image's shape",
+   "Portrait format of about 76 × 51 centimetres"
+  ],
+  "escapes": "Without a style prompt, an AI festival poster usually shows a centred, softly lit scene with a sun disc over the horizon, gradients and clean typeset lettering above and below. The Cuban film poster replaces the scene with a single shape on a single-colour ground, multiplies it in rows or rings and draws the lettering as part of that shape. The posters do without soft gradients and show only a few opaque inks with visible printing marks.",
+  "pitfalls": "The model easily slides into present-day vector art with flawless edges, or lays a digital grain-and-crease filter over the image instead of showing real misregistration and squeegee marks. The place names 'Cuba' and 'Havana' in the style block can call up vintage cars, palm trees, cigars, flags or revolutionary portraits that have no place in the poster. In drawn lettering, single letters, the ampersand and the en dash in the date easily go wrong, and concentric rings quickly turn into a sun disc behind a centred figure.",
+  "tip": "State the number of inks and the kind of repetition explicitly, for example 'four opaque screen-print inks, one silhouette twelve times in four rows on a magenta ground'; otherwise the model tends to fall back on a single scene with gradients.",
+  "sensitivity": "ICAIC is a Cuban state institution, and the related OSPAAAL posters were political propaganda; use flags, weapons, slogans and portraits of political figures only deliberately. Many posters are still under copyright; do not recreate specific sheets and keep designers' names out of the prompt."
+ },
+ "sources": [
+  {
+   "title": "El Caso Morgan, poster by Alfredo Rostgaard, 1967 – Victoria and Albert Museum",
+   "url": "https://collections.vam.ac.uk/item/O692912/el-caso-morgan-poster-alfredo-rostgaard/"
+  },
+  {
+   "title": "Eduardo Muñoz Bachs – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Eduardo_Mu%C3%B1oz_Bachs"
+  },
+  {
+   "title": "Alfredo Rostgaard – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Alfredo_Rostgaard"
+  },
+  {
+   "title": "Cuban Institute of Cinematographic Art and Industry – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cuban_Institute_of_Cinematographic_Art_and_Industry"
+  }
+ ]
+}

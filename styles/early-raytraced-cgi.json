@@ -1,0 +1,69 @@
+{
+ "slug": "early-raytraced-cgi",
+ "style_block": "A still image computed by an early ray-tracing program on a laboratory or home computer, North America and Europe, 1980 to late 1990s. Medium: forms built from spheres, boxes, cylinders, cones and tori; mirror chrome, clear glass without caustics, spotless plastic with pinpoint highlights; procedural marble or wood; one point light, razor-sharp shadows, flat grey fill; 640x480, jagged edges, banded gradients. Composition: subject alone on an infinite checkerboard plane, ruler-straight horizon high in the frame, empty blue gradient sky; raised wide-angle view, subject off-centre, all in focus; floor and sky mirrored in every glossy surface. Lettering, where text is needed: thick extruded sans-serif letters in chrome or gold, standing on the floor. Information, where a diagram, map or chart is shown: solid columns on the checkerboard, values as heights. Avoid soft global illumination, ambient occlusion, depth of field, grime, softbox studio shots, monitor frames, vaporwave sunsets and plaster busts.",
+ "de": {
+  "name": "Frühe Raytracing-Grafik",
+  "aka": [
+   "Frühe Raytracing-CGI",
+   "Raytracing der 1980er- und 1990er-Jahre",
+   "Chromkugeln auf Schachbrett"
+  ],
+  "era": "1980 bis Ende der 1990er-Jahre, Nordamerika und Europa",
+  "summary": "Makellose Chrom- und Glasformen auf einem endlosen Schachbrettboden unter blauem Verlaufshimmel, mit harten Schatten und Treppeneffekt; im Katalog, weil diese kühle, errechnete Perfektion dem weichen Licht heutiger KI-Bilder entgegensteht.",
+  "origin": "Raytracing berechnet ein Bild, indem es für jeden Bildpunkt einen Sehstrahl in die Szene verfolgt und vom getroffenen Punkt weitere Strahlen zu den Lichtquellen schickt; schon 1968 zeigte Arthur Appel, dass sich auf diese Weise Schatten berechnen lassen. Turner Whitted von den Bell Laboratories in Holmdel, New Jersey, verfolgte auch gespiegelte und gebrochene Strahlen rekursiv weiter und veröffentlichte das Verfahren im Juni 1980 in der Zeitschrift „Communications of the ACM“; die Berechnung seines Beispielbilds einer durchsichtigen und einer undurchsichtigen Kugel über einem Schachbrettboden dauerte bei 640 × 480 Bildpunkten 74 Minuten auf einem Rechner vom Typ VAX-11/780. Auf Heimcomputern bekannt wurde die Technik durch den Amiga: Im November 1986 brachte Commodore dort die Animation „Juggler“ heraus, in der eine Figur drei Chromkugeln jongliert; Eric Graham hatte sie mit einem selbst geschriebenen Raytracer berechnet, aus dem sein 1987 erschienenes Modellier- und Renderprogramm Sculpt 3D hervorging. Ebenfalls auf dem Amiga entstand David Kirk Bucks Raytracer DKBTrace, den Aaron Collins auf den PC portierte; auf seiner Grundlage entwickelte eine Gruppe von Programmierern im Onlinedienst CompuServe das kostenlose POV-Ray, dessen erste Version im Juli 1991 erschien und das Szenen als Text aus Grundkörpern wie Kugel, Quader, Zylinder, Kegel und Torus beschreibt. Weiche Schatten und Schärfentiefe, für die je Bildpunkt viele Strahlen nötig sind, beschrieben Robert Cook und Kollegen 1984 mit dem diffusen Raytracing; die Grundlage für indirektes Licht legte James Kajiya 1986 mit der Rendergleichung.",
+  "markers": [
+   "makellos spiegelndes Chrom, klares Glas und fleckenloser Kunststoff ohne jede Gebrauchsspur",
+   "endloser Schachbrettboden bis zu einem schnurgeraden Horizont unter leerem blauem Verlaufshimmel",
+   "scharf begrenzte Schlagschatten einer einzigen Punktlichtquelle, gleichmäßiges graues Umgebungslicht statt indirekter Beleuchtung",
+   "aus Kugeln, Quadern, Zylindern, Kegeln und Tori zusammengesetzte Formen",
+   "Boden und Himmel spiegeln sich in jeder glänzenden Fläche, dazu kleine weiße Glanzpunkte",
+   "Treppenstufen an schrägen Kanten, Tonwertabrisse in Verläufen, alles gleich scharf"
+  ],
+  "escapes": "Dem weichen, warmen Licht, der geringen Schärfentiefe und dem Dunst, an denen man KI-Bilder erkennt, setzt der Stil eine einzige Punktlichtquelle, harte Schatten und durchgehende Schärfe entgegen. Statt in einer Hohlkehle im Fotostudio oder in einem stimmungsvollen Innenraum steht der Gegenstand allein auf einem rechnerisch endlosen Boden unter leerem Himmel; seine Oberflächen zeigen keine feine Struktur, nur Spiegelungen, und Treppeneffekt und Tonwertabrisse widersprechen der glatten, hoch aufgelösten KI-Optik.",
+  "pitfalls": "Das Modell weicht die Schatten gern auf, fügt Umgebungsverdeckung, Unschärfe im Hintergrund und weiche Studioreflexe hinzu und macht daraus ein heutiges Produktrendering; oder es kippt in Vaporwave mit rosa-violettem Sonnenuntergang, Palmen und Gipsbüsten neben Chromkugeln und Schachbrett. Darauf achten, dass der Boden wirklich bis zum Horizont reicht, die Schatten scharfe Ränder haben und Einzelheiten aus einfachen Grundkörpern bestehen statt fein modelliert zu sein; zusätzliche Kugeln als Dekoration, Bildschirmrahmen oder Programmfenster sind unerwünscht.",
+  "tip": "Licht und Fehler technisch beschreiben („eine Punktlichtquelle, harte dunkle Schatten, keine Umgebungsverdeckung, 640 × 480 ohne Kantenglättung, Himmelsverlauf in sichtbaren Stufen“), statt Schlagwörter wie „Retro-3D“ oder „Y2K“ zu verwenden, die zu Vaporwave und weich zerfließenden Chromformen führen.",
+  "sensitivity": "Programmnamen wie POV-Ray dienen nur der historischen Einordnung und gehören nicht in den Prompt; bekannte Vorführbilder und Animationen der Zeit sollen nicht nachgebildet werden."
+ },
+ "en": {
+  "name": "Early ray-traced CGI",
+  "aka": [
+   "early 3D render",
+   "90s raytrace",
+   "chrome spheres on a checkerboard",
+   "early POV-Ray render"
+  ],
+  "era": "1980 to the late 1990s, North America and Europe",
+  "summary": "Flawless chrome and glass forms on an endless checkerboard under a blue gradient sky, hard shadows, jagged edges; included because its computed perfection counters the soft light of AI images.",
+  "origin": "Ray tracing computes an image by following, for every pixel, a sight ray into the scene and sending further rays from the point it hits towards the light sources; as early as 1968 Arthur Appel showed that shadows can be calculated this way. Turner Whitted of Bell Laboratories in Holmdel, New Jersey, also followed reflected and refracted rays recursively and published the method in Communications of the ACM in June 1980; his sample image of a transparent and an opaque sphere above a checkerboard floor took 74 minutes to compute at 640 × 480 pixels on a VAX-11/780. On home computers the technique became known through the Amiga: in November 1986 Commodore released the animation Juggler, in which a figure juggles three chrome balls; Eric Graham had computed it with a ray tracer of his own, from which his modelling and rendering program Sculpt 3D, released in 1987, grew. David Kirk Buck's ray tracer DKBTrace also began on the Amiga and was ported to the PC by Aaron Collins; building on it, a group of programmers on the CompuServe online service developed the free POV-Ray, whose first version appeared in July 1991 and which describes scenes as text built from primitives such as sphere, box, cylinder, cone and torus. Soft shadows and depth of field, which need many rays per pixel, were described by Robert Cook and colleagues in 1984 as distributed ray tracing; James Kajiya laid the basis for indirect light in 1986 with the rendering equation.",
+  "markers": [
+   "flawless mirror chrome, clear glass and spotless plastic without any sign of wear",
+   "endless checkerboard floor running to a ruler-straight horizon under an empty blue gradient sky",
+   "hard-edged cast shadows from a single point light, even grey ambient light instead of indirect light",
+   "forms assembled from spheres, boxes, cylinders, cones and tori",
+   "floor and sky mirrored in every glossy surface, plus small white specular dots",
+   "stair-stepped diagonal edges, banding in gradients, everything equally sharp"
+  ],
+  "escapes": "Against the soft, warm light, shallow depth of field and haze that give AI images away, the style sets a single point light, hard shadows and sharp focus throughout. Instead of standing on a studio sweep or in a moody interior, the object is alone on a mathematically endless floor under an empty sky; its surfaces show no fine texture, only reflections, and stepped edges and colour banding contradict the smooth, high-resolution AI finish.",
+  "pitfalls": "The model tends to soften the shadows, add ambient occlusion, background blur and soft studio reflections and turn the picture into a present-day product render; or it tips into vaporwave, with pink-purple sunsets, palm trees and plaster busts beside chrome spheres and checkerboards. Check that the floor really runs to the horizon, that shadows have sharp edges and that details are built from simple primitives rather than finely modelled; extra decorative spheres, monitor bezels or program windows are unwanted.",
+  "tip": "Describe the light and the flaws technically (“one point light, hard dark shadows, no ambient occlusion, 640 × 480 without anti-aliasing, sky gradient in visible steps”) instead of buzzwords such as “retro 3D” or “Y2K”, which lead to vaporwave and soft, melting chrome shapes.",
+  "sensitivity": "Program names such as POV-Ray serve only as historical context and do not belong in the prompt; well-known demonstration images and animations of the period should not be copied."
+ },
+ "sources": [
+  {
+   "title": "Turner Whitted: An Improved Illumination Model for Shaded Display, Communications of the ACM 23 (6), 1980 (PDF)",
+   "url": "https://www.cs.drexel.edu/~deb39/Classes/Papers/p343-whitted.pdf"
+  },
+  {
+   "title": "Raytracing – Wikipedia",
+   "url": "https://de.wikipedia.org/wiki/Raytracing"
+  },
+  {
+   "title": "Ernie Wright: Amiga Juggler Animation (with a letter from Eric Graham)",
+   "url": "http://www.etwright.org/cghist/juggler.html"
+  },
+  {
+   "title": "POV-Ray – Wikipedia",
+   "url": "https://de.wikipedia.org/wiki/POV-Ray"
+  }
+ ]
+}

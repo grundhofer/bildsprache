@@ -1,0 +1,65 @@
+{
+ "slug": "giallo",
+ "style_block": "A frame from a 1970s Italian giallo thriller, shot in a studio with a 35mm movie camera on colour negative. Medium: tungsten lamps behind theatrical gels throw saturated crimson, cobalt blue and acid green from separate sides, black shadows between, no neutral key light; skin takes the colours, its texture raked by hard light; long zoom lens, soft at the edges; coarse grain. Composition: tight, off-centre framing past a foreground object: patterned glass, a half-open door, a bead curtain or a mirror doubling the figure; a watcher's angle from slightly above; glossy décor of lacquer, glass and modern art. Lettering, where text is needed: only inside the scene, a typed note or headline in the same coloured light; no superimposed titles. Avoid centred beauty framing, soft wrap light, creamy bokeh, airbrushed skin, teal-orange grading and synthwave or cyberpunk neon; no black gloves, blood, weapons or violence; no film borders.",
+ "de": {
+  "name": "Giallo",
+  "aka": [
+   "Giallo all’italiana"
+  ],
+  "era": "1963 bis Mitte der 1980er-Jahre, Italien; Höhepunkt 1971–1975",
+  "summary": "Szenen in grellem karminrotem, kobaltblauem und giftgrünem Scheinwerferlicht, beobachtet durch Glas und Spiegel wie aus einem Versteck; im Katalog, weil Farbe und Bildausschnitt das mittige Standardporträt aufbrechen.",
+  "origin": "Der Name geht auf die gelben Umschläge der Krimireihe „Il Giallo Mondadori“ zurück, die der Verlag Mondadori ab 1929 herausgab; in Italien heißt jede Kriminalgeschichte „giallo“, außerhalb Italiens bezeichnet das Wort ein bestimmtes italienisches Filmgenre zwischen Kriminal- und Horrorfilm. Mario Bava (1914–1980), der als Kameramann begonnen hatte, drehte mit „La ragazza che sapeva troppo“ (1963), noch in Schwarzweiß, den meist als ersten Giallo geltenden Film und mit „Blutige Seide“ („Sei donne per l’assassino“, 1964) die Vorlage des Genres: eine Mordserie in einem römischen Modehaus, ein maskierter Täter mit schwarzen Handschuhen und schattige, barocke Kulissen, die nur von einzelnen grellen Farben beleuchtet werden. Dario Argentos „Das Geheimnis der schwarzen Handschuhe“ (1970), fotografiert von Vittorio Storaro, wurde ein Kassenerfolg und vielfach nachgeahmt; allein zwischen 1971 und 1975 entstanden über 100 Gialli, unter anderem von Lucio Fulci, Sergio Martino und Umberto Lenzi. Typisch sind grelle Farben, ungewöhnliche Kameraperspektiven, auffällige Kamerafahrten, Mordszenen aus der Sicht des Täters, fetischhafte Großaufnahmen von Augen und Gegenständen sowie Musik von Ennio Morricone, Bruno Nicolai oder der Band Goblin. Ab Ende der 1970er-Jahre schrumpften die Budgets, und das Genre verlor an Bedeutung.",
+  "markers": [
+   "Gesättigtes karminrotes, kobaltblaues und giftgrünes Licht von Scheinwerfern mit Farbfolien, mehrere Farben nebeneinander in einem Bild",
+   "Hartes Licht ohne sichtbare Quelle im Bild, tiefe schwarze Schatten, kein neutrales Führungslicht",
+   "Blick durch Gegenstände im Vordergrund hindurch: Glasscheibe, Türspalt, Perlenvorhang, Treppengeländer",
+   "Beobachterblick aus der Aufsicht oder aus einem Versteck, Detailaufnahmen von Augen und Gegenständen",
+   "Glänzende moderne Innenräume mit Spiegeln, Lackflächen, Glas und Kunstobjekten",
+   "Grobes Filmkorn der 1970er-Jahre und die leicht weiche Abbildung eines Zoomobjektivs"
+  ],
+  "escapes": "Für Porträts liefern Bildgeneratoren standardmäßig ein mittig gesetztes Gesicht in weichem, schmeichelndem Licht vor unscharfem Hintergrund, oft mit Blaugrün-Orange-Farbkorrektur und geglätteter Haut. Der Giallo ersetzt das neutrale Führungslicht durch harte, farbige Lichtflächen, die das Gesicht in Rot, Blau und Grün zerlegen, und rückt die Figur an den Rand eines Ausschnitts, der wie durch Glas, Spiegel oder einen Türspalt beobachtet wirkt. Das harte Streiflicht zeigt Falten, Narben und Poren, statt sie zu glätten.",
+  "pitfalls": "Leicht rutscht das Bild in Synthwave- oder Cyberpunk-Ästhetik ab: Neonröhren, Schimmer in Magenta und Cyan, nasse Straßen und digitale Lichthöfe statt Studioscheinwerfern hinter Farbfolien. Die Modelle fügen außerdem gern Genre-Requisiten wie schwarze Lederhandschuhe und Messer oder sogar Blut ein oder legen die Farbe gleichmäßig wie einen Filter über das ganze Bild, statt sie auf getrennte Lichtrichtungen zu verteilen. Unter farbigem Licht wird Haut leicht zur glatten Puppenhaut; zu prüfen ist, ob Alter, Narben und Asymmetrie erhalten bleiben.",
+  "tip": "Jeder Farbe eine eigene Lichtrichtung zuweisen, etwa Rot von links, Blau von rechts und Grün von hinten, und einen bestimmten Gegenstand im Vordergrund nennen, durch den die Kamera blickt; dann entsteht der Giallo aus Licht und Bildaufbau statt aus einem Farbfilter.",
+  "sensitivity": "Das Genre ist eng mit drastischer, oft frauenfeindlich inszenierter Gewalt verbunden; der Katalog übernimmt nur Licht, Farbe und Bildaufbau und zeigt weder Waffen noch Blut noch Opferposen."
+ },
+ "en": {
+  "name": "Giallo",
+  "aka": [
+   "Giallo all'italiana",
+   "Italian giallo thriller"
+  ],
+  "era": "1963 to the mid-1980s, Italy; peak 1971–1975",
+  "summary": "Scenes in harsh crimson, cobalt and acid-green gel light, watched through glass and mirrors as if from hiding; in the catalog because colour and framing break the centred default portrait.",
+  "origin": "The name comes from the yellow covers of the crime paperback series Il Giallo Mondadori, published by Mondadori from 1929; in Italy 'giallo' means any crime story, while outside Italy the word denotes a specific Italian film genre between crime thriller and horror. Mario Bava (1914–1980), who had started out as a cinematographer, made 'La ragazza che sapeva troppo' (The Girl Who Knew Too Much, 1963), still in black and white and usually considered the first giallo, and with 'Sei donne per l'assassino' (Blood and Black Lace, 1964) the genre's template: a series of murders in a Roman fashion house, a masked killer in black gloves and shadowy, baroque sets lit only by single brilliant colours. Dario Argento's 'The Bird with the Crystal Plumage' (1970), photographed by Vittorio Storaro, was a box-office hit and widely imitated; between 1971 and 1975 alone more than 100 gialli were made, by directors including Lucio Fulci, Sergio Martino and Umberto Lenzi. Typical features are lurid colour, bizarre camera angles, flamboyant tracking shots, murders seen from the killer's point of view, fetishistic close-ups of eyes and objects, and music by Ennio Morricone, Bruno Nicolai or the band Goblin. From the late 1970s budgets shrank and the genre faded.",
+  "markers": [
+   "Saturated crimson, cobalt-blue and acid-green light from gelled lamps, several colours side by side in one frame",
+   "Hard light with no visible source in the frame, deep black shadows, no neutral key light",
+   "Framing through foreground objects: a pane of glass, a door gap, a bead curtain, a banister",
+   "A watcher's view from above or from hiding, extreme close-ups of eyes and objects",
+   "Glossy modernist interiors with mirrors, lacquer, glass and art objects",
+   "Coarse 1970s film grain and the slightly soft rendering of a zoom lens"
+  ],
+  "escapes": "For portraits, image generators default to a centred face in soft, flattering light against a blurred background, often with a teal-and-orange grade and smoothed skin. Giallo replaces the neutral key light with hard patches of coloured light that split the face into red, blue and green, and pushes the figure to the edge of a frame that seems to be watched through glass, a mirror or a door gap. The raking hard light shows wrinkles, scars and pores instead of smoothing them.",
+  "pitfalls": "The image easily slides into synthwave or cyberpunk: neon tubes, magenta-and-cyan glow, wet streets and digital halos instead of studio lamps behind gels. Models also like to add genre props such as black leather gloves and knives, or even blood, or to lay the colour evenly over the whole frame like a filter instead of splitting it between separate light directions. Under coloured light skin easily turns into smooth doll skin; check that age, scars and asymmetry survive.",
+  "tip": "Give each colour its own light direction, for example red from the left, blue from the right and green from behind, and name one specific foreground object the camera looks through; the giallo then comes from light and framing rather than from a colour filter.",
+  "sensitivity": "The genre is closely tied to graphic, often misogynistically staged violence; the catalog borrows only its light, colour and framing and shows no weapons, blood or victim poses."
+ },
+ "sources": [
+  {
+   "title": "Giallo – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/Giallo"
+  },
+  {
+   "title": "Blood and Black Lace – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/Blood_and_Black_Lace"
+  },
+  {
+   "title": "Mario Bava – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/Mario_Bava"
+  },
+  {
+   "title": "Das Geheimnis der schwarzen Handschuhe – Wikipedia (Deutsch)",
+   "url": "https://de.wikipedia.org/wiki/Das_Geheimnis_der_schwarzen_Handschuhe"
+  }
+ ]
+}

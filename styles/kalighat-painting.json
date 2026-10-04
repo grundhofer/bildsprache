@@ -1,0 +1,66 @@
+{
+ "slug": "kalighat-painting",
+ "style_block": "A Kalighat pat: a single-sheet watercolour by Bengali scroll painters for pilgrims at Calcutta's Kali temple, around 1850-1900. Medium: watercolour on mill-made paper; one swelling lamp-black brush outline swept round each form, added last, so colour sometimes misses it; a darker wash inside the outline, fading to flat colour, gives the only volume; indigo, yellow, green, pink, black; dull silvery tin paint on metal; browned paper. Composition: the subject large, cut out against a bare upright sheet; clothes and objects simplified into a few rounded, clay-like shapes, individual features kept; no ground line, horizon, room, frame or cast shadow; heads in three-quarter view, large almond eyes glancing aside. Lettering, where text is needed: a short handwritten title near the top. Avoid backgrounds, ornamental borders, Odisha pattachitra's dense patterns and red grounds, even vector line, glossy digital painting, airbrushed skin, cinematic light, idealised stock faces, deities and religious symbols.",
+ "de": {
+  "name": "Kalighat-Malerei",
+  "aka": [
+   "Kalighat-Pat",
+   "Kalighat-Patachitra"
+  ],
+  "era": "um 1830–1930, Kalkutta, Bengalen, Indien",
+  "summary": "Wenige schwungvolle Pinselkonturen, rundliche Figuren mit dunkler Lavierung nur entlang der Umrisse, dahinter leeres Papier: im Katalog, weil Linie und freies Blatt Hintergrund und Lichtführung ersetzen.",
+  "origin": "Die Kalighat-Malerei entstand im 19. Jahrhundert um den Kali-Tempel von Kalighat im Süden Kalkuttas, einen viel besuchten Wallfahrtsort; ab etwa 1830 ließen sich dort Patua nieder, Bildrollenmaler aus ländlichen Bezirken Bengalens wie Midnapore und den 24 Parganas. Statt langer Erzählrollen malten sie schnell und arbeitsteilig Einzelblätter mit Wasserfarben auf Maschinenpapier, meist im Hochformat von etwa 45 × 28 Zentimetern, als billige Andenken für Pilger und Besucher; Schmuck und Metall hoben sie mit einer silbrigen Zinnlegierung hervor. Neben Göttern und Szenen aus dem Ramayana und dem Leben Krishnas zeigten sie bald auch Alltagsszenen, Tiere, Spottbilder auf den verwestlichten bengalischen Babu und auf Kurtisanen sowie Tagesereignisse wie den Tarakeshwar-Skandal von 1873. Ab dem frühen 20. Jahrhundert verdrängten billige Lithografien und Öldrucke aus Deutschland und Bombay die handgemalten Blätter; um 1930 kam die Tradition weitgehend zum Erliegen. Die größte Sammlung mit rund 645 Blättern besitzt das Victoria and Albert Museum in London, darunter 233 Werke, die John Lockwood Kipling gesammelt und sein Sohn Rudyard 1917 dem Museum geschenkt hatte.",
+  "markers": [
+   "eine an- und abschwellende schwarze Pinselkontur, in langen, flüssigen Zügen um jede Form gezogen",
+   "Rundung nur durch dunklere Lavierung innen an der Kontur, zur Mitte hin flache Farbe",
+   "rundliche, wie aus Ton geformte Figuren mit großen mandelförmigen Augen, die am Betrachter vorbeischauen",
+   "leeres Papier ohne Hintergrund, Bodenlinie, Rahmen oder Schlagschatten",
+   "wenige Farben wie Indigo, Gelb, Grün, Rosa und Schwarz, dazu silbriges Zinn für Schmuck und Metall",
+   "auf manchen Blättern ein kurzer handgeschriebener Bildtitel, auf Bengalisch oder Englisch"
+  ],
+  "escapes": "KI-Porträts setzen standardmäßig auf porenlos glatte Haut, einen unscharfen Hintergrund und gerichtetes Kinolicht. Die Kalighat-Malerei kommt ohne Lichtquelle und fast ohne Raum aus: Die Figur steht auf leerem Papier, Volumen entsteht nur aus einer dunklen Lavierung entlang der Kontur, und eine kräftige Pinsellinie, die die Farbflächen nicht immer genau trifft, tritt an die Stelle weicher Übergänge.",
+  "pitfalls": "Modelle füllen das leere Blatt gern mit einem Innenraum, Mustern oder einem Ornamentrahmen und rutschen in die dicht verzierte Pattachitra-Malerei aus Odisha oder in eine saubere Vektorillustration mit gleichmäßiger Linienstärke ab. Die Schattierung wird oft zur weichen Modellierung von einer Lichtquelle aus statt zur dunklen Kante innen an der Kontur. Außerdem bekommt jede Figur gern das typisierte, jugendliche Kalighat-Gesicht oder Götterattribute wie Krone und Schmuck, sodass individuelle Merkmale wie Narben, schiefe Nasen und Alter verloren gehen.",
+  "tip": "Linie und Schattierung konkret beschreiben – eine an- und abschwellende schwarze Pinselkontur und eine dunklere Lavierung innen an ihr entlang – und ausdrücklich unbemaltes Papier ohne Rahmen verlangen. Den satirischen Ton der Tradition besser nicht in den Prompt schreiben, sonst droht eine Karikatur mit übertriebenen Zügen.",
+  "sensitivity": "Viele Kalighat-Blätter zeigen hinduistische Gottheiten, vor allem Kali; Götterattribute und religiöse Zeichen gehören nicht auf weltliche Motive, und Spott darf sich nicht gegen Götter richten. Einige Maler in Westbengalen führen die Tradition heute weiter; KI-Bilder in diesem Stil sollten nicht als ihre Arbeiten ausgegeben werden."
+ },
+ "en": {
+  "name": "Kalighat painting",
+  "aka": [
+   "Kalighat pat",
+   "Kalighat patachitra"
+  ],
+  "era": "c. 1830–1930, Calcutta, Bengal, India",
+  "summary": "A few sweeping brush outlines, plump figures shaded dark only along their contours, bare paper behind: included because line and empty sheet replace background and lighting.",
+  "origin": "Kalighat painting arose in the 19th century around the Kali temple at Kalighat in the south of Calcutta, a busy place of pilgrimage; from about 1830 patuas, scroll painters from rural districts of Bengal such as Midnapore and the 24 Parganas, settled there. Instead of long narrative scrolls they painted single sheets in watercolour on mill-made paper, quickly and with a division of labour, mostly upright and about 45 × 28 cm, as cheap souvenirs for pilgrims and visitors; jewellery and metal were picked out in a silvery tin alloy. Besides gods and scenes from the Ramayana and the life of Krishna, they soon showed everyday scenes, animals, satires on the westernised Bengali babu and on courtesans, and news events such as the Tarakeshwar scandal of 1873. From the early 20th century cheap lithographs and oleographs from Germany and Bombay displaced the hand-painted sheets, and by about 1930 the tradition had largely ended. The largest collection, some 645 works, is in the Victoria and Albert Museum in London, including 233 works collected by John Lockwood Kipling and given to the museum by his son Rudyard in 1917.",
+  "markers": [
+   "a black brush outline that swells and tapers, drawn round each form in long, fluid sweeps",
+   "roundness only from a darker wash along the inside of the outline, flat colour towards the middle",
+   "plump figures that look modelled in clay, with large almond-shaped eyes that look past the viewer",
+   "bare paper with no background, ground line, frame or cast shadow",
+   "few colours such as indigo, yellow, green, pink and black, with silvery tin for jewellery and metal",
+   "on some sheets a short handwritten title, in Bengali or English"
+  ],
+  "escapes": "AI portraits default to poreless, smooth skin, a blurred background and directional cinematic light. Kalighat painting does without a light source and almost without space: the figure stands on empty paper, volume comes only from a dark wash along the contour, and a bold brush line that does not always meet the colour exactly takes the place of soft transitions.",
+  "pitfalls": "Models like to fill the empty sheet with a room, patterns or an ornamental border and drift into the densely decorated pattachitra of Odisha or a clean vector illustration with an even line weight. The shading often turns into soft modelling from one light source instead of a dark edge along the inside of the outline. They also tend to give every figure the stylised, youthful Kalighat face or divine attributes such as a crown and jewellery, so individual features such as scars, crooked noses and age get lost.",
+  "tip": "Describe line and shading concretely – a black brush outline that swells and tapers, with a darker wash running along its inside – and ask explicitly for unpainted paper with no frame. Better leave the tradition's satirical tone out of the prompt, or the result tends towards caricature with exaggerated features.",
+  "sensitivity": "Many Kalighat sheets show Hindu deities, above all Kali; divine attributes and religious symbols do not belong on secular motifs, and mockery must never be aimed at the gods. A few painters in West Bengal continue the tradition today; AI images in this style should not be passed off as their work."
+ },
+ "sources": [
+  {
+   "title": "Kalighat painting – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kalighat_painting"
+  },
+  {
+   "title": "Kalighat paintings – Victoria and Albert Museum",
+   "url": "https://www.vam.ac.uk/articles/kalighat-painting"
+  },
+  {
+   "title": "Elokeshi, Kalighat painting, ca. 1890 – V&A Collections",
+   "url": "https://collections.vam.ac.uk/item/O71297/elokeshi-painting-unknown/"
+  },
+  {
+   "title": "Narasimha and Hiranyakasipu, Kalighat painting, ca. 1835–1840 – V&A Collections",
+   "url": "https://collections.vam.ac.uk/item/O71522/narasimha-and-hiranyakasipu-painting-unknown/"
+  }
+ ]
+}

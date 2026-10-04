@@ -1,0 +1,68 @@
+{
+ "slug": "german-romanticism",
+ "style_block": "A German Romantic oil landscape composed in a Dresden studio from outdoor pencil studies, c. 1810-1835. Medium: oil over precise pencil underdrawing and brown underpainting, thin transparent glazes, no visible brushwork; branches, roofs and ridges drawn hard-edged; palette of pearl grey, pale violet and cool blue-green, a narrow rose band at the horizon, dark umber foreground; dawn, dusk or moonlight, mist in the valleys. Composition: foreground, middle distance and far distance as calm horizontal bands parallel to the picture plane, sharply parted by mist or shadow; near-symmetrical order around a central axis; almost empty sky filling half the picture or more; any figure small, still, seen from behind. Lettering, where text is needed: only carved or painted on stone or wood in the scene, plain roman capitals. Avoid golden-hour HDR glow, sun disc, light rays, fantasy matte painting, American wilderness panoramas, storm drama; add no ruins, crosses or extra figures.",
+ "de": {
+  "name": "Malerei der deutschen Romantik",
+  "aka": [
+   "Deutsche Romantik",
+   "Dresdner Romantik",
+   "Romantische Landschaftsmalerei"
+  ],
+  "era": "um 1800–1840, Dresden und Norddeutschland",
+  "summary": "Stille Landschaften im Dämmer- oder Mondlicht, Nebel in den Tälern, viel leerer Himmel, glatt lasiert; im Katalog als ruhiges Gegenstück zur goldenen, übersättigten KI-Fantasielandschaft.",
+  "origin": "Die Malerei der deutschen Romantik entstand um 1800 in Norddeutschland und vor allem in Dresden; ihre wichtigsten Maler, Caspar David Friedrich (1774–1840) aus Greifswald und Philipp Otto Runge (1777–1810) aus Wolgast, hatten beide an der Kopenhagener Akademie studiert. Friedrich ließ sich 1798 in Dresden nieder, verdiente ab 1800 sein Geld mit Sepiazeichnungen und wandte sich um 1807 der Ölmalerei zu; sein „Kreuz im Gebirge“ (Tetschener Altar, 1808) löste den Ramdohr-Streit aus, weil der Kritiker Basilius von Ramdohr eine Landschaft als Altarbild ablehnte. 1810 zeigte er auf der Berliner Akademieausstellung „Der Mönch am Meer“, in dem ein grauer Himmel rund drei Viertel der Leinwand füllt, zusammen mit „Abtei im Eichwald“; auf Betreiben des Kronprinzen kaufte der preußische König beide Bilder an. Friedrich zeichnete Bäume, Felsen und Ausblicke mit dem Bleistift vor der Natur, setzte seine Gemälde aber im Atelier aus Studien verschiedener Orte zusammen, übertrug sie als genaue Vorzeichnung auf die grundierte Leinwand und malte sie über einer braunen Untermalung in dünnen Lasuren aus; oft steht eine Rückenfigur still vor der Weite. Zu seinem Dresdner Kreis gehörten der Arzt und Maler Carl Gustav Carus, Georg Friedrich Kersting, sein Schüler Ernst Ferdinand Oehme und der Norweger Johan Christian Dahl, der im selben Haus an der Elbe wohnte; nach Friedrichs Tod geriet sein Werk weitgehend in Vergessenheit, bis die Berliner Jahrhundertausstellung von 1906 es wieder bekannt machte.",
+  "markers": [
+   "Nebel in Tälern und über dem Wasser, aus dem nur Kuppen, Dächer und Baumkronen ragen",
+   "Licht der Morgen- oder Abenddämmerung oder des Mondes, kühle Palette aus Perlgrau, blassem Violett und Blaugrün mit einem schmalen hellen Streifen am Horizont",
+   "ruhige, fast symmetrische Ordnung in waagerechten Bildzonen, ein dunkler Vordergrund deutlich von der Ferne abgesetzt",
+   "großer, fast leerer Himmel, der oft die Hälfte der Bildfläche oder mehr einnimmt",
+   "kleine, stille Figuren, vom Rücken gesehen, die in die Ferne blicken",
+   "glatte, lasierte Malschicht ohne sichtbaren Pinselduktus, kahle Äste und Umrisse fein und scharf gezeichnet"
+  ],
+  "escapes": "Statt des goldenen Gegenlichts, der Sonnenscheibe über dem Horizont, der Lichtstrahlen und des übersättigten Grüns, mit denen KI-Bilder Landschaften meist ausstatten, verlangt der Stil kühles Dämmer- oder Mondlicht, Nebel und eine gedämpfte Palette. Die stille, in waagerechte Zonen gegliederte Bildfläche mit viel leerem Himmel ersetzt das vollgestellte Panorama mit Einzelheiten in jeder Ecke, und die glatte Lasurmalerei verhindert den aufgesetzten Pinselstrich-Filter.",
+  "pitfalls": "Modelle machen aus dem Stil leicht ein Zitat des bekanntesten Bildes, einen Mann im dunklen Rock auf einem Felsgipfel über dem Nebelmeer, groß in der Bildmitte, oder fügen Kreuze, gotische Ruinen, Eichen und Mondsicheln hinzu, die im Motiv nicht vorkommen. Ebenso oft rutscht das Bild in die Sturmdramatik der französischen Romantik, in die golden leuchtende Weite der amerikanischen Hudson River School oder in eine weichgezeichnete Kalenderidylle. Prüfen, ob der Himmel leer bleibt, der Nebel Dorf und Brücke nicht verschluckt und keine zusätzlichen Figuren auftauchen.",
+  "tip": "Tageszeit, Nebel und Bildaufbau ausdrücklich festlegen, etwa „früher Morgen, Nebel im Tal, waagerechte Zonen, obere Hälfte fast leerer Himmel“, und verlangen, dass nichts hinzukommt, was nicht im Motiv steht; das Etikett allein ruft vor allem die Rückenfigur auf dem Gipfel ab.",
+  "sensitivity": "In der Zeit des Nationalsozialismus wurde Friedrichs Werk propagandistisch vereinnahmt und für Sinnbilder der Blut-und-Boden-Ideologie benutzt; deshalb keine Fahnen, Symbole oder heldenhaften Posen hinzufügen."
+ },
+ "en": {
+  "name": "German Romantic painting",
+  "aka": [
+   "German Romanticism",
+   "Dresden Romanticism",
+   "German Romantic landscape painting"
+  ],
+  "era": "c. 1800–1840, Dresden and northern Germany",
+  "summary": "Quiet landscapes in twilight or moonlight, mist in the valleys, much empty sky, smoothly glazed; in the catalog as a calm counterpart to the golden, oversaturated AI fantasy landscape.",
+  "origin": "German Romantic painting arose around 1800 in northern Germany and above all in Dresden; its leading painters, Caspar David Friedrich (1774–1840) from Greifswald and Philipp Otto Runge (1777–1810) from Wolgast, had both studied at the Copenhagen Academy. Friedrich settled in Dresden in 1798, earned his living from sepia drawings from 1800 and turned to oil painting around 1807; his Cross in the Mountains (Tetschen Altar, 1808) set off the Ramdohr dispute, because the critic Basilius von Ramdohr rejected a landscape as an altarpiece. In 1810 he showed The Monk by the Sea, in which a grey sky fills about three quarters of the canvas, together with The Abbey in the Oakwood at the Berlin Academy exhibition; at the crown prince’s urging, the King of Prussia bought both pictures. Friedrich drew trees, rocks and views in pencil from nature but assembled his paintings in the studio from studies of different places, transferred them as a precise underdrawing onto the primed canvas and painted them in thin glazes over a brown underpainting; often a figure seen from behind, the Rückenfigur, stands still before the view. His Dresden circle included the physician and painter Carl Gustav Carus, Georg Friedrich Kersting, his pupil Ernst Ferdinand Oehme and the Norwegian Johan Christian Dahl, who lived in the same house on the Elbe; after Friedrich’s death his work was largely forgotten until the 1906 Centenary Exhibition of German art in Berlin brought it back to attention.",
+  "markers": [
+   "mist in valleys and over water, with only hilltops, roofs and treetops rising out of it",
+   "light of dawn, dusk or the moon, cool palette of pearl grey, pale violet and blue-green with a narrow bright band at the horizon",
+   "calm, near-symmetrical order in horizontal zones, a dark foreground clearly set off from the distance",
+   "a large, almost empty sky that often takes up half of the picture or more",
+   "small, still figures seen from behind, looking into the distance",
+   "smooth, glazed paint layer without visible brushwork, bare branches and outlines drawn fine and sharp"
+  ],
+  "escapes": "Instead of the golden backlight, sun disc over the horizon, light rays and oversaturated greens that AI images usually give landscapes, the style calls for cool twilight or moonlight, mist and a muted palette. Its still picture surface, divided into horizontal zones with much empty sky, replaces the crowded panorama with detail in every corner, and the smooth glazed paint prevents the pasted-on brushstroke filter.",
+  "pitfalls": "Models readily turn the style into a quotation of its best-known picture, a man in a dark coat on a rocky summit above a sea of fog, large in the centre, or add crosses, Gothic ruins, oaks and crescent moons that are not in the subject. Just as often the image drifts into the storm drama of French Romanticism, the golden, glowing expanse of the American Hudson River School or a soft-focus calendar idyll. Check that the sky stays empty, that the mist does not swallow village and bridge, and that no extra figures appear.",
+  "tip": "State time of day, mist and composition explicitly, for example ‘early morning, mist in the valley, horizontal zones, upper half almost empty sky’, and ask that nothing be added that is not in the subject; the label alone mainly calls up the figure from behind on the summit.",
+  "sensitivity": "Under National Socialism Friedrich’s work was appropriated for propaganda and used as imagery for the ‘blood and soil’ ideology; so do not add flags, symbols or heroic poses."
+ },
+ "sources": [
+  {
+   "title": "Caspar David Friedrich – Wikipedia (de)",
+   "url": "https://de.wikipedia.org/wiki/Caspar_David_Friedrich"
+  },
+  {
+   "title": "Caspar David Friedrich – Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Caspar_David_Friedrich"
+  },
+  {
+   "title": "Philipp Otto Runge – Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/Philipp_Otto_Runge"
+  },
+  {
+   "title": "The Monk by the Sea – Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/The_Monk_by_the_Sea"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "slug": "generic-3d-animated-feature",
+ "style_block": "A still from a computer-animated family feature film, as released in American cinemas since the mid-1990s. Medium: high-end 3D render; stylised characters with large heads, oversized glossy eyes with big catchlights, rounded soft shapes and appealing, exaggerated expressions; materials densely textured yet spotless, any wear shown only as tidy, charming detail; skin and fur softly glowing with subsurface scattering; warm bounced global illumination, a golden key light and a bright rim light; cheerful saturated palette, warm oranges against teal shadows. Composition: film-still framing, the main figure centred at a slightly low angle in a lively mid-action pose; background a cosy, detailed set dissolved into creamy bokeh and light haze. Lettering, where text is needed: chunky rounded 3D letters, glossy and bevelled. Avoid letterbox bars, clay fingerprints, brushwork, flat 2D cel shading, hard-shadowed early CGI, glossy vinyl-toy figurines, photoreal animal anatomy, studio characters, logos and trademarked toys.",
+ "de": {
+  "name": "3D-Animationsfilm",
+  "aka": [
+   "CGI-Animationsfilm",
+   "Computeranimationsfilm",
+   "CGI-Familienfilm"
+  ],
+  "era": "seit 1995, USA",
+  "summary": "Rundliche Figur mit großen glänzenden Augen, weich durchleuchtetem Fell, warmem Kantenlicht und unscharfem Hintergrund; im Katalog als Negativbeispiel für den Trickfilm-Look, auf den Bildgeneratoren zurückfallen.",
+  "origin": "„Toy Story“, der erste vollständig am Computer erstellte abendfüllende Kinofilm, hatte im November 1995 in Hollywood Premiere; die Einzelbilder wurden auf einer Renderfarm aus 117 Rechnern vom Typ Sun SPARCstation 20 berechnet. Als „Der Polarexpress“ (2004) auf möglichst lebensechte Menschenfiguren setzte, nannten Kritiker sie gruselig und sprachen von toten Augen – ein Effekt, den der japanische Robotiker Masahiro Mori 1970 als „unheimliches Tal“ (Uncanny Valley) beschrieben hatte. Der amerikanische Robotiker David Hanson zeigte, dass sich der Effekt durch kindliche, comicartige Züge aufheben lässt; solche Züge – große Augen, runde Formen, überzeichnete Proportionen – kennzeichnen die Figuren der Gattung. Herkömmliche Beleuchtungsmodelle ließen Haut hart und künstlich aussehen; ein Modell für die Lichtstreuung unter der Oberfläche (Subsurface Scattering), das Henrik Wann Jensen, Steve Marschner, Marc Levoy und Pat Hanrahan von der Stanford University 2001 auf der Fachtagung SIGGRAPH vorstellten und an Milch, Marmor und Haut erprobten, machte ihr weiches Durchscheinen effizient berechenbar. Im Jahrzehnt bis 2016 wurde zudem die Pfadverfolgung (Path Tracing), die die Ausbreitung des Lichts in einer Szene physikalisch nachbildet, zum bevorzugten Renderverfahren für Kinofilme.",
+  "markers": [
+   "Großer Kopf, übergroße glänzende Augen mit kräftigen Glanzlichtern, runde, weiche Formen",
+   "Haut und Fell leuchten durch Subsurface Scattering weich von innen, mit leicht wachsartigem Schimmer",
+   "Warmes, indirektes Licht mit goldenem Führungslicht und hellem Kantenlicht um die Figur",
+   "Geringe Schärfentiefe: Hintergrund in weiche Lichtkreise und leichten Dunst aufgelöst",
+   "Fein strukturierte, aber makellos saubere Materialien in fröhlichen, satten Farben, warmes Orange gegen blaugrüne Schatten",
+   "Mittig gesetzte Figur in lebhafter, übertriebener Pose mit breitem, gleichförmig fröhlichem Ausdruck"
+  ],
+  "escapes": "Der Look wirkt wie KI, weil er die stärkste Voreinstellung der Modelle für alles Niedliche oder „Animierte“ ist: Ungefragt liefern Bildgeneratoren genau diese Mischung aus großen glänzenden Augen, runden Formen, durchleuchtetem Fell, warmem Kantenlicht und unscharfem Hintergrund, gleich welches Thema. Er zeigt die typischen KI-Merkmale: jede Oberfläche sauber und gleichmäßig detailliert, goldenes Licht aus einer Quelle, die im Bild nirgends zu sehen ist, eine mittig gesetzte Figur, die wie für ein Plakat posiert, und ein Ausdruck gleichförmiger, gesteigerter Fröhlichkeit. Ein echtes Filmbild gehört zu einer Szene, einer Kamerabewegung und einer eigens gestalteten Welt; dieses Bild steht für sich allein, wie das Plakatmotiv zu einem Film, den es nicht gibt.",
+  "pitfalls": "Weil das Modell diesen Look am sichersten beherrscht, droht weniger ein Fehlschlag als ein Abdriften: zu Figuren, die an bekannte Studiofiguren erinnern, zu einem Plakataufbau mit erfundenem Titel und Logo oder zu einer glänzenden Vinylfigur vor schlichtem Hintergrund. Im Hochformat kann die Vorgabe „Filmstandbild“ schwarze Balken oben und unten hervorrufen, und Abnutzung wie die abgetragene Mütze wird leicht ganz weggeglättet, obwohl sie als kleines, sauberes Detail sichtbar bleiben soll. Zu prüfen sind Pfoten (Zahl der Finger, Menschenhände), Riemen und Schalenden, die mit dem Körper verschmelzen, und ungewollte Schrift auf Paketen und Briefen.",
+  "tip": "Die Bestandteile technisch beschreiben – große glänzende Augen, durchscheinende Haut, warmes indirektes Licht mit Kantenlicht, geringe Schärfentiefe – und nie ein Studio nennen, denn das holt dessen Figuren und Logos ins Bild. Wer dem Look entgehen will, legt genau diese Punkte anders fest: Material, Licht, Formensprache und Schärfe.",
+  "sensitivity": "Studionamen und Logos sind markenrechtlich geschützt, die Figuren der Studios zudem urheberrechtlich; sie gehören weder in den Prompt noch ins Bild, und bekannte Trickfilmfiguren wie Spielzeuge, Monster oder Fische sollen nicht nachgebildet werden. Standbilder in diesem Look werden leicht für Szenenbilder aus echten Filmen gehalten und sollten als KI-erzeugt gekennzeichnet bleiben."
+ },
+ "en": {
+  "name": "3D animated feature film",
+  "aka": [
+   "CG feature animation",
+   "computer-animated feature",
+   "family CGI look"
+  ],
+  "era": "since 1995, USA",
+  "summary": "A rounded figure with big glossy eyes, softly glowing fur, warm rim light and a blurred background; a negative example of the cartoon look image generators fall back on.",
+  "origin": "Toy Story, the first feature film made entirely by computer, premiered in Hollywood in November 1995; its frames were rendered on a render farm of 117 Sun SPARCstation 20 computers. When The Polar Express (2004) aimed for lifelike human figures, critics called them creepy and 'dead-eyed' – an effect the Japanese roboticist Masahiro Mori had described in 1970 as bukimi no tani, the 'uncanny valley'. The American roboticist David Hanson showed that childlike, cartoonish features can remove the effect; such features – large eyes, rounded forms, exaggerated proportions – mark the figures of the genre. Conventional shading models made skin look hard and computer-generated; a model of subsurface light transport that Henrik Wann Jensen, Steve Marschner, Marc Levoy and Pat Hanrahan of Stanford University presented at the SIGGRAPH conference in 2001 and tested on milk, marble and skin made its soft translucency efficient to compute. In the decade up to 2016, path tracing, which simulates the physics of light spreading through a scene, also became the preferred rendering technique for feature films.",
+  "markers": [
+   "Large head, oversized glossy eyes with big catchlights, rounded soft shapes",
+   "Skin and fur glowing softly from within through subsurface scattering, with a slight waxy sheen",
+   "Warm, bounced indirect light with a golden key light and a bright rim light around the figure",
+   "Shallow depth of field: background dissolved into soft discs of light and a light haze",
+   "Finely textured but spotless materials in cheerful, saturated colours, warm orange against teal shadows",
+   "Centred figure in a lively, exaggerated pose with a broad, uniformly cheerful expression"
+  ],
+  "escapes": "The look reads as AI because it is the models' strongest default for anything cute or 'animated': unprompted, image generators deliver exactly this mix of big glossy eyes, rounded forms, glowing fur, warm rim light and blurred background, whatever the subject. It shows the usual AI tells: every surface clean and evenly detailed, golden light from a source that is nowhere in the scene, a centred figure posing as if for a poster, and an expression of uniform, heightened cheerfulness. A real film frame belongs to a scene, a camera move and a purpose-built world; this picture stands alone, like the poster art for a film that does not exist.",
+  "pitfalls": "Because the model handles this look most reliably, the risk is drift rather than failure: toward figures that recall well-known studio characters, a poster layout with an invented title and logo, or a shiny vinyl-toy figure against a plain backdrop. In portrait format, asking for a film still can bring in black letterbox bars, and wear such as the worn cap is easily smoothed away entirely, although it should stay visible as a small, tidy detail. Check paws (finger count, human hands), straps and scarf ends that merge into the body, and unwanted lettering on parcels and letters.",
+  "tip": "Describe the parts of the look technically – large glossy eyes, translucent skin, warm indirect light with a rim light, shallow depth of field – and never name a studio, which summons its characters and logos. To escape the look, set exactly these points differently: material, light, shape language and focus.",
+  "sensitivity": "Studio names and logos are trademarks, and the studios' characters are also protected by copyright; they belong neither in the prompt nor in the picture, and well-known animated characters such as toys, monsters or fish should not be imitated. Stills in this look are easily taken for stills from real films and should stay labelled as AI-generated."
+ },
+ "sources": [
+  {
+   "title": "Toy Story – Wikipedia",
+   "url": "https://de.wikipedia.org/wiki/Toy_Story"
+  },
+  {
+   "title": "Uncanny valley – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Uncanny_valley"
+  },
+  {
+   "title": "Jensen, Marschner, Levoy, Hanrahan: A Practical Model for Subsurface Light Transport, SIGGRAPH 2001 – Stanford Graphics Lab",
+   "url": "https://graphics.stanford.edu/papers/bssrdf/"
+  },
+  {
+   "title": "Christensen, Jarosz: The Path to Path-Traced Movies, Foundations and Trends in Computer Graphics and Vision, 2016",
+   "url": "https://cs.dartmouth.edu/~wjarosz/publications/christensen16path.html"
+  }
+ ]
+}

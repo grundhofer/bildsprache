@@ -1,0 +1,68 @@
+{
+ "slug": "thermal-imaging",
+ "style_block": "A handheld thermal camera image from building inspection, worldwide, since the 2000s. Medium: a coarse 320 by 240 pixel temperature map, not a photograph: brightness means heat, never light or surface colour, so no shading, highlights, cast shadows or fine texture. Objects are flat heat patches; soft smeared edges appear only where temperature changes. Hot food and skin brightest; hair, clothing and nose tip cooler; room-temperature things dim, faintly separated; glass, metal, water and sky darkest. Black, violet, red, orange, yellow-white; faint sensor stripes. Composition: tight measuring frame, subjects cut by edges, centre crosshair, colour scale at right. Space stays shallow: distant water, land, trees or buildings become flat dark bands and blurred silhouettes, no horizon detail. Faces are soft warm masks with blurred features. Lettering, where text is needed: small white blocky corner readouts. Avoid a recoloured sharp photo, neon outlines, night-vision green, logos.",
+ "de": {
+  "name": "Wärmebild (Thermografie)",
+  "aka": [
+   "Thermogramm",
+   "Infrarotthermografie",
+   "Wärmebildaufnahme"
+  ],
+  "era": "ab 1965; im zivilen Alltag seit Ende der 1990er-Jahre, weltweit",
+  "summary": "Grob aufgelöstes Falschfarbenbild einer Wärmebildkamera von Schwarz über Violett und Rot bis Gelbweiß; im Katalog, weil Helligkeit hier Temperatur bedeutet und Licht, Schatten und Oberflächenstruktur wegfallen.",
+  "origin": "Wilhelm Herschel entdeckte 1800 die Infrarotstrahlung, als er hinter dem roten Ende eines Prismenspektrums Temperaturen maß; mit dem Bolometer, das Samuel Pierpont Langley um 1880 erfand, stand ein empfindlicher Empfänger für Wärmestrahlung zur Verfügung. Texas Instruments begann 1956 mit Infrarotforschung, aus der Zeilenscanner für das US-Militär und 1963 die erste nach vorn blickende Wärmebildkamera (Forward Looking Infrared) hervorgingen; 1965 kam die erste kommerzielle Wärmebildkamera für die Prüfung von Hochspannungsleitungen auf den Markt. Honeywell entwickelte ab Ende der 1970er-Jahre im geheimen Auftrag des US-Verteidigungsministeriums das ungekühlte Mikrobolometer; 1992 wurde die Geheimhaltung aufgehoben und die Technik an andere Hersteller lizenziert, und gegen Ende der 1990er-Jahre sanken die Kosten ungekühlter Sensoren so stark, dass Wärmebildkameras in den zivilen Gebrauch kamen. Ihre Auflösung ist gering, oft nur 160 × 120 oder 320 × 240 Bildpunkte; sie erfassen meist langwelliges Infrarot von etwa 8 bis 14 µm und zeigen Temperaturen in Falschfarben: Die wärmsten Stellen erscheinen üblicherweise weiß, mittlere rot und gelb, die kältesten schwarz. Eingesetzt werden sie in der Bauthermografie, an Stromleitungen und von der Feuerwehr, die damit durch Rauch hindurch Menschen und Glutnester findet.",
+  "markers": [
+   "Falschfarben von Schwarz über Indigo, Violett, Rot und Orange bis Gelbweiß; die wärmste Stelle ist weiß",
+   "Helligkeit zeigt Temperatur, nicht Licht: keine Schlagschatten, keine Eigenfarben, kaum Oberflächenstruktur",
+   "Menschen als warme Gestalten: Gesicht und Hände hell, Nasenspitze, Haare und Kleidung kühler",
+   "Glas und blankes Metall erscheinen dunkel oder spiegeln die Wärme von Menschen in der Nähe; Handabdrücke bleiben als warme Flecken zurück",
+   "Weiche, leicht blockige Kanten und feines Streifenrauschen des niedrig auflösenden Sensors",
+   "Fadenkreuz in der Bildmitte und senkrechte Farbskala am rechten Rand"
+  ],
+  "escapes": "Bildgeneratoren liefern standardmäßig scharfe, gleichmäßig ausgeleuchtete Fotos mit Glanzlichtern, warmem Farbstich und geglätteter Haut. Im Thermogramm fehlt all das: Das Bild entsteht aus abgestrahlter Wärme, eine Lichtführung gibt es nicht, Hautporen und Stoffmuster lösen sich in Temperaturfelder auf, und die Farbskala ersetzt die Farbgebung. Getragen wird das Bild allein von der Wärmeverteilung, etwa einem heißen Gefäß oder warmen Händen vor kühler Umgebung.",
+  "pitfalls": "Modelle legen oft nur einen orangeroten Filter über ein scharfes, gewöhnliches Foto, in dem Stoffstruktur, Schatten und Glanzlichter erhalten bleiben, oder ziehen leuchtende Umrisse um die Figuren wie in Spielfilmen. Dabei folgt die Helligkeit oft dem Licht statt der Wärme – angestrahlte Flächen glühen, abgewandte bleiben dunkel –, und dahinter bleibt eine tiefe, fein gezeichnete Landschaft mit Horizont stehen. Auch die Wärmelogik kippt leicht: Kleidung so hell wie Gesichter, kalte Speisen glühend, ein warmer Himmel. Die Kameraeinblendung verleitet außerdem zu Temperaturwerten, Statuszeilen und einem Herstellerlogo in der Ecke, die einer Vorgabe ohne Text und ohne Logos widersprechen.",
+  "tip": "Statt nur Farben zu nennen, für jedes Bildelement angeben, wie warm es im Vergleich zu den anderen ist – etwa heißes Getränk, warme Haut, zimmerwarmer Tisch, kalter Himmel; die Farbskala ergibt sich aus dieser Rangfolge. Fernes als flache, kalte Bänder beschreiben, nicht als Landschaft.",
+  "sensitivity": "Erzeugte Thermogramme zeigen keine gemessenen Temperaturen und dürfen nicht als Prüf- oder Messbeleg ausgegeben werden; Wärmebilder von Menschen erinnern zudem an Überwachungs- und Militäraufnahmen."
+ },
+ "en": {
+  "name": "Thermal imaging (thermography)",
+  "aka": [
+   "Infrared thermography",
+   "Thermogram",
+   "Heat-camera image"
+  ],
+  "era": "from 1965; in everyday civilian use since the late 1990s, worldwide",
+  "summary": "A low-resolution false-colour thermal camera image running from black through violet and red to yellow-white; in the catalog because brightness means temperature, so light, shadow and surface texture drop away.",
+  "origin": "William Herschel discovered infrared radiation in 1800 when he measured temperatures beyond the red end of a prism spectrum, and the bolometer Samuel Pierpont Langley invented around 1880 provided a sensitive detector for heat radiation. Texas Instruments began infrared research in 1956, which led to line scanners for the US military and in 1963 to the first forward-looking infrared camera; the first commercial thermal imaging camera was sold in 1965 for inspecting high-voltage power lines. Honeywell developed the uncooled microbolometer from the late 1970s under a classified contract for the US Department of Defense; it was declassified in 1992 and licensed to other manufacturers, and towards the end of the 1990s the cost of uncooled sensors fell so sharply that thermal cameras moved into civilian use. Their resolution is low, often only 160 × 120 or 320 × 240 pixels; they mostly detect long-wave infrared of about 8 to 14 µm and show temperature in false colour, with the warmest areas customarily white, intermediate ones red and yellow and the coolest black. They are used in building inspection, on power lines and by firefighters, who use them to find people and hot spots through smoke.",
+  "markers": [
+   "False colours from black through indigo, violet, red and orange to yellow-white; the warmest spot is white",
+   "Brightness shows temperature, not light: no cast shadows, no object colours, hardly any surface texture",
+   "People as warm shapes: face and hands bright, nose tip, hair and clothing cooler",
+   "Glass and bare metal appear dark or mirror the warmth of people nearby; handprints linger as warm patches",
+   "Soft, slightly blocky edges and fine striped noise from the low-resolution sensor",
+   "A crosshair at the centre of the frame and a vertical colour scale at the right edge"
+  ],
+  "escapes": "Image generators default to sharp, evenly lit photographs with specular highlights, a warm colour cast and smoothed skin. A thermogram has none of these: the picture is made from emitted heat, so there is no lighting to style, skin pores and fabric patterns dissolve into temperature fields, and the palette replaces the colour grading. The image is carried by the distribution of heat alone, such as a hot vessel or warm hands against cool surroundings.",
+  "pitfalls": "Models often lay an orange-red filter over a sharp ordinary photo that keeps fabric texture, shadows and specular highlights, or draw glowing outlines around figures as in films. Brightness then often follows light rather than heat – lit surfaces glow, turned-away ones stay dark – and a deep, finely drawn landscape with a horizon remains behind. The heat logic also slips easily: clothing as bright as faces, cold food glowing, a warm sky. The camera overlay further tempts the model into temperature readouts, status lines and a manufacturer's logo in the corner, which clash with a no-text and no-logo constraint.",
+  "tip": "Instead of naming colours alone, state how warm each element is compared with the others – a hot drink, warm skin, a room-temperature table, a cold sky; the palette follows from that ranking. Describe anything distant as flat cold bands, not as scenery.",
+  "sensitivity": "Generated thermograms show no measured temperatures and must not be passed off as inspection or measurement evidence; thermal images of people also recall surveillance and military footage."
+ },
+ "sources": [
+  {
+   "title": "Thermography – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thermography"
+  },
+  {
+   "title": "Thermografie – Wikipedia (de)",
+   "url": "https://de.wikipedia.org/wiki/Thermografie"
+  },
+  {
+   "title": "Microbolometer – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Microbolometer"
+  },
+  {
+   "title": "Texas Instruments – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Texas_Instruments"
+  }
+ ]
+}

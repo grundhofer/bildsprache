@@ -1,0 +1,69 @@
+{
+ "slug": "vintage-school-wall-chart",
+ "style_block": "A chromolithographed school wall chart from Central Europe, about 1880–1960. Medium: linen-backed lithograph, wooden rods top and bottom; crisp dark outlines, soft painted modelling; muted ochre, earth green, brick red, slate blue; yellowed varnish, creases, rubbed edges, slight misregistration. Composition: the chart seen flat, filling the frame; a few large subjects in plain side view on one flat black ground, legible from the back row, at unequal sizes, staggered, never in equal rows. Lettering, where text is needed: title in large hand-drawn white capitals across the top; short cream serif labels beneath each item. Information, where a diagram, map or chart is shown: no boxes or tiles; items stand freely in reading order, each with a large white numeral, linked by thin painted arrows; cutaways beside whole objects. Avoid flat vector icons, card grids, glossy gradients, sepia filters, classroom scenes, the white-page botanical plate, and invented imprints or catalogue numbers.",
+ "de": {
+  "name": "Schulwandbild",
+  "aka": [
+   "Lehrtafel",
+   "Anschauungstafel",
+   "Anschauungsbild"
+  ],
+  "era": "etwa 1850–1970, Mitteleuropa",
+  "summary": "Auf Leinwand aufgezogene Lehrtafel mit wenigen großen, nüchtern gemalten Gegenständen auf schwarzem Grund; im Katalog, weil sie einen Ablauf ohne Kachelraster und Symbole ordnet.",
+  "origin": "Große, von der ganzen Klasse sichtbare Bilder ließen sich erst mit der um 1800 aufkommenden Lithografie in hoher Auflage erschwinglich herstellen; ihre Blütezeit lag zwischen etwa 1880 und 1920, als Verlage wie Wachsmuth in Leipzig und C. C. Meinhold & Söhne in Dresden ganze Serien herausgaben. Entworfen wurden sie meist von wenig bekannten Künstlern unter Anleitung von Pädagogen; je nach Preis gab es sie als bloßen Papierdruck oder auf Leinwand, Karton oder Pappe aufgezogen, mit Ösen oder Stäben zum Aufhängen, in Formaten zwischen 32 × 42 und 115 × 160 Zentimetern. Für den Naturkundeunterricht malte der Darmstädter Lehrer Heinrich Jung, unterstützt vom Zoologen Gottlieb von Koch und vom Seminardirektor Friedrich Quentell, zwischen 1892 und 1921 die „Neuen Wandtafeln für den Unterricht in der Naturgeschichte“ (Frommann & Morian, Darmstadt, 100 × 75 cm): je Blatt eine Art mit Detailansichten, vereinfacht, oft auf schwarzem Grund und ohne Text, weil die Erklärung Sache des Lehrers war. In der Schweiz verhängte der Bundesrat im Winter 1934/35 einen Lieferstopp für Schulmaterial aus dem Deutschen Reich; danach wurden Wettbewerbe für einheimische Schulwandbilder ausgeschrieben, an denen Maler und Grafiker wie Hans Erni, Alois Carigiet und Otto Baumberger teilnahmen. Mit Dia-, Film- und Overheadprojektion verlor das Schulwandbild ab den 1950er-Jahren seine zentrale Rolle im Unterricht; ein bis 2002 laufendes Projekt der Universität Würzburg erfasste die zwischen 1830 und 1990 im deutschsprachigen Raum erschienenen Schulwandbilder in knapp 15.000 Datensätzen.",
+  "markers": [
+   "Wenige große Gegenstände, frei auf schwarzem oder dunkelgrauem Grund, aus der letzten Bank lesbar",
+   "Kräftige dunkle Konturen mit weicher, gemalter Modellierung in gedämpften Naturfarben wie Ocker, Erdgrün, Ziegelrot und Schieferblau",
+   "Große Ziffern und dünne Pfeile statt Kästen; Schnitte und Detailvergrößerungen neben dem ganzen Gegenstand",
+   "Titel in großen, von Hand gezeichneten hellen Großbuchstaben, kurze Beschriftungen in kleiner Antiqua",
+   "Auf Leinwand aufgezogener Druck mit Holzstäben oben und unten",
+   "Gebrauchs- und Druckspuren: vergilbter Firnis, Knicke, abgestoßene Ränder, leichte Passerdifferenzen"
+  ],
+  "escapes": "Ohne Stilangabe ordnet das Modell Abläufe in ein Raster aus gleich großen Kacheln mit flachen Symbolen, weichen Verläufen und Schlagschatten. Die Lehrtafel stellt stattdessen wenige große, gemalte Gegenstände frei auf einen durchgehend dunklen Grund und ordnet sie nur über Ziffern, Pfeile und Größe; Schnittbilder ersetzen Symbole. Steindruck, Firnis und Gebrauchsspuren nehmen der Fläche den digitalen Glanz.",
+  "pitfalls": "Häufig malt das Modell ein Klassenzimmer mit der Tafel an der Wand, legt nur einen Sepiaton über eine gewöhnliche Infografik oder kehrt doch zu gleich großen Kästen zurück. Ahmt es die Legendenleiste und den Verlagsvermerk echter Tafeln nach, füllt es beides mit erfundenem Text und Bestellnummern. Zu prüfen ist, ob der Grund wirklich dunkel und durchgehend ist und ob die Gegenstände gemalt und nicht als Symbole gezeichnet sind.",
+  "tip": "Ausdrücklich „ein durchgehender schwarzer Grund, keine Kästen“ verlangen und die Tafel flach und bildfüllend zeigen lassen; sonst zeichnet das Modell ein Kachelraster oder ein Klassenzimmer.",
+  "sensitivity": "Historische Schulwandbilder zeigten teils „Rassentypen“, koloniale Szenen oder NS-Propaganda; solche Darstellungen nicht nachbilden. Namen und Zeichen realer Lehrmittelverlage gehören nicht ins Bild."
+ },
+ "en": {
+  "name": "Vintage school wall chart",
+  "aka": [
+   "educational wall chart",
+   "pull-down chart",
+   "teaching chart",
+   "didactic chart"
+  ],
+  "era": "c. 1850–1970, Central Europe",
+  "summary": "A linen-backed teaching chart with a few large, soberly painted objects on a black ground; in the catalog because it orders a process without tile grids or icons.",
+  "origin": "Large pictures that a whole class could see only became affordable in large print runs with lithography, which spread from around 1800; their heyday came between about 1880 and 1920, when publishers such as Wachsmuth in Leipzig and C. C. Meinhold & Söhne in Dresden issued entire series. They were mostly designed by little-known artists under the direction of educators and, depending on price, sold as plain paper prints or mounted on linen, card or board, with eyelets or rods for hanging, in sizes between 32 × 42 and 115 × 160 centimetres. For natural history lessons the Darmstadt teacher Heinrich Jung, supported by the zoologist Gottlieb von Koch and the teachers' seminary director Friedrich Quentell, painted the 'Neue Wandtafeln für den Unterricht in der Naturgeschichte' between 1892 and 1921 (Frommann & Morian, Darmstadt, 100 × 75 cm): one species per sheet with detail views, simplified, often on a black ground and without text, because the explanation was left to the teacher. In Switzerland the Federal Council stopped deliveries of school materials from the German Reich in the winter of 1934/35; competitions for home-grown wall pictures followed, with painters and graphic artists such as Hans Erni, Alois Carigiet and Otto Baumberger taking part. Slide, film and overhead projection took away the wall chart's central role in teaching from the 1950s; a project at the University of Würzburg completed in 2002 documented the school wall pictures published in German-speaking countries between 1830 and 1990 in nearly 15,000 database records.",
+  "markers": [
+   "A few large objects standing freely on a black or dark grey ground, legible from the back row",
+   "Strong dark outlines with soft painted modelling in muted natural colours such as ochre, earth green, brick red and slate blue",
+   "Large numerals and thin arrows instead of boxes; cross-sections and enlarged details beside the whole object",
+   "Title in large, hand-drawn light capitals, short labels in small serif type",
+   "Print mounted on linen with wooden rods at top and bottom",
+   "Wear and printing flaws: yellowed varnish, creases, rubbed edges, slight misregistration"
+  ],
+  "escapes": "Without a style prompt the model arranges a process in a grid of equal tiles with flat icons, smooth gradients and drop shadows. The wall chart instead places a few large painted objects freely on one continuous dark ground and orders them only by numerals, arrows and size; cutaway drawings replace icons. Lithographic printing, varnish and wear take the digital sheen off the surface.",
+  "pitfalls": "Models often paint a classroom with the chart on the wall, lay a sepia tint over an ordinary infographic, or slip back into equal boxes. When they imitate the legend strip and publisher's line of real charts, they fill both with invented text and catalogue numbers. Check that the ground is truly dark and continuous and that the objects are painted rather than drawn as icons.",
+  "tip": "Ask explicitly for 'one continuous black ground, no boxes' and for the chart shown flat and filling the frame; otherwise the model draws a tile grid or a classroom.",
+  "sensitivity": "Historic school wall charts sometimes showed racial 'types', colonial scenes or Nazi propaganda; do not reproduce such content. Names and marks of real educational publishers do not belong in the image."
+ },
+ "sources": [
+  {
+   "title": "Schulwandbild – Wikipedia (Deutsch)",
+   "url": "https://de.wikipedia.org/wiki/Schulwandbild"
+  },
+  {
+   "title": "Jung–Koch–Quentell wall charts – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/Jung-Koch-Quentell_Wall_Charts"
+  },
+  {
+   "title": "Andrej Abplanalp: Schulwandbilder – pädagogische Kunst, Blog des Schweizerischen Nationalmuseums (7. Januar 2019)",
+   "url": "https://blog.nationalmuseum.ch/2019/01/schulwandbilder-paedagogische-kunstwerke-aus-der-vergangenheit/"
+  },
+  {
+   "title": "Robert Emmerich: Schulwandbilder aus Aschach, Pressemitteilung der Universität Würzburg, idw (30. Januar 2007)",
+   "url": "https://idw-online.de/de/news194161"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "slug": "isotype",
+ "style_block": "Isotype pictorial statistics in the Vienna method of the 1930s. Medium: flat, identical silhouette pictograms of equal size, printed in muted flat colours of brick red, slate blue, black and ochre on cream paper, no outlines, no shading. Composition: strict modular grid with generous margins, elements placed in horizontal rows and columns, frontal view only. Lettering, where text is needed: plain geometric sans-serif in black, small and matter-of-fact, aligned to the grid. Information: quantities as rows of repeated pictograms, never enlarged symbols; a process as a left-to-right sequence of pictogram stations. Avoid gradients, 3D, glossy icons and decorative photos.",
+ "de": {
+  "name": "Isotype",
+  "aka": [
+   "Wiener Methode der Bildstatistik",
+   "Bildstatistik",
+   "International System of Typographic Picture Education"
+  ],
+  "era": "ab 1925, Wien; später Den Haag und Oxford",
+  "summary": "Reihen gleich großer, flacher Bildzeichen in gedämpften Farben auf hellem Papier, die Mengen abzählbar machen; im Katalog, weil eine strenge Zählregel die Schmucksymbole der KI-Infografik ersetzt.",
+  "origin": "Der Ökonom und Philosoph Otto Neurath entwickelte die Methode ab 1925 am Gesellschafts- und Wirtschaftsmuseum in Wien, das zum größten Teil von der sozialdemokratischen Stadtverwaltung des „Roten Wien“ finanziert wurde; statistische Zusammenhänge sollten einem breiten Publikum ohne Vorkenntnisse anschaulich werden. Grundregel war, größere Mengen nicht durch ein vergrößertes Zeichen darzustellen, sondern durch mehr Zeichen gleicher Größe; auf Perspektive verzichteten die Bildzeichen fast immer. Marie Reidemeister übersetzte als „Transformatorin“ die Ausgangsdaten in Entwürfe für selbsterklärende Tafeln; der für seine Holzschnitte bekannte Grafiker Gerd Arntz leitete ab 1929 die grafische Abteilung und prägte mit seinem vereinfachten Zeichenstil die Piktogramme. 1930 erschien der Atlas „Gesellschaft und Wirtschaft“ mit 100 Bildtafeln. Nach den Februarkämpfen 1934 arbeitete das Team in Den Haag weiter, wo die Methode um 1935 den Namen Isotype erhielt; 1940 flohen Otto Neurath und Marie Reidemeister nach England und gründeten 1942 in Oxford das Isotype Institute.",
+  "markers": [
+   "Mengen als Reihen wiederholter, gleich großer Bildzeichen; jedes Zeichen steht für eine feste Menge, ein größerer Wert ergibt eine längere Reihe, nie ein größeres Zeichen",
+   "Flache Schattenrisse ohne Umrisslinie, Schattierung und Perspektive, streng von vorn oder im Profil",
+   "Wenige gedämpfte Flächenfarben wie Ziegelrot, Schieferblau, Ocker und Schwarz auf cremefarbenem Papier",
+   "Strenges Raster aus waagerechten Zeilen und Spalten mit breiten Rändern und viel leerem Papier",
+   "Kleine, sachliche Beschriftung in schwarzer geometrischer Grotesk, am Raster ausgerichtet"
+  ],
+  "escapes": "Die übliche KI-Infografik setzt in jede Kachel ein anderes, beliebig großes Schmucksymbol mit Verlauf und Schatten und zeigt die Bedeutung eines Werts über die Größe des Symbols. Isotype lässt nur gleich große, flache Zeichen zu, deren Anzahl die Menge angibt; so wird ein Wert abzählbar statt nur behauptet, und das Bild gliedert sich in Zeilen statt in Kacheln mit großem Einzelmotiv.",
+  "pitfalls": "Das Modell behält gern sein Kachelraster bei und zeichnet in jedes Feld ein großes, ausgeschmücktes Einzelbild mit Körnung, Mauerfugen und zusätzlichen Farben wie Braun und Grau, statt kleine, gleiche Zeichen aneinanderzureihen; der Titel wird dabei zur fetten Schlagzeile. Bei Mengen stapelt es die Zeichen gern übereinander wie in einem Säulendiagramm, statt sie in waagerechten Reihen zu ordnen, stuft ihre Größe ab oder verfehlt die genaue Anzahl. Abgerundete Ecken und freundliche Figuren zeigen, dass das Bild in moderne flache Symbolgrafik abgerutscht ist.",
+  "tip": "Den Wert eines Zeichens ausdrücklich festlegen und für jede waagerechte Reihe die Anzahl ausschreiben, etwa „1 Zeichen = 1000 Personen; Reihe A: 6 Zeichen, Reihe B: 15 Zeichen“; ohne genaue Zahl rät das Modell die Länge der Reihen.",
+  "sensitivity": "Werden Menschengruppen unterschieden, sollten Farbe und Kleidung der Figuren keine ethnischen Klischees bedienen; zudem verleiht die sachliche Form auch falschen Zahlen den Anschein amtlicher Statistik."
+ },
+ "en": {
+  "name": "Isotype",
+  "aka": [
+   "Vienna Method of Pictorial Statistics",
+   "pictorial statistics",
+   "International System of Typographic Picture Education"
+  ],
+  "era": "from 1925, Vienna; later The Hague and Oxford",
+  "summary": "Rows of equal-sized flat pictograms in muted colours on pale paper that make quantities countable; in the catalog because a strict counting rule replaces the decorative icons of AI infographics.",
+  "origin": "The economist and philosopher Otto Neurath developed the method from 1925 at the Gesellschafts- und Wirtschaftsmuseum (Museum of Society and Economy) in Vienna, which was largely funded by the Social Democratic city government of 'Red Vienna'; the aim was to make statistical relationships clear to a broad public without prior knowledge. Its basic rule was to show larger quantities not with an enlarged symbol but with a greater number of symbols of the same size; the pictograms almost never used perspective. Marie Reidemeister, as 'transformer', turned source data into sketches for self-explanatory charts, while the graphic artist Gerd Arntz, known for his woodcuts, headed the graphics department from 1929 and shaped the pictograms with his simplified drawing style. In 1930 the atlas 'Gesellschaft und Wirtschaft' appeared with 100 pictorial charts. After the Austrian Civil War of February 1934 the team continued in The Hague, where the method took the name Isotype around 1935; in 1940 Otto Neurath and Marie Reidemeister fled to England and in 1942 founded the Isotype Institute in Oxford.",
+  "markers": [
+   "Quantities as rows of repeated pictograms of equal size; each symbol stands for a fixed amount, and a larger value gives a longer row, never a bigger symbol",
+   "Flat silhouettes without outline, shading or perspective, strictly frontal or in profile",
+   "A few muted flat colours such as brick red, slate blue, ochre and black on cream paper",
+   "Strict grid of horizontal rows and columns with wide margins and plenty of empty paper",
+   "Small, matter-of-fact labels in black geometric sans-serif, aligned to the grid"
+  ],
+  "escapes": "The usual AI infographic puts a different decorative icon of arbitrary size, with gradient and shadow, into each tile and signals the importance of a value through the size of the icon. Isotype allows only flat symbols of equal size whose number gives the quantity, so a value becomes countable rather than merely asserted, and the picture is organised in rows rather than tiles with one large motif each.",
+  "pitfalls": "The model tends to keep its tile grid and draw a large, embellished single picture in each panel, with grain, brick joints and extra colours such as brown and grey, instead of lining up small identical symbols; the title becomes a heavy headline. With quantities, it likes to stack the symbols on top of each other as in a column chart instead of ordering them in horizontal rows, grades their size or misses the exact count. Rounded corners and friendly figures show that the picture has slipped into modern flat icon graphics.",
+  "tip": "State the value of one symbol explicitly and write out the count for each horizontal row, for example '1 symbol = 1,000 people; row A: 6 symbols, row B: 15 symbols'; without exact counts the model guesses the length of the rows.",
+  "sensitivity": "When groups of people are distinguished, the colour and clothing of the figures should not draw on ethnic stereotypes; the sober form also lends false numbers the appearance of official statistics."
+ },
+ "sources": [
+  {
+   "title": "Isotype (picture language) – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Isotype_(picture_language)"
+  },
+  {
+   "title": "Otto Neurath – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Otto_Neurath"
+  },
+  {
+   "title": "Gerd Arntz – Wikipedia (de)",
+   "url": "https://de.wikipedia.org/wiki/Gerd_Arntz"
+  },
+  {
+   "title": "Österreichisches Gesellschafts- und Wirtschafts-Museum – Wien Geschichte Wiki",
+   "url": "https://www.geschichtewiki.wien.gv.at/Gesellschafts-_und_Wirtschaftsmuseum"
+  }
+ ]
+}

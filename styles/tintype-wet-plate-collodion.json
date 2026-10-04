@@ -1,0 +1,70 @@
+{
+ "slug": "tintype-wet-plate-collodion",
+ "style_block": "A wet-plate collodion tintype: a direct positive on black-lacquered iron, made by a travelling American photographer of the 1860s. Medium: wooden tripod camera, brass portrait lens wide open, seconds-long exposure in side daylight; blue-sensitive collodion, so skies burn white, skin darkens and every line and scar shows; creamy olive-grey highlights on brown-black lacquer; ragged pour edges, comet streaks, a silver drip in one corner, scratched varnish. Composition: level camera at chest height; sitters posed stiffly, centred in plain space; open backgrounds become mottled painted canvas; one plane sharp, the rest swirling into blur and dark corners; movement smeared; the plate fills the frame, its uneven black edges forming the border. Lettering, where text is needed: hand-painted serif capitals on a sign within the scene. Avoid sepia, colour, smooth skin, deep focus, scratches over a modern photo, neat rectangular borders, a plate on a table, a daguerreotype's mirror sheen.",
+ "de": {
+  "name": "Ferrotypie (Kollodium-Nassplatte)",
+  "aka": [
+   "Blechfotografie",
+   "Melainotypie",
+   "Tintype",
+   "nasses Kollodiumverfahren"
+  ],
+  "era": "um 1855–1935, vor allem USA",
+  "summary": "Unikat auf schwarz lackiertem Eisenblech mit olivgrauen Tönen, unruhigen Gießrändern und dunkel wiedergegebener Haut; im Katalog, weil das blauempfindliche Verfahren Gesichter nicht schönt.",
+  "origin": "Frederick Scott Archer veröffentlichte 1851 das nasse Kollodiumverfahren: Beschichten mit Kollodium, Sensibilisieren im Silbernitratbad, Belichten und Entwickeln müssen innerhalb von etwa einer Viertelstunde geschehen, solange die Schicht feucht ist, weshalb die Dunkelkammer immer in der Nähe sein musste. Adolphe-Alexandre Martin stellte 1853 in Frankreich ein Kollodium-Direktpositiv auf Metall vor; Hamilton Smith ließ sich 1856 in den USA Kollodiumpositive auf lackiertem Eisenblech patentieren, die dort zunächst Melainotypie, dann Ferrotypie und schließlich Tintype hießen. Weil die belichtete Platte selbst das Bild ist, ist eine Ferrotypie meist ein Unikat und seitenverkehrt. Billig, robust und nach wenigen Minuten fertig, war sie vor allem in den 1860er- und 1870er-Jahren verbreitet, etwa bei Soldaten im Amerikanischen Bürgerkrieg und später bei Wanderfotografen auf Jahrmärkten; hergestellt wurde sie bis in die 1930er-Jahre. Im 21. Jahrhundert haben Fotografen das Verfahren wiederbelebt.",
+  "markers": [
+   "Einfarbig und kontrastarm: cremig-olivgraue Lichter, braunschwarze Schatten aus dem Lackgrund, kein Sepiaton",
+   "Unregelmäßige Gießränder mit freiliegendem schwarzem Lack, Kometen und Ablaufspuren des Silberbads in einer Ecke",
+   "Durch die blauempfindliche Schicht weiße, zeichnungslose Himmel und dunkel wiedergegebene Haut, in der jede Falte hervortritt",
+   "Geringe Schärfentiefe, zu den Ecken hin wirbelnde Unschärfe und Vignettierung",
+   "Steife, still gehaltene Posen; was sich während der sekundenlangen Belichtung bewegte, ist verwischt",
+   "Kratzer und Staubeinschlüsse im Firnis"
+  ],
+  "escapes": "Die blauempfindliche Schicht arbeitet gegen die glatte, ebenmäßige Haut, die Bildgeneratoren sonst liefern: Warme Töne werden dunkel, Falten, Narben und Bartstoppeln treten hervor, statt weichgezeichnet zu werden. Gießränder, geringe Schärfentiefe und sekundenlange Belichtung ersetzen den sauber begrenzten, durchgehend scharfen Ausschnitt mit eingefrorener Bewegung, und der olivgraue Ton wirkt dem warmen Gelbstich entgegen.",
+  "pitfalls": "Modelle greifen oft zu braunem Sepia, einem ordentlichen rechteckigen Rand oder einem scharfen modernen Foto mit aufgelegten Kratzern; das wirkt wie der Filter einer Foto-App, nicht wie eine Platte. Außerdem bleiben Gesichter oft glatt und gleichmäßig ausgeleuchtet, die ganze Szene ist durchgehend scharf, oder die Platte liegt als Gegenstand auf einem Tisch, statt das Bild zu füllen.",
+  "tip": "Die Physik beschreiben statt der Stimmung: blauempfindliche Schicht, sekundenlange Belichtung und freiliegenden schwarzen Lack an den Gießrändern nennen und Sepia ausdrücklich ausschließen.",
+  "sensitivity": "Erzeugte Ferrotypien lassen sich leicht für echte Fotografien des 19. Jahrhunderts halten; sie sollten deutlich als neue Bilder gekennzeichnet bleiben, damit sie nicht als historische Belege kursieren."
+ },
+ "en": {
+  "name": "Tintype (wet-plate collodion)",
+  "aka": [
+   "Ferrotype",
+   "Melainotype",
+   "Wet plate",
+   "Wet collodion"
+  ],
+  "era": "c. 1855–1935, mainly USA",
+  "summary": "A one-off image on black-lacquered iron with olive-grey tones, ragged pour edges and darkened skin; in the catalog because the blue-sensitive process does not flatter faces.",
+  "origin": "Frederick Scott Archer published the wet collodion process in 1851: coating the plate with collodion, sensitising it in a silver nitrate bath, exposing and developing it all had to happen within about fifteen minutes while the coating was still wet, so a darkroom always had to be close by. Adolphe-Alexandre Martin described a collodion direct positive on metal in France in 1853; in 1856 Hamilton Smith patented collodion positives on lacquered iron in the United States, where they were called first melainotypes, then ferrotypes and finally tintypes. Because the exposed plate itself is the picture, a tintype is usually unique and laterally reversed. Cheap, robust and ready within minutes, it was most widely used in the 1860s and 1870s, by soldiers in the American Civil War and later by itinerant photographers at fairs, and was still made into the 1930s. Photographers revived the process in the 21st century.",
+  "markers": [
+   "Low-contrast monochrome: creamy olive-grey highlights, brown-black shadows from the lacquered ground, no sepia toning",
+   "Ragged collodion pour edges with bare black lacquer showing, comet streaks and a silver-bath drip in one corner",
+   "From the blue-sensitive collodion: blank white skies and dark-rendered skin with every line showing",
+   "Shallow depth of field, with swirling blur and vignetting toward the corners",
+   "Stiff, held poses; anything that moved during the seconds-long exposure is smeared",
+   "Scratches and trapped dust in the varnish"
+  ],
+  "escapes": "The blue-sensitive plate works against the smooth, even skin that image generators default to: warm tones darken, so lines, scars and stubble stand out instead of being airbrushed. Ragged pour edges, shallow depth of field and a seconds-long exposure replace the cleanly bordered, sharp-throughout frame with frozen motion, and the olive-grey tone counters the warm yellow cast.",
+  "pitfalls": "Models often reach for brown sepia, a neat rectangular border or a sharp modern photo with scratches laid on top, which reads as a phone-app filter rather than a plate. Faces also tend to stay smooth and evenly lit, the whole scene comes out sharp, or the plate appears as an object lying on a table instead of filling the frame.",
+  "tip": "Describe the physics, not the mood: name the blue-sensitive collodion, the seconds-long exposure and the bare black lacquer at the pour edges, and rule out sepia explicitly.",
+  "sensitivity": "Generated tintypes are easily mistaken for genuine 19th-century photographs; keep them clearly labelled as new images so they do not circulate as historical records."
+ },
+ "sources": [
+  {
+   "title": "Tintype – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tintype"
+  },
+  {
+   "title": "Collodion process – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Collodion_process"
+  },
+  {
+   "title": "US-Patent 14,300: Photographic pictures on japanned surfaces (Hamilton L. Smith, 1856) – Google Patents",
+   "url": "https://patents.google.com/patent/US14300A/en"
+  },
+  {
+   "title": "Tintypes – American Antiquarian Society",
+   "url": "https://www.americanantiquarian.org/Inventories/tintypes.htm"
+  }
+ ]
+}

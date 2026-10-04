@@ -1,0 +1,69 @@
+{
+ "slug": "bauhaus-new-typography",
+ "style_block": "A sheet of New Typography as printed at the Dessau Bauhaus and by German modernist typographers, 1925-1932. Medium: letterpress from hand-set metal type and brass rules on off-white uncoated paper, black plus one red; uneven solids, red slightly off register; pictures as coarse halftone photographs cropped to hard rectangles. Composition: asymmetric, hung from an off-centre vertical axis; heavy bars and thin rules divide the sheet; much empty white; one red square as accent; one line turned ninety degrees. Lettering, where text is needed: grotesque sans-serif, geometric in headings, flush left, few sizes, hard contrast, outsized bold numerals; never all capitals. Information, where a diagram, map or chart is shown: steps hang in order along one heavy bar, each with a big numeral and a small label; solid triangular arrowheads; no boxes. Avoid rounded-card tile grids with icons, pastel geometric wall art, centred symmetry, Swiss modular grids and Constructivist diagonals.",
+ "de": {
+  "name": "Bauhaus-Grafik / Neue Typografie",
+  "aka": [
+   "Neue Typographie",
+   "Elementare Typografie",
+   "Bauhaus-Typografie"
+  ],
+  "era": "um 1923–1933, Deutschland",
+  "summary": "Asymmetrisch gesetzte Drucksachen in Schwarz und Rot mit Groteskschrift, schweren Balken und viel Weißraum; im Katalog, weil der Stil Informationen über Schriftgröße und Stellung ordnet statt über Kästen.",
+  "origin": "László Moholy-Nagy, ab 1923 Lehrer am Bauhaus in Weimar, führte im selben Jahr in einem Aufsatz zur ersten großen Bauhaus-Ausstellung den Begriff der neuen Typographie ein und forderte eine klare, eindeutige Schrift sowie die sinnvolle Nutzung der neuen maschinellen Möglichkeiten. 1925 richtete das Bauhaus in Dessau eine Werkstatt für Druck und Reklame ein; ihr Leiter Herbert Bayer baute Schriften aus einfachsten geometrischen Formen auf, und die Werkstatt leitete eine Schriftreform ein, deren sichtbarstes Zeichen die durchgehende Kleinschreibung war. Bayers „Katalog der Muster“ von 1925 zeigte die Bauhaus-Erzeugnisse auf losen Blättern in Schwarz und Rot auf weißem Grund, jedes mit einer sachlichen Fotografie und Angaben zu Maßen und Ausführung; nach Bayers Weggang 1928 übernahm Joost Schmidt die Reklameabteilung. Jan Tschichold, der die Weimarer Ausstellung 1923 gesehen hatte, fasste die Regeln 1925 im Sonderheft „elementare typographie“ der „Typographischen Mitteilungen“ und 1928 im Handbuch „Die neue Typographie“ zusammen: asymmetrischer Satz, nur Groteskschriften, genormte Papierformate, kein Ornament. 1933 wurde Tschichold von den Nationalsozialisten verhaftet und floh in die Schweiz, wo die Schweizer Typografie ab Mitte der 1950er-Jahre auf diesen Grundsätzen aufbaute – er selbst hatte sich inzwischen von ihnen abgewandt.",
+  "markers": [
+   "Asymmetrischer Aufbau an einer seitlich versetzten Achse, mit großen, bewusst freigelassenen Flächen",
+   "Schwere Balken und dünne Messinglinien, die die Fläche gliedern und den Blick führen",
+   "Groteskschrift, linksbündig gesetzt, wenige Schriftgrade in starkem Kontrast, oft durchgehend kleingeschrieben",
+   "Schwarz und eine zweite Farbe, meist Rot, auf weißem oder leicht getöntem Papier",
+   "Sachliche Fotografien statt Zeichnungen, rechteckig beschnitten und mit der Schrift zum Typofoto verbunden",
+   "Einzelne um 90 Grad gedrehte Zeilen; Punkte, Quadrate und Pfeile als Gliederungszeichen"
+  ],
+  "escapes": "Ohne Stilangabe baut das Modell eine Ablaufgrafik als Raster aus abgerundeten Karten mit Symbolen, Überschriften in Versalien und einer einzigen Akzentfarbe und setzt alles mittig. Die Neue Typografie ordnet die Schritte dagegen über Schriftgröße, Stellung und einen durchlaufenden Balken; Weißraum und Asymmetrie ersetzen Kästen und Symmetrie, Fotografien ersetzen die Symbole.",
+  "pitfalls": "Das Wort „Bauhaus“ ruft statt einer gesetzten Drucksache oft dekorative Kompositionen aus Kreis, Quadrat und Dreieck in Gelb, Rot und Blau hervor oder Dekodrucke mit Halbkreisen und Bögen in Senfgelb, Terrakotta und Pastelltönen. Andere Ergebnisse geraten in konstruktivistische Propagandagrafik mit steilen Diagonalen oder ins strenge Schweizer Raster mit neutraler Grotesk. Zu prüfen ist auch, ob der vorgegebene Text unverändert bleibt, denn die Kleinschreibung der Vorbilder kann das Modell dazu bringen, Großbuchstaben durch Kleinbuchstaben zu ersetzen.",
+  "tip": "Den Weg durch die Schritte als einen einzigen schweren Balken beschreiben, an dem Ziffern und Wörter hängen, und Kästen ausdrücklich ausschließen; sonst legt das Modell wieder ein Kachelraster an.",
+  "sensitivity": "„Bauhaus“ ist auch die eingetragene Marke einer Baumarktkette; der Name gehört nur als historische Stilbezeichnung in den Prompt, nie als Logo oder Schriftzug ins Bild."
+ },
+ "en": {
+  "name": "Bauhaus / New Typography",
+  "aka": [
+   "Neue Typographie",
+   "Elementary Typography",
+   "Bauhaus typography",
+   "Bauhaus graphic design"
+  ],
+  "era": "c. 1923–1933, Germany",
+  "summary": "Asymmetric black-and-red print with sans-serif type, heavy bars and much white space; in the catalog because the style orders information by type size and position, not by boxes.",
+  "origin": "László Moholy-Nagy, who began teaching at the Bauhaus in Weimar in 1923, introduced the term 'new typography' that year in an essay for the first large Bauhaus exhibition, calling for clear, unambiguous type and sensible use of the new mechanical possibilities. In 1925 the Bauhaus in Dessau set up a workshop for printing and advertising; its head Herbert Bayer built letters from the simplest geometric forms, and the workshop started a reform of type whose most visible sign was the use of lowercase only. Bayer's 'Katalog der Muster' (Catalogue of Designs) of 1925 showed Bauhaus products on loose sheets in black and red on white, each with a matter-of-fact photograph and details of size and finish; after Bayer left in 1928, Joost Schmidt took over the advertising department. Jan Tschichold, who had seen the 1923 Weimar exhibition, summed up the rules in 1925 in the special issue 'elementare typographie' of the journal Typographische Mitteilungen and in 1928 in his handbook 'Die neue Typographie': asymmetric setting, sans-serif type only, standardised paper sizes, no ornament. Arrested by the Nazis in 1933, Tschichold fled to Switzerland, where Swiss typography from the mid-1950s built on these principles, although he himself had by then turned away from them.",
+  "markers": [
+   "Asymmetric layout hung from an off-centre axis, with large areas deliberately left empty",
+   "Heavy bars and thin brass rules that divide the area and guide the eye",
+   "Sans-serif type set flush left, few sizes in strong contrast, often all lowercase",
+   "Black plus one second colour, usually red, on white or slightly toned paper",
+   "Matter-of-fact photographs instead of drawings, cropped to rectangles and combined with type as typophoto",
+   "Single lines turned 90 degrees; dots, squares and arrows as structuring marks"
+  ],
+  "escapes": "Without a style, the model builds a process graphic as a grid of rounded cards with icons, all-caps headings and a single accent colour, with everything centred. New Typography orders the steps by type size, position and one continuous bar instead; white space and asymmetry replace boxes and symmetry, and photographs replace the icons.",
+  "pitfalls": "Instead of a typeset print, the word 'Bauhaus' often calls up decorative compositions of circle, square and triangle in yellow, red and blue, or decor prints with semicircles and arches in mustard, terracotta and pastel tones. Other results slide into Constructivist propaganda graphics with steep diagonals or into the strict Swiss grid with a neutral grotesque. Also check that the given text stays unchanged, since the lowercase habit of the originals can lead the model to replace capitals with lowercase letters.",
+  "tip": "Describe the path through the steps as a single heavy bar from which numerals and words hang, and rule out boxes explicitly; otherwise the model falls back to a tile grid.",
+  "sensitivity": "'Bauhaus' is also the registered trademark of a hardware store chain; use the name only as a historical style term in the prompt, never as a logo or wordmark in the image."
+ },
+ "sources": [
+  {
+   "title": "Werkstatt für Druck und Reklame – Bauhaus Kooperation",
+   "url": "https://bauhauskooperation.de/wissen/das-bauhaus/lehre/werkstaetten/druck-und-reklame"
+  },
+  {
+   "title": "Herbert Bayer: Katalog der Muster (1925) – Bauhaus Kooperation",
+   "url": "https://bauhauskooperation.de/wissen/das-bauhaus/werke/druck-und-reklame/katalog-der-muster"
+  },
+  {
+   "title": "Elementare Typografie – Wikipedia (de)",
+   "url": "https://de.wikipedia.org/wiki/Elementare_Typografie"
+  },
+  {
+   "title": "Jan Tschichold – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jan_Tschichold"
+  }
+ ]
+}

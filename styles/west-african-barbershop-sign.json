@@ -1,0 +1,69 @@
+{
+ "slug": "west-african-barbershop-sign",
+ "style_block": "A hand-painted barbershop signboard from a Ghanaian sign-painting workshop, 1990s. Medium: oil-based sign paint brushed thinly on plywood, flat sky-blue, yellow or white grounds, flat-coloured figures with one highlight and dark outline; wood grain, chipped edges, rusty nail holes. Composition: one board read like a menu inside a painted border, each item a frontal or profile sample in its own hand-ruled box of slightly unequal size, rows slightly out of true. Lettering, where text is needed: title in fat painted block capitals with outline and drop shadow on a colour band across the top; small, uneven brushed capitals under each item. Information, where a diagram, map or chart is shown: a numbered menu read left to right, top to bottom, each number painted before its name in the same capitals. Avoid vector icons, uniform rounded tiles, circled number badges, gradients, film-poster action, caricatured faces, unrequested heads or barber tools.",
+ "de": {
+  "name": "Westafrikanisches Friseurschild",
+  "aka": [
+   "Handgemaltes Friseurschild",
+   "Friseurschild aus Ghana",
+   "Reklametafel für Friseure"
+  ],
+  "era": "spätes 20. Jahrhundert bis heute, Westafrika, besonders Ghana",
+  "summary": "Bunte, handgemalte Sperrholztafeln, die Frisuren als Musterköpfe mit gemalten Namen auflisten; im Katalog, weil Pinselschrift und von Hand gezogene Felder die glatte KI-Kachelgrafik ersetzen.",
+  "origin": "Friseure und Haarsalons in Ghana und anderen Ländern Afrikas werben mit bemalten Tafeln vor dem Laden; nach dem Begleittext des Nationaal Museum van Wereldculturen (Tropenmuseum) in Amsterdam zählt die Fachliteratur sie zur städtischen „Popular Art“, die meist Maler ohne akademische Ausbildung schaffen. Inhaber und Maler wählen gemeinsam einen klangvollen Ladennamen, und jede abgebildete Frisur erhält einen eigenen Namen, etwa nach Kennedy oder den Beatles, nach Ereignissen und Gebäuden oder als Botschaft wie die nigerianische Frauenfrisur „Kohin-Sorogun“, wörtlich „Kehr der eifersüchtigen Rivalin den Rücken zu“. Gemalt werden die Tafeln in Schildermalerwerkstätten, in denen das Handwerk in einer Lehre weitergegeben wird; sie verbinden Bild und Text, wobei der Text manchmal Lebensweisheiten der Straße aufgreift, und gehören zur selben Gattung wie die bemalten Schilder an Tro-tro-Kleinbussen, Ladenfronten und Kiosken. Eine Ausstellung der Nubuke Foundation in Accra beschreibt die Salon- und Friseurschilder als mit dünn aufgetragenen Pinselstrichen gemalt, einer Malweise, die mit Malern aus der Landesmitte verbunden wird, während die Filmplakate den detailreichen Stil der Schildermaler von der Küste bewahren. In Sammlungen finden sich etwa eine Amsterdamer Tafel von 1993 in Ölfarbe auf Hartfaserplatte, Sperrholztafeln im Museu Nacional de Etnologia in Lissabon, die Mitte der 1990er-Jahre bei den Ashanti in Ghana gesammelt wurden, und ein 2015 in Accra in Öl auf Sperrholz gemaltes Salonschild, das die Nubuke Foundation zeigte.",
+  "markers": [
+   "Ölfarbe dünn auf Sperrholz oder Hartfaserplatte aufgetragen, mit sichtbarer Holzmaserung, abgeplatzten Kanten und Nagellöchern",
+   "Die Tafel als Angebotsliste: mehrere Musterköpfe in Reihen, oft jeder in einem eigenen, von Hand gezogenen Feld, mit gemaltem Namen darunter",
+   "Flächige, kräftige Farben wie Himmelblau, Gelb und Weiß, einfache Modellierung mit einem Glanzlicht und dunkler Kontur",
+   "Köpfe oft von vorn, im Profil oder von hinten, damit der Haarschnitt zu erkennen ist",
+   "Großer Ladenname in fetten, handgemalten Blockbuchstaben mit Kontur oder Schlagschatten über die ganze Breite",
+   "Frisuren- und Ladennamen nach Berühmtheiten, Ereignissen oder Sprüchen, oft mit Witz oder Lebensweisheit"
+  ],
+  "escapes": "Die übliche KI-Infografik reiht gleich große Kacheln mit abgerundeten Ecken, glatte Vektorsymbole, Farbverläufe und gesetzte Grotesk aneinander. Das Friseurschild ordnet dieselbe Information auf einer bemalten Holztafel: von Hand gezogene, leicht ungleiche Felder, gemalte Ziffern und Namen in Pinselschrift, flache Farbflächen und Gebrauchsspuren statt einer makellosen Bildschirmoberfläche. Statt einer mittigen Heldenfigur steht jedes Element gleichrangig als Muster in seinem Feld.",
+  "pitfalls": "Weil das Schild selbst in Reihen aufgebaut ist, rutscht das Modell leicht in sein gewohntes Kachelraster mit sauberen, gleich großen Kästen und Vektorsymbolen; die Felder müssen sichtbar von Hand gezogen und leicht schief sein. Aus dem Thema des Stils wandern gern Köpfe, Frisuren, Scheren und Haarschneidemaschinen in fremde Motive, und das Modell erfindet Ladennamen, Telefonnummern oder Sprüche. Gesichter geraten mitunter zur Karikatur, und die Pinselschrift wird unleserlich oder falsch geschrieben.",
+  "tip": "Die Tafel als Gegenstand beschreiben (bemaltes Sperrholz, gemalter Rand, Nagellöcher in den Ecken) und für jedes Feld ausdrücklich „Nummer und Name in gemalter Blockschrift unter dem Bild“ verlangen; so übernimmt das Modell die Ordnung des Schilds und nicht nur seine Farben.",
+  "sensitivity": "Die Tafeln zeigen Frisuren und Gesichter Schwarzer Menschen; Gesichtszüge nicht übersteigern und keine exotisierenden Klischees bedienen. Frisuren sind oft nach realen Prominenten benannt, deren Gesichter nicht nachgebildet werden sollten."
+ },
+ "en": {
+  "name": "West African barbershop sign",
+  "aka": [
+   "hand-painted barbershop sign",
+   "Ghanaian barber sign",
+   "hairdresser's sign",
+   "hair salon sign"
+  ],
+  "era": "late 20th century to today, West Africa, especially Ghana",
+  "summary": "Brightly hand-painted plywood boards listing haircuts as sample heads with painted names; in the catalog because brush lettering and hand-ruled boxes replace the slick tile graphics of AI.",
+  "origin": "Barbers and hair salons in Ghana and other African countries advertise with painted boards in front of the shop; according to the catalogue text of the Nationaal Museum van Wereldculturen (Tropenmuseum) in Amsterdam, the literature counts them as urban 'popular art', made mostly by painters without academic training. Owner and painter choose a catchy shop name together, and every hairstyle shown gets its own name, for instance after Kennedy or the Beatles, after events and buildings, or as a message, like the Nigerian women's hairstyle 'Kohin-Sorogun', literally 'turn your back to a jealous rival'. The boards are painted in sign-painting workshops where the trade is passed on through apprenticeship; they combine picture and text, the text sometimes draws on street philosophy, and they belong to the same genre as the painted signs on tro-tro minibuses, shop fronts and kiosks. An exhibition by the Nubuke Foundation in Accra describes the salon and barbering signs as painted with thinly applied strokes associated with artists from the country's middle belt, while the film posters keep the detailed style of the coastal sign painters. Collection pieces include an Amsterdam board of 1993 in oil paint on hardboard, plywood boards in the Museu Nacional de Etnologia in Lisbon collected among the Ashanti in Ghana in the mid-1990s, and a salon sign painted in oil on plywood in Accra in 2015 and shown by the Nubuke Foundation.",
+  "markers": [
+   "Oil paint brushed thinly on plywood or hardboard, with visible wood grain, chipped edges and nail holes",
+   "The board as a menu of services: several sample heads in rows, often each in its own hand-ruled box, with a painted name beneath",
+   "Flat, strong colours such as sky blue, yellow and white, simple modelling with one highlight and a dark outline",
+   "Heads often shown from the front, in profile or from behind, so the cut can be read",
+   "Large shop name in fat hand-painted block capitals with outline or drop shadow across the full width",
+   "Hairstyle and shop names after celebrities, events or sayings, often witty or proverbial"
+  ],
+  "escapes": "The usual AI infographic lines up equal tiles with rounded corners, slick vector icons, gradients and typeset sans-serif. The barbershop sign arranges the same information on a painted wooden board: hand-ruled, slightly unequal boxes, painted numerals and names in brush lettering, flat colour fields and signs of wear instead of a flawless screen surface. Instead of a centred hero figure, every element stands as an equal specimen in its box.",
+  "pitfalls": "Because the sign itself is built in rows, the model easily slips into its familiar tile grid of clean, equal boxes and vector icons; the boxes must look visibly hand-ruled and slightly askew. Heads, hairstyles, scissors and clippers from the style's own subject tend to leak into unrelated motifs, and the model invents shop names, phone numbers or slogans. Faces sometimes turn into caricature, and the brush lettering becomes illegible or misspelled.",
+  "tip": "Describe the board as an object (painted plywood, a painted border, nail holes in the corners) and ask explicitly for 'number and name in painted block letters beneath the picture' in every box; that way the model takes over the sign's order, not just its colours.",
+  "sensitivity": "The boards show the hairstyles and faces of Black people; do not exaggerate facial features or draw on exoticising clichés. Hairstyles are often named after real celebrities, whose faces should not be reproduced."
+ },
+ "sources": [
+  {
+   "title": "Barber's sign, Ghana, 1993 – Nationaal Museum van Wereldculturen (Tropenmuseum), Amsterdam, via Google Arts & Culture",
+   "url": "https://artsandculture.google.com/asset/barber%E2%80%99s-sign/awG-KqQiUW-Lqw"
+  },
+  {
+   "title": "Barber shop sign, Ghana (MNE BA.956), painted on plywood, collected mid-1990s – Museu Nacional de Etnologia, Lisbon, via Google Arts & Culture",
+   "url": "https://artsandculture.google.com/asset/barber-shop-sign-ghana-unknown-author/EQFvTFQVE80ttg"
+  },
+  {
+   "title": "Ghana's Hand-Painted Movie Ads – Nubuke Foundation, Google Arts & Culture",
+   "url": "https://artsandculture.google.com/story/KAVxMc8ydNOLeA"
+  },
+  {
+   "title": "Nipa Ye Bad Hair Braids, salon sign, oil on plywood, 2015 – Nubuke Foundation, via Google Arts & Culture",
+   "url": "https://artsandculture.google.com/asset/nipa-ye-bad-hair-braids-alpha-omega-arts/FQHs5Ro2GTuWVA"
+  }
+ ]
+}

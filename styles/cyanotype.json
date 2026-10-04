@@ -1,0 +1,63 @@
+{
+ "slug": "cyanotype",
+ "style_block": "A hand-coated cyanotype, the iron-based sun print of 19th-century England. Medium: Prussian blue and bare paper white only; watercolour paper hand-brushed with sensitiser, leaving ragged stroke edges, drips and thin patches; soft detail, blocked shadows. Composition: the blue field sits inside a wide unprinted margin. People and scenes print from a glass negative: still, eye level, plainly framed. Anything otherwise drawn becomes a photogram: cut paper, tissue and lace laid flat, no perspective, soft-edged white and pale-blue silhouettes. Lettering, where text is needed: white on blue, inked on tracing paper in a careful 19th-century hand or stencil capitals. Information, where a diagram, map or chart is shown: unboxed cut-paper shapes laid out like album specimens, a handwritten label beneath each; quantities as paper strips cut to length; lines in thin white ink. Avoid blue-filtered digital photos, glossy cyan, digital gradients, boxed tile grids and the gridded engineering blueprint.",
+ "de": {
+  "name": "Cyanotypie",
+  "aka": [
+   "Eisenblaudruck",
+   "Zyanotypie"
+  ],
+  "era": "ab 1842, England",
+  "summary": "Preußischblaue Kontaktabzüge mit papierweißen Lichtern und Pinselrändern der Beschichtung; im Katalog, weil das Verfahren auch Schrift, Karten und Diagramme weiß auf Blau wiedergibt.",
+  "origin": "Der englische Naturforscher und Astronom John Herschel veröffentlichte das Verfahren 1842; es ging aus seinen Versuchen über die Wirkung des Lichts auf Eisenverbindungen hervor. Auf Papier, das mit Ammoniumeisen(III)-citrat und Kaliumhexacyanidoferrat(III) (rotem Blutlaugensalz) getränkt ist, entsteht unter UV-Licht Berliner Blau; fixiert wird allein durch Wässern. Ab 1843 legte die Botanikerin Anna Atkins getrocknete Algen direkt auf das Papier und stellte so Fotogramme her; ihr Werk „Photographs of British Algae: Cyanotype Impressions“ (1843–1853) gilt als erstes mit Fotografien illustriertes Buch. Ab etwa 1870 vervielfältigte man mit demselben Verfahren Bau- und Maschinenzeichnungen, die mit Tusche auf Transparentpapier durchgezeichnet waren und als weiße Linien auf Blau erschienen, bis die Diazotypie es um 1940 zu verdrängen begann. Daneben nutzten Amateurfotografen es für Probeabzüge ihrer Negative.",
+  "markers": [
+   "Nur Preußischblau und Papierweiß, von tiefblauen Schatten bis zum blanken Papier",
+   "Von Hand gestrichene Beschichtung mit ausgefransten Pinselrändern, Läufern und dünnen Stellen, umgeben von blankem, unbeschichtetem Papierrand",
+   "Weiche Zeichnung und zugelaufene Tiefen, weil das Bild in den Fasern des rauen Aquarellpapiers sitzt",
+   "Fotogramme: aufgelegte Gegenstände erscheinen als weiße Silhouetten, durchscheinende Lagen als helles Blau",
+   "Schrift und Linien, auf Transparentpapier gezeichnet, stehen weiß auf Blau"
+  ],
+  "escapes": "Ohne Stilangabe liefert das Modell ein sauberes, farbiges, randloses Digitalbild mit Glanzlichtern und weichen Verläufen. Die Cyanotypie kennt nur ein Pigment auf mattem Papier, lässt Kanten in den Papierfasern weich werden und zeigt die gestrichene Beschichtung samt Papierrand, sodass weder Farbstimmung noch Hochglanz übrig bleiben. Schrift und Schaubilder werden zu weißen Silhouetten und Handschrift statt zur üblichen glatten Vektorgrafik.",
+  "pitfalls": "Bildmodelle legen oft nur einen Blaustich über ein gewöhnliches, scharfes Foto, mischen Cyan- oder Türkistöne hinein oder zeigen glänzendes Schwarz statt Blau. Bei Schaubildern, Karten und Diagrammen rutschen sie gern in die technische Blaupause mit Gitternetz und Maßlinien oder in eine leuchtende Bildschirmgrafik. Zu prüfen ist, ob die Lichter blankes Papier sind, ob der Pinselrand der Beschichtung zu sehen ist und ob die Schrift gezeichnet statt digital gesetzt wirkt.",
+  "tip": "Für jedes Bildelement angeben, wie es auf das Papier kam: von einem Glasnegativ kopiert, als Papierschnitt aufgelegt oder auf Transparentpapier gezeichnet. Wer diesen Weg benennt, verhindert, dass das Modell ein Digitalbild nur blau einfärbt.",
+  "sensitivity": ""
+ },
+ "en": {
+  "name": "Cyanotype",
+  "aka": [
+   "Sun print"
+  ],
+  "era": "from 1842, England",
+  "summary": "Prussian-blue contact prints with paper-white highlights and brushed coating edges; in the catalog because the process also renders lettering, maps and diagrams white on blue.",
+  "origin": "The English scientist and astronomer John Herschel published the process in 1842; it grew out of his experiments on the effect of light on iron compounds. Paper soaked with ferric ammonium citrate and potassium ferricyanide forms Prussian blue where ultraviolet light strikes it, and the print is fixed simply by rinsing in water. From 1843 the botanist Anna Atkins laid dried seaweeds directly on the paper and so made photograms; her 'Photographs of British Algae: Cyanotype Impressions' (1843–1853) is considered the first book illustrated with photographic images. From about 1870 the same process was used to copy architectural and engineering drawings traced in India ink on translucent paper, which came out as white lines on blue, until diazo prints began to displace it around 1940. Amateur photographers also used it to proof their negatives.",
+  "markers": [
+   "Only Prussian blue and paper white, from deep blue shadows to bare paper",
+   "Hand-brushed coating with ragged stroke edges, drips and thin patches, surrounded by a bare, uncoated paper margin",
+   "Soft detail and blocked shadows, because the image sits in the fibres of textured watercolour paper",
+   "Photograms: objects laid on the paper appear as white silhouettes, translucent layers as pale blue",
+   "Lettering and lines drawn on tracing paper print white on blue"
+  ],
+  "escapes": "Without a style the model delivers a clean, full-colour digital image running edge to edge, with specular highlights and smooth gradients. Cyanotype allows a single pigment on matte paper, softens edges in the paper fibres and shows the brushed coating together with its paper margin, so neither the colour grading nor the gloss of the default survives. Text and diagrams become white silhouettes and handwriting instead of the usual neat vector graphic.",
+  "pitfalls": "Image models often lay a blue tint over an ordinary sharp photograph, slip in cyan or teal accents, or render glossy black instead of blue. With diagrams, maps and charts they tend to drift into the engineering blueprint with grid and dimension lines, or into a glowing screen interface. Check that the highlights are bare paper, that the brushed coating edge is visible and that the lettering looks drawn rather than set in a crisp digital font.",
+  "tip": "State how each element got onto the paper: printed from a glass negative, laid on as cut paper, or inked on tracing paper. Naming that physical route stops the model from simply tinting a digital image blue.",
+  "sensitivity": ""
+ },
+ "sources": [
+  {
+   "title": "Cyanotype – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/Cyanotype"
+  },
+  {
+   "title": "Cyanotypie – Wikipedia (Deutsch)",
+   "url": "https://de.wikipedia.org/wiki/Cyanotypie"
+  },
+  {
+   "title": "Anna Atkins – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/Anna_Atkins"
+  },
+  {
+   "title": "Blueprint – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/Blueprint"
+  }
+ ]
+}

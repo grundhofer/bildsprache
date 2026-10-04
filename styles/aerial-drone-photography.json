@@ -1,0 +1,68 @@
+{
+ "slug": "aerial-drone-photography",
+ "style_block": "A straight-down camera-drone photograph, worldwide, since the mid-2010s. Medium: lens exactly vertical, 10–40 m up, deep focus, natural colour; low side sun, long hard shadows. Composition: no horizon, sky, vanishing point, converging lines, fronts or sides; only tops of things, flat as a plan, one scale throughout, height shown only by shadows. People: small off-centre shapes of hair, shoulders, arms and knees, faces foreshortened to a sliver, each under a tenth of the frame wide. Water a flat colour field with white foam lines; piers and paths flat strips; trees round crowns; buildings roof planes. Lettering, where text is needed: small white sans-serif labels on leader lines; spaced-capital title in a corner. Information, where a diagram, map or chart is shown: a stitched orthomosaic, faint seams, white north arrow and scale bar. Avoid oblique or high-angle shots, three-quarter views, tilt-shift, fisheye, HDR, satellite imagery, painted maps, any visible drone.",
+ "de": {
+  "name": "Drohnenfotografie (Senkrechtaufnahme)",
+  "aka": [
+   "Luftbildfotografie",
+   "Senkrechtluftbild",
+   "Nadiraufnahme",
+   "Vogelperspektive"
+  ],
+  "era": "seit Mitte der 2010er-Jahre, weltweit; Luftbilder seit 1858",
+  "summary": "Drohnenfoto senkrecht von oben, ohne Horizont: Gelände, Wasser und kleine Figuren mit langen Schatten bilden ein flaches Muster; im Katalog, weil es die übliche mittige Ansicht auf Augenhöhe ersetzt.",
+  "origin": "Der französische Fotograf und Ballonfahrer Nadar machte 1858 aus einem Fesselballon über Petit-Bicêtre südlich von Paris die ersten Luftbilder; keines davon ist erhalten. Das älteste erhaltene Luftbild, „Boston, as the Eagle and the Wild Goose See It“, nahmen James Wallace Black und Samuel Archer King am 13. Oktober 1860 aus einem Ballon über Boston auf. Im Ersten Weltkrieg wurde die Luftbildaufklärung rasch ausgebaut, 1918 fotografierten beide Seiten die gesamte Front zweimal täglich; Senkrechtaufnahmen dienen bis heute vor allem der Photogrammetrie, also der Vermessung aus Bildern, und der Luftbildauswertung. Der Schweizer Fotograf und Journalist Georg Gerster (1928–2019), ein Pionier der Flugbildfotografie, fotografierte Landschaften gern senkrecht von oben und oft aus geringer Höhe; seit den 1960er-Jahren dokumentierte er archäologische Stätten in mehr als 100 Ländern, 1975 erschien sein Buch „Der Mensch auf seiner Erde“. Ab 2013 brachten Freizeitdrohnen wie die DJI Phantom die Luftaufnahme aus geringer Höhe zu einem breiten Publikum: Die Phantom 2 Vision hatte im Oktober 2013 als erstes Modell der Reihe eine eingebaute Kamera, die Phantom 2 Vision+ ab April 2014 eine dreiachsig stabilisierte kardanische Aufhängung, mit der sich die Kamera senkrecht nach unten richten ließ.",
+  "markers": [
+   "Kamera senkrecht nach unten gerichtet: kein Horizont, kein Himmel, keine Seitenansicht",
+   "Der Boden füllt das Bild bis an die Ränder als ebenes Muster aus wiederkehrenden Strukturen wie Kies, Wellen, Gras oder Dächern",
+   "Menschen und Gegenstände klein im Bild und oft außerhalb der Mitte; ihre langen Schatten bei tiefer Sonne zeigen Form und Höhe",
+   "Ufer, Wege und Kanten laufen als harte Linien durchs Bild und teilen es in kräftige Farbfelder",
+   "Scharf bis in die Ecken bei großer Schärfentiefe; hohe Gegenstände neigen sich zum Bildrand hin leicht nach außen"
+  ],
+  "escapes": "Ohne Stilangabe liefern Bildgeneratoren eine Szene auf Augenhöhe mit dem Hauptmotiv in der Mitte, Horizont, weichem Gegenlicht und unscharfem Hintergrund; selbst „Luftbild“ ergibt meist eine schräge Postkartenansicht mit Himmel. Die senkrechte Draufsicht lässt Horizont und Himmel weg, macht die Szene zu einem flachen Muster aus Flächen und Schatten und setzt das Motiv klein in seine Umgebung, statt es vor unscharfem Grund freizustellen.",
+  "pitfalls": "Modelle neigen die Kamera oft nur um 45 bis 60 Grad nach unten und lassen am oberen Rand doch einen Horizont stehen, oder sie legen eine Tilt-Shift-Unschärfe über das Bild, die es wie eine Modelllandschaft wirken lässt. Auch ohne Horizont bleibt das Ergebnis oft eine steile Schrägaufnahme aus wenigen Metern Höhe, mit großen Figuren in Dreiviertelansicht, sichtbaren Seitenflächen und zusammenlaufenden Linien. Menschen von oben misslingen leicht: Gesichter drehen sich zur Kamera, Körper sind wie von der Seite gezeichnet und flach auf den Boden gelegt, und die Größen von Figuren und Gegenständen passen nicht zueinander. Bei Karten entsteht gern ein Satellitenbild in flachem Mittagslicht oder eine gemalte Karte mit aufgesetzter Fotostruktur, und kleine Beschriftungen werden auf unruhigem Grund unleserlich.",
+  "tip": "Den Kamerawinkel als Zahl angeben, etwa „Kamera genau 90 Grad nach unten, kein Himmel im Bild“, und den Sonnenstand dazu; erst lange Schatten zeigen von oben, was steht, kniet oder liegt. Dazu das Bild als Grundriss beschreiben: nur die Oberseiten der Dinge sichtbar, keine Seitenflächen, Menschen schmaler als ein Zehntel der Bildbreite.",
+  "sensitivity": "Luftaufnahmen von Menschen und privaten Grundstücken berühren Persönlichkeitsrechte; weil der Stil wie echte Dokumentation wirkt, sollten erzeugte Bilder keine realen Orte, Unglücke oder Konflikte vortäuschen."
+ },
+ "en": {
+  "name": "Aerial drone photography (top-down)",
+  "aka": [
+   "Top-down drone shot",
+   "Nadir aerial",
+   "Vertical aerial photograph",
+   "Bird's-eye view"
+  ],
+  "era": "since the mid-2010s, worldwide; aerial photographs since 1858",
+  "summary": "Drone photograph straight down, no horizon: ground, water and small figures with long shadows form a flat pattern; in the catalog because it replaces the usual centred eye-level view.",
+  "origin": "The French photographer and balloonist Nadar took the first aerial photographs in 1858 from a tethered balloon over Petit-Bicêtre, south of Paris; none of them survive. The earliest surviving aerial photograph, 'Boston, as the Eagle and the Wild Goose See It', was taken from a balloon over Boston by James Wallace Black and Samuel Archer King on 13 October 1860. Aerial reconnaissance expanded rapidly in the First World War, and by 1918 both sides were photographing the entire front twice a day; vertical photographs are still used mainly for photogrammetry, measuring from images, and for image interpretation. The Swiss photographer and journalist Georg Gerster (1928–2019), a pioneer of aerial photography, liked to photograph landscapes straight down and often from low altitude; from the 1960s he documented archaeological sites in more than 100 countries, and his book 'Der Mensch auf seiner Erde' appeared in 1975. From 2013 recreational drones such as the DJI Phantom brought low-altitude aerial photography to a wide public: the Phantom 2 Vision of October 2013 was the first model in the line with a built-in camera, and the Phantom 2 Vision+ of April 2014 added a three-axis stabilising gimbal that could point the camera straight down.",
+  "markers": [
+   "Camera pointed straight down: no horizon, no sky, no side view",
+   "The ground fills the frame edge to edge as a flat pattern of repeating texture such as pebbles, waves, grass or roofs",
+   "People and objects small in the frame and often off-centre; their long low-sun shadows show shape and height",
+   "Shorelines, paths and edges run through the frame as hard lines, dividing it into strong colour fields",
+   "Sharp into the corners with deep focus; tall objects lean slightly outward toward the frame edge"
+  ],
+  "escapes": "Without a style, image generators deliver an eye-level scene with the main subject centred, a horizon, soft backlight and a blurred background; even 'aerial photo' usually yields an oblique postcard view with sky. The vertical overhead view removes horizon and sky, turns the scene into a flat pattern of surfaces and shadows, and sets the subject small within its surroundings instead of isolating it against a blurred background.",
+  "pitfalls": "Models often tilt the camera down only 45 to 60 degrees and leave a horizon at the top edge after all, or lay tilt-shift blur over the image so that it looks like a model landscape. Even without a horizon the result often stays a steep shot from a few metres up, with large figures in three-quarter view, visible sides of objects and converging lines. People seen from above easily go wrong: faces turn up to the camera, bodies are drawn as if from the side and laid flat on the ground, and the sizes of figures and objects do not match. Maps tend to become a satellite image in flat midday light or a painted map with a photographic texture on top, and small labels become illegible on busy ground.",
+  "tip": "State the camera angle as a number, for example 'camera pointing exactly 90 degrees down, no sky in frame', and add the sun's position; only long shadows show from above what is standing, kneeling or lying. Also describe the picture as a plan: only the tops of things visible, no sides, people narrower than a tenth of the frame.",
+  "sensitivity": "Aerial pictures of people and private property touch on personal rights; because the style reads as genuine documentation, generated images should not fake real places, accidents or conflicts."
+ },
+ "sources": [
+  {
+   "title": "Aerial photography – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/Aerial_photography"
+  },
+  {
+   "title": "Photographie aérienne – Wikipédia (français)",
+   "url": "https://fr.wikipedia.org/wiki/Photographie_a%C3%A9rienne"
+  },
+  {
+   "title": "Georg Gerster – Wikipedia (Deutsch)",
+   "url": "https://de.wikipedia.org/wiki/Georg_Gerster"
+  },
+  {
+   "title": "DJI Phantom – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/DJI_Phantom"
+  }
+ ]
+}

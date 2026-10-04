@@ -1,0 +1,66 @@
+{
+ "slug": "loteria-card",
+ "style_block": "A picture card from a Mexican lotería deck, colour-printed in the early twentieth century. Medium: fine black key drawing with firm contours and hatching, in a few bright printed inks (vermilion, lemon yellow, sky blue, leaf green, pink), simply shaded, slightly off register; faded tones, paper grain, rubbed edges. Composition: the image is the card itself, upright, seen flat: white margin, thin black frame line, one flat light background colour; one figure or object, whole, filling the frame like an emblem; at most a floor patch or wall edge, no landscape or depth. Lettering, where text is needed: given words in letterspaced black sans-serif capitals centred along the bottom; a number only if given, small at top left; otherwise both spots stay bare. Avoid realistic 3D rendering, warm backlight, detailed scenery, a photographed card, gilded tarot borders, sugar skulls, sombreros, invented names or numbers and copies of classic cards.",
+ "de": {
+  "name": "Lotería-Karte",
+  "aka": [
+   "Lotería mexicana",
+   "mexikanisches Bingo"
+  ],
+  "era": "ab 1887, Mexiko",
+  "summary": "Hochformatige Spielkarte mit einer schwarz umrissenen Figur auf flächigem, hellem Farbgrund, Nummer oben links, Name unten; im Katalog, weil sie jedes Motiv als einzelnes, benennbares Bild freistellt.",
+  "origin": "Die Lotería geht nach gängiger Darstellung auf ein italienisches Spiel des 15. Jahrhunderts zurück und kam im 18. Jahrhundert nach Neuspanien; zunächst ein Zeitvertreib der Oberschicht, wurde sie später zu einem festen Bestandteil mexikanischer Jahrmärkte. Karten und Spieltafeln fertigten anfangs örtliche Künstler von Hand, um die Mitte des 19. Jahrhunderts wurden sie bereits gewerblich gedruckt. Der französische Unternehmer Clemente Jacques, dessen Konservenfirma in Mexiko eine eigene Lithografie-Abteilung unterhielt, gab nach üblicher Datierung ab 1887 eine Lotería heraus; seine Ausgabe „Don Clemente Gallo“, 1913 urheberrechtlich geschützt, wurde Anfang des 20. Jahrhunderts zum Standard. Das Spiel umfasst 54 Karten mit je einem Bild, einem Namen und einer Nummer; ein Ausrufer (cantor) sagt die Karten an, manchmal mit einem Vers oder Rätsel, und die Spieler markieren die Bilder auf Spieltafeln (tablas) mit 4 × 4 Feldern. Einige Figuren, etwa der Tod als stehendes Skelett mit Sense und die Welt als Atlas mit der Erdkugel, ähneln den entsprechenden Trümpfen eines Tarockblatts, das der Bologneser Kupferstecher Giuseppe Maria Mitelli in den 1660er-Jahren schuf.",
+  "markers": [
+   "Hochformatige Karte mit weißem Rand und dünner schwarzer Rahmenlinie um das Bild",
+   "Eine einzelne Figur oder ein Gegenstand, ganz gezeigt und bildfüllend, mit wenig oder gar keiner Umgebung",
+   "Feine schwarze Konturen und Schraffuren, dazu wenige kräftige Druckfarben mit einfacher Schattierung",
+   "Flächiger, heller Hintergrund – Himmelblau, Zitronengelb, Blassrosa oder Creme –, der von Karte zu Karte wechselt",
+   "Kleine Nummer in der linken oberen Ecke, Name in gesperrten schwarzen Groteskversalien mittig am unteren Rand",
+   "Verblasste Farben, leichte Passerfehler, sichtbare Papierstruktur und abgestoßene Ecken"
+  ],
+  "escapes": "Ohne Stilangabe zeigt das Modell ein Maskottchen fast fotorealistisch, mit fein ausgearbeitetem Fell, warmem Gegenlicht und einer detailreichen Umgebung aus Blumen, Pflaster und unscharfem Hintergrund. Die Lotería-Karte kennt kaum Raumtiefe und keine Lichtstimmung: Sie zeichnet die Figur mit schwarzen Konturen und Schraffuren, setzt wenige kräftige Druckfarben dazu und stellt sie in einem Rahmen vor einen einzigen ebenen Farbgrund. Statt einer Szene, die das ganze Bild füllt, entsteht ein freigestelltes Einzelbild, das sich mit einem Wort benennen lässt.",
+  "pitfalls": "Das Modell macht aus der Karte leicht eine prunkvolle Tarotkarte mit Goldrahmen und Sternenhimmel oder Souvenirkitsch mit Sombreros, Papel-picado-Girlanden, Zuckerschädeln und bunten Volkskunstmustern, der mit den klassischen Karten wenig zu tun hat. Außerdem erfindet es gern Kartennamen und Nummern, auch wenn kein Text erlaubt ist, kopiert bekannte Karten wie den Hahn oder den Teufel oder zeigt die Karte als Foto auf einem Tisch. Zu prüfen ist, ob Schraffur und flächige Farbe erhalten bleiben und nicht zu glatter Vektorschattierung werden.",
+  "tip": "„Die Karte selbst, flach wie ein Scan“ verlangen, die Farbe des Hintergrunds nennen und genau angeben, welches Wort und welche Nummer auf die Karte kommen – oder dass beide Stellen leer bleiben.",
+  "sensitivity": "Die klassische Ausgabe wird bis heute unter dem Markennamen ihres Herstellers verkauft; eigene Figuren entwerfen, statt bekannte Karten nachzubilden. Einige Karten des klassischen Satzes, etwa „El negrito“ und „El apache“, zeigen herabsetzende ethnische Klischeebilder, die nicht übernommen werden sollen."
+ },
+ "en": {
+  "name": "Lotería card",
+  "aka": [
+   "Mexican lotería",
+   "Mexican bingo"
+  ],
+  "era": "from 1887, Mexico",
+  "summary": "Tall game card: one black-outlined figure on a flat, light colour ground, number top left, name below; in the catalog because it isolates any subject as a single nameable picture.",
+  "origin": "By the usual account, lotería goes back to a 15th-century Italian game and reached New Spain in the 18th century; at first a pastime of the upper classes, it later became a fixture of Mexican fairs. Cards and boards were at first made by hand by local artists, and by the mid-19th century they were being printed commercially. The French entrepreneur Clemente Jacques, whose canned-food company in Mexico ran its own lithography department, published a lotería from 1887 by the usual dating; his 'Don Clemente Gallo' edition, copyrighted in 1913, became the standard in the early 20th century. The deck has 54 cards, each with a picture, a name and a number; a caller (cantor) announces each card, sometimes with a verse or riddle, and players mark the pictures on boards (tablas) holding a 4 × 4 grid. Some figures, such as Death as a standing skeleton with a scythe and the World as Atlas carrying the globe, resemble the matching trumps in a tarot deck made by the Bolognese engraver Giuseppe Maria Mitelli in the 1660s.",
+  "markers": [
+   "Upright card with a white margin and a thin black frame line around the picture",
+   "One figure or object, shown whole and filling the frame, with little or no setting",
+   "Fine black contours and hatching, with a few bright printed colours and simple shading",
+   "A flat, light background – sky blue, lemon yellow, pale pink or cream – that changes from card to card",
+   "Small number in the top-left corner, name in letterspaced black sans-serif capitals centred along the bottom",
+   "Faded colour, slight misregistration, paper grain and rubbed corners"
+  ],
+  "escapes": "Without a style, the model renders a mascot almost photographically, with finely worked fur, warm backlight and a detailed setting of flowers, paving and a blurred background. The lotería card has hardly any depth and no lighting mood: it draws the figure in black contours and hatching, adds a few bright printed colours and sets it inside a frame against a single even colour field. Instead of a scene that fills the whole picture, the result is one isolated image that can be named in a word.",
+  "pitfalls": "The model easily drifts into ornate tarot cards with gilded frames and starry skies, or into souvenir kitsch with sombreros, papel picado bunting, sugar skulls and loud folk patterns that has little to do with the classic cards. It also likes to invent card names and numbers even when no text is allowed, copy well-known cards such as the rooster or the devil, or show the card photographed on a table. Check that the hatching and flat colour survive and do not turn into smooth vector shading.",
+  "tip": "Ask for 'the card itself, flat like a scan', name the background colour and state exactly which word and number go on the card – or that both spots stay empty.",
+  "sensitivity": "The classic deck is still sold under its maker's brand name; design original figures rather than copying named cards. Some cards in the classic set, such as 'El negrito' and 'El apache', show demeaning ethnic stereotypes that should not be carried over."
+ },
+ "sources": [
+  {
+   "title": "Lotería – Wikipedia (deutsch)",
+   "url": "https://de.wikipedia.org/wiki/Loter%C3%ADa"
+  },
+  {
+   "title": "Lotería Cards – Tarot Heritage (Sherryl E. Smith, 2014)",
+   "url": "https://tarot-heritage.com/2014/09/30/loteria-cards/"
+  },
+  {
+   "title": "Giuseppe Maria Mitelli – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Giuseppe_Maria_Mitelli"
+  },
+  {
+   "title": "Francisco Gutiérrez (painter) – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Francisco_Guti%C3%A9rrez_(painter)"
+  }
+ ]
+}

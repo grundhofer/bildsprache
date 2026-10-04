@@ -1,0 +1,70 @@
+{
+ "slug": "popular-broadsheet-print",
+ "style_block": "A stencil-coloured popular picture sheet (Bilderbogen) as printed in 19th-century Neuruppin and Épinal. Medium: plain black line drawing, sparse hatching, on thin cheap paper; colour brushed through stencils as flat, transparent carmine, yellow, blue and green, slightly off the outlines; much bare paper, light folds and foxing. Composition: a ruled border round the sheet; single thin rules divide it into equal fields that touch, without gutters; each field a little stage with a ground line and stiff, cheerful figures. Lettering, where text is needed: typeset, heavy roman capitals across the top, one short centred serif line under each picture. Information, where a diagram, map or chart is shown: read row by row like a page, numbers inside the captions, each step a little scene, not an icon, no arrows. Avoid rounded icon cards, vector colouring, gradients, comic balloons and gutters, fine wood-engraved tone, fake burnt edges, invented verses or imprints.",
+ "de": {
+  "name": "Bilderbogen",
+  "aka": [
+   "Neuruppiner Bilderbogen",
+   "Image d’Épinal",
+   "Lubok",
+   "Volksbilderbogen"
+  ],
+  "era": "19. Jahrhundert, Neuruppin und Épinal",
+  "summary": "Schwarze Strichzeichnungen in gerahmten Bildfeldern, mit Schablonen bunt und ungenau koloriert, unter jedem Bild eine gedruckte Zeile; im Katalog, weil der Bilderbogen Abläufe als Folge kleiner Szenen erzählt.",
+  "origin": "Bilderbogen waren billige Einblattdrucke mit Bild und kurzem Text, die im 18. und 19. Jahrhundert von fliegenden Händlern für wenige Pfennige verkauft oder auf Jahrmärkten gezeigt wurden und vor allem bei der Landbevölkerung beliebt waren; Auflagen von 40.000 Stück waren nicht selten. In Neuruppin leitete Gustav Kühn (1794–1868) ab 1822 die von seinem Vater gegründete Druckerei und schaffte 1825 eine Lithografiepresse an; die einfarbig gedruckten Bogen kolorierten schlecht bezahlte Frauen und Kinder in den Malsälen der Verlage mit Schablonen. In Épinal gründete der Spielkartenmacher Jean-Charles Pellerin (1756–1836) 1796 seine Bilderdruckerei: Das Bild wurde in Hartholz wie Birnbaum oder Speierling geschnitten, schwarz gedruckt und dann mit Wasserfarbe und Pinsel durch Schablonen aus Karton oder Blech koloriert, eine für jede Farbe; einer der bekanntesten Holzschneider dort war François Georgin. Ab 1850 trat in Épinal bis auf wenige Ausnahmen die Lithografie an die Stelle des Holzschnitts; 1902 ersetzte eine Koloriermaschine („Aquatype“) das Kolorieren mit der Schablone von Hand. In Russland entsprach dem Bilderbogen der Lubok, ein volkstümlicher Bilddruck, der seit der zweiten Hälfte des 17. Jahrhunderts verbreitet war und nach dem Druck mit verdünnter Temperafarbe von Hand koloriert wurde.",
+  "markers": [
+   "Schlichte schwarze Strichzeichnung mit wenig Schraffur, vom Holzstock oder Lithografiestein gedruckt",
+   "Flache, durchscheinende Schablonenfarben in Karminrot, Gelb, Blau und Grün, leicht gegen die Konturen verrutscht",
+   "Bogen von einer Rahmenlinie umschlossen und durch dünne Linien in gleich große, aneinanderstoßende Bildfelder geteilt",
+   "Jedes Feld eine kleine Bühne mit Bodenlinie und steifen, freundlichen Figuren",
+   "Gesetzte Schrift: kräftiger Titel quer über dem Bogen, unter jedem Bild eine kurze Zeile oder ein Reimvers",
+   "Dünnes, billiges Papier mit viel unbemalter Fläche, Faltspuren und Stockflecken"
+  ],
+  "escapes": "Statt abgerundeter Kacheln mit Piktogrammen, Verläufen und Schlagschatten zeigt der Bilderbogen aneinanderstoßende, mit Linien gerahmte Felder, in denen jeder Schritt eine kleine Szene mit Figuren und Boden ist. Die Farbe liegt flach, durchscheinend und gegen die Kontur verrutscht auf billigem Papier; damit fehlen die saubere Kolorierung, die Glanzlichter und die gleichmäßige Glätte, an denen man KI-Bilder erkennt.",
+  "pitfalls": "Das Modell füllt die Flächen gern sauber bis an die Kontur aus oder legt Verläufe hinein, und aus den Feldern werden Comicpanels mit breiten Zwischenräumen, Sprechblasen und glatter Tuschezeichnung. Häufig erfindet es Reimverse, Verlagszeilen oder Pseudo-Fraktur, die die vorgegebenen Beschriftungen verdrängen oder verfälschen; jede Zeile und jede Zahl ist zu prüfen. Auch rutscht es leicht in den feinen Holzstich illustrierter Zeitschriften oder in künstlich verbrannte, stark vergilbte Ränder ab.",
+  "tip": "Die Felder ausdrücklich als „durch dünne Linien getrennt, ohne Zwischenraum“ beschreiben und die Farbe als „mit Schablone aufgetragen, leicht verrutscht“; sonst entstehen Comicpanels mit sauberer Digitalkolorierung.",
+  "sensitivity": "Historische Bogen enthalten oft nationalistische, militaristische oder ethnische Karikaturen; solche Inhalte nicht übernehmen. Namen und Signets noch bestehender Bilderverlage gehören nicht ins Bild."
+ },
+ "en": {
+  "name": "Popular broadsheet print",
+  "aka": [
+   "Bilderbogen",
+   "Épinal print",
+   "lubok",
+   "popular print"
+  ],
+  "era": "19th century, Neuruppin and Épinal",
+  "summary": "Black line drawings in framed fields, loosely stencil-coloured, a printed line under each; in the catalog because it tells a process as a sequence of small scenes.",
+  "origin": "Bilderbogen were cheap single-sheet prints combining a picture with a short text, sold for a few pfennigs by pedlars or shown at fairs in the 18th and 19th centuries and popular above all with the rural population; print runs of 40,000 were not unusual. In Neuruppin, Gustav Kühn (1794–1868) ran the printing shop founded by his father from 1822 and acquired a lithographic press in 1825; the sheets, printed in one colour, were coloured with stencils by poorly paid women and children in the publishers' painting rooms. In Épinal, the playing-card maker Jean-Charles Pellerin (1756–1836) founded his print works in 1796: the image was cut into hardwood such as pear or service tree, printed in black and then coloured with watercolour and brush through stencils of card or metal, one for each colour; François Georgin was one of the best-known block cutters there. From 1850 lithography replaced the woodcut at Épinal with few exceptions, and in 1902 a colouring machine (the 'aquatype') replaced hand stencilling. The Russian counterpart was the lubok, a popular print widespread from the second half of the 17th century and coloured by hand with diluted tempera after printing.",
+  "markers": [
+   "Plain black line drawing with little hatching, printed from a woodblock or lithographic stone",
+   "Flat, transparent stencil colours in carmine, yellow, blue and green, slightly off the outlines",
+   "Sheet enclosed by a ruled border and divided by thin ruled lines into equal, abutting fields",
+   "Each field a small stage with a ground line and stiff, cheerful figures",
+   "Set type: a bold title across the top of the sheet, a short line or rhymed verse under each picture",
+   "Thin, cheap paper with much uncoloured space, folds and foxing"
+  ],
+  "escapes": "Instead of rounded cards with icons, gradients and drop shadows, the broadsheet uses abutting fields framed by ruled lines, in which every step is a small scene with figures and ground. The colour sits flat, transparent and off-register on cheap paper, which removes the clean fills, highlights and even smoothness that give AI images away.",
+  "pitfalls": "Models tend to fill areas neatly up to the outline or add gradients, and the fields turn into comic panels with wide gutters, speech balloons and slick inking. They often invent rhymed verses, publisher lines or pseudo-blackletter that crowd out or garble the given labels, so check every line and number. The image also drifts easily into the fine wood engraving of illustrated magazines or into fake burnt, heavily yellowed edges.",
+  "tip": "Describe the fields explicitly as 'separated by thin ruled lines, no gutters' and the colour as 'applied through stencils, slightly off-register'; otherwise you get comic panels with clean digital colouring.",
+  "sensitivity": "Historic sheets often contain nationalist, militarist or ethnic caricature; do not reproduce such content. Names and marks of print publishers that still exist do not belong in the image."
+ },
+ "sources": [
+  {
+   "title": "Bilderbogen – Wikipedia",
+   "url": "https://de.wikipedia.org/wiki/Bilderbogen"
+  },
+  {
+   "title": "Imagerie d’Épinal: Un peu d’histoire",
+   "url": "https://www.imagesdepinal.com/content/7-un-peu-d-histoire"
+  },
+  {
+   "title": "Imagerie d’Épinal: Les techniques",
+   "url": "https://www.imagesdepinal.com/content/9-les-techniques"
+  },
+  {
+   "title": "Lubok – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lubok"
+  }
+ ]
+}

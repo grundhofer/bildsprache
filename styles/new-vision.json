@@ -1,0 +1,67 @@
+{
+ "slug": "new-vision",
+ "style_block": "A New Vision photograph, avant-garde camera work from the Bauhaus and Moscow Constructivism around 1925-1932, as a black-and-white gelatin silver print. Medium: handheld 35 mm camera, 50 mm lens, black-and-white roll film, hard direct sunlight; deep shadows, bright highlights, few midtones; visible grain. Composition: camera pointed steeply down from above or up from the ground, never at eye level; main lines run diagonally across the frame; figures and objects cut off hard by frame edges; near forms large and foreshortened; long cast shadows and repeated slats, steps or railings form parallel bands; wide plain areas of ground or sky. Lettering, where text is needed: painted or stencilled sans-serif capitals on objects in the scene, caught at the same steep angle; otherwise none. Avoid eye-level centred framing, a merely tilted horizon, shallow-focus bokeh, smooth digital monochrome, warm or sepia tone, soft pictorialist haze, sober frontal New Objectivity records and photomontage.",
+ "de": {
+  "name": "Neues Sehen",
+  "aka": [
+   "Neue Optik",
+   "Bauhaus-Fotografie",
+   "Konstruktivistische Fotografie"
+  ],
+  "era": "1920er- und frühe 1930er-Jahre, Deutschland und Sowjetunion",
+  "summary": "Kontrastreiche Schwarzweißfotografie aus steiler Auf- oder Untersicht, mit Diagonalen, hartem Anschnitt und langen Schlagschatten; im Katalog, weil sie die mittige Normalsicht der Bildgeneratoren aufbricht.",
+  "origin": "László Moholy-Nagy, der von 1923 bis 1928 am Bauhaus den Vorkurs unterrichtete, legte die Grundgedanken 1925 in seinem Buch „Malerei, Photographie, Film“ dar: Die Fotografie sei ein eigenständiges Medium, die Kamera zeige die Welt anders, als das menschliche Auge sie sieht. Schon ab 1922 hatte er mit Lucia Moholy Fotogramme hergestellt, für die Gegenstände ohne Kamera direkt auf lichtempfindliches Papier gelegt und belichtet wurden. In Moskau fotografierte Alexander Rodtschenko ab 1924 selbst und nahm Gebäude und Menschen häufig steil von oben oder unten auf, um den Betrachter zu irritieren und das Erkennen hinauszuzögern. Die Werkbund-Ausstellung „Film und Foto“ zeigte vom 18. Mai bis 7. Juli 1929 in Stuttgart rund 1200 Arbeiten, unter anderem von Germaine Krull, Florence Henri, Umbo und Rodtschenko; Moholy-Nagy wählte einen Teil der europäischen Fotografie mit aus und stellte den einleitenden Überblicksraum zusammen. Anders als die gleichzeitige Neue Sachlichkeit, die Dinge nüchtern und detailgenau abbildete, setzte das Neue Sehen auf Experiment, ungewohnte Blickwinkel und Licht-Schatten-Wirkungen.",
+  "markers": [
+   "Steile Aufsicht oder Untersicht aus Bodennähe, nie auf Augenhöhe",
+   "Kanten, Horizont und Hauptlinien laufen schräg durchs Bild statt waagerecht",
+   "Harter Anschnitt: Menschen und Dinge werden vom Bildrand abgeschnitten, nahe Formen erscheinen stark verkürzt",
+   "Lange Schlagschatten und sich wiederholende Formen wie Treppen, Geländer oder Gitter bilden Muster",
+   "Kontrastreiches Schwarzweiß mit tiefen Schatten und wenigen Mitteltönen, Silbergelatineabzug mit sichtbarem Korn"
+  ],
+  "escapes": "Ohne Stilangabe zeigt das Modell eine Szene mit Menschen auf Augenhöhe, mittig in der Halbtotale, in weichem, warmem Licht und mit unscharfem Hintergrund. Das Neue Sehen ändert den Bildaufbau selbst: Der steile Standpunkt, der harte Anschnitt und die Diagonalen ersetzen die zentrierte Normalsicht, hartes Sonnenlicht und Schwarzweiß ersetzen Bokeh und warmen Farbstich.",
+  "pitfalls": "Bildmodelle neigen die Kamera oft nur um einige Grad und bleiben auf Augenhöhe, oder sie liefern eine moderne Drohnenaufnahme in glattem digitalem Schwarzweiß mit angehobenen Mitteltönen. Andere Ergebnisse geraten zum sowjetischen Propagandaplakat mit Rot und Fotomontage. Aus steiler Aufsicht verschwinden zudem Gesichter, und Hände oder Gliedmaßen werden bei starker Verkürzung leicht verzerrt.",
+  "tip": "Den Kamerastandort konkret beschreiben, etwa „Kamera über Kopf gehalten, senkrecht nach unten gerichtet“ oder „Kamera auf dem Boden, steil nach oben“; ein bloßes „ungewöhnlicher Blickwinkel“ setzt das Modell meist nur als leicht schräge Kamera um.",
+  "sensitivity": "Die sowjetische Spielart diente auch der Staatspropaganda; Aufmärsche, Fahnen und heroisierte Arbeiter tragen diese politische Bedeutung mit."
+ },
+ "en": {
+  "name": "New Vision",
+  "aka": [
+   "Neues Sehen",
+   "Neue Optik",
+   "Bauhaus photography",
+   "Constructivist photography"
+  ],
+  "era": "1920s and early 1930s, Germany and the Soviet Union",
+  "summary": "High-contrast black-and-white photography from steep overhead or ground-level viewpoints, with diagonals, hard cropping and long cast shadows; in the catalog because it breaks the generators' centred eye-level view.",
+  "origin": "László Moholy-Nagy, who taught the foundation course at the Bauhaus from 1923 to 1928, set out the core ideas in his 1925 book 'Malerei, Photographie, Film' (Painting, Photography, Film): photography as an independent medium through which the camera shows the world differently from the human eye. From 1922 he and Lucia Moholy had made photograms, laying objects directly on light-sensitive paper and exposing them without a camera. In Moscow Alexander Rodchenko took his own photographs from 1924, often shooting buildings and people from high above or far below to unsettle the viewer and delay recognition. The Deutscher Werkbund exhibition 'Film und Foto' in Stuttgart, 18 May to 7 July 1929, showed about 1,200 works, among them by Germaine Krull, Florence Henri, Umbo and Rodchenko; Moholy-Nagy was one of the selectors of European photography and assembled the introductory overview room. Unlike the contemporary New Objectivity, which recorded things soberly and in exact detail, New Vision favoured experiment, unusual angles and effects of light and shadow.",
+  "markers": [
+   "Steep view down from above or up from near the ground, never at eye level",
+   "Edges, horizon and main lines run diagonally across the frame instead of level",
+   "Hard cropping at the frame edge: people and things are cut off, near forms strongly foreshortened",
+   "Long cast shadows and repeated structures such as steps, railings or grids forming patterns",
+   "High-contrast black and white with deep shadows and few midtones, a gelatin silver print with visible grain"
+  ],
+  "escapes": "Without a style, the model shows a scene with people at eye level, centred in a medium-wide shot, in soft warm light with a blurred background. New Vision changes the structure of the picture: the steep viewpoint, hard cropping and diagonals replace the centred eye-level view, and hard sunlight and black and white replace bokeh and warm colour cast.",
+  "pitfalls": "Image models often just tilt the camera a few degrees at eye level, or deliver a modern drone shot in smooth digital monochrome with lifted midtones. Others slide into a Soviet propaganda poster with red and photomontage. Seen steeply from above, faces also disappear, and hands or limbs easily distort when strongly foreshortened.",
+  "tip": "Describe the camera position physically, for example 'camera held overhead, pointing straight down' or 'camera on the ground, pointing steeply up'; a bare 'unusual angle' usually comes out as a slightly tilted camera.",
+  "sensitivity": "The Soviet strand also served state propaganda; parades, flags and heroised workers carry that political meaning with them."
+ },
+ "sources": [
+  {
+   "title": "Neues Sehen – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Neues_Sehen"
+  },
+  {
+   "title": "László Moholy-Nagy – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Moholy-Nagy"
+  },
+  {
+   "title": "Alexander Rodchenko – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Alexander_Rodchenko"
+  },
+  {
+   "title": "Film und Foto – Wikipedia (de)",
+   "url": "https://de.wikipedia.org/wiki/Film_und_Foto"
+  }
+ ]
+}

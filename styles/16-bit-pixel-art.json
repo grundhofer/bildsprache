@@ -1,0 +1,68 @@
+{
+ "slug": "16-bit-pixel-art",
+ "style_block": "A screen from a Japanese 16-bit console game, early 1990s. Medium: one coarse grid of identical square pixels, about 256 on the short side, text included; no anti-aliasing; limited flat palette, three-to-five-step colour ramps per material; dark coloured outlines, lighter on the lit side; checkerboard dithering in skies. Composition: full-frame side or high top-down view of repeating tiles, parallax background bands, compact sprites; close-ups as a framed dialogue portrait. Lettering, where text is needed: monospaced bitmap letters, one 8x8 cell each, white with dark shadow, in dark blue bordered windows; titles as blocky colour-banded logo letters across the upper third. Information, where a diagram, map or chart is shown: a menu screen of framed windows with list rows, square icon cells and segmented block meters; maps as top-down tile overworlds. Avoid painterly gradients, centred hero shots, mixed pixel sizes, hi-bit glow, sparse 8-bit sprites, TV bezels, scanlines, score counters.",
+ "de": {
+  "name": "16-Bit-Pixel-Art",
+  "aka": [
+   "16-Bit-Grafik",
+   "Pixelgrafik der 16-Bit-Ära",
+   "Pixelkunst"
+  ],
+  "era": "1987 bis Mitte der 1990er Jahre, Japan",
+  "summary": "Grobes Pixelraster, wenige flache Farben in drei bis fünf Abstufungen, Schachbrett-Dithering und Bitmap-Schrift in Menüfenstern; im Katalog, weil das Raster Bild, Schrift und Information gleichermaßen in Kacheln zwingt.",
+  "origin": "Als 16-Bit-Ära bezeichnet man die vierte Generation der Videospielkonsolen; sie begann am 30. Oktober 1987 mit der PC Engine von NEC in Japan, es folgten Segas Mega Drive (Japan, Oktober 1988) und Nintendos Super Famicom (Japan, November 1990), das außerhalb Japans als Super Nintendo Entertainment System verkauft wurde. Das Bild des Super Famicom maß in der Grundauflösung 256 × 224 Pixel und setzte sich aus Kacheln von 8 × 8 Pixeln zusammen; im gebräuchlichsten Kachelformat konnte jede Kachel 16 Farben nutzen, gewählt aus 32.768 möglichen, während das Mega Drive seine Farben aus 512 wählte. Die Grafiker setzten Figuren und Hintergründe Pixel für Pixel, erzeugten Zwischentöne durch Dithering, also Schachbrett- oder Linienmuster, die aus der Entfernung als Mischfarbe wirken, und gaben den Szenen Tiefe durch mehrere Hintergrundebenen, die beim Scrollen verschieden schnell laufen (Parallax-Scrolling). Der Begriff „Pixel-Art“ wurde 1982 erstmals von Forschern des Xerox Palo Alto Research Center gedruckt verwendet; in den 2010er Jahren machten erfolgreiche Indie-Spiele die Technik wieder populär.",
+  "markers": [
+   "Ein einziges grobes Pixelraster für das ganze Bild, jedes Pixel ein gleich großes Quadrat mit harter Kante, keine Kantenglättung",
+   "Wenige flache Farben je Figur, Form und Licht in drei bis fünf Farbstufen je Material",
+   "Dunkle, farbige Konturen, die zur Lichtseite hin heller werden",
+   "Dithering im Schachbrettmuster in Himmeln und Übergängen",
+   "Hintergründe aus hintereinander gestaffelten Ebenen und sich wiederholenden Kacheln",
+   "Text in Bitmap-Schrift mit fester Zeichenbreite, in umrandeten Menü- und Dialogfenstern"
+  ],
+  "escapes": "Der Stil schließt die weichen Verläufe, Lichtkanten, Glanzlichter und die Hintergrundunschärfe aus, an denen man KI-Bilder oft erkennt: Jede Fläche besteht aus wenigen flachen Farben auf einem groben Raster, Übergänge entstehen nur durch Farbstufen und Dithering. Statt einer mittig herausgestellten Hauptfigur oder einer Kachel-Infografik mit weichen Schatten baut er Bilder als Spielszene in Seitenansicht oder Draufsicht auf und Informationen als Menübildschirm mit Fenstern, Listen und Balkenanzeigen.",
+  "pitfalls": "Das Raster driftet: Gesichter, Schrift und kleine Gegenstände geraten feiner als der Rest, Pixel verschiedener Größe stehen im selben Bild, Kanten werden doch geglättet, und die Farbzahl wächst, bis das Ergebnis wie ein gemaltes Bild mit Pixelfilter oder wie moderne Hi-Bit-Pixel-Art mit Leuchteffekten aussieht. Ungefragt setzt das Modell gern den Rahmen eines Röhrenfernsehers, sichtbare Bildzeilen, Punkteanzeigen, Lebensleisten oder erfundenen Menütext ins Bild und greift zu bekannten Spielfiguren; mit sehr wenigen Farben und schwarzem Himmel rutscht es dagegen in den kargeren 8-Bit-Stil.",
+  "tip": "Eine feste Rastergröße nennen (etwa 256 Pixel an der kurzen Seite) und verlangen, dass Schrift, Fensterrahmen und Symbole auf demselben Raster liegen. Wer das Ergebnis danach ohne Glättung auf diese Größe verkleinert, sieht sofort, ob das Modell feiner gemalt hat als das Raster.",
+  "sensitivity": "Konsolennamen wie Super Nintendo oder Mega Drive sind Marken; bekannte Spielfiguren, Logos und Bildschirme bestimmter Spiele dürfen nicht nachgebildet werden, Spiel- und Konsolennamen gehören nicht in den Prompt."
+ },
+ "en": {
+  "name": "16-bit pixel art",
+  "aka": [
+   "16-bit graphics",
+   "16-bit sprite art",
+   "fourth-generation console graphics"
+  ],
+  "era": "1987 to the mid-1990s, Japan",
+  "summary": "A coarse pixel grid, few flat colours in three to five steps, checkerboard dithering, bitmap lettering in menu windows; included because the grid forces image, lettering and information into tiles.",
+  "origin": "The fourth generation of video game consoles is commonly called the 16-bit era; it began on 30 October 1987 with NEC's PC Engine in Japan, followed by Sega's Mega Drive (Japan, October 1988) and Nintendo's Super Famicom (Japan, November 1990), sold outside Japan as the Super Nintendo Entertainment System. The Super Famicom's picture measured 256 × 224 pixels in its base resolution and was assembled from tiles of 8 × 8 pixels; in the most common tile format each tile could use 16 colours, chosen from 32,768, while the Mega Drive chose its colours from 512. Artists placed figures and backgrounds pixel by pixel, created in-between tones by dithering, checkerboard or line patterns that read as a mixed colour from a distance, and gave scenes depth with several background layers scrolling at different speeds (parallax scrolling). The term “pixel art” first appeared in print in 1982, used by researchers at the Xerox Palo Alto Research Center; in the 2010s successful indie games made the technique popular again.",
+  "markers": [
+   "A single coarse pixel grid for the whole image, every pixel an equal hard-edged square, no anti-aliasing",
+   "Few flat colours per figure, form and light in three to five colour steps per material",
+   "Dark coloured outlines that turn lighter towards the lit side",
+   "Checkerboard dithering in skies and transitions",
+   "Backgrounds of planes staggered in depth and of repeating tiles",
+   "Text in a fixed-width bitmap font, inside bordered menu and dialogue windows"
+  ],
+  "escapes": "The style rules out the soft gradients, rim light, glossy highlights and background blur that give AI images away: every surface is a few flat colours on a coarse grid, and transitions come only from colour steps and dithering. Instead of a centred, singled-out hero or a tiled infographic with soft shadows, it arranges pictures as a game scene in side or top-down view and information as a menu screen of windows, lists and bar meters.",
+  "pitfalls": "The grid drifts: faces, lettering and small objects come out finer than the rest, pixels of different sizes share one image, edges get smoothed after all, and the colour count grows until the result looks like a painting run through a pixel filter or like modern hi-bit pixel art with glow effects. Unprompted, the model likes to add a CRT television frame, scanlines, score displays, health bars or invented menu text and reaches for well-known game characters; with very few colours and a black sky it slips into the sparser 8-bit style instead.",
+  "tip": "Name a fixed grid size (about 256 pixels on the short side) and require lettering, window frames and icons to sit on the same grid. Scaling the result down to that size without smoothing quickly shows whether the model painted finer than the grid.",
+  "sensitivity": "Console names such as Super Nintendo or Mega Drive are trademarks; well-known game characters, logos and screens of specific games must not be copied, and game and console names stay out of the prompt."
+ },
+ "sources": [
+  {
+   "title": "Pixel art – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pixel_art"
+  },
+  {
+   "title": "Fourth generation of video game consoles – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fourth_generation_of_video_game_consoles"
+  },
+  {
+   "title": "Super Nintendo Entertainment System – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System"
+  },
+  {
+   "title": "Tiles – SNESdev Wiki",
+   "url": "https://snes.nesdev.org/wiki/Tiles"
+  }
+ ]
+}

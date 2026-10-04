@@ -1,0 +1,70 @@
+{
+ "slug": "airline-safety-card",
+ "style_block": "An airline passenger safety card from worldwide commercial aviation since the late 1970s. Medium: flat-colour offset illustration on stiff coated card; even dark outlines, muted beige, grey and pale blue fills, no gradients; red and green only for arrows and symbols; slight sheen, rounded corners, seat-pocket creases. Composition: a strict grid of four to six panels read left to right, top to bottom as a step-by-step procedure, one step each, same raised three-quarter view; calm, expressionless figures in plain clothes; circular close-up insets of hands and handled objects; bold red movement arrows; one panel shows the wrong way crossed out in red, beside it the right way with a green tick. Lettering, where text is needed: bold sans-serif capitals in a coloured header band; panel numbers in black squares. Avoid cinematic light, smiling faces, corporate vector characters, line-only assembly manuals, logos, and aircraft or cabins the scene lacks.",
+ "de": {
+  "name": "Flugzeug-Sicherheitskarte",
+  "aka": [
+   "Sicherheitskarte",
+   "Safety Card",
+   "Safety Instruction Card",
+   "Passenger Safety Briefing Card"
+  ],
+  "era": "seit den späten 1970er-Jahren, Zivilluftfahrt weltweit",
+  "summary": "Nummerierte Bildfelder mit ruhigen, ausdruckslosen Figuren, roten Pfeilen und durchgestrichenen Fehlern auf einer glänzenden Karte; im Katalog, weil sie eine Szene in eine wortlose Handlungsanleitung zerlegt.",
+  "origin": "Gedruckte Karten, die Fluggästen die Notausrüstung erklären, gibt es mindestens seit den 1930er-Jahren; das Buch „Design for Impact“ von Eric Ericson und Johan Pihl verfolgt sie von Karten der Pan Am aus diesem Jahrzehnt bis zu den Piktogrammen heutiger Großraumflugzeuge. In den USA schreibt die Vorschrift 14 CFR 121.571 gedruckte Karten vor, die für jeden Fluggast gut erreichbar sind, nur für das jeweilige Flugzeugmuster gelten und die Notausgänge samt ihrer Bedienung zeigen; die Luftfahrtbehörde FAA gibt dazu seit 1977 das Rundschreiben AC 121-24 heraus, dessen Fassung von 2019 eine zeichnerische oder bildliche Darstellung empfiehlt, die Text möglichst überflüssig macht. Um 1980 empfahlen Ergonomen Folgen von Handlungsbildern, weil sie unabhängig von der Sprache verständlich sind und weniger Platz brauchen als Text; eine Sicherheitsstudie der Unfalluntersuchungsbehörde NTSB von 1985 fand dennoch viele Darstellungen auf den Karten verwirrend und mehrdeutig und forderte Verständlichkeitstests. In Deutschland empfiehlt das Luftfahrt-Bundesamt in einem Rundschreiben (4. Revision, 2021) genehmigte Symbole: Rot steht für Verbote und Gefahren, Grün für das richtige Verhalten, Blau für einen Zustand. Die Karte soll danach überwiegend bildlich sein, einer Wenn-dann-Logik folgen, Handlungen an einer Person ohne Uniform zeigen und einen zweisprachigen Titel wie „Für Ihre Sicherheit / For your safety“ tragen.",
+  "markers": [
+   "Nummerierte Bildfelder in einem strengen Raster, als Handlungsfolge Schritt für Schritt zu lesen",
+   "Ruhige, ausdruckslose Figuren in schlichter Kleidung, mit gleichmäßiger Kontur und flachen Farbflächen",
+   "Kräftige rote Bewegungspfeile und kreisrunde Detailvergrößerungen",
+   "Die falsche Handlung rot durchgestrichen neben der richtigen mit grünem Haken",
+   "Kaum Text: Kopfleiste mit zweisprachigem Titel, Bildnummern in schwarzen Quadraten, winzige mehrsprachige Beschriftungen",
+   "Steife, leicht glänzende Karte mit abgerundeten Ecken und Knicken aus der Sitztasche"
+  ],
+  "escapes": "Statt eines mittig gesetzten Einzelbilds zerlegt die Karte die Handlung in eine nummerierte Folge kleiner, gleich gewichteter Bildfelder; so entsteht ein Ablauf statt eines einzelnen Augenblicks. Ausdruckslose Figuren, flache Farbflächen ohne Verläufe und Signalfarben nur für Pfeile und Symbole schließen weiches, warmes Licht, lächelnde Gesichter und malerische Oberflächen aus.",
+  "pitfalls": "Häufig füllt das Modell die Felder mit lesbar wirkendem, aber sinnlosem Text, setzt Bildnummern und Kopfzeilen auch bei Motiven ohne Text, erfindet Namen und Logos von Fluggesellschaften oder zeichnet eine Flugzeugkabine in Szenen, die keine enthalten. Die Figuren geraten leicht zu fröhlichen Vektorfiguren wie aus Bildagenturen, oder die Felder wiederholen dieselbe Haltung, statt aufeinanderfolgende Schritte zu zeigen. Rote Kreuze und grüne Haken werden oft als Schmuck verstreut, statt genau eine falsche und eine richtige Handlung zu kennzeichnen.",
+  "tip": "Die Schritte der Handlung Feld für Feld benennen („1: …, 2: …, 3: …“) und angeben, welches einzelne Feld die falsche Handlung rot durchgestrichen zeigt; sonst zeichnet das Modell mehrmals dasselbe Bild.",
+  "sensitivity": "Namen, Logos und Farben echter Fluggesellschaften gehören nicht auf die Karte; Abstürze und Verletzungen sollten nicht als Schockeffekt gezeigt werden."
+ },
+ "en": {
+  "name": "Airline safety card",
+  "aka": [
+   "aircraft safety card",
+   "safety instruction card",
+   "passenger safety briefing card",
+   "safety information card"
+  ],
+  "era": "since the late 1970s, commercial aviation worldwide",
+  "summary": "Numbered panels with calm, expressionless figures, red arrows and crossed-out mistakes on a glossy card; in the catalog because it breaks a scene down into a wordless step-by-step procedure.",
+  "origin": "Printed cards explaining emergency equipment to air passengers go back at least to the 1930s; the book 'Design for Impact' by Eric Ericson and Johan Pihl traces them from Pan Am cards of that decade to the pictograms on today's wide-body jets. In the United States, 14 CFR 121.571 requires printed cards within easy reach of every passenger, specific to the aircraft type and model, with diagrams of the emergency exits and how to operate them; the FAA has issued guidance in Advisory Circular 121-24 since 1977, and its 2019 edition recommends a diagrammatic or pictorial presentation that makes written text as far as possible unnecessary. Around 1980 human-factors researchers recommended sequences of action pictures because they are language-independent and take less space than text; a 1985 safety study by the NTSB nonetheless found many card depictions confusing and ambiguous and called for comprehension testing. In Germany the Luftfahrt-Bundesamt recommends approved symbols in a circular (revision 4, 2021): red stands for prohibitions and hazards, green for the safe action, blue for a status. According to this guidance the card should be mainly pictorial, follow an if-then logic, show actions on a person not in uniform and carry a bilingual title such as 'Für Ihre Sicherheit / For your safety'.",
+  "markers": [
+   "Numbered panels in a strict grid, read as a step-by-step procedure",
+   "Calm, expressionless figures in plain clothes, with even outlines and flat colour fills",
+   "Bold red movement arrows and circular close-up insets of details",
+   "The wrong action crossed out in red beside the right one with a green tick",
+   "Hardly any text: header band with a bilingual title, panel numbers in black squares, tiny multilingual captions",
+   "Stiff, slightly glossy card with rounded corners and creases from the seat pocket"
+  ],
+  "escapes": "Instead of a centred hero scene, the card breaks the action down into a numbered sequence of small, equally weighted panels, so it shows a procedure rather than a single moment. Expressionless figures, flat fills without gradients and signal colours used only for arrows and symbols rule out soft warm light, smiling faces and painterly surfaces.",
+  "pitfalls": "Models often fill the panels with readable-looking but meaningless text, add panel numbers and header lines even to motifs that allow no text, invent airline names and logos, or draw an aircraft cabin into scenes that have none. The figures easily turn into cheerful stock vector characters, or the panels repeat the same pose instead of showing successive steps. Red crosses and green ticks are often scattered as decoration rather than marking exactly one wrong and one right action.",
+  "tip": "Name the steps of the action panel by panel ('1: ..., 2: ..., 3: ...') and say which single panel shows the wrong way crossed out in red; otherwise the model draws the same picture several times.",
+  "sensitivity": "Names, logos and colours of real airlines do not belong on the card; crashes and injuries should not be shown for shock value."
+ },
+ "sources": [
+  {
+   "title": "FAA Advisory Circular AC 121-24D: Passenger Safety Information Briefing and Briefing Cards (2019)",
+   "url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_121-24D.pdf"
+  },
+  {
+   "title": "Corbett, McLean, Cosper: Effective Presentation Media for Passenger Safety I – Comprehension of Briefing Card Pictorials and Pictograms (FAA CAMI, DOT/FAA/AM-08/20, 2008)",
+   "url": "https://libraryonline.erau.edu/online-full-text/faa-aviation-medicine-reports/AM08-20.pdf"
+  },
+  {
+   "title": "Luftfahrt-Bundesamt: Passenger Safety Briefing Cards (SBC) and Safety Briefing Videos (SBV), Rundschreiben 12/2020, Rev. 04 (2021)",
+   "url": "https://www.lba.de/SharedDocs/Downloads/DE/B/B2_Flugbetrieb/B2_Kabinensicherheit/Passenger_Safety_Briefing_Cards.pdf?__blob=publicationFile&v=1"
+  },
+  {
+   "title": "Ericson, Pihl: Design for Impact – Open Library",
+   "url": "https://openlibrary.org/works/OL6046079W"
+  }
+ ]
+}

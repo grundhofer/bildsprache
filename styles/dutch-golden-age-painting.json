@@ -1,0 +1,67 @@
+{
+ "slug": "dutch-golden-age-painting",
+ "style_block": "A small oil painting for the open market of the Dutch Republic, c. 1620–1680. Medium: oil on panel or canvas, thinly layered, glazed shadows, lead-white lights, tiny light dots on rough or shiny surfaces; ochre, umber, lead-tin yellow, ultramarine, silvery grey; brushwork only in highlights; fine craquelure. Composition: cool daylight from a high window at left, fading across a pale plastered wall or dark ground; quiet, ordered space at eye level, much bare wall, doorways onto further lit rooms; figures off-centre against plain wall, turned towards the light, unposed; tables seen close, edge running diagonally into depth, objects staggered, a cloth or knife over the edge; wrinkles and scuffs kept. Lettering, where text is needed: only within the scene, as ink handwriting or thin roman capitals. Avoid brown varnish tone, golden glow, window bloom, glossy skin, background blur, centred hero framing, tenebrist spotlighting, added period costume, pearls, turbans, lemons, skulls.",
+ "de": {
+  "name": "Holländische Malerei des Goldenen Zeitalters",
+  "aka": [
+   "Holländische Malerei des 17. Jahrhunderts",
+   "Niederländische Malerei des Goldenen Zeitalters",
+   "Niederländische Barockmalerei"
+  ],
+  "era": "um 1620–1680, Republik der Vereinigten Niederlande",
+  "summary": "Kühles Tageslicht von einem hohen Seitenfenster, genau beobachtetes Leinen, Zinn und Brot, ruhig geordnete Räume: im Katalog als stilles Gegenbild zum warmen, glänzenden Ölgemälde-Filter der KI.",
+  "origin": "Während und nach dem Achtzigjährigen Krieg gegen Spanien (1568–1648) malten Künstler in Amsterdam, Haarlem, Leiden, Delft, Utrecht und anderen Städten der Republik vor allem kleine Bilder für die Wohnhäuser von Kaufleuten, Handwerkern und anderen Bürgern; der Calvinismus verbannte religiöse Gemälde aus den Kirchen, und weit mehr Bilder als anderswo entstanden ohne Auftrag für den freien Markt. Schätzungen zufolge wurden allein in den zwanzig Jahren nach 1640 mehr als 1,3 Millionen Bilder gemalt, und die meisten Maler spezialisierten sich auf eine Gattung: Bildnis, Genrebild, Landschaft, Architekturbild oder Stillleben. In Haarlem malten Pieter Claesz (um 1597–1660) und Willem Claesz. Heda Frühstücksstillleben mit Brot, Zinn und Glas in gedämpfter, fast monochromer Palette, in der Licht und Stofflichkeit das Bild tragen; in Leiden gehörte der frühere Rembrandt-Schüler Gerrit Dou (1613–1675) zu den führenden Feinmalern, die kleine, bis ins kleinste Detail ausgeführte Bilder schufen. In Delft, wo er etwa von 1652 bis 1660 arbeitete, malte Pieter de Hooch Wohnräume und Höfe mit Durchblicken durch offene Türen in weitere helle Räume, und Johannes Vermeer (1632–1675) zeigte eine oder zwei Figuren in Innenräumen, beleuchtet von einem Fenster links und gemalt mit teurem natürlichem Ultramarin und Bleizinngelb. In Vermeers „Dienstmagd mit Milchkrug“, heute im Rijksmuseum Amsterdam, geben kleine helle Farbtupfen auf Brot und Korb zugleich das funkelnde Tageslicht und die raue Oberfläche wieder.",
+  "markers": [
+   "kühles, weiches Tageslicht aus einem hohen Fenster links, das sich über eine helle, verputzte Wand allmählich verliert",
+   "genau wiedergegebene Stofflichkeit von Leinen, Zinn, Glas, Brotkruste und Haut, mit kleinen Lichtpunkten auf rauen und glänzenden Flächen",
+   "gedämpfte Palette aus Ocker, Umbra, Bleizinngelb, Ultramarin und Silbergrau",
+   "ruhiger, geordneter Raum auf Augenhöhe mit viel leerer Wand und Durchblicken durch Türen in weitere helle Räume",
+   "Tisch aus der Nähe gesehen, die Kante läuft schräg in die Tiefe, Gegenstände gestaffelt, ein Tuch oder Messer ragt über die vordere Tischkante",
+   "dünne, glatte Farbschichten mit Lasuren in den Schatten, Pinselspuren nur in den Glanzlichtern, feines Craquelé"
+  ],
+  "escapes": "Statt des warmen, goldenen Lichts mit überstrahlten Fenstern und sichtbaren Lichtstrahlen, das KI-Bilder Innenräumen und Gesichtern meist geben, verlangt der Stil kühles, gedämpftes Tageslicht von einer Seite und genau beobachtete Oberflächen von matt bis glänzend. Die ruhige, leicht außermittige Ordnung mit viel leerer Wand und schräg in die Tiefe laufender Tischkante ersetzt die mittige, frontale Inszenierung, und die nüchterne Bestandsaufnahme der Dinge lässt Falten, Kratzer und Krümel stehen, statt sie zu glätten.",
+  "pitfalls": "Modelle legen oft einen braunen, vergilbten Galerieton mit schlammigen Schatten über das Bild oder rutschen in ein dramatisches Helldunkel vor schwarzem Grund, das eher zu den Utrechter Caravaggisten passt als zur stillen Tageslichtmalerei aus Delft und Haarlem. Weil Vermeers Bilder die bekanntesten Vorbilder sind, tauchen oft Perlenohrringe, Turbane, Wandkarten, schwarz-weiße Marmorfliesen und Kleidung des 17. Jahrhunderts auf, auch wenn das Motiv in der Gegenwart spielt; beim Essen kommen geschälte Zitronen, Römergläser und Austern aus dem Prunkstillleben hinzu. Prüfen, ob das Fensterlicht weich bleibt und die heutigen Gegenstände des Motivs nicht ersetzt werden.",
+  "tip": "Lichtquelle und Lichtfarbe ausdrücklich festlegen, etwa „kühles, gedämpftes Tageslicht von einem hohen Fenster links, helle Wand dahinter“, und verlangen, dass alle Gegenstände des Motivs ihre heutige Form behalten; sonst tauscht das Modell etwa den Emaillebecher oder das Radio gegen Requisiten des 17. Jahrhunderts aus.",
+  "sensitivity": "Der Begriff „Goldenes Zeitalter“ ist umstritten, weil der Wohlstand der Republik auch auf Kolonialhandel und Sklaverei beruhte; das Amsterdam Museum kündigte 2019 an, ihn nicht mehr zu verwenden."
+ },
+ "en": {
+  "name": "Dutch Golden Age painting",
+  "aka": [
+   "17th-century Dutch painting",
+   "Dutch Baroque painting"
+  ],
+  "era": "c. 1620–1680, Dutch Republic",
+  "summary": "Cool daylight from a high side window, closely observed linen, pewter and bread, calm ordered rooms: in the catalog as a quiet counterpart to the warm, glossy AI oil-painting filter.",
+  "origin": "During and after the Eighty Years’ War against Spain (1568–1648), painters in Amsterdam, Haarlem, Leiden, Delft, Utrecht and other towns of the Dutch Republic produced mostly small pictures for the houses of merchants, craftsmen and other citizens; Calvinism kept religious painting out of the churches, and far more pictures than elsewhere were painted without a commission for the open market. More than 1.3 million pictures are estimated to have been painted in the twenty years after 1640 alone, and most painters specialised in one genre: portrait, genre scene, landscape, architectural painting or still life. In Haarlem, Pieter Claesz (c. 1597–1660) and Willem Claesz. Heda painted breakfast pieces of bread, pewter and glass in subdued, almost monochrome palettes in which light and texture carry the picture; in Leiden, Rembrandt’s former pupil Gerrit Dou (1613–1675) was a leading fijnschilder, one of the ‘fine painters’ of small, highly finished pictures. In Delft, where he worked from about 1652 to 1660, Pieter de Hooch painted rooms and courtyards with views through open doorways into further lit spaces, and Johannes Vermeer (1632–1675) showed one or two figures in interiors lit by a window on the left, painted with costly natural ultramarine and lead-tin yellow. In Vermeer’s The Milkmaid, now in the Rijksmuseum in Amsterdam, small bright dots of paint on the bread and basket render both the glittering daylight and the rough surface.",
+  "markers": [
+   "cool, soft daylight from a high window on the left, fading out across a pale plastered wall",
+   "exactly rendered textures of linen, pewter, glass, bread crust and skin, with small dots of light on rough and shiny surfaces",
+   "restrained palette of ochre, umber, lead-tin yellow, ultramarine and silvery grey",
+   "quiet, ordered space at eye level with much bare wall and views through doorways into further lit rooms",
+   "a table seen close up, its edge running diagonally into depth, objects staggered, a cloth or knife projecting over the front edge",
+   "thin, smooth paint layers with glazed shadows, brushmarks only in the highlights, fine craquelure"
+  ],
+  "escapes": "Instead of the warm golden light with blown-out windows and visible light rays that AI images usually give interiors and faces, the style calls for cool, subdued daylight from one side and closely observed surfaces from matt to shiny. Its calm, slightly off-centre order with much bare wall and a table edge running diagonally into depth replaces the centred, frontal showpiece view, and the sober inventory of things keeps wrinkles, scratches and crumbs instead of smoothing them away.",
+  "pitfalls": "Models often lay a brown, yellowed gallery tone of old varnish with muddy shadows over the image, or drift into dramatic chiaroscuro against a black ground that belongs more to the Utrecht Caravaggisti than to the quiet daylight painting of Delft and Haarlem. Because Vermeer’s pictures are the best-known examples, pearl earrings, turbans, wall maps, black-and-white marble tiles and 17th-century clothing often appear even when the subject is set in the present; with food, peeled lemons, roemer glasses and oysters arrive from the pronkstilleven. Check that the window light stays soft and that the present-day objects of the subject are not replaced.",
+  "tip": "Fix the light source and its colour explicitly, for example ‘cool, subdued daylight from a high window on the left, pale wall behind’, and ask for every object in the subject to keep its present-day form; otherwise the model readily swaps the enamel mug or the radio for 17th-century props.",
+  "sensitivity": "The term ‘Golden Age’ is disputed because the Republic’s wealth also rested on colonial trade and slavery; in 2019 the Amsterdam Museum announced that it would stop using it."
+ },
+ "sources": [
+  {
+   "title": "Dutch Golden Age painting – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dutch_Golden_Age_painting"
+  },
+  {
+   "title": "Pieter Claesz – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pieter_Claesz"
+  },
+  {
+   "title": "Johannes Vermeer – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Johannes_Vermeer"
+  },
+  {
+   "title": "The Milkmaid (Vermeer) – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Milkmaid_(Vermeer)"
+  }
+ ]
+}

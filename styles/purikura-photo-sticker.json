@@ -1,0 +1,68 @@
+{
+ "slug": "purikura-photo-sticker",
+ "style_block": "A sticker sheet from a Japanese arcade photo-sticker booth, around 2000–2005, decorated with its stylus. Medium: low-resolution CCD camera, fixed wide lens at arm's length, strobe through white diffusers: shadowless high-key light, burnt-out highlights, pale skin, creases still visible in mid-tones; chroma-key halo around the hair; glossy dye-sublimation print, slightly soft. Composition: white cut lines split the sheet into four to six rounded frames of unequal size, each a different take, chest-up, slightly from above, on its own pastel-pattern or glitter backdrop; thick white-outlined neon doodles on top but off the face: hearts, stars, sparkles, outlines traced around the figure, stamped icons. Lettering, where text is needed: rounded stylus handwriting, white-outlined. Information, where a diagram, map or chart is shown: one item per frame, scribbled arrows and circles. Avoid airbrushed skin, bokeh, one centred hero shot, Korean four-cut strips; no eye enlargement or face slimming, no writing unless given.",
+ "de": {
+  "name": "Purikura (Fotosticker)",
+  "aka": [
+   "Print Club",
+   "Fotosticker-Automat",
+   "Puri"
+  ],
+  "era": "ab 1995, Japan; Hochphase um 2000",
+  "summary": "Aufkleberbogen aus dem japanischen Fotoautomaten mit überstrahlten Gesichtern, Pastellhintergründen und aufgekritzelten Herzen und Sternen in mehreren Bildfeldern; im Katalog, weil Bogenaufteilung und Gekritzel das zentrierte Einzelporträt aufbrechen.",
+  "origin": "Der erste Fotosticker-Automat, Print Club (japanisch Purinto Kurabu, kurz Purikura), wurde von der Tokioter Spielefirma Atlus mit Sega entwickelt, im Februar 1995 auf der Fachmesse AOU Amusement Expo gezeigt und ab Juli 1995 in japanischen Spielhallen aufgestellt. Nachdem eine Fernsehsendung ihn bekannt gemacht hatte, wurde er 1996 zum Massenerfolg; nach Zahlen des japanischen Branchenverbands standen 1997 über 50.000 Automaten, die in den Spielhallen mehr als 100 Milliarden Yen einspielten, 1998 fiel dieser Umsatz auf weniger als die Hälfte. Die frühen Geräte nahmen mit CCD-Kameras, wie sie auch zur Überwachung dienten, nur Brustbilder auf und druckten sie als kleine Aufkleber auf einen Bogen; um 1998 kamen Ganzkörperaufnahmen und das Bemalen mit dem Eingabestift hinzu, 1999 ein Gerät von Omron mit einer in acht Stufen regelbaren High-Key-Ausleuchtung, die die Haut weiß erscheinen ließ. Schülerinnen tauschten die Aufkleber untereinander und klebten sie in Alben, die Puri-chō; ab 2007 vergrößerte die Bildbearbeitung die Augen, ab 2011 wandte sich die Branche einem natürlicheren Aussehen zu. Seit etwa 2010 arbeiten die Automaten mit handelsüblichen digitalen Spiegelreflexkameras, gedruckt wird im Thermosublimationsverfahren; bis 2016 sank ihre Zahl auf rund 11.000.",
+  "markers": [
+   "Schattenloses, überhelles Blitzlicht von vorn: ausgefressene Lichter auf Stirn und Wangen, blasse Haut",
+   "Ein Bogen, durch weiße Schnittlinien in mehrere unterschiedlich große Bildfelder geteilt, jedes eine andere Aufnahme derselben Sitzung",
+   "Mit dem Stift aufgemalte dicke Neon- oder Glitzerlinien mit weißem Rand: Herzen, Sterne, Glitzerfunken, um die Figur gezogene Umrisse",
+   "Per Farbstanze eingesetzte Pastellmuster- oder Glitzerhintergründe mit leichtem Farbsaum an Haar und Schultern",
+   "Enger Brustbildausschnitt, nah an der Kamera und leicht von oben",
+   "Glänzender, leicht weicher Druck mit kleinen Stempelmotiven in den Ecken"
+  ],
+  "escapes": "Das übliche KI-Porträt modelliert ein einzelnes, mittig gesetztes Gesicht mit warmem Seitenlicht und geringer Schärfentiefe. Purikura setzt dagegen frontales Blitzlicht ohne Modellierschatten, einen sichtbar eingestanzten Musterhintergrund statt Unschärfe und einen Bogen, der die Person in mehreren Bildfeldern wiederholt. Die Kritzeleien liegen erkennbar auf dem Foto statt in der Szene und brechen die glatte, einheitliche Oberfläche auf.",
+  "pitfalls": "Die Schönheitsfunktionen der Automaten verleiten das Modell zu vergrößerten Augen, schmalem Kinn und porzellanglatter Haut, die Alter, Narben und Asymmetrie tilgen; das High-Key-Licht soll die Lichter ausfressen lassen, nicht Falten wegglätten. Oft füllen erfundene japanische oder englische Wörter die Kritzelflächen, der Bogen zeigt identische Kopien statt verschiedener Aufnahmen, oder das Gesicht ändert sich von Feld zu Feld. Ohne Vorgabe zur Bogenaufteilung entsteht ein einzelnes geschöntes Selbstporträt mit Glitzereffekt.",
+  "tip": "Anzahl und Größe der Bildfelder festlegen, angeben, was sich zwischen ihnen ändert (Haltung, Hintergrundmuster, Kritzeleien), und verlangen, dass die Kritzeleien am Rand und im Hintergrund bleiben, nicht über Augen, Mund oder besonderen Merkmalen des Gesichts.",
+  "sensitivity": "„Print Club“ und „Purikura“ sind eingetragene Marken von Sega; der Name gehört nicht auf den Bogen. Die Funktionen zum Aufhellen der Haut und Vergrößern der Augen stehen für enge Schönheitsnormen und sollten nicht auf die dargestellte Person angewendet werden."
+ },
+ "en": {
+  "name": "Purikura (photo sticker)",
+  "aka": [
+   "Print Club",
+   "photo sticker booth",
+   "puri"
+  ],
+  "era": "from 1995, Japan; heyday around 2000",
+  "summary": "A Japanese photo-booth sticker sheet: blown-out faces, pastel backdrops, scribbled hearts and stars across several frames; in the catalog because sheet layout and doodles break up the centred single portrait.",
+  "origin": "The first photo-sticker machine, Print Club (Purinto Kurabu in Japanese, shortened to purikura), was developed by the Tokyo game company Atlus with Sega, shown at the AOU Amusement Expo trade fair in February 1995 and installed in Japanese game centres from July 1995. After a television programme made it known, it became a mass success in 1996; according to the Japanese amusement industry association, more than 50,000 machines were installed by 1997 and took over 100 billion yen in game centres that year, a figure that fell to less than half in 1998. The early machines photographed users from the chest up with CCD cameras of the kind also used for surveillance and printed the pictures as small stickers on a sheet; around 1998 full-body shots and stylus drawing were added, and in 1999 a machine by Omron offered high-key lighting adjustable in eight steps that made skin look white. Schoolgirls swapped the stickers among themselves and stuck them into albums called puri-chō; from 2007 image processing enlarged the eyes, and from 2011 the industry turned to a more natural look. Since about 2010 the booths have used off-the-shelf digital SLR cameras, with prints made by dye sublimation; by 2016 the number of machines had fallen to about 11,000.",
+  "markers": [
+   "Shadowless, overbright frontal flash: burnt-out highlights on forehead and cheeks, pale skin",
+   "One sheet divided by white cut lines into several frames of different sizes, each a different take from the same session",
+   "Thick neon or glitter stylus lines with a white edge: hearts, stars, sparkles, outlines traced around the figure",
+   "Chroma-keyed pastel-pattern or glitter backgrounds with a faint colour fringe along hair and shoulders",
+   "Tight chest-up framing, close to the camera and slightly from above",
+   "Glossy, slightly soft print with small stamped icons in the corners"
+  ],
+  "escapes": "The usual AI portrait models one centred face with warm side light and shallow depth of field. Purikura counters this with frontal flash without modelling shadows, an obviously keyed-in pattern background instead of blur and a sheet that repeats the sitter in several frames. The doodles sit visibly on top of the photo rather than in the scene and break up the smooth, uniform surface.",
+  "pitfalls": "The booths' beauty functions pull the model towards enlarged eyes, slimmed jaws and porcelain skin that erase age, scars and asymmetry; the high-key light should blow out highlights, not smooth away wrinkles. Invented Japanese or English words often fill the doodle space, the sheet shows identical copies instead of different takes, or the face changes from frame to frame. Without a layout instruction the result becomes a single glamorised selfie with a glitter effect.",
+  "tip": "State the number and sizes of the frames, what changes between them (pose, background pattern, doodles) and that the doodles stay on the edges and background, away from the eyes, mouth and distinguishing features of the face.",
+  "sensitivity": "“Print Club” and “Purikura” are registered trademarks of Sega, so the name does not belong on the sheet. The booths’ skin-whitening and eye-enlarging functions reflect narrow beauty norms and should not be applied to the person depicted."
+ },
+ "sources": [
+  {
+   "title": "Photo booth (section Purikura) – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Photo_booth#Purikura"
+  },
+  {
+   "title": "プリント倶楽部 (Print Club) – Wikipedia (ja)",
+   "url": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%80%B6%E6%A5%BD%E9%83%A8"
+  },
+  {
+   "title": "プリントシール機20年史 (20 years of photo-sticker machines) – Japan Amusement Industry Association (PDF)",
+   "url": "https://jaia.jp/wp-content/uploads/2019/12/JAMMA-PRI3-1.pdf"
+  },
+  {
+   "title": "How ‘playing Puri’ paved the way for Snapchat – BBC Worklife, 2018",
+   "url": "https://www.bbc.com/worklife/article/20181119-why-playing-puri-was-the-precursor-for-snapchat"
+  }
+ ]
+}

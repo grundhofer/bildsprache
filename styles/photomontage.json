@@ -1,0 +1,68 @@
+{
+ "slug": "photomontage",
+ "style_block": "A hand-made photomontage as pasted up by Berlin Dadaists and Moscow Constructivists between 1918 and the 1930s. Medium: coarse black-and-white halftone photographs, cut hard with scissors and knife, some silhouetted, some left rectangular; flat red and black paper shapes; yellowed card ground; lifted edges, glue wrinkles. Composition: no shared perspective or horizon; fragments at clashing scales, a giant cropped head or hand beside tiny whole figures; driven along one or two steep diagonals; bare card between pieces; every join visible. Lettering, where text is needed: bold condensed sans-serif capitals in black or red, each word printed whole, stacked diagonally or vertically between heavy bars, overlapping photographs. Information, where a diagram, map or chart is shown: photographs beside large numerals, linked by arrows and thick red bars. Avoid seamless digital compositing, colour photographs, a centred figure before a sun disc, ransom-note letters, torn-paper zine collage and tidy grid posters.",
+ "de": {
+  "name": "Fotomontage",
+  "aka": [
+   "Dada-Fotomontage",
+   "Konstruktivistische Fotomontage",
+   "Fotocollage"
+  ],
+  "era": "1918–1930er-Jahre, Berlin und Moskau",
+  "summary": "Aus Illustrierten geschnittene Schwarzweißfotos in harten Maßstabssprüngen, mit roten Flächen und fetter Groteskschrift schräg auf Karton geklebt; im Katalog, weil sichtbare Schnittkanten jede nahtlose Bildmontage ausschließen.",
+  "origin": "Mehrere Berliner Dadaisten beanspruchten die Erfindung der Fotomontage für sich: George Grosz schrieb sie sich und John Heartfield zu und datierte sie auf einen Maimorgen 1916; Raoul Hausmann schrieb 1958, ihm sei die Idee im Sommer 1918 bei einem Ostseeurlaub mit Hannah Höch gekommen, als er im Gästezimmer ein Soldatenbild sah, auf das der Gastgeber fünfmal den fotografierten Kopf seines Sohnes geklebt hatte. Höch zeigte ihre Montage „Schnitt mit dem Küchenmesser Dada durch die letzte Weimarer Bierbauchkulturepoche Deutschlands“ auf der Ersten Internationalen Dada-Messe, die vom 30. Juni bis 25. August 1920 in der Kunsthandlung Dr. Otto Burchard in Berlin stattfand und zu deren Veranstaltern Heartfield als „Monteurdada“ gehörte. In Moskau veröffentlichte Alexander Rodtschenko 1923 seine erste Fotomontage als Illustration zu Wladimir Majakowskis Poem „Pro eto“ („Darüber“), und Gustav Klucis und Valentina Kulagina setzten die Technik für Propagandaplakate ein. Von 1930 bis 1938 schuf Heartfield Fotomontagen gegen den Nationalsozialismus, viele davon als Titelblätter der Arbeiter-Illustrierten-Zeitung (AIZ).",
+  "markers": [
+   "Schwarzweißfotos aus Illustrierten mit sichtbarem Raster, hart mit Schere oder Messer ausgeschnitten, teils entlang der Kontur, teils als Rechteck",
+   "harte Maßstabssprünge: ein riesiger, angeschnittener Kopf oder eine Hand neben winzigen ganzen Figuren, ohne gemeinsame Perspektive",
+   "steile Diagonalen, an denen Bildteile und Schrift ausgerichtet sind",
+   "flache Flächen aus rotem und schwarzem Papier auf vergilbtem Karton, dazwischen freier Grund",
+   "fette, schmale Groteskschrift in Versalien, schwarz oder rot, schräg oder senkrecht gestellt, zwischen kräftigen Balken und über den Fotos",
+   "sichtbare Klebestellen: abstehende Ränder, vom Leim gewelltes Papier, leicht verschobene Teile"
+  ],
+  "escapes": "Ohne Stilangabe verschmilzt das Modell Bildteile nahtlos, mit einheitlichem Licht, weichen Übergängen und einer mittig stehenden Hauptfigur vor Sonnenscheibe und Horizont. In der Fotomontage bleibt jede Fuge als Schnittkante sichtbar, Licht, Raster und Maßstab wechseln von Teil zu Teil, und die steile Diagonale ersetzt die symmetrische Mitte. Die Schrift ist Teil der Montage und keine nachträglich aufgelegte Titelzeile.",
+  "pitfalls": "Häufig entsteht eine glatte digitale Bildmontage oder eine farbige, surreale Fotomanipulation, deren Kanten weich ineinanderlaufen, oder umgekehrt eine Bastelcollage aus gerissenem Papier, Klebeband und Zeitungsschnipseln wie in einem Punk-Fanzine. Ausgeschnittene Einzelbuchstaben und Zeitungsfragmente werden oft zu Fantasietext; den vorgegebenen Text daher in großen, sauber gesetzten Versalien verlangen und auf Fließtextfragmente verzichten. Gesichter aus groben Rasterfotos geraten leicht verzerrt.",
+  "tip": "Den Maßstabsbruch ausdrücklich beschreiben, etwa „riesiger, angeschnittener Kopf neben winzigen ganzen Figuren“, und verlangen, dass jede Fuge als harte Schnittkante sichtbar bleibt; sonst glättet das Modell die Montage zu einem einheitlichen Foto.",
+  "sensitivity": "Die Technik ist eng mit politischer Agitation verbunden, mit antifaschistischen Montagen ebenso wie mit stalinistischer Propaganda. Hakenkreuz, Hammer und Sichel, Fahnen und Köpfe realer Politiker gehören nicht ins Bild; bekannte historische Montagen sollen nicht nachgebildet werden."
+ },
+ "en": {
+  "name": "Photomontage",
+  "aka": [
+   "Dada photomontage",
+   "Constructivist photomontage",
+   "photo collage"
+  ],
+  "era": "1918–1930s, Berlin and Moscow",
+  "summary": "Black-and-white photographs cut from magazines, glued diagonally onto card at clashing scales with red shapes and block lettering; in the catalog because visible cut edges rule out seamless compositing.",
+  "origin": "Several Berlin Dadaists claimed to have invented photomontage: George Grosz credited himself and John Heartfield and dated the invention to a May morning in 1916, while Raoul Hausmann wrote in 1958 that the idea came to him in summer 1918 on a Baltic holiday with Hannah Höch, when he saw a picture of soldiers in the guest room onto which the host had glued the photographed head of his son five times. Höch showed her montage 'Cut with the Kitchen Knife Dada through the Last Weimar Beer-Belly Cultural Epoch of Germany' at the First International Dada Fair, held from 30 June to 25 August 1920 at Dr. Otto Burchard's gallery in Berlin, whose organisers included Heartfield as 'Monteurdada'. In Moscow Alexander Rodchenko published his first photomontage in 1923, illustrating Vladimir Mayakovsky's poem 'Pro eto' ('About This'), and Gustav Klutsis and Valentina Kulagina used the technique for propaganda posters. From 1930 to 1938 Heartfield made photomontages against National Socialism, many of them as covers of the Arbeiter-Illustrierte-Zeitung (AIZ).",
+  "markers": [
+   "black-and-white magazine photographs with a visible halftone screen, cut hard with scissors or knife, some along the contour, some as rectangles",
+   "clashing scales: a giant cropped head or hand beside tiny whole figures, with no shared perspective",
+   "steep diagonals along which image fragments and lettering are aligned",
+   "flat areas of red and black paper on yellowed card, with bare ground between them",
+   "bold condensed block capitals in black or red, set at a slant or vertically, between heavy bars and over the photographs",
+   "visible pasting: lifted edges, glue wrinkles, slightly shifted pieces"
+  ],
+  "escapes": "Without a style prompt, the model merges image parts seamlessly, with uniform light, soft transitions and a centred main figure before a sun disc and horizon. In photomontage every join stays visible as a cut edge, light, screen and scale change from piece to piece, and the steep diagonal replaces the symmetrical centre. The lettering is part of the montage, not a title laid on top afterwards.",
+  "pitfalls": "Often the result is a smooth digital composite or a surreal colour photo manipulation whose edges melt into each other, or, at the other extreme, a craft collage of torn paper, tape and newspaper scraps like a punk zine. Cut-out single letters and newspaper fragments often turn into nonsense text, so ask for the given text in large, cleanly set capitals and leave out body-text fragments. Faces taken from coarse halftone photographs easily come out distorted.",
+  "tip": "Describe the break in scale explicitly, for example 'a giant cropped head beside tiny whole figures', and require every join to stay visible as a hard cut edge; otherwise the model smooths the montage into one uniform photograph.",
+  "sensitivity": "The technique is closely tied to political agitation, to anti-fascist montages as much as to Stalinist propaganda. Swastikas, hammer and sickle, flags and the heads of real politicians stay out of the image, and well-known historical montages should not be recreated."
+ },
+ "sources": [
+  {
+   "title": "Photomontage – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Photomontage"
+  },
+  {
+   "title": "Raoul Hausmann – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Raoul_Hausmann"
+  },
+  {
+   "title": "Erste Internationale Dada-Messe – Wikipedia (de)",
+   "url": "https://de.wikipedia.org/wiki/Erste_Internationale_Dada-Messe"
+  },
+  {
+   "title": "Alexander Rodchenko – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Alexander_Rodchenko"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "slug": "modern-ai-default-look",
+ "style_block": "A generic text-to-image render: the default output of consumer AI image generators, posted worldwide since 2022. Medium: photoreal digital image like a retouched full-frame digital photograph: 85 mm lens at f/1.4, warm golden backlight from a low sun outside the frame, glowing rim light on hair and shoulders, soft frontal fill; teal-and-orange grade, high contrast and saturation, volumetric haze; poreless waxy skin, clear glossy eyes with crisp catchlights, spotless glossy materials, uniformly crisp detail. Composition: subject dead centre at eye level, symmetrical and heroic, posed like an advertisement; background dissolved into creamy bokeh discs or a blurred sunset. Lettering, where text is needed: clean bold geometric sans-serif, centred, with a faint glow. Avoid any trace of a real medium (film grain, brushwork, paper, lens flaws), flat or harsh light, off-centre framing, painterly fantasy concept art and glossy 3D cartoon figures; keep every described feature, mark and object, only smoothed.",
+ "de": {
+  "name": "Generischer KI-Look",
+  "aka": [
+   "KI-Slop",
+   "KI-Ästhetik",
+   "KI-Hochglanz"
+  ],
+  "era": "seit 2022, kommerzielle Bildgeneratoren weltweit",
+  "summary": "Mittig gesetzte Figur in goldenem Gegenlicht, wachsglatte Haut, weich verschwommener Hintergrund, Orange-Blaugrün-Farbgebung; im Katalog als Negativbeispiel für den austauschbaren Hochglanz, auf den Bildgeneratoren zurückfallen.",
+  "origin": "Bildgeneratoren, die aus einer Textbeschreibung ein Bild errechnen, erreichten 2022 ein breites Publikum: OpenAI stellte im April DALL·E 2 vor, im Juli ging Midjourney in eine offene Betaphase, im August wurde Stable Diffusion öffentlich freigegeben; im März 2025 kam die Bilderzeugung mit GPT-4o in ChatGPT hinzu. Schon die Trainingsdaten wurden nach Gefälligkeit gefiltert: Stable Diffusion wurde ab Version 1.2 auf einer Auswahl aus dem Bilddatensatz LAION weitertrainiert, die nur Bilder mit einer automatisch geschätzten Ästhetikbewertung über 5 enthielt. Alexandre Declos beschrieb 2026 im Journal of Aesthetics and Art Criticism mehrere ästhetische Verzerrungen der Modelle, darunter eine Neigung zu Symmetrie und Ordnung und eine zu Sättigung und Kontrast, die vielen Bildern einen „Instagram-Look“ gebe – glatt, farbig und leicht künstlich –, wahrscheinlich übernommen aus dem überhöhten Anteil von Werbefotos und Instagram-Selfies in den Trainingsdaten. Weil knappe Prompts zu Kitsch neigen und die Ergebnisse oft als sentimental, flach und eintönig gelten, sprechen laut Declos manche von „algorithmischem Kitsch“ oder „AI Slop“. Eine Studie um Maty Bohacek (Stanford University) verglich 2026 insgesamt 26 Bildmodelle aus vier Jahren und fand einen durchgängigen Zug zur Lifestyle- und Magazinfotografie statt zu künstlerischen Bildern; der durchschnittliche Abstand zwischen den Modellfamilien sank in diesem Zeitraum um etwa ein Viertel.",
+  "markers": [
+   "Mittiger, symmetrischer Bildaufbau auf Augenhöhe, die Figur wie auf einem Werbefoto genau in der Bildmitte",
+   "Warmes, goldenes Gegenlicht mit leuchtendem Lichtsaum an Haaren und Schultern, dessen Quelle nirgends im Bild zu sehen ist",
+   "Farbgebung in Orange und Blaugrün („Teal and Orange“) mit hohem Kontrast und kräftiger Sättigung",
+   "Porenlose, wachsglatte Haut, glänzend klare Augen mit scharfen Glanzlichtern, makellose Stoffe und Oberflächen",
+   "Sehr geringe Schärfentiefe: Hintergrund in weiche Lichtkreise oder einen verschwommenen Sonnenuntergang aufgelöst, oft mit leichtem Dunst",
+   "Gleichmäßig scharfe, leicht überschärfte Details an der Figur, ohne Korn, Pinselspur oder erkennbares Medium"
+  ],
+  "escapes": "Der Look wirkt künstlich, weil er die Kunstgriffe mehrerer Bildgattungen häuft, die selten zusammenkommen: die geringe Schärfentiefe eines lichtstarken Porträtobjektivs, die Orange-Blaugrün-Farbkorrektur des Hollywoodkinos, die retuschierte Haut der Kosmetikwerbung, das goldene Gegenlicht und die mittige Pose der Werbefotografie, alles zugleich und unabhängig vom Thema. Es fehlt jede Spur eines Mediums – kein Korn, kein Papier, kein Pinselstrich, kein Linsenfehler –, und Licht, Pose und Farbe sind jedes Mal gleich gefällig. Zusammen und tausendfach in sozialen Netzwerken und Bilddatenbanken wiederholt, verraten diese Merkmale ein Bild, dessen Aussehen niemand gewählt hat.",
+  "pitfalls": "Die Vorgabe im Katalog-Prompt, niemanden zu verschönern oder zu retuschieren, arbeitet diesem Stil direkt entgegen; die Ergebnisse schwanken deshalb zwischen zwei Fehlern: Entweder verschwinden Narben, Falten und Asymmetrien ganz im Glanz, oder die Vorgabe setzt sich durch und es entsteht ein gewöhnliches, gut ausgeleuchtetes Porträtfoto ohne den typischen Schimmer. Weil aktuelle Modelle ohne Vorgabe eher zu sauberer Lifestyle- und Magazinfotografie neigen, muss jeder Bestandteil des Looks genannt werden; Wörter wie „episch“ oder „Fantasy“ lassen ihn dagegen in gemalte Concept Art oder eine glänzende 3D-Trickfilmfigur kippen. Zu prüfen ist, ob das Licht golden von hinten kommt, die Haut wachsglatt, der Hintergrund aufgelöst und die Figur mittig ist und ob die beschriebenen Merkmale noch zu sehen sind, nur geglättet.",
+  "tip": "Den Look in seine Bestandteile zerlegen und jeden ausdrücklich vorgeben: mittiger Bildaufbau auf Augenhöhe, goldenes Gegenlicht mit Lichtsaum, Orange und Blaugrün, offene Blende mit aufgelöstem Hintergrund, porenlose Haut. Wer ihm entgehen will, legt genau diese Punkte anders fest: Lichtquelle, Medium, Bildausschnitt und Hautstruktur.",
+  "sensitivity": "Fotorealistische Porträts in diesem Look lassen sich leicht mit Fotos echter Menschen verwechseln und sollten als KI-erzeugt gekennzeichnet bleiben; Produktnamen wie Midjourney oder DALL·E gehören nur beschreibend in den Text, nicht in den Prompt."
+ },
+ "en": {
+  "name": "Generic AI look",
+  "aka": [
+   "AI slop",
+   "AI default look",
+   "AI gloss"
+  ],
+  "era": "since 2022, commercial image generators worldwide",
+  "summary": "A centred figure in golden backlight, waxy skin, softly blurred background, teal-and-orange grade; included as a negative example of the interchangeable gloss that image generators fall back on.",
+  "origin": "Text-to-image generators reached a wide public in 2022: OpenAI presented DALL·E 2 in April, Midjourney opened its public beta in July and Stable Diffusion was released publicly in August; in March 2025 GPT-4o image generation arrived in ChatGPT. The training data were already filtered for visual appeal: from version 1.2 onwards, Stable Diffusion was trained further on a subset of the LAION image dataset that kept only pictures with an automatically estimated aesthetic score above 5. In 2026 Alexandre Declos described several aesthetic biases of image generators in the Journal of Aesthetics and Art Criticism, among them a 'symmetry/order bias' and a 'saturation/contrast bias' that gives many pictures an 'Instagram look' – polished, colourful and slightly fake – probably inherited from the overrepresentation of advertising pictures and Instagram selfies in the training data. Because minimal prompts tend towards kitsch and the results are often seen as sentimental, shallow and repetitive, he notes, some speak of 'algorithmic kitsch' or 'AI slop'. A 2026 study led by Maty Bohacek (Stanford University) compared 26 image models from four years and found a uniform pull toward lifestyle and editorial photography rather than artistic imagery; over that period the average distance between model families shrank by about a quarter.",
+  "markers": [
+   "Centred, symmetrical framing at eye level, the figure exactly in the middle of the picture as in an advertising photo",
+   "Warm golden backlight with a glowing rim on hair and shoulders, from a source that is nowhere in the scene",
+   "Teal-and-orange grade with high contrast and strong saturation",
+   "Poreless, waxy skin, clear glossy eyes with crisp catchlights, spotless fabrics and surfaces",
+   "Very shallow depth of field: background dissolved into soft discs of light or a blurred sunset, often with a light haze",
+   "Uniformly crisp, slightly over-sharpened detail on the figure, without grain, brushwork or any recognisable medium"
+  ],
+  "escapes": "The look reads as AI because it stacks the tricks of several kinds of picture that rarely meet: the shallow focus of a fast portrait lens, the teal-and-orange grade of Hollywood cinema, the retouched skin of cosmetics advertising, the golden backlight and centred pose of commercial photography, all at once and regardless of subject. It shows no trace of a medium – no grain, no paper, no brushstroke, no lens flaw – and its light, pose and colour are equally pleasing every time. Together, and repeated thousands of times across social media and stock libraries, these tells mark a picture whose look nobody chose.",
+  "pitfalls": "The catalog prompt's guard against beautifying or retouching anyone works directly against this style, so results swing between two failures: either scars, wrinkles and asymmetries vanish completely in the gloss, or the guard wins and the result is an ordinary, well-lit portrait photograph without the typical sheen. Because current models left to themselves lean toward cleaner lifestyle and editorial photography, every component of the look has to be named; words such as 'epic' or 'fantasy' instead tip it into painterly concept art or a glossy 3D cartoon figure. Check whether the light is golden and from behind, the skin waxy, the background dissolved and the figure centred, and whether the described features are still visible, only smoothed.",
+  "tip": "Break the look into its parts and set each one explicitly: centred framing at eye level, golden backlight with a rim, teal and orange, wide-open aperture with a dissolved background, poreless skin. To escape it, fix exactly these points differently: light source, medium, framing and skin texture.",
+  "sensitivity": "Photorealistic portraits in this look are easily mistaken for photographs of real people and should stay labelled as AI-generated; product names such as Midjourney or DALL·E belong only in descriptive text, not in the prompt."
+ },
+ "sources": [
+  {
+   "title": "Text-to-image model – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Text-to-image_model"
+  },
+  {
+   "title": "Stable Diffusion v1-4 model card (training data) – CompVis, Hugging Face",
+   "url": "https://huggingface.co/CompVis/stable-diffusion-v1-4"
+  },
+  {
+   "title": "Alexandre Declos: AI and Aesthetic Bias, The Journal of Aesthetics and Art Criticism, 2026",
+   "url": "https://academic.oup.com/jaac/advance-article/doi/10.1093/jaac/kpag027/8661496"
+  },
+  {
+   "title": "Bohacek et al.: Characterizing the Aesthetic Defaults of Generative Image Models, 2026",
+   "url": "https://louvresae.github.io/"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "slug": "modern-jazz-record-sleeve",
+ "style_block": "A modern-jazz LP sleeve front from an independent New York label, 1956–1967, pasted up from photostats. Medium: grainy high-contrast black-and-white flash photograph printed in one flat ink, blue, orange or olive; black plus one or two inks; fine halftone, slight misregistration, faint ring wear. Composition: the design fills the whole format, flat and straight on; asymmetric grid of hard rectangles; photograph cropped radically to a fragment, pushed to an edge or cut to a strip; big solid colour blocks, empty space. Lettering, where text is needed: bold condensed sans-serif capitals, tight, huge beside tiny, stacked, cut by the edge, butting against the photo. Information, where a diagram, map or chart is shown: small sans capitals in a ruled flush-left column. Avoid flying notes, saxophone silhouettes, smoky clubs, a centred hero under a sun disc, glossy gradients, sleeve mockups, Swiss grid posters, record-label logos, label trade dress and catalogue numbers.",
+ "de": {
+  "name": "Jazz-Plattencover der 1950er- und 60er-Jahre",
+  "aka": [
+   "Hard-Bop-Cover",
+   "Modern-Jazz-Plattenhülle",
+   "Jazz-LP-Hülle"
+  ],
+  "era": "um 1956–1967, New York",
+  "summary": "Quadratische Plattenhülle mit körnigem, einfarbig getöntem Schwarz-Weiß-Foto, hartem Anschnitt und fetter Groteskschrift; im Katalog, weil Foto, Farbflächen und Schrift ein asymmetrisches Raster bilden.",
+  "origin": "Alex Steinweiss, 1938 als erster künstlerischer Leiter von Columbia Records eingestellt, gilt als Erfinder der illustrierten Plattenhülle; mit der 1948 eingeführten Langspielplatte bot die quadratische Hülle von gut 31 Zentimetern Kantenlänge eine große Fläche für Grafikdesign. Um 1956 holte die 1939 von Alfred Lion mitgegründete New Yorker Jazz-Plattenfirma Blue Note den Grafiker Reid Miles (1927–1993), der ihre Hüllen bis 1967 gestaltete. Miles verwendete Schwarz-Weiß-Fotos, die der aus Berlin emigrierte Francis Wolff (1907–1971) bei den Aufnahmesitzungen machte, schnitt sie eng zu, setzte sie sehr groß oder sehr klein, tönte sie ein und kombinierte sie mit serifenlosen Schriften und großen Farbblöcken in einer knappen Palette aus oft nur Schwarz, Weiß und einer Farbe; die Gestaltung knüpft an das Bauhaus an. Zu seinen bekannten Hüllen gehören Kenny Burrells „Midnight Blue“ (1963) und Eric Dolphys „Out to Lunch!“ (1964).",
+  "markers": [
+   "Quadratische Kartonhülle von gut 31 Zentimetern Kantenlänge mit ringförmigem Abrieb durch die Platte und bestoßenen Kanten",
+   "Körniges, kontrastreiches Schwarz-Weiß-Foto aus der Aufnahmesitzung, einfarbig getönt gedruckt",
+   "Harter, asymmetrischer Anschnitt: das Foto nur als Ausschnitt, an den Rand gedrängt oder zu einem schmalen Streifen beschnitten",
+   "Fette Groteskversalien in schmalen oder breiten Schnitten, in stark wechselnden Größen gestapelt, wiederholt oder vom Rand angeschnitten",
+   "Vollflächige rechteckige Farbblöcke und große leere Flächen in einer Palette aus Schwarz, Weiß und einer oder zwei Farben",
+   "Feines, sichtbares Druckraster und leichter Passerversatz durch den Druck mit wenigen Farben"
+  ],
+  "escapes": "Ohne Stilangabe baut das Modell ein Festivalplakat als mittige, weich beleuchtete Szene; beim Stichwort Jazz kommen meist eine Saxofonsilhouette im Rauch, fliegende Noten oder eine Sonnenscheibe über dem Meer hinzu, und der Text wird in beliebiger Schrift darüber und darunter gestapelt. Die Jazz-Plattenhülle ersetzt diesen Aufbau durch ein hart angeschnittenes, einfarbig getöntes Foto, rechteckige Farbflächen und eine Schrift, die so viel Gewicht hat wie das Bild und mit ihm verzahnt ist; dadurch ändert sich der Bildaufbau, nicht nur die Oberfläche.",
+  "pitfalls": "Das Stichwort Jazz zieht Klischees an: Saxofone auch dort, wo eine Trompete verlangt ist, Notenschlüssel, Klaviertasten, verrauchte Bars und Neonlicht. Außerdem erfindet das Modell gern Firmenzeichen, Katalognummern, Stereo-Vermerke und Titellisten in den Ecken und verdoppelt oder verschreibt Wörter, sobald Schrift gestapelt oder wiederholt werden soll; zu prüfen ist, ob nur der vorgegebene Text erscheint. Die Tönung gerät leicht zum glatten digitalen Duplex ohne Korn und Raster; manchmal kippt das ganze Bild in eine flache Vektorillustration, oder das Modell zeigt eine Plattenhülle als Gegenstand, statt das Format mit der Gestaltung zu füllen.",
+  "tip": "Anschnitt, Lage und Zahl der Farben ausdrücklich vorgeben, etwa „Foto bis auf Hände und Instrument angeschnitten, an den linken Rand gedrängt, orange getönt; nur zwei Druckfarben plus Schwarz“; sonst setzt das Modell das Foto vollflächig und mittig.",
+  "sensitivity": "Der Stil ist eng mit dem Erscheinungsbild einer bis heute bestehenden Jazz-Plattenfirma verbunden; ihr Name, ihr Firmenzeichen, Katalognummern und echte Albumtitel gehören weder in den Prompt noch ins Bild. Die Musiker auf den historischen Hüllen waren überwiegend Afroamerikaner; erzeugte Figuren sollten nicht zu klischeehaften Silhouetten werden."
+ },
+ "en": {
+  "name": "Modern Jazz Record Sleeve",
+  "aka": [
+   "Hard bop sleeve",
+   "1950s jazz LP cover",
+   "Jazz album cover"
+  ],
+  "era": "c. 1956–1967, New York",
+  "summary": "Square sleeve with a grainy, single-colour-tinted black-and-white photo, hard crop and bold sans-serif type; in the catalog because photo, colour blocks and type form one asymmetric grid.",
+  "origin": "Alex Steinweiss, hired by Columbia Records in 1938 as its first art director, is credited with inventing the illustrated record cover; with the long-playing record introduced in 1948, the square sleeve, about 31 cm across, offered a large surface for graphic design. Around 1956 the New York jazz label Blue Note, co-founded by Alfred Lion in 1939, hired the designer Reid Miles (1927–1993), who designed its covers until 1967. Miles used black-and-white photographs taken at recording sessions by the Berlin-born emigrant Francis Wolff (1907–1971), cropped them tightly, set them very large or very small, tinted them and combined them with sans-serif type and large blocks of colour in a restricted palette, often just black, white and one colour, an approach influenced by the Bauhaus. Among his best-known covers are Kenny Burrell's 'Midnight Blue' (1963) and Eric Dolphy's 'Out to Lunch!' (1964).",
+  "markers": [
+   "Square cardboard sleeve about 31 cm across, with ring wear from the record and worn edges",
+   "Grainy, high-contrast black-and-white session photograph, printed tinted in a single colour",
+   "Hard asymmetric crop: the photo shown only as a fragment, pushed to an edge or cut down to a narrow strip",
+   "Bold sans-serif capitals in condensed or extended cuts, stacked in sharply contrasting sizes, repeated or cut off by the edge",
+   "Solid rectangular blocks of colour and large empty areas in a palette of black, white and one or two colours",
+   "Fine visible halftone screen and slight misregistration from printing with few inks"
+  ],
+  "escapes": "Without a style, the model builds a festival poster as a centred, softly lit scene; the word jazz usually adds a saxophone silhouette in smoke, flying notes or a sun disc over the sea, and the text is stacked above and below in an arbitrary typeface. The jazz sleeve replaces this with a hard-cropped photo tinted in one colour, rectangular colour fields and type that carries as much weight as the image and locks into it, so the structure of the picture changes, not just its surface.",
+  "pitfalls": "The word jazz attracts clichés: saxophones even where a trumpet is asked for, clefs, piano keys, smoky bars and neon. The model also likes to invent company marks, catalogue numbers, stereo banners and track lists in the corners, and doubles or misspells words as soon as type is stacked or repeated; check that only the given text appears. The tint easily becomes a smooth digital duotone without grain or halftone; sometimes the whole image tips into flat vector illustration, or the model shows a record sleeve as an object instead of filling the format with the design.",
+  "tip": "State the crop, position and number of inks explicitly, for example 'photo cropped to hands and instrument, pushed to the left edge, tinted orange; only two inks plus black'; otherwise the model runs the photo full-bleed and centred.",
+  "sensitivity": "The style is closely tied to the visual identity of a jazz label that still exists; its name, logo, catalogue numbers and real album titles belong neither in the prompt nor in the image. The musicians on the historical sleeves were mostly African American; generated figures should not become stereotyped silhouettes."
+ },
+ "sources": [
+  {
+   "title": "Blue Note Records – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Blue_Note_Records"
+  },
+  {
+   "title": "Reid Miles – Wikipedia (deutsch)",
+   "url": "https://de.wikipedia.org/wiki/Reid_Miles"
+  },
+  {
+   "title": "Francis Wolff – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Francis_Wolff"
+  },
+  {
+   "title": "Album cover – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Album_cover"
+  }
+ ]
+}

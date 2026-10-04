@@ -1,0 +1,70 @@
+{
+ "slug": "push-processed-black-and-white-film",
+ "style_block": "A black-and-white 35mm reportage photograph from 1960s–70s photojournalism in Europe, the USA or Japan, on fast film exposed two stops under and push-processed. Medium: handheld camera, wide-angle lens; coarse gritty grain over every surface, skies included; hard contrast with few midtones, blocked shadows and blown highlights; available light only, from windows, street lamps or bare bulbs; slight motion blur and camera shake; uncropped full frame. Composition: caught mid-action, never posed; tilted handheld horizon; foreground objects cut by the frame edge; subject off-centre; deep focus. Lettering, where text is needed: plain condensed sans-serif or typewriter type in a white band, like a 1960s documentary-film poster. Avoid clean digital monochrome, even noise over fully detailed shadows, HDR clarity, studio lighting, creamy bokeh and centred hero framing.",
+ "de": {
+  "name": "Push-entwickelter Schwarzweißfilm (Tri-X)",
+  "aka": [
+   "Gepushter Tri-X",
+   "Push-Entwicklung",
+   "Forcierte Entwicklung",
+   "Körnige Reportagefotografie"
+  ],
+  "era": "1950er- bis 1980er-Jahre, Bildjournalismus in Europa, den USA und Japan",
+  "summary": "Grobkörnige Kleinbildreportage in hartem Schwarzweiß mit zugelaufenen Schatten und ausgefressenen Lichtern; im Katalog, weil Korn, schiefer Horizont und Bewegungsunschärfe das glatte, geordnete Standardfoto aufbrechen.",
+  "origin": "Kodak brachte den Schwarzweißfilm Tri-X um 1940 als Planfilm heraus und 1954 auch als Kleinbild- und Rollfilm; um 1960 stieg seine Nennempfindlichkeit von 200 auf 400 ASA, weil die ASA-Norm geändert wurde, nicht der Film. Zusammen mit Handkameras veränderte der hochempfindliche Film den Bildjournalismus und war lange einer der meistverwendeten Filme von Pressefotografen. Reichte das Licht nicht aus, belichteten sie ihn etwa auf 1600 ASA, also zwei Blendenstufen zu knapp, und glichen das durch verlängerte Entwicklung aus; diese Push-Entwicklung macht die Gradationskurve steiler, vergröbert das Korn und kostet Zeichnung in den Schatten. In Japan machten Takuma Nakahira und die anderen Fotografen der Zeitschrift „Provoke“, von der 1968 und 1969 drei Hefte erschienen, grobes Korn, Verwacklung und Unschärfe zum Programm; ihr Stil wurde als „are, bure, boke“ bekannt. Aus dem Zeitungsjournalismus ist der Film seit der Digitalfotografie weitgehend verschwunden, in der Dokumentarfotografie wird er weiter verwendet.",
+  "markers": [
+   "Grobes, deutlich sichtbares Korn, das auch Himmel und glatte Flächen aufraut",
+   "Harter Kontrast mit wenigen Mitteltönen: Schatten zu reinem Schwarz zugelaufen, Lichter zu Papierweiß ausgefressen",
+   "Nur vorhandenes Licht wie Fenster, Straßenlaternen, nackte Glühbirnen oder Gegenlicht",
+   "Momentaufnahme mitten in der Handlung statt gestellter Pose",
+   "Schiefer Horizont und vom Bildrand angeschnittene Gegenstände im Vordergrund",
+   "Leichte Bewegungs- und Verwacklungsunschärfe bei großer Schärfentiefe"
+  ],
+  "escapes": "Bildgeneratoren liefern standardmäßig ein sauberes, rauschfreies Foto mit weich modellierten Mitteltönen, verschwommenem Hintergrund und mittig gesetztem Hauptmotiv. Gepushter Film nimmt die Mitteltöne heraus, lässt Schatten zulaufen und Lichter ausfressen und überzieht alles mit grobem Korn. Große Schärfentiefe statt Freistellung, schiefer Horizont, angeschnittene Gegenstände und Bewegungsunschärfe ersetzen die ruhige, frontale Inszenierung des Hauptmotivs in der Bildmitte.",
+  "pitfalls": "Modelle legen oft nur gleichmäßiges Rauschen über ein digitales Schwarzweißbild mit HDR-artig herausgearbeiteten Details, sodass die Schatten voll durchgezeichnet bleiben, statt zuzulaufen. Ruhende Motive geraten zur sauber ausgerichteten Produktaufnahme vor unscharfem Hintergrund oder zur ruhigen Postkartenlandschaft, und Gesichter blicken gestellt in die Kamera. Auf Plakaten kehrt häufig die Sonnenscheibe über dem Horizont zurück, und das weiße Schriftband bekommt eine künstliche Abnutzungsstruktur.",
+  "tip": "Die Lichtsituation nennen, die das Pushen nötig machte, etwa Dämmerung, ein trübes Fenster oder eine nackte Glühbirne, und ausdrücklich Schatten ohne jede Zeichnung verlangen; dann entsteht der Kontrast aus dem Licht und nicht aus einem Filter.",
+  "sensitivity": "„Tri-X“ ist eine Marke von Kodak. Weil der Stil wie echte Pressefotografie wirkt, sollten erzeugte Bilder keine realen Ereignisse, Proteste oder Konflikte vortäuschen und als KI-generiert gekennzeichnet sein."
+ },
+ "en": {
+  "name": "Push-processed black-and-white film (Tri-X)",
+  "aka": [
+   "Pushed Tri-X",
+   "Push processing",
+   "Uprated film",
+   "Grainy reportage"
+  ],
+  "era": "1950s–1980s, photojournalism in Europe, the USA and Japan",
+  "summary": "Gritty 35mm reportage in harsh black and white with blocked shadows and blown highlights; in the catalog because grain, tilted horizons and motion blur break the smooth, orderly default photograph.",
+  "origin": "Kodak introduced Tri-X black-and-white film as sheet film around 1940 and in 35mm and 120 roll film in 1954; around 1960 its rated speed rose from 200 to 400 ASA because the ASA standard changed, not the film. Combined with hand-held cameras, the fast film transformed photojournalism and for a long time was one of the films most used by press photographers. When the light was too poor, they exposed it at 1600 ASA, for example, two stops under, and compensated with longer development; this push processing steepens the characteristic curve, coarsens the grain and loses detail in the shadows. In Japan, Takuma Nakahira and the other photographers of the magazine 'Provoke', of which three issues appeared in 1968 and 1969, made coarse grain, camera shake and blur a programme; their style became known as 'are, bure, boke'. Since the arrival of digital photography the film has all but disappeared from newspaper work, but it remains in use in documentary photography.",
+  "markers": [
+   "Coarse, clearly visible grain that roughens even skies and smooth surfaces",
+   "Hard contrast with few midtones: shadows blocked to solid black, highlights blown to paper white",
+   "Available light only, such as windows, street lamps, bare bulbs or backlight",
+   "Caught mid-action rather than posed",
+   "Tilted horizon and foreground objects cut off by the frame edge",
+   "Slight motion blur and camera shake combined with deep focus"
+  ],
+  "escapes": "Image generators default to a clean, noise-free photograph with smoothly modelled midtones, a blurred background and a centred hero subject. Push-processed film strips out the midtones, blocks the shadows, blows the highlights and covers everything in coarse grain. Deep focus instead of an isolated subject, a tilted horizon, cut-off objects and motion blur replace the calm, square-on, centred hero shot.",
+  "pitfalls": "Models often lay uniform noise over a digital monochrome image with HDR-like detail, so the shadows keep full detail instead of blocking up. Still subjects turn into a neatly aligned product shot against a blurred background or a calm postcard landscape, and faces look posed into the lens. On posters the sun disc over the horizon tends to return, and the white lettering band picks up a fake distressed texture.",
+  "tip": "Name the light that made pushing necessary, such as dusk, a grimy window or a bare bulb, and ask explicitly for shadows with no detail at all; the contrast then comes from the light rather than from a filter.",
+  "sensitivity": "'Tri-X' is a Kodak trademark. Because the style reads as genuine press photography, generated images should not fake real events, protests or conflicts and should be labelled as AI-generated."
+ },
+ "sources": [
+  {
+   "title": "Kodak Tri-X – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/Kodak_Tri-X"
+  },
+  {
+   "title": "Kodak Professional Tri-X 320 and 400 Films, Technical Data F-4017 (Kodak Alaris, 2016)",
+   "url": "https://business.kodakmoments.com/sites/default/files/files/products/f4017_TriX.pdf"
+  },
+  {
+   "title": "Push-Entwicklung – Wikipedia (Deutsch)",
+   "url": "https://de.wikipedia.org/wiki/Push-Entwicklung"
+  },
+  {
+   "title": "Provoke (magazine) – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/Provoke_(magazine)"
+  }
+ ]
+}

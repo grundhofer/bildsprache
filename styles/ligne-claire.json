@@ -1,0 +1,68 @@
+{
+ "slug": "ligne-claire",
+ "style_block": "A ligne claire comic-album panel, Brussels, around 1950, pen-inked and printed in flat colours. Medium: thin, steady black outlines of constant weight around every form, near and far; flat fills of sky blue, ochre, brick red, leaf green, cream; no hatching, gradients or highlights; few, flat cast shadows; even daylight. Composition: one wide framed panel at eye level, medium-long view; simplified dot-eyed cartoon figures, full length, off-centre, in profile or three-quarter, mid-action, within precisely drawn surroundings that fill the frame; everything equally sharp. Lettering, where text is needed: neat, even hand lettering only on signs in the scene; no invented balloons or captions. Information, where a diagram, map or chart is shown: flat cutaways, thin leader lines, small hand-lettered labels. Avoid soft shading, glow, blur, centred hero framing, corporate vector figures, the Marcinelle school's swelling brush line; no dog resembling a small white terrier; no quiff-haired young reporter.",
+ "de": {
+  "name": "Ligne claire",
+  "aka": [
+   "Klare Linie",
+   "Brüsseler Schule",
+   "klare lijn"
+  ],
+  "era": "1930er bis 1950er Jahre, Brüssel; Wiederbelebung um 1980",
+  "summary": "Dünne schwarze Konturen in gleichbleibender Stärke, flächige Kolorierung, vereinfachte Figuren vor genau gezeichneter Umgebung; im Katalog, weil hier Lesbarkeit statt Lichtstimmung das Bild bestimmt.",
+  "origin": "Den Stil entwickelte der Brüsseler Zeichner Hergé (Georges Remi, 1907–1983) in den Abenteuern von Tim und Struppi, die ab dem 10. Januar 1929 in „Le Petit Vingtième“ erschienen, der Jugendbeilage der Tageszeitung „Le Vingtième Siècle“; zu seinen Vorbildern zählten amerikanische Zeitungscomics wie die von George McManus. Weil die Druckfarbe auf dem Zeitungspapier leicht verlief, hielt Hergé seine Linien dünn und sauber und verzichtete auf Schraffuren und Schatteneffekte; ab 1942 erschienen die Alben bei Casterman farbig und mit einheitlich 62 Seiten. Im Umfeld der 1946 gegründeten Zeitschrift „Tintin“ und der 1950 eingerichteten Studios Hergé übernahmen Zeichner wie Edgar P. Jacobs, Jacques Martin und Bob de Moor, unterschiedlich streng, die gleichmäßige Kontur und die wirklichkeitsgetreuen Hintergründe; man spricht von der Brüsseler Schule. Den Namen „klare lijn“ führte ein niederländischer Comiczeichner für die Ausstellung „Kuifje in Rotterdam“ (1977) ein; international setzte sich die französische Form „ligne claire“ durch. Ende der 1970er und in den 1980er Jahren griffen niederländische und französische Zeichner den Stil wieder auf, in Frankreich unter anderen Yves Chaland und Ted Benoit.",
+  "markers": [
+   "Dünne schwarze Konturen in gleichbleibender Stärke um jede Figur und jeden Gegenstand, auch im Hintergrund",
+   "Einfarbige Flächen ohne Schraffur und ohne Farbverlauf",
+   "Kaum Schlagschatten; wo sie vorkommen, als flache, etwas dunklere Farbfläche",
+   "Vereinfachte, karikaturhafte Figuren mit Punktaugen vor genau gezeichneten Gebäuden, Fahrzeugen und Geräten",
+   "Gleichmäßiges Tageslicht, alles gleich scharf, keine Tiefenunschärfe",
+   "Sauber von Hand geschriebener Text in Sprechblasen, rechteckige Einzelbilder in regelmäßigem Raster"
+  ],
+  "escapes": "Der Stil schließt das weiche, volumetrische Licht, die Glanzlichter auf der Haut und die Hintergrundunschärfe aus, an denen man KI-Bilder oft erkennt: Jede Form ist umrissen und flächig gefüllt, Vorder- und Hintergrund sind gleich scharf. Statt einer mittig herausgestellten Hauptfigur zeigt das Bild ganze Figuren in einer genau gezeichneten Umgebung, wie ein Einzelbild im Erzählablauf eines Albums.",
+  "pitfalls": "Modelle bringen weiche Verläufe, Lichtkanten und eine Schattenseite in die Farbflächen oder ziehen die Linien zu dick und ungleichmäßig, sodass das Bild nach heutiger Digitalkolorierung oder nach dem schwungvollen Pinselstrich der Schule von Marcinelle aussieht. Ohne Vorgabe greifen sie zu den Figuren der bekanntesten Serie, einem jungen Mann mit Haartolle und Knickerbocker und einem kleinen weißen Terrier, und setzen Sprechblasen mit erfundenem Text ins Bild. Zur anderen Seite hin kippt der Stil in konturlose Vektorgrafik mit geometrisch vereinfachten Figuren, wie sie in Werbung und Unternehmenskommunikation üblich ist.",
+  "tip": "Die gleiche Linienstärke im Vorder- wie im Hintergrund und eine flächige Kolorierung ausdrücklich verlangen und festlegen, dass die Figuren karikaturhaft vereinfacht, Gebäude und Werkzeug aber genau gezeichnet sind; Sprechblasen nur anfordern, wenn ihr Text vorgegeben ist.",
+  "sensitivity": "Der Stil ist eng mit einer berühmten belgischen Serie verbunden, deren Rechteinhaber ihre Rechte streng durchsetzen: Ihre Figuren, die Haartolle des jungen Reporters und der kleine weiße Terrier gehören nicht ins Bild, Serien- und Zeichnernamen nicht in den Prompt. Frühe Alben dieser Serie enthalten koloniale und rassistische Karikaturen, die die vereinfachte Figurenzeichnung nicht übernehmen darf."
+ },
+ "en": {
+  "name": "Ligne claire",
+  "aka": [
+   "clear line",
+   "Brussels school",
+   "klare lijn"
+  ],
+  "era": "1930s to 1950s, Brussels; revival around 1980",
+  "summary": "Thin black outlines of constant weight, flat colour fields, simplified figures against precisely drawn surroundings; in the catalog because legibility, not lighting mood, governs the picture.",
+  "origin": "The style was developed by the Brussels cartoonist Hergé (Georges Remi, 1907–1983) in The Adventures of Tintin, serialised from 10 January 1929 in Le Petit Vingtième, the youth supplement of the daily Le Vingtième Siècle; his models included American newspaper strips such as those of George McManus. Because ink tended to spread on newsprint, Hergé kept his lines thin and clean and avoided hatching and shadow effects; from 1942 Casterman published the albums in colour and at a standard length of 62 pages. Around Tintin magazine, launched in 1946, and the Studios Hergé, set up in 1950, artists such as Edgar P. Jacobs, Jacques Martin and Bob de Moor adopted, with varying strictness, the even outline and realistic backgrounds; this circle is known as the Brussels school. A Dutch cartoonist introduced the name 'klare lijn' for the exhibition 'Kuifje in Rotterdam' (1977), and the French form ligne claire became the international term. In the late 1970s and the 1980s Dutch and French artists revived the style, in France among others Yves Chaland and Ted Benoit.",
+  "markers": [
+   "Thin black outlines of constant weight around every figure and object, background included",
+   "Single-colour fields without hatching or gradients",
+   "Few cast shadows; where they occur, flat, slightly darker colour shapes",
+   "Simplified cartoon figures with dot eyes against precisely drawn buildings, vehicles and equipment",
+   "Even daylight, everything equally sharp, no depth-of-field blur",
+   "Neat hand-lettered text in speech balloons, rectangular panels in a regular grid"
+  ],
+  "escapes": "The style rules out the soft volumetric light, glossy skin highlights and background blur that give AI images away: every form is outlined and filled flat, and foreground and background are equally sharp. Instead of a centred, singled-out hero, the picture shows whole figures within a precisely drawn setting, like a single panel in the flow of an album story.",
+  "pitfalls": "Models slip soft gradients, rim light and a shaded side into the colour fields, or draw the lines too thick and uneven, so the image looks like present-day digital colouring or the swinging brush line of the Marcinelle school. Unprompted, they reach for the figures of the best-known series, a quiff-haired young man in plus-fours and a small white terrier, and add speech balloons with invented text. At the other extreme the style tips into outline-free vector graphics with geometric figures, as is common in advertising and corporate communication.",
+  "tip": "Ask explicitly for the same line weight in foreground and background and for flat colouring, and state that figures are simplified as cartoons while buildings and tools are drawn precisely; request speech balloons only when their text is given.",
+  "sensitivity": "The style is closely tied to one famous Belgian series whose rights holders enforce their rights strictly: its characters, the young reporter's quiff and the small white terrier stay out of the picture, and series and artist names stay out of the prompt. Early albums of that series contain colonial and racist caricatures, which the simplified figure drawing must not adopt."
+ },
+ "sources": [
+  {
+   "title": "Ligne claire – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ligne_claire"
+  },
+  {
+   "title": "Klare lijn – Wikipedia (nl)",
+   "url": "https://nl.wikipedia.org/wiki/Klare_lijn"
+  },
+  {
+   "title": "Hergé – Lambiek Comiclopedia",
+   "url": "https://www.lambiek.net/artists/h/herge.htm"
+  },
+  {
+   "title": "The Shooting Star – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Shooting_Star"
+  }
+ ]
+}

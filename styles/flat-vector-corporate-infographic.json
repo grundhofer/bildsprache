@@ -1,0 +1,69 @@
+{
+ "slug": "flat-vector-corporate-infographic",
+ "style_block": "A flat-design vector infographic built from a stock template, as posted on company blogs worldwide in the early-to-mid 2010s. Medium: vector art, solid fills, crisp geometric edges; no outlines, texture, gradients or shading; teal, coral, navy and mustard on white or pale grey. Composition: tall, centred, mirror-symmetrical; a solid header band, then an even vertical rhythm with generous white space; each picture a white stock glyph in a solid circle badge. Lettering, where text is needed: clean sans-serif; title in bold condensed capitals on a ribbon banner; short centred labels; quantities as oversized accent-colour numerals. Information, where a diagram, map or chart is shown: numbered circle markers alternating left and right along a winding road, joined by dotted lines, colours cycling per step; steps equally sized and weighted. Avoid 3D, gloss, drop shadows, isometric views, cartoon people, photoreal cutaway objects, rounded step cards, grain, hand-drawn lines and slogans.",
+ "de": {
+  "name": "Flat-Design-Infografik",
+  "aka": [
+   "Vektor-Infografik im Corporate-Look",
+   "Infografik-Vorlage",
+   "Content-Marketing-Infografik"
+  ],
+  "era": "ab etwa 2012, Firmenblogs weltweit",
+  "summary": "Weiße Symbole in Farbkreisen, Petrol, Koralle, Marineblau und Senfgelb, nummerierte Schritte entlang einer gewundenen Straße: im Katalog das Gegenbeispiel für den austauschbaren Vorlagenlook, den man aus KI-Infografiken kennt.",
+  "origin": "Flat Design verzichtet auf Texturen, Schlagschatten und räumliche Effekte und arbeitet mit kräftigen Farbflächen und schlichter Schrift; Microsoft setzte es 2010 in Windows Phone 7 ein, mit Windows 8 wurde es 2012 breit wahrgenommen, und 2013 folgte Apple mit iOS 7. Zur selben Zeit wurde die Online-Infografik zum Werbemittel: Unternehmen veröffentlichten sie, damit andere Seiten sie teilen und darauf verlinken. Im April 2011 verließen drei Mitarbeiter das Finanzportal Mint.com und gründeten mit einem vierten Partner die Plattform Visual.ly, nachdem Infografiken im Firmenblog von Mint dreißigmal so viele Zugriffe gebracht hatten wie vergleichbare Textbeiträge; im Oktober 2011 lagen dort rund 7000 Grafiken. Webwerkzeuge wie das im März 2012 gestartete Piktochart aus Malaysia boten anpassbare Vorlagen, aus denen auch kleine Firmen und Bildungseinrichtungen eigene Infografiken zusammensetzten. Eine Auswertung von Paul Van Slembrouck im Visual.ly-Blog vom Juni 2012 ergab, dass 53 Prozent der 30 meistgesehenen Grafiken der Plattform keine Datenvisualisierung enthielten.",
+  "markers": [
+   "Volltonflächen mit glatten geometrischen Kanten, ohne Kontur, Textur, Farbverlauf oder Schattierung",
+   "Gefällige Palette aus wenigen Volltönen, etwa Petrol, Koralle, Marineblau und Senfgelb, auf Weiß oder hellem Grau",
+   "Weiße, abgerundete Standardsymbole in vollfarbigen Kreisen statt eigens gezeichneter Bilder",
+   "Übergroße Zahlen in einer Akzentfarbe, oft mit Prozent- oder Einheitenzeichen",
+   "Nummerierte Schritte entlang einer gewundenen Straße oder Zickzacklinie, abwechselnd links und rechts, mit gepunkteten Verbindungslinien",
+   "Hochformat mit spiegelsymmetrischem Aufbau, farbigem Kopfband, Titel in schmalfetten Versalien auf einem Schriftband und viel Weißraum"
+  ],
+  "escapes": "Der Look wirkt wie KI, weil er der Durchschnitt Tausender Vorlagen ist: Jedes Element – Farbkreis, Schriftband, Straßenweg, große Zahl – ist ein Fertigteil, das jedes Thema tragen könnte, und die Farben sind nach Gefälligkeit gewählt, nicht nach Bedeutung. Er zeigt die typischen Merkmale erzeugter Infografiken: mittige Symmetrie, gleich große und gleich gewichtete Schritte in gleichmäßigem Abstand, Symbole, die die Beschriftung nur wiederholen, statt den Vorgang zu erklären, und eine glatte, strukturlose Oberfläche ohne Spur von Hand oder Druckverfahren. Nichts daran gehört zum Thema; eine Grafik vom Korn zum Brot sieht genauso aus wie eine über Steuertipps oder Datensicherung.",
+  "pitfalls": "Aktuelle Modelle rutschen leicht in ihre eigene, neuere Standardvorlage: ein fotorealistisches 3D-Objekt in der Mitte mit nummerierten Hinweiskreisen und farbigen Flusspfeilen, abgerundete Schrittkarten am unteren Rand und ein erfundener Werbespruch; oder es kommen Farbverläufe, Schlagschatten und glänzende 3D-Symbole hinzu, und das Bild landet beim Nachbarstil, der glänzenden 3D-Icon-Infografik. Kleine Beschriftungen und Zahlen geraten oft fehlerhaft, dazu kommen Fülltext, zusätzliche Schritte oder ausgedachte Prozentwerte. Zu prüfen ist, ob genau sechs Schritte in der richtigen Reihenfolge erscheinen, die Beschriftungen dem Vorgabetext entsprechen und alle Flächen flach bleiben.",
+  "tip": "Die Bausteine der Vorlage einzeln nennen – Farbkreise, Schriftband, gewundene Straße mit Nummernmarken, die vier Farben – und „keine Farbverläufe, keine Schatten, kein 3D“ dazuschreiben; das Wort „Infografik“ allein ruft eher die neuere Standardvorlage des Modells auf.",
+  "sensitivity": "Vorlagen aus Bilddatenbanken sind lizenzierte Produkte; das Bild soll keine bestimmte Vorlage nachbauen, und Logos oder Markenzeichen von Softwareherstellern gehören nicht hinein."
+ },
+ "en": {
+  "name": "Flat Vector Corporate Infographic",
+  "aka": [
+   "flat design infographic",
+   "stock infographic template",
+   "content-marketing infographic",
+   "long-scroll web infographic"
+  ],
+  "era": "from c. 2012, company blogs worldwide",
+  "summary": "White glyphs in colour circles, teal, coral, navy and mustard, numbered steps along a winding road: the catalog’s counter-example of the interchangeable template look familiar from AI infographics.",
+  "origin": "Flat design drops textures, drop shadows and three-dimensional effects in favour of strong flat colour and plain type; Microsoft used it in Windows Phone 7 in 2010, it reached a wide audience with Windows 8 in 2012, and Apple followed in 2013 with iOS 7. Around the same time the online infographic became a marketing tool: companies published them so that other sites would share and link to them. In April 2011 three employees left the personal-finance site Mint.com to found the platform Visual.ly with a fourth partner, after infographics on Mint’s company blog had drawn 30 times more traffic than comparable text articles; by October 2011 it held about 7,000 graphics. Web tools such as Piktochart, launched in Malaysia in March 2012, offered customisable templates from which small businesses and educational institutions, too, assembled their own infographics. An analysis by Paul Van Slembrouck on the Visual.ly blog in June 2012 found that 53 percent of the platform’s 30 most-viewed graphics contained no data visualisation.",
+  "markers": [
+   "Solid fills with smooth geometric edges, without outlines, texture, gradients or shading",
+   "A pleasing palette of a few solid colours, such as teal, coral, navy and mustard, on white or pale grey",
+   "Rounded white stock glyphs inside solid colour circles instead of purpose-made drawings",
+   "Oversized numerals in an accent colour, often with percent or unit signs",
+   "Numbered steps along a winding road or zigzag line, alternating left and right, joined by dotted lines",
+   "Tall format with a mirror-symmetrical layout, a coloured header band, a title in bold condensed capitals on a ribbon banner and plenty of white space"
+  ],
+  "escapes": "The look reads as AI because it is the average of thousands of templates: every element – colour circle, ribbon banner, road path, big number – is a ready-made part that could carry any topic, and the colours are chosen to please rather than to mean anything. It shows the usual tells of generated infographics: centred symmetry, equal, equally weighted steps at even intervals, icons that merely repeat the label instead of explaining the process, and a smooth, textureless finish with no trace of a hand or a printing process. Nothing in it belongs to the subject; an infographic from grain to bread looks exactly like one about tax tips or data backup.",
+  "pitfalls": "Current models easily slide into their own newer default template: a photoreal 3D object in the middle with numbered callout circles and colour-coded flow arrows, rounded step cards along the bottom and an invented slogan; or gradients, drop shadows and glossy 3D icons creep in and the image ends up as the neighbouring style, the glossy 3D icon infographic. Small labels and numbers often come out garbled, and the model adds filler text, extra steps or made-up percentages. Check that exactly six steps appear in the right order, that the labels match the given text and that every fill stays flat.",
+  "tip": "Name the template’s parts one by one – colour circles, ribbon banner, winding road with numbered markers, the four colours – and add “no gradients, no shadows, no 3D”; the word “infographic” alone tends to summon the model’s newer default template instead.",
+  "sensitivity": "Stock-library templates are licensed products; the image should not rebuild a specific template, and logos or trademarks of software makers do not belong in it."
+ },
+ "sources": [
+  {
+   "title": "Flat Design – Wikipedia (deutsch)",
+   "url": "https://de.wikipedia.org/wiki/Flat_Design"
+  },
+  {
+   "title": "Infographic – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Infographic"
+  },
+  {
+   "title": "Visual.ly – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Visual.ly"
+  },
+  {
+   "title": "Piktochart’s Latest Version Lets Users Make Search-Friendly Infographics – TechCrunch, 30 January 2013",
+   "url": "https://techcrunch.com/2013/01/30/piktocharts-latest-version-lets-users-make-search-friendly-infographics/"
+  }
+ ]
+}

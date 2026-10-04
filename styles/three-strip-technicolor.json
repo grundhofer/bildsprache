@@ -1,0 +1,67 @@
+{
+ "slug": "three-strip-technicolor",
+ "style_block": "A frame from a 1940s Hollywood studio feature, shot on a three-strip beam-splitter camera and printed by dye transfer. Medium: cyan, magenta and yellow dyes in gelatin; smooth, dense colour; one jewel accent, ruby, emerald or cobalt, against muted greys, browns and creams; opaque blacks; no grain. Flat frontal arc light, strong fill, short shadows; shiny surfaces dulled. Composition: never a real location; static eye-level medium-long shot of a shallow sound-stage set closed by a painted backdrop; water, horizon and sky as soft painted brushwork; built structures as carpentered flats, plants and animals as props; any people as actors in costume and character make-up, staged across the set like a frieze; objects small, as set props; everything sharp. Lettering, where text is needed: painted signs on the set in shadowed serif capitals. Avoid real skies, deep vistas, sunlight, HDR micro-detail, bokeh, glossy reflections, teal-orange, faded vintage, film borders, lighting rigs.",
+ "de": {
+  "name": "Dreistreifen-Technicolor",
+  "aka": [
+   "Technicolor-Dreifarbenverfahren",
+   "Technicolor Process No. 4"
+  ],
+  "era": "1932 bis Mitte der 1950er-Jahre, Hollywood",
+  "summary": "Dichte Edelsteinfarben, tiefes Schwarz und hartes Bogenlampenlicht im Hollywood-Atelier; im Katalog, weil die Farbe aus Kulisse, Kostüm und Licht entsteht statt aus nachträglicher Farbkorrektur.",
+  "origin": "Joseph A. Ball und Burton Wescott stellten 1932 die neue Dreifarbenkamera von Technicolor fertig, die Grundlage des Dreistreifenverfahrens (Process No. 4): Ein Strahlteilerprisma hinter dem Objektiv verteilte das Licht auf drei Schwarzweißnegative, eines für den Grünauszug und zwei im Bipack aufeinanderliegende Filme für den Blau- und den Rotauszug. Kopiert wurde im Farbstoffübertragungsverfahren (Dye-Transfer): Von jedem Auszug wurde eine Matrize mit Gelatinerelief hergestellt, die drei Matrizen druckten nacheinander Cyan, Magenta und Gelb auf den Blankfilm, und dieser trug in den ersten Jahren zusätzlich ein schwaches Schwarzweißbild des Grünauszugs, das die Schärfe verbesserte und Farbsäume überdeckte. Nach Walt Disneys Zeichentrickfilm „Flowers and Trees“ (1932), dem Kurzfilm „La Cucaracha“ (1934) und „Becky Sharp“ (1935), dem ersten ganz in diesem Verfahren gedrehten Spielfilm, beherrschte es bis in die 1950er-Jahre den Farbfilm; weil das Filmmaterial anfangs sehr unempfindlich war (etwa ASA 5), wurden die Ateliers mit sehr viel Licht ausgeleuchtet, meist von Kohlebogenlampen. Die Studios konnten die rund 90 Kilogramm schweren Kameras nur mieten, samt Technikern und Farbberater, und der Farbberatungsdienst unter Natalie Kalmus erarbeitete mit jeder Produktion eine Farbdramaturgie und verlangte zurückhaltende, der Handlung untergeordnete Farben. Der 1950 eingeführte Farbnegativfilm von Eastman Kodak machte die Kamera nach und nach überflüssig: „Foxfire“ (1955) war der letzte amerikanische Spielfilm, der mit ihr gedreht wurde, im Dye-Transfer-Verfahren kopierte Technicolor in Hollywood aber noch bis 1975.",
+  "markers": [
+   "Dichte Edelsteinfarben – Rubinrot, Smaragdgrün, Kobaltblau, Kanariengelb – als Akzente vor gedämpften Grau-, Braun- und Cremetönen",
+   "Tiefes, deckendes Schwarz und eine fast kornlose, glatte Farbschicht",
+   "Hartes, helles Bogenlampenlicht von vorn mit kräftiger Aufhellung: klare Schatten, hell ausgeleuchtete Gesichter, kaum dunkle Bildpartien",
+   "Gebaute Atelierkulissen und gemalte Himmelsprospekte, oft auch bei Außenszenen",
+   "Statische Kamera auf Augenhöhe, Halbtotale, deutlich erkennbarer Hintergrund",
+   "Feine Farbsäume an harten Kanten"
+  ],
+  "escapes": "Für „filmische“ Bilder liefern Bildgeneratoren standardmäßig eine Blaugrün-Orange-Farbkorrektur, geringe Schärfentiefe mit unscharfen Lichtkreisen, überstrahlende Spitzlichter und eine von hinten angestrahlte Hauptfigur vor dunklem Verlauf. Beim Dreistreifenverfahren entsteht die Farbe vor der Kamera: Kulisse und Kostüm legen die Palette fest, das Licht kommt gleichmäßig von vorn, und der Hintergrund bleibt erkennbar. Ein Gegenstand steht als Requisit in einer ausgestatteten Kulisse, statt frei vor einer Hohlkehle zu schweben.",
+  "pitfalls": "Ohne physikalische Beschreibung des Verfahrens rutschen Modelle in einen beliebigen Nostalgiefilter – vergilbt, verblasst, körnig – oder in den Rotstich ausgeblichener Farbkopien aus den 1950er-Jahren. Hartes Atelierlicht und Studio-Make-up verleiten das Modell dazu, Gesichter zu glätten und zu verschönern; zu prüfen ist, ob Alter und Abnutzung erhalten bleiben. Außerdem fügen Modelle gern Filmränder, Perforation, Kratzer oder schwarze Balken hinzu oder sättigen alle Farben gleich stark, statt einen Akzent vor neutralen Tönen zu setzen. Vor allem fallen Modelle auf ein modernes, überscharfes HDR-Foto an einem echten Ort zurück – echte Wolken, tiefe Küstenfernsicht, seitliches Sonnenlicht, körnige Mikrotexturen – oder auf eine glänzende Produkt-Nahaufnahme mit Bokeh; der Look der Zeit bleibt dann bloße Farbkorrektur.",
+  "tip": "Die Farbe als Farbstoff in Gelatine unter Kohlebogenlicht beschreiben und den einen gesättigten Akzent einem bestimmten Gegenstand oder Kleidungsstück zuweisen; so bleibt der Rest des Bildes neutral, und das Modell dreht nicht einfach die Sättigung hoch. Jedes Landschaftselement, das ein Motiv verlangt, in Atelierhandwerk übersetzen – ein gemalter Prospekt für Wasser und Himmel, gezimmerte Kulissenteile für Bauten –, damit das Modell nicht auf einen echten Drehort ausweicht.",
+  "sensitivity": "„Technicolor“ ist ein geschützter Markenname; der Katalog verwendet ihn nur als historische Verfahrensbezeichnung und lässt ihn im Prompt weg."
+ },
+ "en": {
+  "name": "Three-strip Technicolor",
+  "aka": [
+   "Technicolor Process No. 4",
+   "Glorious Technicolor",
+   "Dye-transfer Technicolor"
+  ],
+  "era": "1932 to the mid-1950s, Hollywood",
+  "summary": "Dense jewel colours, deep blacks and hard arc light on a studio set; in the catalog because colour comes from set, costume and light, not from a later grade.",
+  "origin": "In 1932 Joseph A. Ball and Burton Wescott completed Technicolor's new three-colour camera, the basis of the three-strip process, Process No. 4: a beam-splitting prism behind the lens divided the light onto three black-and-white negatives, one recording green and a bipack of two films recording blue and red. Release prints were made by dye transfer: a gelatin relief matrix made from each record pressed cyan, magenta or yellow dye onto blank film, one after another, and in the early years the blank also carried a faint black-and-white image of the green record that added sharpness and hid colour fringing. After Walt Disney's cartoon 'Flowers and Trees' (1932), the short 'La Cucaracha' (1934) and 'Becky Sharp' (1935), the first feature shot entirely in the process, it dominated colour filmmaking into the 1950s; because the film was very slow at first (about ASA 5), sets were flooded with light, mostly from carbon-arc lamps. Studios could only rent the 200-pound cameras, together with technicians and a colour consultant, and the colour advisory service run by Natalie Kalmus worked out a colour score with each production and asked for restrained colour subordinate to the story. Eastman Kodak's colour negative film, introduced in 1950, gradually made the camera obsolete: 'Foxfire' (1955) was the last American feature shot with it, although Technicolor kept making dye-transfer prints in Hollywood until 1975.",
+  "markers": [
+   "Dense jewel colours – ruby red, emerald, cobalt, canary yellow – placed as accents against muted greys, browns and creams",
+   "Deep, opaque blacks and an almost grainless, smooth dye surface",
+   "Hard, bright arc light from the front with strong fill: crisp shadows, brightly lit faces, few dark areas",
+   "Built studio sets and painted backdrop skies, often even for exteriors",
+   "A static camera at eye level, medium-long shots, a clearly readable background",
+   "Faint colour fringes along hard edges"
+  ],
+  "escapes": "For 'cinematic' images, generators default to a teal-and-orange grade, shallow focus with bokeh, glowing highlights and a rim-lit subject against a dark gradient. In three-strip colour the colour is made in front of the camera: set and costume fix the palette, the light comes evenly from the front and the background stays readable. An object stands as a prop on a dressed set instead of floating on a seamless sweep.",
+  "pitfalls": "Without a physical description of the process, models slide into a generic nostalgia filter – yellowed, faded, grainy – or into the red-magenta cast of faded 1950s colour prints. Hard studio light and studio make-up tempt the model to smooth and glamorise faces; check that age and wear survive. Models also like to add film borders, sprocket holes, scratches or black bars, or to saturate every colour equally instead of setting one accent against neutrals. Above all, models fall back on a modern, hyper-sharp HDR photo of a real location – real clouds, a deep coastal vista, side sunlight, gritty micro-texture – or on a glossy product close-up with bokeh, keeping the period look only as a colour grade.",
+  "tip": "Describe the colour as dye in gelatin under carbon-arc light and assign the one saturated accent to a specific object or garment; that keeps the rest of the frame neutral and stops the model from simply turning up saturation. Turn every landscape element a motif needs into stagecraft – a painted backdrop for water and sky, carpentered flats for buildings – so the model cannot escape to a real location.",
+  "sensitivity": "'Technicolor' is a trademark; the catalog uses it only as the historical name of the process and leaves it out of the prompt."
+ },
+ "sources": [
+  {
+   "title": "Technicolor – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/Technicolor"
+  },
+  {
+   "title": "Technicolor No. IV: Three-strip – Timeline of Historical Film Colors",
+   "url": "https://filmcolors.org/timeline-entry/1301/"
+  },
+  {
+   "title": "Three-Strip Camera – George Eastman Museum",
+   "url": "https://www.eastman.org/technicolor/technology/three-strip-camera"
+  },
+  {
+   "title": "Dye-Transfer Printing – George Eastman Museum",
+   "url": "https://www.eastman.org/technicolor/technology/dye-transfer-printing"
+  }
+ ]
+}

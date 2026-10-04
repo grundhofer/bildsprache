@@ -1,0 +1,68 @@
+{
+ "slug": "engraved-postage-stamp",
+ "style_block": "A recess-printed postage stamp hand-engraved in steel, Britain from 1840, then worldwide through the twentieth century. Medium: a single ink throughout, carmine, ultramarine or bottle green, on white paper; drawn only in swelling and tapering burin lines, cross-hatching and stippled dots; slightly raised ink, perforation teeth with torn fibres. Composition: stamps flat, straight on; each subject a vignette on fine horizontal lines inside an ornamental frame with corner tablets; several subjects form a sheetlet sharing one frame design, divided by perforation rows. Lettering, where text is needed: engraved roman capitals reversed out of a hatched band, value numeral in a corner; without text, band and tablets carry only ornament. Information, where a diagram, map or chart is shown: one vignette per stamp, sequences as a se-tenant strip. Avoid flat vector icons, rounded app tiles, gradients, pencil shading, banknote layouts, woodcut, postmarks, vintage collage, real country names, monarchs or emblems.",
+ "de": {
+  "name": "Briefmarke im Stichtiefdruck",
+  "aka": [
+   "Briefmarkenstich",
+   "Stichtiefdruckmarke",
+   "gestochene Briefmarke"
+  ],
+  "era": "seit 1840, zuerst in Großbritannien",
+  "summary": "Winziges, fein gestochenes Markenbild in einer Druckfarbe, mit Ornamentrahmen und Zähnung; im Katalog, weil der Stil jedes Motiv aus Linien und Punkten aufbaut und auf Markengröße verdichtet.",
+  "origin": "Schon die erste Briefmarke der Welt, die britische One Penny Black vom 1. Mai 1840, war gestochen: Charles Heath und sein Sohn Frederick stachen das Bildnis Königin Victorias nach einer Skizze von Henry Corbould; den Hintergrund bilden feine, maschinell gravierte Guillochen. Gedruckt wurde sie bei Perkins Bacon in London nach dem Verfahren des Amerikaners Jacob Perkins: Der Stecher schneidet das Bild mit dem Grabstichel in einen enthärteten Stahlstempel; nach dem Härten wird es unter hohem Druck auf eine weiche Stahlwalze übertragen, und die ebenfalls gehärtete Walze prägt es so oft in die Druckplatte, wie Marken auf dem Bogen stehen – bei ihr 240-mal. Weil sich die feinen, erhabenen Linien kaum nachahmen ließen, galt der Stich als besonders fälschungssicher. Die ersten Marken mussten noch mit der Schere aus dem Bogen geschnitten werden; ab 1854 gab Großbritannien gezähnte Marken aus. Im Lauf des 20. Jahrhunderts wurden Briefmarken zunehmend in billigeren Verfahren wie Rastertiefdruck und Offsetdruck hergestellt, doch einige Postverwaltungen ließen weiter stechen: Czesław Słania (1921–2005), einer der bekanntesten Briefmarkenstecher, stach ab 1951 über 1000 Marken für Schweden und 30 weitere Länder.",
+  "markers": [
+   "Winziges Markenbild, nur aus an- und abschwellenden Stichellinien, Kreuzschraffur und Punkten aufgebaut",
+   "Hintergrund aus feinen waagerechten Parallellinien oder Guillochen",
+   "Ornamentrahmen mit Eckfeldern, Schriftband und Wertziffer",
+   "Nur eine Druckfarbe, etwa Karmin, Ultramarin oder Flaschengrün, leicht erhaben auf weißem Papier",
+   "Zähnung mit ausgerissenen Papierfasern, das Markenbild oft leicht dezentriert",
+   "Mehrere Motive als Kleinbogen mit gleichem Rahmen und Zähnungsreihen zwischen den Marken"
+  ],
+  "escapes": "Statt glatter Verläufe, weicher Schatten und flacher Vektorsymbole mit gleichmäßig abgerundeten Strichen entsteht jedes Motiv als kleiner Linienstich in einer einzigen Farbe; Helligkeit ergibt sich nur aus Abstand und Stärke der Linien. Das übliche Raster aus abgerundeten Kacheln und das groß in die Mitte gestellte Einzelmotiv weichen dem Kleinbogen mit Zähnungsreihen und einheitlichem Rahmen, also einer Ordnung aus dem Wertzeichendruck statt aus der Benutzeroberfläche.",
+  "pitfalls": "In Markengröße verschwimmt die feine Gravur leicht zu grauer Bleistiftschattierung oder zu weichen Verläufen, und die Zähnung gerät zu einem gleichmäßigen Wellenrand wie bei einem Aufkleber. Häufig ergänzt das Modell unleserliche Fantasieschrift, Ländernamen, Währungszeichen oder Poststempel mit verstümmeltem Text, auch wenn keine Schrift verlangt ist. Außerdem gerät das Bild leicht zur Banknote mit Guillochen auf jeder Fläche oder zur nostalgischen Collage aus vergilbten, verstreuten Marken.",
+  "tip": "Den Rahmen ausdrücklich als gemeinsamen Entwurf für alle Marken beschreiben und „nur Linien und Punkte, keine Grauflächen“ verlangen; wird keine Schrift gewünscht, festlegen, dass Eckfelder und Schriftband nur Ornament tragen.",
+  "sensitivity": "Keine echten Postverwaltungen, Ländernamen, Hoheitszeichen, Herrscherbildnisse oder gültigen Wertzeichen nachahmen; die Fälschung amtlicher Wertzeichen ist in vielen Ländern strafbar."
+ },
+ "en": {
+  "name": "Engraved postage stamp",
+  "aka": [
+   "recess-printed stamp",
+   "line-engraved stamp",
+   "intaglio stamp"
+  ],
+  "era": "1840 onward, first in Britain",
+  "summary": "A tiny, finely engraved vignette in one ink, with ornamental frame and perforations; in the catalog because it condenses every subject into lines and dots at stamp size.",
+  "origin": "Even the world's first adhesive postage stamp, the British Penny Black of 1 May 1840, was engraved: Charles Heath and his son Frederick engraved Queen Victoria's portrait after a sketch by Henry Corbould, and the background consists of finely engraved engine turnings. It was printed by Perkins Bacon in London using the process of the American Jacob Perkins: the engraver cuts the image with a burin into a softened steel die; once the die is hardened, the image is transferred under heavy pressure to a soft steel roller, and the roller, hardened in turn, impresses it into the printing plate once for every stamp on the sheet – 240 times for the Penny Black. Because the fine, raised lines were nearly impossible to copy, engraving was regarded as especially secure against forgery. The first stamps still had to be cut from the sheet with scissors; from 1854 Britain issued perforated stamps. Over the 20th century stamps were increasingly produced by cheaper processes such as photogravure and offset printing, yet some postal administrations kept commissioning engraved stamps: Czesław Słania (1921–2005), one of the best-known stamp engravers, engraved more than 1,000 stamps from 1951 onward for Sweden and 30 other countries.",
+  "markers": [
+   "Tiny vignette built only from swelling and tapering burin lines, cross-hatching and dots",
+   "Background of fine horizontal parallel lines or engine-turned guilloche",
+   "Ornamental frame with corner tablets, lettering band and value numeral",
+   "A single ink, such as carmine, ultramarine or bottle green, slightly raised on white paper",
+   "Perforated edges with torn paper fibres, the design often slightly off centre",
+   "Several subjects as a sheetlet with identical frames and perforation rows between the stamps"
+  ],
+  "escapes": "Instead of smooth gradients, soft shadows and flat vector icons with evenly rounded strokes, every subject becomes a small line engraving in a single colour, with tone coming only from the spacing and weight of the lines. The usual grid of rounded tiles and the large centred single object give way to a sheetlet with perforation rows and one shared frame, an order taken from stamp printing rather than from a user interface.",
+  "pitfalls": "At stamp size the fine engraving easily blurs into grey pencil shading or soft gradients, and the perforation turns into an even scalloped edge like a sticker. Models often add garbled invented lettering, country names, currency signs or postmarks with mangled text even when no text is asked for. The image also tends to drift into a banknote with guilloche on every surface, or into a nostalgic collage of yellowed, scattered stamps.",
+  "tip": "Describe the frame explicitly as one shared design for all stamps and ask for “lines and dots only, no grey fills”; if no text is wanted, state that the corner tablets and lettering band carry only ornament.",
+  "sensitivity": "Do not imitate real postal administrations, country names, national emblems, rulers' portraits or valid postage; forging official postage stamps is a criminal offence in many countries."
+ },
+ "sources": [
+  {
+   "title": "Penny Black – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Penny_Black"
+  },
+  {
+   "title": "Stahlstich – Wikipedia (deutsch)",
+   "url": "https://de.wikipedia.org/wiki/Stahlstich"
+  },
+  {
+   "title": "Postage stamp – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Postage_stamp"
+  },
+  {
+   "title": "Czesław Słania – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Czes%C5%82aw_S%C5%82ania"
+  }
+ ]
+}

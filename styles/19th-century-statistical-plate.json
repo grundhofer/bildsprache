@@ -1,0 +1,67 @@
+{
+ "slug": "19th-century-statistical-plate",
+ "style_block": "A hand-coloured statistical plate from a British or French atlas or government album, 1786–1900, copper-engraved or lithographed. Medium: fine black hairlines on cream rag paper; watercolour washes in muted ochre, rose, slate blue and sage, uneven, slightly overrunning lines; light foxing. Composition: one chart per plate, seen flat, wide margins; a heavy double rule frames a field filled by a fine hairline grid; no ornament. Lettering, where text is needed: title engraved in one centred line above the frame, key word in larger spaced roman capitals; small italic labels along lines and inside areas. Information, where a diagram, map or chart is shown: washed bars, bands or curves outlined in black, strictly proportional, each figure engraved beside its mark, no legend box. Avoid flat digital fills, sans-serif type, 3D bars, dashboard panels, burnt-edge sepia parchment, saturated flat poster colours, baroque cartouches, invented captions, axis numbers or imprints.",
+ "de": {
+  "name": "Statistische Tafel des 19. Jahrhunderts",
+  "aka": [
+   "Statistikgrafik des „Goldenen Zeitalters“",
+   "Album de statistique graphique"
+  ],
+  "era": "1786 bis um 1900, vor allem Großbritannien und Frankreich",
+  "summary": "Diagrammtafeln in Kupferstich oder Lithografie mit feinem Liniennetz, von Hand kolorierten oder farbig gedruckten Farbflächen und Antiqua-Beschriftung; im Katalog, weil sie Daten als Druckgrafik statt als Bildschirm-Infografik zeigen.",
+  "origin": "William Playfair veröffentlichte 1786 in London „The Commercial and Political Atlas“ mit 43 Zeitreihen-Liniendiagrammen und einem Balkendiagramm; 1801 folgte in seinem „Statistical Breviary“ das erste bekannte Kreisdiagramm. Seine Tafeln wurden in Kupfer gestochen und von Hand koloriert und erschienen deshalb nur in kleiner Auflage. Um 1850 war die Lithografie für den Farbdruck nutzbar geworden, und farbige Diagramme wurden viel häufiger; der Statistiker Michael Friendly nennt die Zeit von etwa 1850 bis 1900 das „Goldene Zeitalter der statistischen Grafik“. Florence Nightingale zeigte 1858 mit Kreisdiagrammen aus Monatssektoren gleichen Winkels, deren Fläche die Zahl der Toten angibt, dass die meisten im Krimkrieg gestorbenen britischen Soldaten vermeidbaren Infektionskrankheiten und nicht Verwundungen erlegen waren; der französische Bauingenieur Charles Joseph Minard zeichnete Karten, in denen die Breite von Bändern Mengen angibt, darunter 1869 seine Karte zu Napoleons Russlandfeldzug. Als Höhepunkt dieser Zeit sieht Friendly das „Album de statistique graphique“, das eine 1878 im französischen Ministerium für öffentliche Arbeiten unter Émile Cheysson eingerichtete Abteilung für grafische Statistik von 1879 bis Ende der 1890er-Jahre herausgab; alle Tafeln darin waren farbig gedruckt.",
+  "markers": [
+   "Feine schwarze Haarlinien und ein dichtes Liniennetz auf cremefarbenem Hadernpapier, beim Kupferstich mit Plattenrand",
+   "Aquarellartige Farbflächen in gedämpftem Ocker, Rosa, Schieferblau und Salbeigrün, bei Handkolorierung ungleichmäßig und stellenweise über die Kontur laufend",
+   "Zeitreihenlinien, Balken, Kreissektoren oder Bänder, deren Länge, Fläche oder Breite die Menge angibt",
+   "Titel als zentrierte Zeile über dem Rahmen, in Antiqua, das Stichwort in größeren, kräftigen Versalien",
+   "Kleine aufrechte und kursive Beschriftung, oft direkt an Linien und Flächen statt in einer eigenen Legende",
+   "Kräftiger, teils doppelt gezogener Linienrahmen um das Liniennetz, breiter Papierrand, kein Bildschmuck"
+  ],
+  "escapes": "Statt gleichmäßiger Vektorflächen, glänzender 3D-Balken, serifenloser Schrift und Kachel- oder Dashboard-Aufteilung arbeitet die Tafel mit schwarzen Haarlinien und ungleichmäßig aufgetragenen Aquarelltönen. Das Liniennetz füllt das ganze gerahmte Feld, der Titel steht als eine Zeile über dem Rahmen, und die Werte stehen gestochen direkt an den Balken; so entfällt das mittig inszenierte Einzelmotiv ebenso wie die saubere, gleichförmige Bildschirmästhetik.",
+  "pitfalls": "Das Modell gleitet leicht in künstlich gealtertes Pergament mit Teeflecken, verbrannten Rändern und kräftigem Sepia ab oder schmückt die Tafel mit barocken Kartuschen, Windrosen und Putten aus, die zu Landkarten des 17. und 18. Jahrhunderts gehören. Häufig erfindet es Schreibschrift-Untertitel, Verlagsangaben, Stechersignaturen und Skalenzahlen, die als unleserliche Scheinschrift erscheinen. Bei Kreissektoren oder Bändern gehen die Proportionen schnell verloren, und die Farben werden mitunter zu satt und plakativ.",
+  "tip": "Wenn es auf exakte Proportionen ankommt, Balken oder Linien statt Kreissektoren verlangen, Papier und Handkolorierung ausdrücklich nennen und jede Schrift außer den vorgegebenen Wörtern und Zahlen verbieten.",
+  "sensitivity": ""
+ },
+ "en": {
+  "name": "19th-century statistical plate",
+  "aka": [
+   "Golden Age statistical graphics",
+   "Playfair chart",
+   "Album de statistique graphique"
+  ],
+  "era": "1786 to c. 1900, mainly Britain and France",
+  "summary": "Copper-engraved or lithographed chart plates with a fine ruled grid, hand-coloured or colour-printed tints and roman lettering; in the catalog because they show data as printmaking, not as screen infographics.",
+  "origin": "William Playfair published The Commercial and Political Atlas in London in 1786, with 43 time-series line charts and one bar chart, and in 1801 his Statistical Breviary introduced the first known pie chart. His plates were engraved on copper and coloured by hand, and were therefore printed only in small numbers. By about 1850 lithography had been adapted to colour printing, and coloured diagrams became far more common; the statistician Michael Friendly calls the period from roughly 1850 to 1900 the 'Golden Age of Statistical Graphics'. In 1858 Florence Nightingale used polar-area diagrams, in which equal-angled monthly sectors show the number of deaths by their area, to show that most British soldiers who died in the Crimean War died of preventable infectious disease rather than wounds; the French civil engineer Charles Joseph Minard drew maps in which the width of bands gives quantities, among them his 1869 map of Napoleon's Russian campaign. Friendly regards the Album de statistique graphique as the high point of this period; it was issued from 1879 until the late 1890s by a bureau of graphic statistics set up in 1878 in the French Ministry of Public Works under Émile Cheysson, and all its plates were printed in colour.",
+  "markers": [
+   "Fine black hairlines and a dense ruled grid on cream rag paper, with a plate mark on copper engravings",
+   "Watercolour-like tints in muted ochre, rose, slate blue and sage green, uneven and here and there running over the outline where coloured by hand",
+   "Time-series lines, bars, polar-area sectors or bands whose length, area or width gives the quantity",
+   "Title as one centred line above the frame, in roman type, with the key word in larger, heavier capitals",
+   "Small roman and italic labels, often set directly along lines and areas instead of in a separate legend",
+   "Heavy, sometimes double-ruled frame around the grid, wide paper margin, no pictorial ornament"
+  ],
+  "escapes": "Instead of even vector fills, glossy 3D bars, sans-serif type and tile or dashboard layouts, the plate works with black hairlines and unevenly laid watercolour washes. The ruled grid fills the whole framed field, the title stands as a single line above the frame and the values are engraved right beside the bars, which removes both the centred hero object and the clean, uniform screen look.",
+  "pitfalls": "Models easily slide into a fake-aged parchment look with tea stains, burnt edges and heavy sepia, or decorate the plate with baroque cartouches, compass roses and cherubs that belong to 17th- and 18th-century maps. They often invent script subtitles, publisher's imprints, engraver's signatures and scale numbers that come out as illegible pseudo-writing. With polar-area sectors or bands, proportions are quickly lost, and the colours sometimes turn too saturated and poster-like.",
+  "tip": "When exact proportions matter, ask for bars or lines rather than polar-area sectors, name the paper and the hand colouring explicitly, and forbid any text beyond the given words and figures.",
+  "sensitivity": ""
+ },
+ "sources": [
+  {
+   "title": "Michael Friendly: The Golden Age of Statistical Graphics, Statistical Science 23 (2008)",
+   "url": "https://www.datavis.ca/papers/golden-STS268.pdf"
+  },
+  {
+   "title": "William Playfair – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/William_Playfair"
+  },
+  {
+   "title": "Charles Joseph Minard – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Charles_Joseph_Minard"
+  },
+  {
+   "title": "Florence Nightingale – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Florence_Nightingale"
+  }
+ ]
+}

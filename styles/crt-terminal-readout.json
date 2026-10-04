@@ -1,0 +1,69 @@
+{
+ "slug": "crt-terminal-readout",
+ "style_block": "A monochrome text-mode terminal screen in computer centres and offices, 1970s to mid-1980s. Medium: one phosphor colour, green or amber, glowing on dark grey-green glass; bloom around bright characters, scanlines, faint ghosting, burn-in; curved glass, dim corners. Composition: the screen fills the frame; everything on one grid of identical character cells; reverse-video header bar on top, bottom status line, block cursor; pictures typed from characters (slashes, dots, hash signs, shaded blocks) amid empty dark rows. Lettering, where text is needed: one monospaced bitmap font, one size; emphasis only by brightness, underline, reverse video or double-height lines; headlines as big letters built from block characters. Information, where a diagram, map or chart is shown: numbered lines or line-drawn boxes joined by typed arrows, right-aligned figures, block-character bars. Avoid green-tinted smooth illustration, icon-card grids, a second colour, sci-fi HUD overlays, falling code rain, keyboards, desks, colourful teletext mosaics, glowing vector lines.",
+ "de": {
+  "name": "Textterminal (Röhrenbildschirm)",
+  "aka": [
+   "Grünmonitor",
+   "Bernsteinmonitor",
+   "Datensichtgerät"
+  ],
+  "era": "um 1970 bis Mitte der 1980er-Jahre, Rechenzentren und Büros weltweit",
+  "summary": "Grün oder bernsteinfarben leuchtende Zeichen in dicktengleicher Schrift auf dunklem Glas, Rahmen und Bilder aus Schriftzeichen zusammengesetzt; im Katalog, weil ein einziges Zeichenraster Illustration, Satz und Layout ersetzt.",
+  "origin": "Ab Ende der 1960er-Jahre lösten Bildschirmterminals nach und nach die mechanischen Fernschreiber als Ein- und Ausgabegeräte an Großrechnern ab; der Datapoint 3300, ab 1969 ausgeliefert, ahmte einen Fernschreiber auf dem Bildschirm nach, und frühe Geräte dieser Art nannte man im Englischen oft „glass teletype“. 1971 stellte IBM die blockorientierte Terminalfamilie 3270 vor, die den Bildschirm in geschützte Felder und Eingabefelder teilte und nach der Schriftfarbe der ersten Modelle umgangssprachlich „green screen“ hieß; das erfolgreichste Modell zeigte 80 × 24 Zeichen, so viele Spalten wie eine IBM-Lochkarte. Das VT100 der Digital Equipment Corporation (DEC), vorgestellt im August 1978, zeigte 80 oder 132 Zeichen je Zeile, gehörte zu den ersten Terminals mit ANSI-Steuersequenzen und beherrschte fette, blinkende, unterstrichene und invertierte Schrift, Zeilen mit doppelt hohen oder doppelt breiten Zeichen sowie einen Zeichensatz mit Rahmen- und Linienzeichen für Bildschirmmasken; von der VT-Reihe wurden mehr als sechs Millionen Geräte verkauft. Monochrommonitore, darunter der IBM 5151, der ab 1981 zum IBM PC gehörte, leuchteten je nach Leuchtstoff grün, bernsteinfarben oder weiß; Bernstein galt als augenschonender, lang nachleuchtende Leuchtstoffe verringerten das Flimmern, hinterließen aber ein schwaches Nachbild, und stehende Bildschirminhalte brannten leicht ein.",
+  "markers": [
+   "Eine einzige Leuchtfarbe, grün oder bernsteinfarben, auf dunklem, grünlich grauem Glas; statt Farben nur Helligkeitsstufen",
+   "Alles steht in einem festen Raster gleich großer Zeichenzellen, meist 80 Spalten und 24 oder 25 Zeilen, in einer einzigen dicktengleichen Bildschirmschrift",
+   "Rahmen, Tabellen und Balken aus Linien- und Blockzeichen; Bilder aus Schrägstrichen, Punkten, Rautezeichen und gerasterten Blockzeichen zusammengesetzt",
+   "Hervorhebung nur durch hellere Schrift, Unterstreichung, invertierte Balken oder Zeilen in doppelter Höhe und Breite",
+   "Invertierte Kopfzeile oben, Statuszeile unten, Eingabeaufforderung mit blockförmigem Cursor",
+   "Helle Zeichen überstrahlen leicht, Bildzeilen sind sichtbar, dazu schwaches Nachleuchten und eingebrannte Reste früherer Bildschirminhalte; leicht gewölbtes Glas mit dunkleren Ecken"
+  ],
+  "escapes": "Bildgeneratoren liefern standardmäßig volle Farbe, weiche Verläufe und Lichtführung, glatte Illustrationen und ein Raster aus Symbolkacheln mit Überschriften in mehreren Schriftgrößen. Auf dem Terminalbildschirm gibt es nichts davon: eine Farbe, eine Schrift in einer Größe, jedes Zeichen im Raster; die Gliederung entsteht allein aus Position, invertierter Darstellung und Helligkeit, und jedes Bild muss aus Schriftzeichen gesetzt werden. Damit ändert sich der Aufbau des Bildes, nicht nur seine Tönung.",
+  "pitfalls": "Modelle erzeugen gern einen Hackerbildschirm wie im Kino: grüne Proportionalschrift in mehreren Größen außerhalb des Rasters, zufälliger Programmcode, herabfallende Zeichen, kreisförmige Bedienelemente und eine zweite Akzentfarbe. Bilder werden oft zu glatten grünen Illustrationen mit darübergelegtem Zeilenfilter statt zu Zeichenbildern, oder das Ganze kippt ins Foto eines beigefarbenen Rechners mit Tastatur auf dem Schreibtisch. Die strenge Ausrichtung am Zeichenraster und lange lesbare Zeilen gelingen nur unzuverlässig, Fülltext wird leicht zu erfundenem Kauderwelsch; wenige kurze Wörter funktionieren am besten.",
+  "tip": "Den Bildschirm Zeile für Zeile wie ein Textlayout beschreiben, etwa Kopfbalken in Zeile 1, darunter die Überschrift in großen, aus Blockzeichen gesetzten Buchstaben, in der Mitte das Bild, unten die Statuszeile, und ausdrücklich verlangen, dass jedes sichtbare Element, auch das Bild, aus Zeichen derselben Schrift besteht.",
+  "sensitivity": "Erzeugte Bildschirme sollten nicht als echte Systemausgabe oder als Bildschirmfoto eines bestimmten Rechners erscheinen; Herstellernamen wie IBM oder DEC gehören nur in den Begleittext, Firmenlogos und Typenschilder nicht ins Bild."
+ },
+ "en": {
+  "name": "CRT text terminal",
+  "aka": [
+   "green-screen terminal",
+   "amber monitor",
+   "glass teletype",
+   "text-mode display"
+  ],
+  "era": "c. 1970 to mid-1980s, computer centres and offices worldwide",
+  "summary": "Green or amber glowing monospaced characters on dark glass, with frames and pictures assembled from characters; in the catalog because one character grid replaces illustration, typesetting and layout.",
+  "origin": "From the late 1960s, video display terminals gradually replaced mechanical teleprinters as the input and output devices of mainframe computers; the Datapoint 3300, shipped from 1969, imitated a teleprinter on a screen, and early devices of this kind were often called 'glass teletypes'. In 1971 IBM introduced the block-oriented 3270 terminal family, which divided the screen into protected and input fields and, after the text colour of the original models, was informally called 'green screen'; its most successful model showed 80 × 24 characters, the same number of columns as an IBM punched card. The VT100 from Digital Equipment Corporation (DEC), introduced in August 1978, showed 80 or 132 characters per line, was one of the first terminals to support ANSI escape codes and offered bold, blinking, underlined and reverse-video text, lines of double-height or double-width characters and a box-drawing character set for on-screen forms; more than six million terminals of the VT series were sold. Monochrome monitors, among them the IBM 5151 that came with the IBM PC from 1981, glowed green, amber or white depending on the phosphor; amber was considered easier on the eyes, long-persistence phosphors reduced flicker but left a dim afterglow, and static screens burned in easily.",
+  "markers": [
+   "A single glowing colour, green or amber, on dark grey-green glass; brightness levels instead of colours",
+   "Everything sits on a fixed grid of equal character cells, usually 80 columns by 24 or 25 lines, in one monospaced screen font",
+   "Frames, tables and bars made of line-drawing and block characters; pictures assembled from slashes, dots, hash signs and shaded block characters",
+   "Emphasis only through brighter text, underline, reverse-video bars or lines of double height and width",
+   "A reverse-video header line at the top, a status line at the bottom, a prompt with a block cursor",
+   "Bright characters bloom slightly, scan lines are visible, with faint afterglow and burnt-in remnants of earlier screens; slightly curved glass with darker corners"
+  ],
+  "escapes": "Image generators default to full colour, soft gradients and lighting, smooth illustrations and a grid of icon cards with headings in several type sizes. A terminal screen allows none of this: one colour, one font in one size, every character on the grid; hierarchy comes only from position, reverse video and brightness, and any picture has to be built from characters. That changes the structure of the image, not just its tint.",
+  "pitfalls": "Models like to produce a film-style hacker screen: green proportional type in several sizes off the grid, random program code, falling characters, circular interface elements and a second accent colour. Pictures often become smooth green illustrations with a scan-line filter on top instead of character art, or the whole image turns into a photo of a beige computer with a keyboard on a desk. Strict alignment to the character grid and long readable lines are unreliable, and filler text easily turns into invented gibberish; a few short words work best.",
+  "tip": "Describe the screen row by row like a text layout, for example a header bar in row 1, the headline below it in large letters built from block characters, the picture in the middle and the status line at the bottom, and state explicitly that every visible element, the picture included, is made of characters from the same font.",
+  "sensitivity": "Generated screens should not be presented as real system output or as a screenshot of a particular computer; manufacturer names such as IBM or DEC belong only in the accompanying text, and company logos or model badges do not belong in the picture."
+ },
+ "sources": [
+  {
+   "title": "Computer terminal – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Computer_terminal"
+  },
+  {
+   "title": "IBM 3270 – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/IBM_3270"
+  },
+  {
+   "title": "VT100 – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/VT100"
+  },
+  {
+   "title": "Monochrome monitor – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Monochrome_monitor"
+  }
+ ]
+}

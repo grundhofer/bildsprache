@@ -1,0 +1,68 @@
+{
+ "slug": "mid-century-modern-commercial-art",
+ "style_block": "A 1950s American picture-book or magazine-advertisement illustration, printed in five inks. Medium: gouache and grease crayon as flat opaque shapes slightly off-register from a loose, broken black brush line; overlaps print a darker third tone; mustard, teal, tomato red, olive, black on cream paper. Composition: no perspective, horizon, depth, cast shadow or modelling; a shallow stage: ground a tilted colour slab, flat bands or bare paper behind; everything in profile or front view, farther things higher, not smaller; figures as cut shapes: block torso, oval head, dot eyes, tapered limbs, mitten hands; age as signs: grey hair, stoop, creases; water as wavy stripes, ground as dots; main group off-centre. Lettering, where text is needed: casual brush letters bouncing beside slab capitals. Avoid naturalistic depth under crayon texture, realistic faces or hands, childlike drawing, clean vector art, digital painting, period-advertising realism and fake halftone or worn paper.",
+ "de": {
+  "name": "Gebrauchsgrafik der Fünfzigerjahre",
+  "aka": [
+   "Mid-Century-Modern-Grafik",
+   "Mid-Century-Illustration",
+   "Werbegrafik der 1950er-Jahre"
+  ],
+  "era": "um 1945–1965, USA und Europa",
+  "summary": "Flache Farbflächen mit Kreidestruktur in Senfgelb, Petrol und Tomatenrot, leicht gegen eine lockere Pinsellinie verschoben; im Katalog, weil kantig vereinfachte Figuren an die Stelle glatt modellierter KI-Malerei treten.",
+  "origin": "Nach dem Zweiten Weltkrieg wandten sich viele amerikanische Illustratoren, die für Werbung, Zeitschriften, Plattenhüllen und Kinderbücher arbeiteten, von der gemalten Wirklichkeitstreue ab und gingen zu flachen, vereinfachten und stilisierten Formen über. Im Trickfilm setzte das 1941 von ehemaligen Disney-Mitarbeitern gegründete Studio UPA Maßstäbe: Sein Kurzfilm „Gerald McBoing-Boing“ (1950) gewann mit flacher, stilisierter Gestaltung, die sich bewusst vom Disney-Realismus absetzte, einen Oscar, und der „UPA-Stil“ wirkte bald auch auf die anderen großen Trickfilmstudios. Mary Blair, die bei Disney Konzept- und Farbentwürfe unter anderem für „Cinderella“, „Alice im Wunderland“ und „Peter Pan“ geschaffen hatte, verließ das Studio nach „Peter Pan“ (1953), arbeitete danach freiberuflich als Grafikerin und Illustratorin, unter anderem für Werbekampagnen von Lebensmittel- und Zahnpastaherstellern, und illustrierte mehrere Little Golden Books. Diese Kinderbuchreihe hatte Simon & Schuster 1942 zusammen mit der Western Printing and Lithographing Company in Racine (Wisconsin) gestartet: Die ersten Bände kosteten 25 Cent, 28 ihrer 42 Seiten waren nur zweifarbig gedruckt. Auch Alice und Martin Provensen illustrierten für die Reihe, und Jim Flora gestaltete ab 1947 karikaturhaft überzeichnete Hüllen für Schellackplatten-Alben von Columbia und ab 1953 Plattenhüllen für RCA Victor.",
+  "markers": [
+   "Flache, deckende Farbflächen ohne Schattierung, leicht gegen die schwarze Linie verschoben gedruckt (Passerversatz)",
+   "Lockere, unterbrochene schwarze Pinsel- oder Kreidelinie, unabhängig von den Farbflächen gezogen",
+   "Trockenpinsel-, Fettkreide- und Spritzerstrukturen innerhalb der Farbflächen",
+   "Wenige Druckfarben: Senfgelb, Petrol, Tomatenrot, Oliv und Schwarz auf warmem, cremefarbenem Papier; wo sich zwei überlagern, entsteht ein dunklerer dritter Ton",
+   "Kantig-geometrische Figuren mit ovalen Köpfen, Punktaugen und dünnen Gliedern in einem flachen, gekippten Raum",
+   "Vereinzelte Akzente wie Strahlensterne, Bumerang- und Nierenformen; locker von Hand gezeichnete Schrift"
+  ],
+  "escapes": "Die übliche KI-Szene mit Menschen ist eine weich modellierte Digitalmalerei mit Farbverläufen, gleichmäßigem Licht, naturgetreuer Anatomie und mittig gesetzten Hauptfiguren. Dieser Stil erlaubt nur wenige flache Druckfarben ohne Modellierung, lässt Farbe und Linie gegeneinander verrutschen und macht aus Körpern kantige Formen auf einer gekippten, flachen Bühne; so bleiben weder Glanz noch fotografische Tiefe übrig.",
+  "pitfalls": "Ohne ausdrücklichen Hinweis auf Passerversatz und Kreide- oder Pinselstruktur entsteht saubere heutige Vektorgrafik mit passgenauen Konturen und gleich dicken Linien. Häufig legt das Modell außerdem ein künstliches Druckraster, abgestoßene Papierränder oder einen Retrofilter darüber, verteilt Sterne und Bumerangs über das ganze Bild oder rutscht in den gemalten Realismus der damaligen Zeitschriftenwerbung mit glänzenden Gesichtern ab. Zu prüfen ist, ob Farbflächen und Linie wirklich gegeneinander verschoben sind und die Palette knapp bleibt. Am häufigsten aber malt das Modell eine naturalistische Szene mit Horizont, Raumtiefe und modellierten Gesichtern und legt Kreidekorn und Palette nur darüber; dann stimmt die Oberfläche, der Bildaufbau aber nicht.",
+  "tip": "Farbe und Linie als getrennte Druckschichten beschreiben, etwa „flache Farbflächen, leicht versetzt zu einer lockeren schwarzen Pinsellinie gedruckt“, und die Zahl der Druckfarben nennen; das hält das Modell von einer sauberen Vektorzeichnung ab. Außerdem ausdrücklich sagen, was fehlt (keine Perspektive, kein Horizont, keine Schatten), und wie gebaut wird: Figuren aus Schnittformen, Wasser als Wellenstreifen, Boden als Punkte, Fernes höher statt kleiner.",
+  "sensitivity": "Viele Vorbilder sind Werbung für heute noch bestehende Marken, deren Werbefiguren geschützt sind; Markenfiguren, Produkte und Namen einzelner Illustratoren gehören nicht in den Prompt. Die Werbegrafik der Zeit arbeitete zudem mit rassistischen und sexistischen Klischees, die nicht übernommen werden sollten."
+ },
+ "en": {
+  "name": "Mid-Century Modern Commercial Art",
+  "aka": [
+   "Mid-century modern illustration",
+   "1950s modern illustration",
+   "Atomic Age graphics"
+  ],
+  "era": "c. 1945–1965, USA and Europe",
+  "summary": "Crayon-textured flat colour shapes in mustard, teal and tomato red, slightly off-register from a loose brush line; in the catalog because angular, simplified figures replace smoothly modelled AI painting.",
+  "origin": "After the Second World War, many American illustrators working for advertising, magazines, record covers and children's books turned away from painted realism towards flat, simplified and stylised forms. In animation the studio UPA, founded in 1941 by former Disney employees, set the pace: its short Gerald McBoing-Boing (1950) won an Academy Award with a flat, stylised design that deliberately broke with Disney's realism, and the 'UPA style' soon influenced the other major animation studios as well. Mary Blair, who had done concept art and colour styling at Disney for films including Cinderella, Alice in Wonderland and Peter Pan, left the studio after Peter Pan (1953), then worked freelance as a designer and illustrator, among other things on advertising campaigns for food and toothpaste companies, and illustrated several Little Golden Books. Simon & Schuster had launched that children's book series in 1942 with the Western Printing and Lithographing Company of Racine, Wisconsin: the first books cost 25 cents and printed 28 of their 42 pages in only two colours. Alice and Martin Provensen also illustrated for the series, and Jim Flora drew cartoonish covers for Columbia's 78 rpm album sets from 1947 and record covers for RCA Victor from 1953.",
+  "markers": [
+   "Flat, opaque colour shapes without shading, printed slightly off-register from the black line",
+   "Loose, broken black brush or crayon line drawn independently of the colour areas",
+   "Dry-brush, grease-crayon and spatter textures inside the colour shapes",
+   "A few inks: mustard, teal, tomato red, olive and black on warm cream paper; where two overlap, a darker third tone appears",
+   "Angular, geometric figures with oval heads, dot eyes and thin limbs in a flat, tilted space",
+   "Occasional accents such as starbursts, boomerang and kidney shapes; casual hand-drawn lettering"
+  ],
+  "escapes": "The model's default scene with people is a smoothly modelled digital painting with gradients, even light, lifelike anatomy and the main figures in the centre. This style allows only a few flat inks without modelling, lets colour and line slip apart and turns bodies into angular shapes on a tilted, flat stage, so neither the gloss nor the photographic depth of the default survives.",
+  "pitfalls": "Without an explicit mention of misregistration and crayon or brush texture, the result turns into clean present-day flat vector art with perfectly fitted outlines and even line weight. The model also likes to lay a fake halftone screen, scuffed paper edges or a retro filter over the image, to scatter starbursts and boomerangs everywhere, or to slip into the painted realism of period magazine advertising with glossy faces. Check that colour shapes and line really are offset and that the palette stays limited. Most often, though, the model paints a naturalistic scene with a horizon, receding depth and modelled faces and merely lays crayon grain and the palette over it; the surface is right, the construction is not.",
+  "tip": "Describe colour and line as separate printing layers, for example 'flat colour shapes printed slightly off-register from a loose black brush line', and state the number of inks; this keeps the model away from a clean vector drawing. Also state what the style lacks (no perspective, no horizon, no shadows) and how things are built: figures from cut shapes, water as wavy stripes, ground as dots, farther things higher rather than smaller.",
+  "sensitivity": "Many historical examples are advertisements for brands that still exist and whose mascots are protected trademarks; keep mascots, products and the names of individual illustrators out of prompts. Period advertising also used racist and sexist stereotypes, which should not be carried over."
+ },
+ "sources": [
+  {
+   "title": "UPA (animation studio) – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/UPA_(animation_studio)"
+  },
+  {
+   "title": "Mary Blair – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mary_Blair"
+  },
+  {
+   "title": "Little Golden Books – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Little_Golden_Books"
+  },
+  {
+   "title": "Jim Flora – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jim_Flora"
+  }
+ ]
+}

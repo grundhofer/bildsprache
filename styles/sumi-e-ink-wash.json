@@ -1,0 +1,68 @@
+{
+ "slug": "sumi-e-ink-wash",
+ "style_block": "A sumi ink painting from Zen temples of Muromachi Japan, 14th–16th century. Medium: black ink in graded tones, soft pointed brush, absorbent unsized paper; few broad strokes, mostly without outline, each fading dark to pale; dry, split strokes showing white; feathered bleeds; dark accents last; no corrections, no colour. Composition: asymmetric, subject off-centre; most of the sheet bare paper standing for water, air and mist; no horizon; distance as a single pale wash; any foreground plants as quick dark strokes entering from an edge. Lettering, where text is needed: the required words in one brushed line, strokes swelling and running dry; otherwise no writing. Information, where a diagram, map or chart is shown: one brush gesture per item, no boxes, rules or grid. Avoid smooth grey gradients, vector outlines, filled backgrounds, centred framing, fine detail, dense Chinese landscape texture strokes, red sun discs, ensō circles, pseudo-characters, seal stamps.",
+ "de": {
+  "name": "Sumi-e (japanische Tuschmalerei)",
+  "aka": [
+   "Suibokuga",
+   "Zen-Malerei",
+   "Tuschmalerei"
+  ],
+  "era": "14.–16. Jh., Japan (Muromachi-Zeit); Wurzeln im China der Tang- und Song-Zeit",
+  "summary": "Wenige nasse und trockene Tuschstriche, das meiste Papier bleibt leer; im Katalog, weil Leere und Einzelstrich hier Detailfülle, Farbe und Hintergrundunschärfe ersetzen.",
+  "origin": "Die einfarbige Tuschmalerei entstand in China während der Tang-Dynastie (618–907) und blühte ab der Song-Dynastie (960–1279), als auch Chan-Mönche wie Muqi sie pflegten. Im 13. und 14. Jahrhundert brachten Zen-Mönche, die zwischen China und Japan reisten, Bilder und Malweisen der Song- und Yuan-Zeit nach Japan; in der späten Kamakura-Zeit fand die Tuschmalerei unter japanischen Zen-Priestern großen Anklang. In der Muromachi-Zeit (1336–1573) erlebte sie, japanisch Suibokuga genannt, ihre Blütezeit: Der Mönch Josetsu malte einen Mann, der einen Wels mit einem Flaschenkürbis fangen will, und Shūbun (tätig etwa 1425–1450) arbeitete als Maler im Dienst des Shogunats. Sein Schüler Sesshū Tōyō (1420–1506), ausgebildet im Zen-Tempel Shōkoku-ji in Kyoto, reiste 1467 ins China der Ming-Zeit und malte 1495 eine Landschaft in der Haboku-Technik aus wenigen nassen, ineinanderlaufenden Tuschflächen. Die Stangentusche wird auf einem Reibstein mit Wasser angerieben und mit dem Pinsel auf ungeleimtes, saugfähiges Papier oder auf Seide gesetzt, wo sich kein Strich mehr korrigieren lässt; ein bekanntes Malerwort besagt, dass sich aus geschickt geführter schwarzer Tusche die „fünf Farben“ fast von selbst ergeben.",
+  "markers": [
+   "Nur schwarze Tusche in vielen Tonstufen, von blasser, nasser Lavierung bis zu trockenem Tiefschwarz; keine Farbe",
+   "Formen aus wenigen breiten Pinselstrichen, meist ohne Umrisslinie, jeder Strich in sich von dunkel nach hell abgestuft",
+   "Trockene, aufgefaserte Striche, in denen weiße Papierstreifen stehen bleiben",
+   "Weich auslaufende, ausgefranste Ränder, wo nasse Tusche in das ungeleimte Papier zieht",
+   "Asymmetrischer Bildaufbau mit großen Flächen leeren Papiers, die für Wasser, Luft oder Nebel stehen",
+   "Im Original oft eine Aufschrift und ein rotes Siegel; im Katalog bewusst weggelassen"
+  ],
+  "escapes": "Ohne Stilangabe füllt das Modell das ganze Bild, arbeitet jede Feder und jedes Blatt scharf aus, setzt seitliches Licht und eine weiche Hintergrundunschärfe wie beim Teleobjektiv. Sumi-e lässt den größten Teil des Blatts leer, beschränkt das Motiv auf wenige Striche in einer Farbe und erzeugt Tiefe nur durch hellere und dunklere Tusche; für Unschärfe, Kantenlicht und satte Farben bleibt kein Platz.",
+  "pitfalls": "Modelle setzen zu viele Striche und landen bei einer detailreichen grauen Illustration, oder sie glätten alles zu einem digitalen Grauverlauf ohne trockene Pinselspuren. Gern ergänzen sie eine Spalte erfundener ostasiatischer Schriftzeichen, mehrere rote Siegel, einen Ensō-Kreis, Berge oder eine rote Sonne und rücken das Hauptmotiv in die Bildmitte. Zu prüfen ist, ob die Striche einmal gesetzt und nicht nachgebessert wirken und ob der größere Teil des Papiers leer bleibt.",
+  "tip": "Den Pinsel beschreiben statt der Stimmung: breite nasse Striche, trockene aufgefaserte Striche und den Anteil leeren Papiers benennen. Wörter wie „Zen“ oder „minimalistisch“ können Ensō-Kreise und Klischeemotive nach sich ziehen.",
+  "sensitivity": "Der Ensō-Kreis hat im Zen-Buddhismus religiöse Bedeutung, und wer Japanisch oder Chinesisch liest, erkennt Pseudo-Kalligrafie und erfundene Siegel sofort; deshalb weglassen. KI-Bilder nicht als Werk eines Zen-Meisters oder als historische japanische Malerei ausgeben."
+ },
+ "en": {
+  "name": "Sumi-e ink wash painting",
+  "aka": [
+   "suibokuga",
+   "Japanese ink wash painting",
+   "Zen ink painting"
+  ],
+  "era": "14th–16th c., Muromachi Japan; roots in Tang and Song China",
+  "summary": "A few wet and dry ink strokes with most of the paper left empty; included because emptiness and the single stroke replace dense detail, colour and background blur.",
+  "origin": "Painting in black ink alone arose in China under the Tang dynasty (618–907) and flourished from the Song dynasty (960–1279), when Chan monks such as Muqi also took it up. In the 13th and 14th centuries, Zen monks travelling between China and Japan brought paintings and painting styles of the Song and Yuan periods to Japan, and in the late Kamakura period ink painting became very popular among Japanese Zen priests. In the Muromachi period (1336–1573) ink painting, called suibokuga, reached its height: the monk Josetsu painted a man trying to catch a catfish with a gourd, and Shūbun (active c. 1425–1450) worked as a painter in the service of the shogunate. His pupil Sesshū Tōyō (1420–1506), trained at the Zen temple Shōkoku-ji in Kyoto, travelled to Ming China in 1467 and in 1495 painted a landscape in the haboku manner of a few loose, wet ink washes. The ink stick is rubbed with water on an inkstone and the ink brushed onto unsized, absorbent paper or onto silk, where no stroke can be corrected; a well-known painters' maxim holds that black ink handled with skill yields the 'five colours' almost by itself.",
+  "markers": [
+   "Black ink only, in many tones from pale wet wash to dry deep black; no colour",
+   "Forms made of a few broad brushstrokes, mostly without outline, each stroke shading from dark to pale within itself",
+   "Dry, split strokes in which streaks of white paper remain",
+   "Soft, feathered edges where wet ink soaks into the unsized paper",
+   "Asymmetric layout with large areas of bare paper standing for water, air or mist",
+   "In originals often an inscription and a red seal; deliberately left out in this catalog"
+  ],
+  "escapes": "Without a style, the model fills the whole frame, renders every feather and leaf in sharp detail and adds side light and soft telephoto background blur. Sumi-e leaves most of the sheet empty, reduces the subject to a few strokes in one colour and builds depth only from lighter and darker ink, which leaves no room for lens blur, rim light or saturated colour.",
+  "pitfalls": "Models tend to add too many strokes and end up with a detailed grey illustration, or smooth everything into a digital grey gradient without dry-brush marks. They like to append a column of invented East Asian characters, several red seals, an ensō circle, mountains or a red sun, and to move the main subject to the centre. Check that the strokes look laid down once and not reworked, and that most of the paper stays empty.",
+  "tip": "Describe the brush rather than the mood: name the broad wet strokes, the dry split strokes and the share of empty paper. Words such as 'Zen' or 'minimalist' can pull in ensō circles and stock motifs.",
+  "sensitivity": "The ensō circle carries religious meaning in Zen Buddhism, and readers of Japanese or Chinese recognise pseudo-calligraphy and invented seals at once, so leave them out. Do not present AI images as the work of a Zen master or as historical Japanese paintings."
+ },
+ "sources": [
+  {
+   "title": "Ink wash painting – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ink_wash_painting"
+  },
+  {
+   "title": "Sumi-e – Wikipedia (deutsch)",
+   "url": "https://de.wikipedia.org/wiki/Sumi-e"
+  },
+  {
+   "title": "Suibokuga – JAANUS (Japanese Architecture and Art Net Users System)",
+   "url": "https://www.aisf.or.jp/~jaanus/deta/s/suibokuga.htm"
+  },
+  {
+   "title": "Sesshū Tōyō – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sessh%C5%AB_T%C5%8Dy%C5%8D"
+  }
+ ]
+}

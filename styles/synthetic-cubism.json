@@ -1,0 +1,66 @@
+{
+ "slug": "synthetic-cubism",
+ "style_block": "A Synthetic Cubist collage of pasted paper, charcoal and oil, Paris, 1912–1919. Medium: newsprint in tiny illegible columns, faux-bois and patterned wallpaper, sheet music; sand-grained paint, comb-drawn wood grain, stippled dots; flat brown, ochre, black, grey and white, a few strong greens and blues; scissor-cut edges, glue stains, charcoal lines crossing the papers. Composition: shallow space parallel to the picture plane; the subject rebuilt from a few large flat overlapping planes, seen from front and above at once; contour offset from colour plane; planes interlock with surroundings and run off the edges; no cast shadows or vanishing point. Lettering, where text is needed: black stencilled capitals, cut-off word fragments. Information, where a diagram, map or chart is shown: pasted paper strips as bars or zones, stencil-labelled. Avoid 3D shading, gloss, gradients, a centred subject, legible headlines, crystal-shard faceting, grey Analytic Cubist splinters, gouache cut-outs and torn-edge photomontage.",
+ "de": {
+  "name": "Synthetischer Kubismus",
+  "aka": [
+   "Kubistische Collage",
+   "Papier collé"
+  ],
+  "era": "1912–1919, Paris",
+  "summary": "Gegenstände aus wenigen flachen, sich überlagernden Flächen, eingeklebtem Zeitungs- und Tapetenpapier sowie Schablonenbuchstaben; im Katalog, weil das Bild aus Papier- und Farbflächen gebaut statt schattiert wird.",
+  "origin": "Der synthetische Kubismus ist die zweite Phase des Kubismus, die Pablo Picasso und Georges Braque ab 1912 entwickelten und zu deren wichtigsten Vertretern auch Juan Gris zählt; meist wird sie auf 1912 bis 1914 datiert, als Bildsprache hielt sie sich bis etwa 1919. Für das „Stillleben mit Rohrstuhl“ überklebte Picasso im Mai 1912 einen Teil der Leinwand mit einem bedruckten Wachstuch, das Stuhlgeflecht nachahmt; im selben Jahr klebte Braque in Sorgues für „Obstschale und Glas“ Streifen einer Tapete mit aufgedruckter Eichenholzmaserung auf Papier und zeichnete mit Kohle darüber – das erste Papier collé. Braque, gelernter Dekorationsmaler und in gemalter Holz- und Marmorimitation geübt, brachte Handwerkstechniken wie Sand in der Farbe und mit dem Kamm gezogene Holzmaserung ein; eingeklebt wurden oft Zeitungen, Tapeten und Notenblätter, dazu kamen Schablonenbuchstaben, wie sie Braque schon 1911 verwendet hatte. Statt die Gegenstände wie im analytischen Kubismus in kleine, schattierte Facetten zu zerlegen, bauten die Maler sie aus wenigen großen, flach angelegten Farb- und Papierflächen mit einfacheren Formen und kräftigeren Farben neu auf. Picassos zwei Fassungen der „Drei Musikanten“, im Sommer 1921 in Fontainebleau gemalt, übertragen den Eindruck geschnittener Papiere in Ölfarbe.",
+  "markers": [
+   "flache, sich überlagernde Flächen mit geraden und gebogenen Kanten, ohne Schattierung und Schlagschatten",
+   "eingeklebte Papiere wie vergilbtes Zeitungspapier, Tapete mit aufgedruckter Holzmaserung, gemusterte Tapete und Notenblätter, mit sichtbaren Schnittkanten",
+   "Malerei mit Handwerkstechniken: mit dem Kamm gezogene Holzmaserung, mit Sand gekörnte Farbe, Felder aus Farbtupfen",
+   "der Gegenstand als Zeichen, zugleich von vorn und von oben gezeigt, Umrisslinie und Farbfläche gegeneinander verschoben",
+   "schwarze Schablonenbuchstaben und abgeschnittene Wortbruchstücke",
+   "Braun, Ocker, Schwarz, Grau und Weiß, dazu einzelne kräftige, flache Grün- und Blautöne"
+  ],
+  "escapes": "Der KI-Standard zeigt Gegenstände glänzend, mit weichen Verläufen, Spiegelungen und Kontaktschatten, freigestellt in der Bildmitte vor unscharfem Hintergrund. Im synthetischen Kubismus gibt es keine einheitliche Lichtquelle und keine Schlagschatten: Der Gegenstand wird aus flachen Papier- und Farbflächen zusammengesetzt, von zwei Seiten zugleich gezeigt und mit Tisch, Wand und Hintergrund verzahnt. Auch die übliche KI-„Kubismus“-Formel aus schattierten, kantigen Splittern entfällt, weil jede Fläche eben bleibt und ihre Struktur aus dem Material kommt.",
+  "pitfalls": "Häufig liefert das Modell schattierte Kristallsplitter, eine graubraune Zersplitterung wie im analytischen Kubismus oder eine heutige Materialcollage mit gerissenen Rändern und Fotoausschnitten. Oft bleibt der Gegenstand außerdem fotografisch intakt und wird nur mit Papierschnipseln umgeben, statt aus ihnen gebaut zu werden. Zeitungsstücke bringen gern lesbare erfundene Schlagzeilen oder Zeitungsköpfe mit, und wenn der Gegenstand zerlegt wird, verdoppeln sich Bedienelemente oder fehlen; deshalb nachzählen.",
+  "tip": "Jedem Papier eine Aufgabe geben, etwa „Holzmaserungstapete als Körper des Gegenstands, Zeitungspapier als Hintergrundfläche“, und dazu „Umriss und Farbfläche gegeneinander verschoben, keine Schatten“ verlangen. So wird der Gegenstand aus der Collage gebaut statt mit ihr verziert.",
+  "sensitivity": "In der EU sind Werke von Picasso und Braque noch urheberrechtlich geschützt, und Picassos Erben vergeben seinen Namen in Lizenz; Malernamen und Werktitel gehören deshalb nicht in den Prompt. Eingeklebte Zeitungsstücke dürfen keine echten Zeitungstitel oder Logos zeigen."
+ },
+ "en": {
+  "name": "Synthetic Cubism",
+  "aka": [
+   "Collage Cubism",
+   "papier collé"
+  ],
+  "era": "1912–1919, Paris",
+  "summary": "Objects built from a few flat, overlapping planes, pasted newsprint, wallpaper and stencilled letters; in the catalog because the picture is assembled from planes of paper and paint, not shaded.",
+  "origin": "Synthetic Cubism is the second phase of Cubism, developed from 1912 by Pablo Picasso and Georges Braque, with Juan Gris among its leading exponents; it is usually dated 1912 to 1914, though it remained a living idiom until about 1919. For Still Life with Chair Caning, Picasso covered part of the canvas in May 1912 with commercially printed oilcloth imitating chair caning; in the same year in Sorgues Braque pasted strips of wallpaper printed with oak grain onto paper and drew over them in charcoal for Fruit Dish and Glass, the first papier collé. Braque, a trained decorative painter practised in painted imitations of wood and marble, brought in craft techniques such as sand mixed into the paint and wood grain drawn with a comb; the pasted material was often newspaper, wallpaper and sheet music, joined by stencilled letters of the kind Braque had already used in 1911. Instead of breaking objects into small, shaded facets as in Analytic Cubism, the painters rebuilt them from a few large, flatly laid planes of paint and paper with simpler shapes and brighter colours. Picasso's two versions of Three Musicians, painted in Fontainebleau in summer 1921, carry the look of cut paper over into oil paint.",
+  "markers": [
+   "flat, overlapping planes with straight and curved edges, no shading and no cast shadows",
+   "pasted papers such as yellowed newsprint, wallpaper printed with wood grain, patterned wallpaper and sheet music, with visible cut edges",
+   "painting with craft techniques: wood grain drawn with a comb, paint roughened with sand, fields of stippled dots",
+   "the object as a sign, shown from the front and from above at once, with contour and colour plane offset from each other",
+   "black stencilled capitals and cut-off word fragments",
+   "brown, ochre, black, grey and white, with a few strong, flat greens and blues"
+  ],
+  "escapes": "The AI default shows objects glossy, with soft gradients, reflections and contact shadows, isolated in the centre against a blurred background. Synthetic Cubism has no single light source and no cast shadows: the object is assembled from flat planes of paper and paint, shown from two sides at once and interlocked with table, wall and background. The usual AI 'cubism' formula of shaded, angular shards disappears as well, because every plane stays flat and its texture comes from the material.",
+  "pitfalls": "The model often delivers shaded crystal shards, a grey-brown splintering as in Analytic Cubism or a modern mixed-media collage with torn edges and photo cut-outs. It also tends to keep the object photographically intact and merely surround it with scraps of paper instead of building it from them. Newspaper pieces easily bring legible invented headlines or mastheads, and when the object is broken up, controls get doubled or lost; count them.",
+  "tip": "Give each paper a job, for example 'wood-grain wallpaper as the body of the object, newsprint as a background plane', and ask for 'contour and colour plane offset, no shadows'. This builds the object out of the collage instead of decorating it with one.",
+  "sensitivity": "In the EU, works by Picasso and Braque are still protected by copyright, and Picasso's heirs license his name; painters' names and titles of works therefore stay out of the prompt. Pasted newspaper pieces must not show real newspaper titles or logos."
+ },
+ "sources": [
+  {
+   "title": "Cubism – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cubism"
+  },
+  {
+   "title": "Fruit Dish and Glass – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fruit_Dish_and_Glass"
+  },
+  {
+   "title": "Georges Braque – The Art Story",
+   "url": "https://www.theartstory.org/artist/braque-georges/"
+  },
+  {
+   "title": "Three Musicians (Picasso) – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Three_Musicians_(Picasso)"
+  }
+ ]
+}

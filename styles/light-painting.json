@@ -1,0 +1,68 @@
+{
+ "slug": "light-painting",
+ "style_block": "A present-day digital light-painting photograph, in the lamp-drawing tradition begun in France in 1889. Medium: tripod-mounted digital camera, 28mm lens, f/8, ISO 100, one-minute night exposure; deep black, warm incandescent orange, cold LED white; strokes waver and swell where the hand slowed, ending in bright dots. Composition: low tripod viewpoint, subject off-centre, frame mostly black; lines loop around and behind objects and run off the edges; things appear only where a torch swept them, in streaky patches; any figure frozen by flash beside its translucent ghost. Lettering, where text is needed: written in the air with a penlight, one wavering stroke per letter, legible; headline largest and brightest. Information, where a diagram, map or chart is shown: outlines and arrows traced in the air over their subjects, no panels. Avoid neon tubes, smooth vector glow, synthwave gradients, centred sun discs, evenly lit scenes, typeset overlays, traffic trails and steel-wool orbs.",
+ "de": {
+  "name": "Light Painting",
+  "aka": [
+   "Lichtmalerei",
+   "Lichtzeichnung",
+   "Light-Writing"
+  ],
+  "era": "ab 1889, Frankreich; als Kunstform ab 1935",
+  "summary": "Nachtaufnahmen, in denen eine bewegte Lampe leuchtende Linien und Buchstaben in eine einzige Langzeitbelichtung zeichnet; im Katalog, weil Schrift und Bild mit demselben Licht entstehen.",
+  "origin": "Die ersten bekannten Lichtspurbilder entstanden 1889 in Frankreich: Étienne-Jules Marey und Georges Demeny befestigten Glühlampen an den Gelenken eines gehenden Menschen und zeichneten deren Bahnen in einer Langzeitbelichtung auf („Pathological Walk From in Front“). 1914 hielten Frank und Lillian Gilbreth mit kleinen Lampen und offenem Kameraverschluss die Bewegungen von Fabrik- und Büroarbeitern fest. Als erster bekannter Kunstfotograf nutzte Man Ray das Verfahren 1935 in seiner Serie „Space Writing“; um 1940 zeichnete die Amerikanerin Barbara Morgan in ihrem abgedunkelten Atelier mit Licht vor der offenen Kamera und nahm solche Lichtspuren in ihre Fotomontage „Pure Energy and Neurotic Man“ (1940) auf. 1949 regte der Life-Fotograf Gjon Mili Pablo Picasso in Südfrankreich zu Lichtzeichnungen an: In einem abgedunkelten Raum zeichnete Picasso mit einer kleinen elektrischen Lampe vor zwei Kameras mit offenem Verschluss in die Luft und schuf so rund 30 Bilder, darunter Zentauren, Stiere, griechische Profile und seine Signatur; Anfang 1950 waren die Aufnahmen im Museum of Modern Art in New York zu sehen. Mit der Digitalkamera wurde das Verfahren ab Ende der 1990er-Jahre deutlich einfacher und verbreitete sich ab etwa 2007 international; als Lichtquellen dienen heute Taschenlampen, LED-Leuchten, Knicklichter, Wunderkerzen, Feuerwerk und brennende Stahlwolle.",
+  "markers": [
+   "Tiefes Schwarz aus einer einzigen langen Belichtung im Dunkeln, die Kamera fest auf dem Stativ",
+   "Leuchtende Linien und Schleifen, von einer bewegten Lampe in die Luft gezeichnet: zittrig, dicker und heller, wo die Hand langsamer wurde, mit hellen Punkten an Anfang und Ende",
+   "Buchstaben jeweils in einem Zug in die Luft geschrieben, ungleich groß und auf unruhiger Grundlinie",
+   "Gegenstände nur stellenweise beleuchtet, wo eine Taschenlampe über sie strich, mit streifigen, unregelmäßigen Rändern",
+   "Durchscheinende Geisterfiguren neben einer Person, die ein einzelner Blitz scharf festhält",
+   "Gemischte Lichtfarben: warmes Orange der Glühlampe, kaltes LED-Weiß, farbige Filterfolien"
+  ],
+  "escapes": "Bei Wörtern wie „leuchtend“ oder „Nacht“ liefern Bildgeneratoren Neonröhren, glatte Vektorlinien mit Überstrahlung, einen Himmel mit violett-orangem Farbverlauf und ein Plakat mit Sonnenscheibe über dem Horizont, dessen Titel in einer Satzschrift über das Bild gelegt ist. Bei der Lichtmalerei ist jede Linie die Spur einer Hand, die eine Lampe bewegt: Sie zittert, wird dicker und reißt ab, die Szene bleibt größtenteils schwarz und nur stellenweise beleuchtet, und die Schrift wird in der Szene in die Luft gezeichnet statt darübergelegt. Den Bildaufbau bestimmt der feste Standpunkt der Kamera auf dem Stativ, nicht eine mittig gestellte Hauptfigur.",
+  "pitfalls": "Bildmodelle zeichnen die Lichtspuren oft zu sauber und gleichmäßig, wie Neonröhren oder Vektorpfade mit gleichmäßigem Schein, und leuchten die ganze Szene aus wie ein gewöhnliches Nachtfoto. Außerdem greifen sie zu Versatzstücken wie Funkenkugeln aus Stahlwolle, Lichtkugeln und Lichtstreifen fahrender Autos oder legen gesetzte Schrift über das Foto. Zu prüfen ist, ob die Buchstaben lesbar und doch sichtbar von Hand gezeichnet sind, ob unbeleuchtete Flächen schwarz bleiben und ob der Plakattext buchstabengenau stimmt.",
+  "tip": "Für jedes Bildelement angeben, wie es in die Belichtung kam: mit einer Stiftlampe zur Kamera hin gezeichnet, mit einer Taschenlampe überstrichen oder mit einem einzelnen Blitz eingefroren. Wer diesen Weg benennt, macht es unwahrscheinlicher, dass das Modell nachträglich einen Neon- oder Leuchteffekt darüberlegt.",
+  "sensitivity": ""
+ },
+ "en": {
+  "name": "Light painting",
+  "aka": [
+   "Light drawing",
+   "Light graffiti",
+   "Light writing"
+  ],
+  "era": "from 1889, France; as an art form from 1935",
+  "summary": "Night photographs in which a moving lamp draws glowing lines and letters into one long exposure; in the catalog because lettering and image are drawn by the same light.",
+  "origin": "The first known light-trace pictures were made in France in 1889 by Étienne-Jules Marey and Georges Demeny, who fixed incandescent bulbs to the joints of a walking person and recorded their paths in a long exposure ('Pathological Walk From in Front'). In 1914 Frank and Lillian Gilbreth used small lights and an open camera shutter to track the movements of factory and office workers. Man Ray was the first known art photographer to use the technique, in his 1935 series 'Space Writing'; around 1940 the American Barbara Morgan drew with light in front of an open camera in her darkened studio and worked such light traces into her photomontage 'Pure Energy and Neurotic Man' (1940). In 1949 the Life photographer Gjon Mili prompted Pablo Picasso to draw with light in the south of France: in a darkened room he drew in the air with a small electric light in front of two cameras with open shutters, producing some 30 pictures, among them centaurs, bulls, Greek profiles and his signature, and the photographs were shown at the Museum of Modern Art in New York in early 1950. Digital cameras made the technique much easier from the late 1990s, and from about 2007 it spread internationally; light sources today include torches, LED lights, glow sticks, sparklers, fireworks and burning steel wool.",
+  "markers": [
+   "Deep black from a single long exposure in darkness, the camera fixed on a tripod",
+   "Glowing lines and loops drawn in the air by a moving lamp: wavering, thicker and brighter where the hand slowed, with bright dots at the start and end",
+   "Each letter written in the air in one continuous stroke, uneven in size and on an unsteady baseline",
+   "Objects lit only in patches where a hand-held torch swept over them, with streaky, uneven edges",
+   "Translucent ghost figures beside a person held sharp by a single flash",
+   "Mixed light colours: warm incandescent orange, cold LED white, coloured gels"
+  ],
+  "escapes": "For words like “glowing” or “night”, image generators produce neon tubing, smooth vector lines with bloom, a sky in a violet-to-orange gradient, and a poster with a sun disc over the horizon and its title set in a typeface laid over the picture. In light painting every line is the trace of a hand moving a lamp, so it wavers, thickens and breaks off; the scene stays largely black and lit only in patches, and the lettering is drawn in the air inside the scene rather than laid on top. The layout follows the camera's fixed position on the tripod, not a centred main figure.",
+  "pitfalls": "Image models tend to make the light trails too clean and even, like neon tubes or vector paths with a uniform glow, and to light the whole scene like an ordinary night photograph. They also reach for stock props such as steel-wool spark spheres, light orbs and car light streaks, or lay typeset text over the photo. Check that the letters are legible yet visibly hand-drawn, that unlit areas stay black, and that the poster text is spelled exactly.",
+  "tip": "State how each element got into the exposure: drawn towards the camera with a penlight, swept with a torch, or frozen by a single flash. Naming that physical route makes it less likely that the model lays a neon or glow effect over the picture afterwards.",
+  "sensitivity": ""
+ },
+ "sources": [
+  {
+   "title": "Light painting – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/Light_painting"
+  },
+  {
+   "title": "Light Painting – Wikipedia (Deutsch)",
+   "url": "https://de.wikipedia.org/wiki/Light_Painting"
+  },
+  {
+   "title": "Behind the Picture: Picasso Draws With Light – TIME/LIFE",
+   "url": "https://time.com/3746330/behind-the-picture-picasso-draws-with-light/"
+  },
+  {
+   "title": "Barbara Morgan (photographer) – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/Barbara_Morgan_(photographer)"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "slug": "x-ray-radiograph",
+ "style_block": "A radiograph on X-ray film from a mid-20th-century European or American hospital or testing laboratory, seen on a light box. Medium: X-ray tube, no lens; the object lies on the film cassette, its shadow cast straight through. Brightness means density and thickness: metal, glass, bone and stone near white; plastic, wood and thin tissue translucent grey; open air black. Inside and outside superimposed, overlaps brighter; no surface colour, gloss or cast shadow. Fine grain, soft edges, faint scratches. Composition: flat top or side projection at actual size, no perspective; separate pieces laid apart with black air between; a hard-edged exposed rectangle within a border of pale unexposed film. Lettering, where text is needed: small lead capitals and numerals, exposed crisp white near the edge; otherwise no markers. Avoid glowing blue holograms, neon edges, colour tints, 3D scan renders, cutaway illustrations and opaque photogram silhouettes; inner parts follow plausible construction.",
+ "de": {
+  "name": "Röntgenaufnahme",
+  "aka": [
+   "Röntgenbild",
+   "Radiografie",
+   "Röntgenogramm"
+  ],
+  "era": "seit 1895, Würzburg; Blumenaufnahmen in den 1930er-Jahren, USA",
+  "summary": "Durchscheinendes graues Schattenbild auf Röntgenfilm, Dichtes hell, Luft schwarz; im Katalog, weil es Inneres und Äußeres zugleich zeigt statt Oberflächen im Licht.",
+  "origin": "Wilhelm Conrad Röntgen entdeckte die Strahlen am 8. November 1895 in seinem Würzburger Labor; am 22. Dezember hielt er die linke Hand seiner Frau Bertha auf einer Fotoplatte fest, die erste Röntgenaufnahme eines menschlichen Körperteils. In Wien fanden an der Lehr- und Versuchsanstalt von Josef Maria Eder und Eduard Valenta die ersten Versuche mit den neuen Strahlen in Österreich statt; 1896 erschienen ihre „Versuche über Photographie mittelst der Röntgen’schen Strahlen“. Später trat Film an die Stelle der Fotoplatten, und Mihajlo Pupin zeigte, dass eine Verstärkerfolie aus Calciumwolframat die Belichtungszeit von etwa einer Stunde auf wenige Minuten verkürzte; weil dichtes Material die Strahlen stärker absorbiert, bleibt der Film darunter hell, während er dort schwarz wird, wo die Strahlen ungehindert auftreffen. In der Medizin legt man zur Seitenbezeichnung eine Bleimarke „R“ oder „L“ in den Strahlengang, in der Industrie dient die Durchstrahlungsprüfung als zerstörungsfreies Prüfverfahren für gefertigte Bauteile. In den 1930er-Jahren fertigte der amerikanische Krankenhausradiologe Dain L. Tasker (1872–1964) Röntgenaufnahmen von Blumen an.",
+  "markers": [
+   "Nur Grautöne, bestimmt von Dichte und Dicke: Metall, Glas und Knochen fast weiß, dünnes Gewebe blassgrau, Luft schwarz",
+   "Alles durchscheinend: Vorderseite, Rückseite und Inneres liegen übereinander, Überlagerungen werden heller",
+   "Gerade Projektion von oben oder von der Seite ohne Perspektive, in natürlicher Größe",
+   "Keine Oberflächenfarbe, keine Spiegelungen, keine Schlagschatten; stattdessen innere Strukturen wie Adern, Drähte und Kerne",
+   "Scharf begrenztes Belichtungsfeld mit hellem, unbelichtetem Filmrand; Bleibuchstaben als weiße Zeichen am Rand, feines Korn und Kratzer"
+  ],
+  "escapes": "Ohne Stilangabe zeigt das Modell undurchsichtige Oberflächen in weichem Studiolicht, mit Glanzlichtern, Farbstimmung und Kontaktschatten vor nahtlosem Hintergrund. In der Röntgenaufnahme hält die Helligkeit fest, wie viel Material die Strahlen durchdrungen haben: Oberflächen werden durchsichtig, das Innere scheint durch das Äußere, Licht, Glanz und Hintergrund entfallen. Statt einer schräg inszenierten Produktansicht entsteht eine flache, sachliche Projektion in natürlicher Größe.",
+  "pitfalls": "Modelle greifen gern zum Röntgenblick aus Kino und Werbung: leuchtend blaue oder türkise Umrisse auf Schwarz, Neonkanten oder ein bloß invertiertes Foto, in dem Oberflächen undurchsichtig und strukturiert bleiben. Das Innere wird oft erfunden, etwa skelettartige Gebilde in Gegenständen oder Leiterbahnen ohne Zusammenhang; in Früchten müssen die Kerne im Kerngehäuse liegen. Zu prüfen ist auch, ob übereinanderliegende Teile sich zu helleren Flächen addieren, statt einander zu verdecken.",
+  "tip": "Statt Farben die Dichte jedes Teils angeben, etwa Metall und Kerne am dichtesten, Kunststoff und Fruchtfleisch mittel, Blätter und Blütenblätter am dünnsten, und sagen, dass der Gegenstand flach auf dem Film liegt; Grauwerte und fehlende Perspektive ergeben sich daraus.",
+  "sensitivity": "Erzeugte Röntgenbilder dürfen nicht als echte Befunde oder Patientenunterlagen ausgegeben werden; Röntgenaufnahmen realer Menschen sind Gesundheitsdaten."
+ },
+ "en": {
+  "name": "Radiograph (X-ray image)",
+  "aka": [
+   "X-ray",
+   "X-ray photograph",
+   "Roentgenogram",
+   "Skiagraph"
+  ],
+  "era": "since 1895, Würzburg; flower radiographs in the 1930s, USA",
+  "summary": "A translucent grey shadow image on X-ray film, dense parts pale and air black; in the catalog because it shows inside and outside at once instead of lit surfaces.",
+  "origin": "Wilhelm Conrad Röntgen discovered the rays on 8 November 1895 in his laboratory in Würzburg; on 22 December he recorded the left hand of his wife, Anna Bertha, on a photographic plate, the first radiograph of a human body part. In Vienna the first Austrian experiments with the new rays took place at the teaching and research institute of Josef Maria Eder and Eduard Valenta, who published 'Versuche über Photographie mittelst der Röntgen’schen Strahlen' in 1896. Photographic plates later gave way to film, and Mihajlo Pupin showed that a fluorescent screen of calcium tungstate cut exposures from about an hour to a few minutes; because dense material absorbs the rays more strongly, the film stays light beneath it and turns black where the rays pass unhindered. In medicine a radiopaque 'R' or 'L' marker is placed in the beam to show the side, and in industry radiography serves as a non-destructive test of manufactured components. In the 1930s the American hospital radiologist Dain L. Tasker (1872–1964) made X-ray pictures of flowers.",
+  "markers": [
+   "Grey tones only, set by density and thickness: metal, glass and bone near white, thin tissue pale grey, air black",
+   "Everything translucent: front, back and interior lie on top of each other, and overlaps turn brighter",
+   "Straight projection from above or from the side, without perspective, at actual size",
+   "No surface colour, no reflections, no cast shadows; inner structures such as veins, wires and seeds instead",
+   "A hard-edged exposed field with a pale, unexposed film border; lead letters as white marks at the edge, fine grain and scratches"
+  ],
+  "escapes": "Without a style the model shows opaque surfaces in soft studio light, with specular highlights, colour grading and a contact shadow on a seamless backdrop. In a radiograph brightness records how much material the rays passed through: surfaces turn transparent, the interior shows through the exterior, and light, gloss and backdrop disappear. The angled showroom view gives way to a flat, matter-of-fact projection at actual size.",
+  "pitfalls": "Models tend towards the 'X-ray vision' of films and advertising: glowing blue or cyan outlines on black, neon edges, or a merely inverted photograph in which surfaces stay opaque and textured. The interior is often invented, such as skeleton-like structures inside objects or circuit tracks that connect to nothing; in fruit the seeds must sit inside the core. Also check that overlapping parts add up brighter rather than hiding each other.",
+  "tip": "Give each part's density instead of its colour, for example metal and seeds densest, plastic and fruit flesh medium, leaves and petals thinnest, and say that the object lies flat on the film; the grey values and the missing perspective follow from that.",
+  "sensitivity": "Generated radiographs must not be passed off as real findings or patient records; X-rays of real people are health data."
+ },
+ "sources": [
+  {
+   "title": "X-ray – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/X-ray"
+  },
+  {
+   "title": "Radiography – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/Radiography"
+  },
+  {
+   "title": "Eduard Valenta – Wikipedia (Deutsch)",
+   "url": "https://de.wikipedia.org/wiki/Eduard_Valenta"
+  },
+  {
+   "title": "Botanical illustration – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/Botanical_illustration"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "slug": "risograph",
+ "style_block": "Risograph print in three spot inks, fluorescent pink, medium blue and yellow, overprinting to make new colours. Medium: grainy uneven ink coverage with speckled solids, coarse halftone dither in tonal areas, visible misregistration between layers, faint roller marks, matte ink on uncoated off-white paper. Composition: bold flat shapes cropped tightly, overlapping colour fields, generous paper margins, an asymmetric zine-like layout. Lettering, where text is needed: chunky condensed grotesque or stencil letters in one spot ink, slightly out of register with the image. Information is laid out like a DIY zine spread with oversized numbers and hand-drawn arrows. Avoid smooth gradients, full colour and neat vector polish.",
+ "de": {
+  "name": "Risografie",
+  "aka": [
+   "Risodruck",
+   "Risographie",
+   "Riso"
+  ],
+  "era": "ab 1980, Japan; in Zines und Grafik vor allem seit den 2010er-Jahren",
+  "summary": "Zwei oder drei durchscheinende Sonderfarben, körnig und leicht versetzt auf ungestrichenes Papier gedruckt; im Katalog, weil wenige Druckfarben, Raster und Überdruck weder weiche Verläufe noch glänzende, vollfarbige Bilder zulassen.",
+  "origin": "Die japanische Firma Riso Kagaku brachte 1980 die ersten Geräte unter dem Namen Risograph auf den Markt, ein eigenständiges Gerät zur Masterherstellung und einen Drucker; 1984 folgte der vollautomatische Vervielfältiger Risograph 007, 1986 der digitale Risograph 007 Digital. Ein Thermokopf brennt winzige Löcher in eine Masterfolie, die anschließend um eine Drucktrommel gespannt wird; beim Drehen der Trommel wird Farbe auf Sojaölbasis durch die Löcher auf das flach durchlaufende Papier gedrückt – ein Durchdruckverfahren wie der Siebdruck. Jede Farbe braucht eine eigene Masterfolie und eine eigene Trommel, sodass ein mehrfarbiger Druck auf Geräten mit nur einer Trommel für jede Farbe einmal durch die Maschine läuft; weil die Farbe langsam trocknet, kommt nur ungestrichenes Papier in Frage. Gedacht war das Verfahren für billige, schnelle Vervielfältigung in Schulen und Behörden; zu den frühen künstlerischen Nutzern gehörte die 1983 gegründete Druckwerkstatt Knust in Nijmegen, die vom analogen Schablonendruck zum Risographen überging. In den 2010er-Jahren verbreitete sich der Risodruck unter Zine-Machern, Comiczeichnern, Illustratoren und Kleinverlagen.",
+  "markers": [
+   "zwei oder drei durchscheinende Sonderfarben wie fluoreszierendes Pink, Mittelblau und Gelb, die im Überdruck neue Farben ergeben",
+   "körniger, ungleichmäßiger Farbauftrag mit gesprenkelten Vollflächen und dünn gedruckten Stellen",
+   "grobes Raster oder Streuraster statt weicher Verläufe",
+   "sichtbarer Passerversatz: die Farbschichten sind gegeneinander verschoben, an den Kanten blitzt Papier oder eine zweite Farbe hervor",
+   "matte Farbe auf ungestrichenem, gebrochen weißem Papier mit schwachen Walzenspuren",
+   "Zine-Layout mit knapp angeschnittenen flachen Formen, breiten Papierrändern, kräftiger schmaler Groteskschrift in einer Farbe, übergroßen Ziffern und von Hand gezeichneten Pfeilen"
+  ],
+  "escapes": "Die übliche KI-Optik lebt von weichen Verläufen, Glanzlichtern, beliebig vielen Farben und einer mittig gestellten Hauptfigur. Ein Risodruck hat meist nur zwei oder drei Sonderfarben; jede Abstufung entsteht aus Rasterpunkten oder Körnung, jede Mischfarbe aus Überdruck, und die matte Farbe auf ungestrichenem Papier lässt keinen Glanz zu. Der Stilblock verlangt dazu knapp angeschnittene Flächen, breite Papierränder, ein asymmetrisches Layout und für Informationen eine Zine-Doppelseite mit übergroßen Ziffern und von Hand gezeichneten Pfeilen statt des gewohnten Kachelrasters.",
+  "pitfalls": "Häufig wirkt das Ergebnis wie ein vollfarbiges, fein modelliertes Bild, das nur in Pink, Blau und Gelb umgefärbt wurde: Porträts und Landschaften behalten fotografische Details, Luftperspektive und Dutzende Tonstufen, Gegenstände bleiben räumlich schattierte Freisteller in der Bildmitte. Der Passerversatz erscheint oft als gleichmäßiger Farbsaum wie bei einer chromatischen Aberration statt als verschobene Druckschicht, die Körnung als überall gleicher Rauschfilter über sonst glatten Vektorflächen. Bei Infografik und Diagramm prüfen, ob das Kachelraster wirklich aufgebrochen ist und keine zusätzlichen Beschriftungen, Zahlen oder Einheiten hinzugekommen sind.",
+  "tip": "Das Bild als Farbauszüge beschreiben: welche Teile in Blau, welche in Pink und welche als gelbe Fläche gedruckt werden, jeweils als flache Form mit grobem Raster. Das lenkt das Modell darauf, das Bild aus Druckschichten aufzubauen, statt ein fertiges vollfarbiges Bild umzufärben.",
+  "sensitivity": "„Risograph“ und „RISO“ sind Marken der Riso Kagaku Corporation; der Begriff steht hier allgemein für das Druckbild digitaler Schablonendrucker. Name und Logo des Herstellers gehören nicht ins Bild."
+ },
+ "en": {
+  "name": "Risograph print",
+  "aka": [
+   "riso print",
+   "risography",
+   "stencil duplicator print"
+  ],
+  "era": "from 1980, Japan; in zines and graphic art mainly from the 2010s",
+  "summary": "Two or three translucent spot inks, grainy and slightly misregistered on uncoated paper; included because few inks, halftone and overprinting allow neither smooth gradients nor glossy full colour.",
+  "origin": "The Japanese company Riso Kagaku launched its first Risograph-brand machines in 1980, a separate master maker and printer, followed in 1984 by the fully automatic duplicator Risograph 007 and in 1986 by the digital Risograph 007 Digital. A thermal head burns tiny holes into a master sheet, which is then wrapped around a print drum; as the drum turns, soy-based ink is pressed through the perforations onto paper running flat through the machine – a stencil process akin to screen printing. Each colour needs its own master and its own drum, so on single-drum machines a multicolour print goes through once per ink; because the ink dries slowly, only uncoated paper can be used. Intended for cheap, fast copying in schools and government offices, the process was taken up early for art by the Knust print workshop in Nijmegen, founded in 1983, which moved from analogue stencil duplicators to the Risograph. In the 2010s riso printing became widespread among zine makers, comics artists, illustrators and small presses.",
+  "markers": [
+   "two or three translucent spot inks such as fluorescent pink, medium blue and yellow, overprinting into new colours",
+   "grainy, uneven ink coverage with speckled solids and thinly printed patches",
+   "coarse halftone or dither grain instead of smooth gradients",
+   "visible misregistration: colour layers shifted against each other, with paper or a second ink showing at the edges",
+   "matte ink on uncoated off-white paper with faint roller marks",
+   "zine layout with tightly cropped flat shapes, wide paper margins, chunky condensed grotesque lettering in one ink, oversized numbers and hand-drawn arrows"
+  ],
+  "escapes": "The usual AI look relies on smooth gradients, glossy highlights, unlimited colour and a centred hero subject. A risograph print usually has only two or three spot inks; every tonal step is built from halftone dots or grain, every mixed colour from overprinting, and matte ink on uncoated paper leaves no room for gloss. The style block also prescribes tightly cropped flat shapes, wide paper margins, an asymmetric layout and, for information, a zine spread with oversized numbers and hand-drawn arrows instead of the familiar tile grid.",
+  "pitfalls": "Results often look like a full-colour, finely modelled picture merely recoloured in pink, blue and yellow: portraits and landscapes keep photographic detail, aerial perspective and dozens of tonal steps, and objects stay shaded three-dimensional cut-outs in the centre of the frame. Misregistration tends to appear as an even colour fringe like chromatic aberration rather than as a shifted printing layer, and the grain as a uniform noise filter over otherwise clean vector shapes. On infographics and charts, check that the tile grid has really been broken up and that no extra labels, numbers or units have crept in.",
+  "tip": "Describe the picture as colour separations: which parts print in blue, which in pink and which as a yellow field, each a flat shape with coarse halftone. This steers the model towards building the image from printing layers instead of recolouring a finished full-colour picture.",
+  "sensitivity": "‘Risograph’ and ‘RISO’ are trademarks of Riso Kagaku Corporation; the term is used here generically for the print look of digital stencil duplicators. The maker’s name and logo do not belong in the image."
+ },
+ "sources": [
+  {
+   "title": "Risograph – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Risograph"
+  },
+  {
+   "title": "Risographie – Wikipedia",
+   "url": "https://de.wikipedia.org/wiki/Risographie"
+  },
+  {
+   "title": "RISO Milestones 1975–1988 – RISO KAGAKU CORPORATION",
+   "url": "https://www.riso.co.jp/english/company/history/s50.html"
+  },
+  {
+   "title": "About Knust – Extrapool, Nijmegen",
+   "url": "https://extrapool.nl/about-knust-press/"
+  }
+ ]
+}

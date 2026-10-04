@@ -1,0 +1,68 @@
+{
+ "slug": "persian-miniature",
+ "style_block": "Persian miniature painting: a page from a Safavid court manuscript, Tabriz, Iran, around 1530. Medium: opaque mineral colours (lapis blue, vermilion, malachite green, pink, lilac) on burnished cream paper; flat gold sky; silver water tarnished black; fine brush outlines; even light, no cast shadows; tiles, textiles and foliage as dense pattern. Composition: horizon near the top edge, ground tilted up like a carpet, distant things higher, not smaller; buildings frontal or angled, cut open to show inside and outside; small equal-sized figures in three-quarter view within a densely filled field; ruled gold frame on a plain margin, one element overlapping it. Lettering, where text is needed: only the required text, in small white brush-painted Latin letters or numerals on a blue wall tile. Avoid centred hero framing, vanishing-point depth, blur, soft gradients, onion domes, turbans, 'Arabian Nights' fantasy and Mughal-style shaded faces. No calligraphic script panels or pseudo-script.",
+ "de": {
+  "name": "Persische Miniaturmalerei",
+  "aka": [
+   "Persische Buchmalerei",
+   "Persische Miniatur"
+  ],
+  "era": "13.–17. Jh., Iran und Zentralasien",
+  "summary": "Leuchtende Mineralfarben und Gold, ein bis zum hohen Horizont hochgeklappter Boden, keine Schatten, Muster überall: ein Bildraum ohne Fluchtpunkt als Gegenbild zur kameraartigen KI-Perspektive.",
+  "origin": "Die persische Miniaturmalerei entstand als Buchillustration in Iran und Zentralasien; am Hof der mongolischen Ilchane kamen im 13. und 14. Jahrhundert chinesische Einflüsse wie Wolkenbänder und stilisierte Felsen hinzu, und es entstand das Große Mongolische Schahname. Unter den Timuriden wurde Herat zum wichtigsten Zentrum; dort wirkte Behzād (um 1460–1535) als führender Maler am Hof des Sultans Husain Bayqara. Im safawidischen Täbris verbanden sich ab den 1520er-Jahren die Schulen von Herat und Täbris im Schahname des Schah Tahmasp mit 258 Miniaturen von Sultan Muhammad, Mir Musavvir, Aqa Mirak und anderen. Gemalt wurde mit deckenden, überwiegend mineralischen Pigmenten und Gold auf stark geglättetem Papier; oft zog der Hauptmaler die Umrisse, und Gehilfen trugen die Farben auf. Im Isfahan des 17. Jahrhunderts wurden Einzelblätter für Alben wichtiger als illustrierte Handschriften; ihr führender Maler war Reza Abbasi.",
+  "markers": [
+   "Hoher Horizont und hochgeklappter Boden; Ferne wird durch Höhe im Bild gezeigt, nicht durch Verkleinerung",
+   "Leuchtende, deckende Mineralfarben wie Lapislazuliblau, Zinnoberrot und Malachitgrün, oft mit Goldhimmel",
+   "Gleichmäßiges Licht ohne Schlagschatten und Modellierung",
+   "Muster auf Fliesen, Teppichen, Gewändern und Laub",
+   "Gebäude frontal oder schräg gesehen, Innen- und Außenansicht zugleich",
+   "Rahmenlinien um das Bildfeld, über die einzelne Bildteile auf den Blattrand hinausragen"
+  ],
+  "escapes": "Der Stil ersetzt die KI-typische Bildanlage – ein einziger Kamerastandpunkt, zentrierte Hauptfigur, geringe Schärfentiefe, gerichtetes Filmlicht – durch einen hochgeklappten Boden, gleichmäßiges Licht ohne Schatten und gleich große Figuren, die über das ganze Bildfeld verteilt sind. Dichtes Muster und flächiges Gold lassen keinen Platz für die weichen Verläufe und glänzenden Oberflächen, an denen man generierte Bilder erkennt.",
+  "pitfalls": "Modelle gleiten leicht in Märchenillustration nach Art von Tausendundeiner Nacht ab: Zwiebelkuppeln, Turbane und Öllampen kommen hinzu, und die Szene auf Lornholm wird orientalisiert. Außerdem erfinden sie Schriftfelder in Pseudo-Persisch, fallen in Zentralperspektive und Schattenmodellierung zurück und geben jedem das jugendliche Rundgesicht der Tradition, sodass ältere Menschen Falten und graues Haar verlieren.",
+  "tip": "Nicht nur die Malweise, sondern das ganze Blatt beschreiben: Rahmenlinien, freier Rand und „Fernes höher, nicht kleiner“. Dazu festlegen, dass Kleidung und Gebäude wie beschrieben bleiben, damit sich die Malerei ändert und nicht der Schauplatz.",
+  "sensitivity": "Pseudo-persische Schrift kann zufällig echte Wörter bilden, auch religiöse Formeln; Schrift daher weglassen oder von jemandem prüfen lassen, der Persisch liest. Den Propheten Mohammed und andere heilige Personen nicht darstellen und persische Buchkunst nicht als beliebige Orient-Kulisse verwenden."
+ },
+ "en": {
+  "name": "Persian miniature",
+  "aka": [
+   "Persian painting",
+   "Persian manuscript painting",
+   "Safavid miniature",
+   "Timurid miniature"
+  ],
+  "era": "13th–17th c., Iran and Central Asia",
+  "summary": "Bright mineral colours and gold, ground tilted up to a high horizon, no shadows, pattern everywhere: a picture space without vanishing point, as a counter-example to camera-like AI perspective.",
+  "origin": "Persian miniature painting grew out of manuscript illustration in Iran and Central Asia; at the Mongol Ilkhanid court in the 13th and 14th centuries, Chinese influences such as cloud bands and stylised rocks came in, and the Great Mongol Shahnameh was produced. Under the Timurids, Herat became the leading centre; Behzad (c. 1460–1535) worked there as the foremost painter at the court of Sultan Husayn Bayqara. In Safavid Tabriz the Herat and Tabriz schools merged from the 1520s in the Shahnameh of Shah Tahmasp, with 258 paintings by Sultan Mohammad, Mir Musavvir, Aqa Mirak and others. Painters used opaque, mostly mineral pigments and gold on highly polished paper; often the main painter drew the outlines and assistants filled in the colour. In 17th-century Isfahan, single-page paintings for albums became more important than illustrated manuscripts; their leading painter was Reza Abbasi.",
+  "markers": [
+   "High horizon and tilted-up ground; distance shown by height on the page, not by smaller size",
+   "Bright opaque mineral colours such as lapis blue, vermilion and malachite green, often with a gold sky",
+   "Even light without cast shadows or modelling",
+   "Pattern on tiles, carpets, garments and foliage",
+   "Buildings seen frontally or at an angle, interior and exterior at once",
+   "Ruled frame lines around the picture, with single elements breaking out into the margin"
+  ],
+  "escapes": "The style replaces the AI default of a single camera viewpoint, a centred hero figure, shallow depth of field and directional cinematic light with a tilted-up ground, even shadowless light and figures of equal size spread across the whole picture. Dense pattern and flat gold leave no room for the smooth gradients and glossy surfaces that give generated images away.",
+  "pitfalls": "Models easily drift into 'Arabian Nights' fantasy illustration: onion domes, turbans and oil lamps get added and the Lornholm setting is exoticised. They also invent pseudo-Persian script panels, fall back on central perspective and modelled shadows, and give everyone the tradition's youthful round face, so older people lose their wrinkles and grey hair.",
+  "tip": "Describe the whole page, not just the paint: ruled frame, plain margin and 'distant things higher, not smaller'. Also state that clothes and buildings stay as described, so the painting changes and not the setting.",
+  "sensitivity": "Pseudo-Persian script can accidentally form real words, including religious phrases, so leave lettering out or have a reader of Persian check it. Do not depict the Prophet Muhammad or other sacred figures, and do not use Persian book art as a generic 'oriental' backdrop."
+ },
+ "sources": [
+  {
+   "title": "Persian miniature – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Persian_miniature"
+  },
+  {
+   "title": "Shahnameh of Shah Tahmasp – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Shahnameh_of_Shah_Tahmasp"
+  },
+  {
+   "title": "Kamāl ud-Dīn Behzād – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kam%C4%81l_ud-D%C4%ABn_Behz%C4%81d"
+  },
+  {
+   "title": "Reza Abbasi – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Reza_Abbasi"
+  }
+ ]
+}

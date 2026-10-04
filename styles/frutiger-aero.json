@@ -1,0 +1,64 @@
+{
+ "slug": "frutiger-aero",
+ "style_block": "A glossy eco-tech advertisement, worldwide, 2005–2012, montaged from stock photos and simple 3D renders. Medium: bright sky blue, aqua, grass green and white; translucent glass and gel, hard white top highlight; droplets, bubbles, splashes; cut-out photos with soft white glow; smooth gradients, no grain. Composition: a green hill or waterline curves diagonally; subjects float off centre inside or behind clear glass spheres; aurora ribbons arc across; blurred foreground bubbles; reflections fade below objects; sunlight as a lens flare from an upper corner. Lettering, where text is needed: white open humanist sans-serif, soft glow; secondary lines in glossy pill-shaped capsules. Information, where a diagram, map or chart is shown: glossy orb icons in an arc on rounded glass panels, labels beneath. Avoid warm sunsets with a sun disc on the horizon, centred hero framing, dark moody tones, flat vector design, frosted glassmorphism, Y2K chrome, vaporwave grids and operating-system windows.",
+ "de": {
+  "name": "Frutiger Aero",
+  "aka": [
+   "Web 2.0 Gloss",
+   "Aero"
+  ],
+  "era": "etwa 2004–2013, Benutzeroberflächen und Werbung weltweit",
+  "summary": "Hochglanz-Bildsprache der späten 2000er-Jahre mit Glaskugeln, Wasserblasen, grünen Hügeln und Polarlichtbändern; im Katalog, weil sie kühles Tageslicht und sichtbare Montage gegen das warme Abendlicht des KI-Standardbilds setzt.",
+  "origin": "Der Stil prägte von etwa 2004 bis 2013 die Benutzeroberflächen von Computern, Mobiltelefonen und Spielkonsolen, dazu Werbung und Stockfotos: glänzende, skeuomorphe Glas- und Gelflächen, verbunden mit Bildern von blauem Himmel, Gras, Wasser, Polarlichtern, Blendenflecken und Bokeh. Als eines der ersten ausgereiften Beispiele gilt Windows Aero, die Oberfläche von Windows Vista (2006) und Windows 7 (2009) mit glasartig durchscheinenden Fensterrahmen und der humanistischen Groteskschrift Segoe UI als Systemschrift; ähnliche Züge zeigten etwa die Nintendo Wii und das erste iPhone (2007). Anfang der 2010er-Jahre löste das Flat Design den Stil weitgehend ab; Microsoft gab die Glasoptik 2012 mit Windows 8 auf. Einen Namen bekam der Stil erst nachträglich, 2017 oder 2018, von der Online-Gemeinschaft Consumer Aesthetics Research Institute (CARI): nach „Aero“ und nach der Frutiger, einer humanistischen Groteskschrift, die Adrian Frutiger aus seiner Beschilderungsschrift für den Pariser Flughafen Charles de Gaulle entwickelte und die 1976 erschien, in den großen Benutzeroberflächen des Stils aber nicht verwendet wurde. Seit 2023 entdeckt vor allem die Generation Z den Stil in sozialen Netzwerken als nostalgische Ästhetik wieder.",
+  "markers": [
+   "Durchscheinende Glas- und Gelflächen mit hartem weißem Glanzlicht in der oberen Hälfte, oft in Form von Kugeln, Blasen oder pillenförmigen Schaltflächen",
+   "Helle Palette aus Himmelblau, Türkis, Grasgrün und Weiß, glatte Farbverläufe ohne Korn",
+   "Natur im Einklang mit Technik: grüne Hügel, klares Wasser mit Tropfen und Spritzern, Polarlichtbänder, Blendenflecke und Bokeh-Punkte",
+   "Freigestellte Fotos und einfache 3D-Körper, zusammenmontiert, mit weichem weißem Schein und einer nach unten verblassenden Spiegelung",
+   "Humanistische Groteskschrift mit offenen Formen, meist weiß mit weichem Schein; Nebenzeilen in glänzenden, abgerundeten Kapseln"
+  ],
+  "escapes": "Ohne Stilangabe gestaltet das Modell das Plakat als Sonnenuntergang: eine große Sonnenscheibe hinter einer Silhouette im Gegenlicht, warmes Orange über dunklem Blau, die Insel in der Bildmitte, oben eine Kopfzeile in Versalien und unten das Datum. Frutiger Aero ersetzt das durch kühles, gleichmäßig helles Tageslicht, eine sichtbar montierte Collage aus freigestellten Bildteilen, Glaskugeln und Lichtbändern und eine Schrift, die mit weichem Schein und glänzenden Kapseln selbst Teil der Oberfläche ist. Die Glätte bleibt, aber das Bild wirkt wie Technikwerbung um 2007 statt wie ein nachempfundenes Reiseplakat.",
+  "pitfalls": "Weil der Stil selbst glatt und glänzend ist, rutscht das Modell leicht in seine übliche Hochglanzoptik mit warmem Gegenlicht oder in heutige Milchglasoptik mit halbtransparenten Karten auf dunklem Grund; ebenso nahe liegen Vaporwave mit rosa Gitternetz und Sonnenuntergang oder silbernes Chrom der Y2K-Ästhetik. Gern ergänzt es Fensterrahmen, Taskleisten, Mauszeiger oder Logos, die an echte Betriebssysteme erinnern. Die Spiegelungen unter Gegenständen überträgt es leicht auf die Schrift, sodass eine zweite, verstümmelte Textzeile entsteht, und auf gewölbten Glaskapseln verrutschen Buchstaben und Sonderzeichen.",
+  "tip": "Lichtquelle und Glaselemente ausdrücklich festlegen, etwa „Sonne als Blendenfleck in der oberen Ecke, Hauptmotiv in einer klaren Glaskugel, Nebenzeile in einer glänzenden aquablauen Kapsel“; sonst erscheint die Sonne als Scheibe am Horizont.",
+  "sensitivity": "Der Name verweist auf eine Schrift, deren Name als Marke geschützt ist, und auf ein Gestaltungssystem von Microsoft; Schriftnamen, echte Bildschirmhintergründe, Fensterrahmen und Logos von Microsoft, Apple oder Nintendo gehören weder in den Prompt noch ins Bild."
+ },
+ "en": {
+  "name": "Frutiger Aero",
+  "aka": [
+   "Web 2.0 Gloss",
+   "Aero"
+  ],
+  "era": "c. 2004–2013, interface design and advertising worldwide",
+  "summary": "Glossy late-2000s imagery with glass spheres, bubbles, green hills and aurora ribbons; in the catalog because its cool daylight and visible montage counter the AI default's warm evening light.",
+  "origin": "From about 2004 to 2013 the style shaped the interfaces of computers, phones and games consoles as well as advertising and stock imagery: glossy, skeuomorphic glass and gel surfaces combined with pictures of blue sky, grass, water, aurorae, lens flares and bokeh. Windows Aero, the interface of Windows Vista (2006) and Windows 7 (2009), with glass-like translucent window borders and the humanist sans-serif Segoe UI as system typeface, is counted among the first mature examples; the Nintendo Wii and the first iPhone (2007), for instance, showed similar traits. In the early 2010s flat design largely replaced the style; Microsoft dropped the glass look with Windows 8 in 2012. The style was named only in retrospect, in 2017 or 2018, by the online community Consumer Aesthetics Research Institute (CARI): after 'Aero' and after Frutiger, a humanist sans-serif that Adrian Frutiger developed from his signage lettering for Charles de Gaulle Airport in Paris and that was released in 1976, but that was not used in the major interfaces of the style. Since 2023 the style has been rediscovered on social media as a nostalgic aesthetic, especially by Generation Z.",
+  "markers": [
+   "Translucent glass and gel surfaces with a hard white highlight on the upper half, often in the form of spheres, bubbles or pill-shaped buttons",
+   "Bright palette of sky blue, turquoise, grass green and white, smooth gradients without grain",
+   "Nature in harmony with technology: green hills, clear water with droplets and splashes, aurora ribbons, lens flares and bokeh dots",
+   "Cut-out photos and simple 3D objects montaged together, with a soft white glow and a reflection fading out below them",
+   "Humanist sans-serif with open letterforms, usually white with a soft glow; secondary lines in glossy rounded capsules"
+  ],
+  "escapes": "Without a style, the model turns the poster into a sunset: a large sun disc behind a backlit silhouette, warm orange over dark blue, the island in the centre, a headline in capitals at the top and the date at the bottom. Frutiger Aero replaces this with cool, evenly bright daylight, a visibly montaged collage of cut-out elements, glass spheres and light ribbons, and lettering that becomes part of the shiny surface through a soft glow and glossy capsules. The smoothness remains, but the image reads as tech advertising from around 2007 rather than an imitation travel poster.",
+  "pitfalls": "Because the style is itself smooth and glossy, the model easily slides into its usual high-gloss look with warm backlight, or into present-day frosted-glass design with translucent cards on a dark ground; vaporwave with pink grids and sunsets and the silver chrome of the Y2K aesthetic are just as close. It tends to add window frames, taskbars, mouse pointers or logos that recall real operating systems. It easily carries the reflections below objects over to the lettering, producing a second, garbled line of text, and letters and special characters slip on curved glass capsules.",
+  "tip": "State the light source and the glass elements explicitly, for example 'the sun as a lens flare in the upper corner, main subject inside a clear glass sphere, secondary line in a glossy aqua capsule'; otherwise the sun appears as a disc on the horizon.",
+  "sensitivity": "The name refers to a typeface whose name is a protected trademark and to a Microsoft design system; typeface names, real desktop wallpapers, window frames and logos of Microsoft, Apple or Nintendo belong neither in the prompt nor in the image."
+ },
+ "sources": [
+  {
+   "title": "Frutiger Aero – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Frutiger_Aero"
+  },
+  {
+   "title": "Emirhan Avcı: Dijital Estetiğin Fiziksel Yansımaları: İç Mekân Tasarımında Frutiger Aero Etkisi, e-Journal of New Media 8 (3), 2024",
+   "url": "https://doi.org/10.17932/IAU.EJNM.25480200.2024/ejnm_v8i3003"
+  },
+  {
+   "title": "Windows Aero – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Windows_Aero"
+  },
+  {
+   "title": "Frutiger (typeface) – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Frutiger_(typeface)"
+  }
+ ]
+}

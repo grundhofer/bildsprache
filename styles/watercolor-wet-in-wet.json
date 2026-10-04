@@ -1,0 +1,68 @@
+{
+ "slug": "watercolor-wet-in-wet",
+ "style_block": "Loose wet-in-wet watercolour painted quickly on cold-press cotton paper. Medium: broad soft washes bleeding into damp paper with feathered edges, cauliflower blooms and backruns, granulating blues and earth tones, untouched white paper as highlights, dried tide-line edges, a few drips; forms are suggested by a few broad strokes, never rendered in photographic detail, faces and hands simplified to washes and a few dark accents. Composition: a vignette that dissolves into bare paper at the edges, no frame, the focal area most worked, the rest left as faint wash. Lettering, where text is needed: handwritten with a brush or dip pen in sepia ink on an uneven baseline. Information is laid out like a travel-sketchbook page, sketches and notes scattered organically and linked by hand-drawn arrows. Avoid photographic detail under a watercolour texture, a clean digital brush, black outlines and edge-to-edge painting.",
+ "de": {
+  "name": "Nass-in-Nass-Aquarell",
+  "aka": [
+   "Nass-in-Nass-Technik",
+   "Nass-in-Nass-Malerei",
+   "Aquarell nass in nass"
+  ],
+  "era": "spätes 18. bis 19. Jh., England",
+  "summary": "Farben verlaufen auf feuchtem Papier zu weichen Rändern und Ausblühungen, dazwischen bleibt Papierweiß stehen; im Katalog, weil Zufall und offene Ränder die gleichmäßig durchgemalte KI-Fläche aufbrechen.",
+  "origin": "Nass in nass heißt, Farbe auf noch feuchtes Papier zu setzen, sodass sie sich ausbreitet und mit benachbarten Tönen verläuft – der Maler kann das nur teilweise steuern. Die englische Aquarellmalerei des späten 18. und des 19. Jahrhunderts mit Paul Sandby, Thomas Girtin und J. M. W. Turner machte das Aquarell zu einem eigenständigen Mittel der Landschaftsmalerei; 1804 wurde die Society of Painters in Water Colours gegründet. Nach einem Bericht, den der Maler James Orrock überliefert hat, tauchte Turner seine Blätter in Wasser, ließ die Farben auf das nasse Papier tropfen und kratzte danach die Lichter heraus. Sein Nachlass enthält Hunderte lockerer Farbstudien, die der Turner-Forscher A. J. Finberg als „Colour Beginnings“ oder „Miscellaneous: Colour“ verzeichnete. Winslow Homer nutzte die Technik etwa für den Himmel in „Rowing Home“ (1890), und im 20. Jahrhundert malte Emil Nolde besonders viele Aquarelle nass in nass, oft auf Japanpapier.",
+  "markers": [
+   "Farben laufen mit weichen, ausgefransten Rändern ineinander",
+   "Ausblühungen und Blumenkohlränder, wo nasse Farbe in eine antrocknende Fläche lief",
+   "granulierende Pigmente, die sich in der Papierstruktur absetzen",
+   "ausgespartes Papierweiß als Lichter",
+   "harte, dunklere Wasserränder, wo eine Pfütze eingetrocknet ist",
+   "vignettenartiges Bild, das ohne Rahmen ins leere Papier ausläuft"
+  ],
+  "escapes": "Die KI-Voreinstellung malt jede Ecke gleich fertig, mit glatten Verläufen, sauberen Konturen und einem mittig gesetzten, gleichmäßig ausgeleuchteten Motiv. Bei der Nass-in-Nass-Malerei dagegen entstehen Kanten durch das Wasser statt durch eine Kontur, ein Teil des Blatts bleibt leer, und Ausblühungen und Tropfen bleiben stehen, die ein glattes Standardbild tilgen würde. Bei Infografik, Karte und Diagramm ersetzen handschriftliche Sepianotizen und Pfeile wie im Reiseskizzenbuch das übliche Kachelraster mit sauberer Groteskschrift.",
+  "pitfalls": "Modelle rutschen oft ins „digitale Aquarell“: gleichmäßig weiche Verläufe, eine Papiertextur über einer sauberen Illustration und schwarze Tuschkonturen um jede Form. Außerdem malen sie gern bis zum Bildrand oder setzen einen ordentlichen Rahmen, und bei Diagrammen und Karten fallen sie in ein sauberes Raster mit gesetzter Schrift zurück oder bauen Schreibfehler in die Handschrift ein. Prüfen: echte Ausblühungen, sichtbares Papierweiß, lesbare und richtig geschriebene Beschriftung.",
+  "tip": "Die physischen Zufälle – Ausblühungen, Blumenkohlränder, Wasserränder, Tropfen – und den leeren Papierrand ausdrücklich nennen; „lockeres Aquarell“ allein ergibt meist ein glattes, wie mit dem Digitalpinsel gemaltes Bild. Für Text wenige, kurze handschriftliche Wörter verlangen, damit die Pinselschrift lesbar bleibt.",
+  "sensitivity": ""
+ },
+ "en": {
+  "name": "Wet-in-wet watercolour",
+  "aka": [
+   "wet-on-wet watercolour",
+   "wet-into-wet",
+   "loose watercolour"
+  ],
+  "era": "late 18th–19th century, England",
+  "summary": "Colours bleed into damp paper, leaving soft edges, blooms and bare white paper; in the catalog because chance and unfinished margins break the AI image's even, edge-to-edge finish.",
+  "origin": "Wet-in-wet means laying pigment onto paper that is still damp, so the colour spreads and merges with its neighbours in ways the painter can steer only in part. The English watercolour school of the late 18th and 19th centuries, with Paul Sandby, Thomas Girtin and J. M. W. Turner, made watercolour a medium for landscape in its own right; the Society of Painters in Water Colours was founded in 1804. According to an account passed on by the painter James Orrock, Turner plunged his sheets into water, dropped colours onto the wet paper and then scraped out the highlights. His bequest holds hundreds of loose colour studies that the Turner scholar A. J. Finberg catalogued as 'Colour Beginnings' or 'Miscellaneous: Colour'. Winslow Homer used the technique, for instance, for the sky in Rowing Home (1890), and in the 20th century Emil Nolde painted a great many watercolours wet-in-wet, often on Japanese paper.",
+  "markers": [
+   "colours bleeding into each other with soft, feathered edges",
+   "blooms and cauliflower backruns where wet paint ran into a drying area",
+   "granulating pigment settling into the paper texture",
+   "untouched white paper left as highlights",
+   "hard, darker tide-line edges where a pool of water dried",
+   "a vignette that fades into bare paper without a frame"
+  ],
+  "escapes": "The AI default finishes every corner to the same degree, with smooth gradients, clean outlines and a centred, evenly lit subject. Wet-in-wet works against that: edges are set by the water rather than by a contour, part of the sheet stays empty, and blooms and drips remain that a tidy default image would remove. On infographics, maps and charts, handwritten sepia notes and arrows in the manner of a travel sketchbook replace the usual tile grid and clean sans-serif labels.",
+  "pitfalls": "Models often slip into 'digital watercolour': uniform soft gradients, a paper texture laid over a clean illustration, and black ink outlines around every shape. They also like to paint to the edge or add a neat frame, and on charts and maps they fall back to a tidy grid with typeset labels or misspell the handwritten words. Check for real blooms, visible bare paper and legible, correctly spelled lettering.",
+  "tip": "Name the physical accidents – blooms, backruns, tide lines, drips – and the bare-paper margin explicitly; 'loose watercolour' on its own usually produces a smooth image that looks painted with a digital brush. For text, ask for few, short handwritten words so the brush lettering stays legible.",
+  "sensitivity": ""
+ },
+ "sources": [
+  {
+   "title": "Tate: David Blayney Brown, 'Draughtsman and Watercolourist' (J. M. W. Turner: Sketchbooks, Drawings and Watercolours)",
+   "url": "https://www.tate.org.uk/art/research-publications/jmw-turner/david-blayney-brown-draughtsman-and-watercolourist-r1132588"
+  },
+  {
+   "title": "Wikipedia: Watercolor painting",
+   "url": "https://en.wikipedia.org/wiki/Watercolor_painting"
+  },
+  {
+   "title": "Wikipedia: Wet-on-wet",
+   "url": "https://en.wikipedia.org/wiki/Wet-on-wet"
+  },
+  {
+   "title": "Wikipedia (de): Nass-in-Nass-Technik",
+   "url": "https://de.wikipedia.org/wiki/Nass-in-Nass-Technik"
+  }
+ ]
+}

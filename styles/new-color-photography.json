@@ -1,0 +1,64 @@
+{
+ "slug": "new-color-photography",
+ "style_block": "A large-format colour print of an unremarkable everyday place, from American art photography of the 1970s. Medium: 8×10-inch view camera, colour sheet film, everything sharp; hard midday sun, short black shadows; dense dye-transfer colour, deep reds, dusty dark greens, pale cyan sky; fine grain. Composition: camera level at standing height, square-on, verticals straight; flat stacked bands: ground, buildings or trees, sky; main subject small, off centre, no weightier than surrounding poles, wires, kerbs and patched asphalt; edges cut through objects; people small, unposed. Scenery the subject needs is plain roadside fact: flat water, scrubby trees, worn buildings, mountains as a low strip; nothing quaint or grand. Lettering, where text is needed: only signs in the scene, photographed straight; no invented words. Avoid framing foliage, scenic leading lines, HDR clarity, lifted shadows, lush green, golden-hour glow, dramatic skies, tilt-shift blur, retro filters, vignetting, white borders and the picture-postcard view.",
+ "de": {
+  "name": "New Color Photography",
+  "aka": [
+   "New Color"
+  ],
+  "era": "1970er-Jahre, USA",
+  "summary": "Satte Farbaufnahmen gewöhnlicher Orte, ruhig, gerade und durchgehend scharf im Mittagslicht fotografiert; im Katalog, weil sie kräftige Farbe ohne Abendlicht, Unschärfe und Dramatik zeigen.",
+  "origin": "1976 zeigte John Szarkowski, Leiter der Fotoabteilung des Museum of Modern Art in New York, William Egglestons Farbaufnahmen alltäglicher Dinge und Orte in Memphis und Mississippi; obwohl das Museum schon Farbfotos von Eliot Porter und Ernst Haas ausgestellt hatte, gilt die Ausstellung als Wendepunkt für die Anerkennung der Farbfotografie als Kunst. Eggleston ließ Abzüge im Dye-Transfer-Verfahren herstellen, das sonst vor allem in der Werbung genutzt wurde: Drei Reliefmatrizen aus Gelatine übertragen nacheinander Cyan, Magenta und Gelb auf das Papier, der Farbumfang ist größer als bei anderen Verfahren. Stephen Shore fotografierte 1972/73 auf Reisen durch die USA mit einer Kleinbildkamera Menschen, Mahlzeiten und Toiletten („American Surfaces“) und wechselte dann zur Großbildkamera, erst im Format 4 × 5, später 8 × 10 Zoll; diese Aufnahmen erschienen 1982 als „Uncommon Places“. Joel Sternfeld nahm von 1978 bis 1984 mit der Großbildkamera die Bilder für „American Prospects“ (1987) auf. 1981 erschien Sally Eauclaires Buch „The New Color Photography“, und das Everson Museum of Art in Syracuse zeigte die Gruppenausstellung „The New Color“.",
+  "markers": [
+   "Kräftige, dichte Farben mit tiefem Rot und Grün und klarem, hellem Himmelblau, die von den Dingen selbst kommen, nicht aus einer nachträglichen Farbkorrektur",
+   "Gewöhnliche, unscheinbare Orte und Gegenstände, mit derselben Sorgfalt fotografiert wie sonst Sehenswürdigkeiten",
+   "Hartes Mittagslicht mit kurzen, dunklen Schatten oder flaches Licht bei bedecktem Himmel, nie Abendrot",
+   "Ruhiger, frontaler Standpunkt in Augenhöhe, keine stürzenden Linien, Schärfe von vorn bis hinten",
+   "Hauptmotiv außermittig; Nebensächliches wie Leitungen, Schilder und Bordsteine bleibt im Bild und wird vom Rand angeschnitten"
+  ],
+  "escapes": "Ohne Stilangabe setzt das Modell ein einzelnes Hauptmotiv in die Bildmitte, taucht es in goldenes Gegenlicht, lässt den Hintergrund unscharf werden und gibt den Farben eine filmische Färbung in Orange und Petrol. In der New Color Photography steht die Kamera gerade, ruhig und mit Abstand, alles ist bis zum Horizont scharf, und das Licht ist gewöhnliches Tageslicht, sodass die Farbe aus den Dingen selbst kommt und nicht aus Licht- oder Farbeffekten. Weil Nebensächliches gleich viel Gewicht bekommt, entfällt auch die übliche Inszenierung eines Hauptmotivs.",
+  "pitfalls": "Bildmodelle verstehen „1970er-Jahre“ oft als Retrofilter und liefern ausgebleichte, orangestichige Farben, Vignettierung, grobes Korn oder einen weißen Bildrand, also eher einen gealterten Schnappschuss als einen frischen, satten Abzug. Ebenso häufig kehrt die Dramatik zurück, als tief stehende Sonne, spektakulärer Himmel oder mittig gesetztes Hauptmotiv, oder die Szene wird mit Oldtimern und Reklameschildern zur Filmkulisse überladen. Zu prüfen ist außerdem, ob die Angabe „Großbildkamera“ eine schräg verlaufende Unschärfe wie beim Miniatureffekt auslöst und ob auf Schildern erfundene Schriftzüge auftauchen. Am stärksten zieht es das Modell aber zur heutigen Reise- und Stockfotografie: eine herausgeputzte, malerische Szene, von Laub im Vordergrund gerahmt, ein Fluss oder Weg, der sich in eine Bergkulisse schlängelt, sattes Grün und HDR-scharfe Details mit aufgehellten Schatten, sodass nur noch das Mittagslicht an den Stil erinnert.",
+  "tip": "Licht und Standpunkt als nüchterne Tatsachen angeben, etwa „harte Mittagssonne, kurze Schatten, Kamera gerade in Augenhöhe, einige Meter Abstand, alles scharf“, und die Szene ausdrücklich „unspektakulär“ nennen; sonst ergänzt das Modell Abendlicht und Dramatik. Wer gewöhnlichen Kram wie Masten, Leitungen, Bordsteine und geflickten Asphalt nennt und einen frontalen Blick aus flachen Streifen von Boden, Gebäuden und Himmel verlangt, verhindert, dass das Modell eine Reisepostkarte komponiert.",
+  "sensitivity": "Die Richtung ist eng mit noch lebenden Fotografen verbunden; ihre Namen gehören nicht in den Prompt, und bekannte Einzelbilder sollten nicht nachgestellt werden."
+ },
+ "en": {
+  "name": "New Color Photography",
+  "aka": [
+   "New Color",
+   "New Colour photography",
+   "American New Color"
+  ],
+  "era": "1970s, United States",
+  "summary": "Saturated colour photographs of ordinary places, taken calmly, level and sharp throughout in midday light; in the catalog because they show strong colour without sunset light, blur or drama.",
+  "origin": "In 1976 John Szarkowski, director of the photography department at the Museum of Modern Art in New York, showed William Eggleston's colour photographs of everyday things and places in Memphis and Mississippi; although the museum had already exhibited colour work by Eliot Porter and Ernst Haas, the show is regarded as the turning point for the acceptance of colour photography as art. Eggleston had prints made by dye transfer, a process otherwise used mainly in advertising: three gelatin relief matrices transfer cyan, magenta and yellow dye one after another onto the paper, giving a larger colour gamut than other processes. On road trips in 1972–73 Stephen Shore photographed people, meals and toilets with a 35mm camera ('American Surfaces'), then moved to a view camera, first 4 × 5 and later 8 × 10 inches; these pictures appeared in 1982 as 'Uncommon Places'. Joel Sternfeld made the pictures for 'American Prospects' (1987) with a large-format camera between 1978 and 1984. In 1981 Sally Eauclaire's book 'The New Color Photography' was published, and the Everson Museum of Art in Syracuse showed the group exhibition 'The New Color'.",
+  "markers": [
+   "Strong, dense colour with deep reds and greens and a clear pale blue sky, carried by the things themselves rather than by colour grading",
+   "Ordinary, unremarkable places and objects, photographed with the care usually given to landmarks",
+   "Hard midday sun with short, dark shadows, or flat overcast light; never a sunset",
+   "Calm, frontal viewpoint at eye level, straight verticals and sharpness from front to back",
+   "Main subject off centre; incidental things such as wires, signs and kerbs stay in the frame and are cut by its edges"
+  ],
+  "escapes": "Unprompted, the model puts a single hero subject in the centre, bathes it in golden backlight, blurs the background and grades the colour toward cinematic orange and teal. New Color photography holds the camera level, calm and at a distance, keeps everything sharp to the horizon and works in ordinary daylight, so the colour comes from the things themselves rather than from light or grading effects. Because incidental details get equal weight, the usual staging of a hero subject disappears as well.",
+  "pitfalls": "Image models often read '1970s' as a retro filter and deliver faded, orange-cast colour, vignetting, heavy grain or a white print border, which looks like an aged snapshot rather than a fresh, saturated print. Drama also creeps back in as low sun, a spectacular sky or a centred hero subject, or the scene is overloaded with vintage cars and advertising signs until it becomes a period film set. Check too that naming a large-format camera does not trigger a tilted miniature-style blur and that no invented lettering appears on signs. The strongest pull, though, is toward today's travel and stock photography: a prettified, picturesque scene framed by foreground foliage, a river or road curving into a scenic mountain backdrop, lush greens and HDR-crisp detail with lifted shadows, so that only the midday light still recalls the style.",
+  "tip": "State light and viewpoint as plain facts, for example 'hard noon sun, short shadows, camera level at eye height a few metres back, everything sharp', and call the scene 'unremarkable'; otherwise the model adds sunset light and drama. Naming ordinary clutter such as poles, wires, kerbs and patched asphalt, and a square-on view built from flat bands of ground, buildings and sky, keeps it from composing a travel postcard.",
+  "sensitivity": "The movement is closely tied to living photographers; keep their names out of prompts and do not restage well-known individual pictures."
+ },
+ "sources": [
+  {
+   "title": "William Eggleston – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/William_Eggleston"
+  },
+  {
+   "title": "Stephen Shore – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/Stephen_Shore"
+  },
+  {
+   "title": "Joel Sternfeld – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/Joel_Sternfeld"
+  },
+  {
+   "title": "Dye-transfer process – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/Dye-transfer_process"
+  }
+ ]
+}

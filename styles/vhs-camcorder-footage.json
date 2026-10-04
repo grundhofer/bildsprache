@@ -1,0 +1,70 @@
+{
+ "slug": "vhs-camcorder-footage",
+ "style_block": "A frame grab from camcorder home video, Europe or North America, late 1980s to mid-1990s. Medium: small-sensor video on worn analogue tape with only a blown-up thumbnail's detail: edges smeared sideways, colour bleeding past outlines, reds most. No pores, fibres or fine texture anywhere: faces soft tone patches, eyes smudges, hands pale blobs; ground, water, trees, buildings mottled blotches. No shallow focus, shaped light or colour grade: equally soft front to back, dull colour, sky blown white by auto-exposure, murky speckled shadows. Composition: handheld from standing height several metres off, looking down, slightly tilted; people mid-size, off-centre or cut by the frame; jittering noise band at the bottom, one dropout streak. Lettering, where text is needed: blocky white monospaced capitals, black-edged, in a lower corner like a date stamp; never invented dates. Avoid sharp stills with pasted-on tape faults, close eye-level framing, bokeh, golden-hour glow, RGB-split glitches, REC overlays.",
+ "de": {
+  "name": "VHS-Heimvideo",
+  "aka": [
+   "VHS-Camcorder-Look",
+   "VHS-Look",
+   "Camcorder-Standbild",
+   "Videoband-Look"
+  ],
+  "era": "um 1984–2000, Heimvideo in Europa, Nordamerika und Japan",
+  "summary": "Weiches, verwaschenes Standbild aus einem Camcorder-Heimvideo mit verlaufenden Farben und Bandstörungen; im Katalog, weil beiläufige Handkamera und Videofehler das scharfe, komponierte KI-Standardbild ersetzen.",
+  "origin": "JVC brachte das Videoformat VHS 1976 in Japan auf den Markt; in Europa wurde es in den Jahren ab 1980 zum Standard für Heimvideo. Ab 1983 kamen Camcorder in den Handel, die Kamera und Videorekorder in einem Gerät vereinten: zuerst Sonys Betamovie, 1984 der erste Camcorder von JVC für die kleine VHS-C-Kassette, ab 1985 auch Geräte für die große VHS-Kassette und Sonys Video-8-System; mit der Verbreitung der Camcorder entstanden Fernsehsendungen mit Amateurvideos wie „America’s Funniest Home Videos“. VHS zeichnet das Helligkeitssignal mit einer horizontalen Auflösung von etwa 220 bis 240 Linien auf, die Farbe dagegen im Color-under-Verfahren auf einem herabgesetzten Farbhilfsträger, der pro Zeile nur etwa 30 bis 40 unterschiedliche Farbwerte festhält; deshalb wirkt das Bild weich, und Farben verlaufen über die Konturen hinaus. Abgenutzte oder beschädigte Bänder zeigen Drop-outs als weiße oder schwarze Striche, Spurlagefehler verzerren das Bild, und in digitalisierten Aufnahmen ist am unteren Bildrand oft ein unruhiger Streifen zu sehen, der beim Umschalten der Videoköpfe entsteht. Mit dem digitalen DV-Format, das Sony, JVC, Panasonic und weitere Hersteller 1995 einführten, begann die Ablösung der analogen Camcorder; seit etwa 2006 sind fast alle verkauften Camcorder digital.",
+  "markers": [
+   "Weiches, niedrig aufgelöstes Bild mit verschmierten Kanten und ohne feine Details",
+   "Farben laufen seitlich über die Konturen hinaus, gesättigtes Rot verschmiert am stärksten",
+   "Durch die Belichtungsautomatik weiß ausgefressener Himmel, trübe Schatten mit Farbrauschen",
+   "Video- und Bandfehler: unruhiger Störstreifen am unteren Bildrand, kurze weiße Drop-out-Striche, durch den Zeilensprung kammartig zerrissene Kanten an bewegten Teilen",
+   "Aus der Hand gefilmt, leicht schief, halb eingezoomt, Personen aus der Mitte gerückt oder vom Bildrand angeschnitten",
+   "Klobige weiße Datums- und Uhrzeiteinblendung mit schwarzem Rand in einer unteren Bildecke"
+  ],
+  "escapes": "Bildgeneratoren liefern standardmäßig ein gestochen scharfes, rauschfreies Bild mit unscharfem Hintergrund, warmem Gegenlicht und sorgfältig in die Mitte gesetzten Personen. Das Camcorder-Bild nimmt die Schärfe weg, lässt Farben verlaufen, den Himmel ausfressen und die Schatten absaufen, und der kleine Bildwandler ergibt große Schärfentiefe statt Freistellung. Die beiläufige Handkamera mit schiefem Horizont, halbem Zoom und angeschnittenen Personen ersetzt die sorgfältig komponierte, mittig ausgerichtete Aufnahme.",
+  "pitfalls": "Modelle greifen gern zum Klischee des „VHS-Filters“: Neonfarben, rot-blau versetzte Farbkanäle, grobe Zeilenstruktur, gewölbter Röhrenbildschirm und Einblendungen wie „PLAY“ oder ein roter REC-Punkt, die nur im Sucher oder auf dem Fernseher erschienen, nicht auf dem Band. Oft bleibt darunter ein scharfes, sauber ausgeleuchtetes Digitalfoto oder ein warm getöntes Kinostandbild mit feinen Texturen und naher Kamera auf Augenhöhe erkennbar, dem nur Störstreifen aufgelegt wurden; die geringe Auflösung muss aber das ganze Bild prägen, sodass Gesichter, Hände und Oberflächen selbst verwaschen und detailarm sind. Die Datumseinblendung besteht aus Ziffern und widerspricht damit Motiven ohne Text; dort muss das Bild ohne sie auskommen, und es dürfen keine Fantasiezeichen an ihre Stelle treten.",
+  "tip": "Den Standort der filmenden Person beschreiben, etwa im Stehen aus einigen Metern Entfernung und halb eingezoomt, und ausdrücklich verlangen, dass auch Gesichter und Hände weich und verschmiert sind, nicht nur der Hintergrund.",
+  "sensitivity": "Weil der Stil wie eine echte private Aufnahme wirkt, sollten erzeugte Bilder nicht als Familienvideo, Beweismittel oder Archivmaterial realer Personen und Ereignisse ausgegeben werden. VHS und VHS-C sind von JVC entwickelte Formate; der Prompt beschreibt die Technik, statt die Formatnamen zu nennen, und Herstellernamen und Logos gehören nicht ins Bild."
+ },
+ "en": {
+  "name": "VHS camcorder footage",
+  "aka": [
+   "VHS home video",
+   "camcorder still",
+   "VHS look",
+   "90s home video"
+  ],
+  "era": "c. 1984–2000, home video in Europe, North America and Japan",
+  "summary": "A soft, washed-out still from camcorder home video with bleeding colour and tape faults, included because casual handheld filming and video defects replace the sharp, composed AI default image.",
+  "origin": "JVC launched the VHS video format in Japan in 1976, and in Europe it became the standard for home video from 1980 onwards. From 1983 camcorders that combined camera and video recorder in one unit reached the shops: first Sony's Betamovie, in 1984 JVC's first camcorder for the compact VHS-C cassette, and from 1985 machines for the full-size VHS cassette and Sony's Video8 system; the spread of camcorders led to television shows built on amateur clips such as America's Funniest Home Videos. VHS records the brightness signal at a horizontal resolution of about 220 to 240 lines, but stores colour by the colour-under method on a down-converted subcarrier that holds only about 30 to 40 distinct colour values per line, so the picture looks soft and colours spread beyond their outlines. Worn or damaged tapes show dropouts as white or black streaks, tracking errors distort the picture, and digitised recordings often show an unsteady band along the bottom of the frame caused by the switching of the video heads. With the digital DV format, launched in 1995 by Sony, JVC, Panasonic and other makers, analogue camcorders began to be replaced; since about 2006 nearly all camcorders sold have been digital.",
+  "markers": [
+   "Soft, low-resolution picture with smeared edges and no fine detail",
+   "Colours bleed sideways past outlines, saturated red smears most",
+   "Sky blown to white by auto-exposure, murky shadows with colour noise",
+   "Video and tape faults: unsteady noise band along the bottom edge, short white dropout streaks, comb-like torn edges on moving parts caused by interlacing",
+   "Handheld, slightly tilted, zoomed halfway in, people off-centre or cut off by the frame edge",
+   "Blocky white date-time stamp with a black edge in a lower corner"
+  ],
+  "escapes": "Image generators default to a crisp, noise-free picture with a blurred background, warm backlight and people placed carefully in the centre. The camcorder frame takes the sharpness away, lets colours bleed, the sky blow out and the shadows go murky, and the small sensor gives deep focus instead of subject isolation. The casual handheld camera with a tilted horizon, half-zoom and cut-off people replaces the carefully composed, centred shot.",
+  "pitfalls": "Models readily reach for the 'VHS filter' cliché: neon colours, red-blue channel offsets, heavy scanlines, a curved CRT screen and overlays such as 'PLAY' or a red REC dot, which appeared only in the viewfinder or on the TV, never on the tape. Often a sharp, cleanly lit digital photo or a warm-toned film still with fine texture and a close eye-level camera remains visible underneath with noise bands laid on top, while the low resolution has to shape the whole frame, so faces, hands and surfaces themselves are washed out and low in detail. The date-time stamp consists of numbers and so conflicts with motifs that allow no text; there the frame has to do without it, and no made-up characters may take its place.",
+  "tip": "Describe where the person filming stands, for example upright a few metres away and zoomed halfway in, and ask explicitly for faces and hands to be soft and smeared too, not just the background.",
+  "sensitivity": "Because the style reads as a genuine private recording, generated images should not be passed off as family videos, evidence or archive footage of real people and events. VHS and VHS-C are formats developed by JVC; the prompt describes the technique instead of naming the formats, and manufacturer names and logos do not belong in the image."
+ },
+ "sources": [
+  {
+   "title": "Camcorder – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/Camcorder"
+  },
+  {
+   "title": "Betamovie – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/Betamovie"
+  },
+  {
+   "title": "Video Home System – Wikipedia (Deutsch)",
+   "url": "https://de.wikipedia.org/wiki/Video_Home_System"
+  },
+  {
+   "title": "Head Switching Noise – AV Artifact Atlas",
+   "url": "https://www.avartifactatlas.com/artifacts/head_switching_noise.html"
+  }
+ ]
+}

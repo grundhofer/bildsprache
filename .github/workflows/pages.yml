@@ -1,0 +1,63 @@
+name: Build and deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # build.py prüft vorher alle Daten (tools/checks.py): Jeder veröffentlichte Prompt muss
+      # exakt aus dem aktuellen Motiv- und Stilblock bestehen, jede Bilddatei muss existieren.
+      - name: Build
+        run: python3 build.py
+
+      - name: Data, theme and page tests
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Sanity check
+        run: |
+          set -e
+          for f in docs/index.html docs/de/index.html docs/en/index.html docs/og.png \
+                   docs/data/lexicon.de.json docs/data/lexicon.en.json docs/assets/site.js; do
+            test -s "$f" || { echo "fehlt oder leer: $f"; exit 1; }
+          done
+          grep -q 'og:image" content="https://' docs/de/index.html || { echo "og:image fehlt oder ist relativ"; exit 1; }
+          echo "$(find docs -name index.html | wc -l) Seiten, $(find docs/images -name '*.webp' | wc -l) Bilddateien"
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    # Pull Requests werden gebaut und geprüft, aber nicht veröffentlicht.
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,68 @@
+{
+ "slug": "early-renaissance",
+ "style_block": "A Florentine fresco or egg-tempera panel, c. 1425–1490. Medium: lime plaster or gessoed wood, matte, chalky; pale lime white, ochre, terracotta, rose, sage, slate blue; crisp contours, hatched modelling; plaster seams, fine cracks. Composition: wide, frieze-like view, one vanishing point at eye level, ground lines ruled toward it; solid full-length figures side by side on a shallow foreground stage, half the frame tall, heads in profile or three-quarter; space recedes in distinct planes, crisp to the horizon; cool side light, all shadows falling one way. Lettering, where text is needed: evenly spaced Roman capitals, as if cut in stone. Information, where a diagram, map or chart is shown: a ruled perspective construction with geometric solids, points labelled by single letters. Avoid sfumato, varnished old-master browns, golden glow, background blur, centred close-ups, beautified faces, invented arcades, tiled floors, cypresses. Secular scene: no halos, no gold leaf, no religious iconography.",
+ "de": {
+  "name": "Frührenaissance",
+  "aka": [
+   "Quattrocento",
+   "Florentiner Frührenaissance",
+   "Malerei des Quattrocento"
+  ],
+  "era": "um 1420–1490, Florenz und Mittelitalien",
+  "summary": "Zentralperspektive, gleichmäßiges Tageslicht, helle Freskofarben und ruhige, standfeste Figuren; im Katalog, weil der konstruierte, bis in die Ferne scharfe Bildraum der KI-Unschärfe und dem goldenen Licht widerspricht.",
+  "origin": "Die Malerei der Frührenaissance entstand in den 1420er-Jahren in Florenz: Ab etwa 1425 malten Masaccio (1401–1428) und Masolino die Brancacci-Kapelle aus, und im „Zinsgroschen“ fallen die Schatten der Figuren vom echten Kapellenfenster weg, als würde es die Szene beleuchten. Masaccios Dreifaltigkeitsfresko in Santa Maria Novella (um 1427) gilt als ältestes erhaltenes Bild mit systematischer Zentralperspektive; für die Konstruktion schlug er einen Nagel in den Fluchtpunkt und drückte von dort Schnüre in den Putz. Leon Battista Alberti beschrieb die Zentralperspektive 1435/36 in „De pictura“ erstmals schriftlich, widmete die italienische Fassung Filippo Brunelleschi, stellte die vielfigurige Historie über alle anderen Bildaufgaben und riet, Gold mit Farbe nachzuahmen, statt Blattgold aufzulegen. Paolo Uccello und Piero della Francesca (um 1415–1492) trieben die Perspektive weiter, Piero später auch in seinem Traktat „De prospectiva pingendi“; sein Doppelbildnis des Federico da Montefeltro und der Battista Sforza zeigt beide im strengen Profil vor einer weiten Landschaft. Wandbilder entstanden als Fresko auf frischem Kalkputz, Altartafeln in Tempera auf Holz, und in Domenico Ghirlandaios Fresken der Tornabuoni-Kapelle in Santa Maria Novella stehen Florentiner Zeitgenossen mitten in den religiösen Szenen.",
+  "markers": [
+   "Zentralperspektive mit einem Fluchtpunkt; Boden und Bauten wie mit dem Lineal gezogen",
+   "Helle, matte Farben von Fresko und Tempera: Kalkweiß, Ocker, Terrakotta, Rosa, Salbeigrün, Himmelblau",
+   "Klare Umrisse und gleichmäßiges Tageslicht von einer Seite, alle Schlagschatten fallen in dieselbe Richtung",
+   "Ruhige, standfeste Figuren in ganzer Gestalt nebeneinander auf einer schmalen Bühne im Vordergrund",
+   "Köpfe im strengen Profil oder in Dreiviertelansicht, Gesichter mit individuellen Zügen",
+   "Hügel, Bäume und Bauten bis in die Ferne klein und fein gezeichnet, kaum Dunst"
+  ],
+  "escapes": "Gegen die in KI-Bildern übliche geringe Schärfentiefe, das goldene Gegenlicht und die glatte, glänzende Haut stellt der Stil einen konstruierten Raum, der bis in die Ferne scharf bleibt, kühles Tageslicht mit klaren Schlagschatten und matte, kalkige Farben. Statt einer zentrierten Heldenfigur in Nahaufnahme stehen ruhige Figuren in ganzer Gestalt nebeneinander auf einer schmalen Bühne; Fluchtlinien, die auf einen einzigen Punkt zulaufen, binden sie in den Raum ein.",
+  "pitfalls": "Modelle rutschen leicht in die Hochrenaissance mit weichem Sfumato und warmem Helldunkel oder in eine allgemeine Altmeistermanier mit braunen Schatten und glänzendem Firnis. Weil die Vorbilder überwiegend Altarbilder und Kapellenfresken sind, schleichen sich Heiligenscheine, Goldgrund und biblische Gewänder ein, und Fliesenböden, Arkaden und toskanische Zypressen tauchen auch in Szenen im Freien auf, die anderswo spielen. Gesichter werden gern idealisiert und verjüngt; prüfen, ob Alter, Falten und abgearbeitete Hände erhalten bleiben.",
+  "tip": "Den Bildaufbau beschreiben, statt nur die Epoche zu nennen: schmale Bühne im Vordergrund, ein Fluchtpunkt in Augenhöhe, Tageslicht von links mit gleichgerichteten Schatten. Dazu ausdrücklich „weltliche Szene, keine Heiligenscheine“ schreiben, sonst übernimmt das Modell Motive aus den religiösen Vorbildern.",
+  "sensitivity": "Die Vorbilder sind überwiegend religiöse Auftragswerke; bei Alltagsmotiven Heiligenscheine, Engel und christliche Symbole ausschließen, damit die Szene nicht wie ein Andachtsbild wirkt."
+ },
+ "en": {
+  "name": "Early Renaissance",
+  "aka": [
+   "Quattrocento",
+   "Florentine Early Renaissance",
+   "Quattrocento painting"
+  ],
+  "era": "c. 1420–1490, Florence and central Italy",
+  "summary": "Linear perspective, even daylight, pale fresco colours and calm, solid figures; in the catalog because its constructed space, sharp into the distance, runs against AI blur and golden light.",
+  "origin": "Early Renaissance painting took shape in Florence in the 1420s: from about 1425 Masaccio (1401–1428) and Masolino frescoed the Brancacci Chapel, and in the Tribute Money the figures’ shadows fall away from the real chapel window, as if it lit the scene. Masaccio’s Holy Trinity in Santa Maria Novella (c. 1427) is considered the earliest surviving painting with systematic linear perspective; to construct it he fixed a nail at the vanishing point and pressed strings from it into the plaster. In De pictura (1435/36) Leon Battista Alberti gave the first written account of linear perspective; he dedicated the Italian version to Filippo Brunelleschi, ranked the many-figured narrative painting above all other subjects and advised imitating gold with paint rather than applying gold leaf. Paolo Uccello and Piero della Francesca (c. 1415–1492) took perspective further, Piero later also in his treatise De prospectiva pingendi; his double portrait of Federico da Montefeltro and Battista Sforza shows both in strict profile before a wide landscape. Walls were painted in fresco on fresh lime plaster, altarpieces in tempera on wood, and in Domenico Ghirlandaio’s frescoes in the Tornabuoni Chapel of Santa Maria Novella Florentine contemporaries stand within the religious scenes.",
+  "markers": [
+   "Linear perspective with one vanishing point; ground and buildings ruled as if with a straightedge",
+   "Pale, matte fresco and tempera colours: lime white, ochre, terracotta, rose, sage green, sky blue",
+   "Crisp contours and even daylight from one side, all cast shadows falling the same way",
+   "Calm, solid, full-length figures side by side on a shallow stage in the foreground",
+   "Heads in strict profile or three-quarter view, faces with individual features",
+   "Hills, trees and buildings small and finely drawn far into the distance, with little haze"
+  ],
+  "escapes": "AI images usually show shallow depth of field, golden backlight and smooth, glossy skin; this style instead has a constructed space that stays sharp into the distance, cool daylight with clear cast shadows and matte, chalky colour. Instead of a centred hero in close-up, calm full-length figures stand side by side on a shallow stage; orthogonals running to a single point tie them into the space.",
+  "pitfalls": "Models drift easily into the High Renaissance, with soft sfumato and warm chiaroscuro, or into a generic old-master manner with brown shadows and glossy varnish. Because the originals are mostly altarpieces and chapel frescoes, halos, gold grounds and biblical robes creep in, and tiled floors, arcades and Tuscan cypresses appear even in outdoor scenes set elsewhere. Faces tend to be idealised and made younger; check that age, wrinkles and work-worn hands survive.",
+  "tip": "Describe the picture’s structure rather than just naming the period: a shallow stage in the foreground, one vanishing point at eye level, daylight from the left with shadows falling one way. Write ‘secular scene, no halos’ explicitly, or the model borrows motifs from the religious originals.",
+  "sensitivity": "The originals are mostly religious commissions; for everyday subjects exclude halos, angels and Christian symbols so that the scene does not read as a devotional image."
+ },
+ "sources": [
+  {
+   "title": "Masaccio – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Masaccio"
+  },
+  {
+   "title": "De pictura – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/De_pictura"
+  },
+  {
+   "title": "Piero della Francesca – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Piero_della_Francesca"
+  },
+  {
+   "title": "Italian Renaissance painting – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Italian_Renaissance_painting"
+  }
+ ]
+}

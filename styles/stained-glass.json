@@ -1,0 +1,68 @@
+{
+ "slug": "stained-glass",
+ "style_block": "A 13th-century stained-glass window panel from a French cathedral, seen frontally against daylight. Medium: hand-blown pot-metal glass in purple-blue, ruby red, green, amber and greenish white, one colour per piece, with bubbles and streaks; thick dark lead along every contour; faces, hands and folds traced in brown-black glass paint; iron bars across the panel. Composition: no perspective; figures fill the panel height on one ground line against a plain blue or red ground; landscape as emblematic signs, water as wavy bands; hands and gestures enlarged; a foliate border. Lettering, where text is needed: Gothic capitals scratched light out of black paint on a glass band. Information, where a diagram, map or chart is shown: scenes in stacked medallions read from the bottom up. Avoid centred hero framing, even vector outlines, random shard mosaic, light rays, halos, church interiors, shaded 19th-century glass, opalescent lamp glass; no invented inscriptions.",
+ "de": {
+  "name": "Glasmalerei",
+  "aka": [
+   "Bleiglasfenster",
+   "Kirchenfenster",
+   "Gotische Glasmalerei"
+  ],
+  "era": "um 1100–1300, Westeuropa",
+  "summary": "Flächige Figuren aus tiefblauem, rotem und grünem Glas, von dicken Bleiruten gehalten und mit Schwarzlot gezeichnet; das Material gibt jede Kontur vor und lässt für glatte KI-Oberflächen keinen Platz.",
+  "origin": "Farbiges, in Blei gefasstes Fensterglas ist in Kirchen seit dem 7. Jahrhundert belegt; die Prophetenfenster im Augsburger Dom aus dem 12. Jahrhundert gelten als die ältesten großflächig erhaltenen Buntglasfenster. Abt Suger ließ den 1140–1144 neu errichteten Chor von Saint-Denis verglasen, und die Kathedrale von Chartres bewahrt den größten Teil ihrer ursprünglichen Fenster, die überwiegend in der ersten Hälfte des 13. Jahrhunderts entstanden, mit ihrem violettstichigen Blau. Das Glas wurde in der Schmelze mit Metalloxiden gefärbt, nach einer Vorzeichnung in Originalgröße auf einem geweißten Holztisch zugeschnitten, mit Schwarzlot bemalt, im Ofen eingebrannt und mit Bleiruten im H-Profil verbunden; kurz nach 1300 kam Silbergelb für Gelb- und Orangetöne hinzu. In England gingen die alten Techniken nach der Reformation verloren; im 19. Jahrhundert brachten Neugotik und Restaurierungen die Glasmalerei in Großbritannien, Frankreich und Deutschland wieder zur Blüte, und in Frankreich entstanden ab 1839 Fenster, die mittelalterliches Glas in Zeichnung und Material eng nachahmten.",
+  "markers": [
+   "Dicke dunkle Bleiruten entlang jeder Kontur, an den Knoten verlötet",
+   "Eine einzige durchscheinende Farbe je Glasstück: Tiefblau, Rubinrot, Grün, Gelb, grünliches Weiß",
+   "Gesichter, Hände und Gewandfalten in braunschwarzem Schwarzlot gezeichnet, Lichter herausradiert",
+   "Mundgeblasenes Glas mit Bläschen, Schlieren und ungleicher Farbdichte",
+   "Gerade Windeisen quer über die ganze Scheibe, Sprungbleie in gesprungenen Stücken",
+   "Flächige Figuren auf einer Standlinie vor einfarbigem Grund, umgeben von einer Ornamentborte"
+  ],
+  "escapes": "Das Bleinetz lässt keine weichen Verläufe, keine Hintergrundunschärfe und kein Konturlicht zu: Jede Form muss ein flaches Stück sein, das ein Glaser schneiden kann, sodass für glänzende Plastizität und dramatische Lichtführung kein Platz bleibt. Die Figuren stehen flach auf einer Standlinie, Hände und Gesten sind vergrößert; das ersetzt die mittige Heldenpose und den fotografischen Bildausschnitt.",
+  "pitfalls": "Modelle zeichnen oft flache Vektorflächen mit gleichmäßig schwarzer Kontur, die Glas nur nachahmen, oder legen die Bleiruten als zufälliges Scherbenmosaik an, das Gesichter durchschneidet und der Zeichnung nicht folgt. Zu prüfen sind Farbverläufe innerhalb eines Stücks, fotorealistische Gesichter im Glas sowie ungefragt hinzugefügte Kirchenräume, Heiligenscheine, Lichtstrahlen oder Inschriftbänder. Alter und Ausdruck müssen in der Schwarzlotzeichnung lesbar bleiben und dürfen nicht zu allgemeinen Heiligengesichtern geglättet werden.",
+  "tip": "Ausdrücklich „eine Farbe je Glasstück“ und „Bleiruten entlang der Figurenkonturen“ verlangen und die Scheibe frontal im Durchlicht zeigen lassen; so entsteht ein echtes Bleinetz statt eines Glasfilters über einer Illustration.",
+  "sensitivity": "Glasmalerei ist eng mit christlichen Kirchenräumen verbunden; Heiligenscheine, Heilige oder sakrale Szenen nicht ungefragt zu weltlichen Motiven hinzufügen und religiöse Figuren mit Sorgfalt darstellen."
+ },
+ "en": {
+  "name": "Stained glass",
+  "aka": [
+   "Leaded glass window",
+   "Gothic stained glass",
+   "Medieval stained glass"
+  ],
+  "era": "c. 1100–1300, Western Europe",
+  "summary": "Flat figures of deep blue, red and green glass, held by thick lead and drawn in dark paint; the material sets every contour and rules out smooth AI surfaces.",
+  "origin": "Coloured window glass set in lead is documented in churches from the 7th century; the prophet windows in Augsburg Cathedral, from the 12th century, are considered the oldest large-scale stained-glass windows to survive. Abbot Suger had stained glass installed in the new choir of Saint-Denis, built in 1140–1144, and Chartres Cathedral keeps most of its original windows, the bulk of them made in the first half of the 13th century, with their purple-tinged blue. The glass was coloured in the melt with metal oxides, cut to a full-size drawing made on a whitewashed wooden table, painted with dark vitreous paint fused in the kiln and joined with H-section lead cames; silver stain for yellows and oranges arrived soon after 1300. In England the traditional methods were lost after the Reformation; in the 19th century the Gothic Revival and restoration campaigns brought the craft back in Britain, France and Germany, and in France windows made from 1839 onwards closely imitated medieval glass in both design and material.",
+  "markers": [
+   "Thick dark lead lines along every contour, soldered at the joints",
+   "A single translucent colour per glass piece: deep blue, ruby red, green, yellow, greenish white",
+   "Faces, hands and drapery folds drawn in brown-black glass paint, highlights scratched out",
+   "Hand-blown glass with bubbles, streaks and uneven colour density",
+   "Straight iron saddle bars across the whole panel, mending leads in cracked pieces",
+   "Flat figures on one ground line against a plain ground, enclosed by an ornamental border"
+  ],
+  "escapes": "The lead network rules out soft gradients, depth-of-field blur and rim light: every form has to be a flat piece a glazier could cut, so glossy volume and cinematic lighting have nowhere to go. Figures stand flat on one ground line with enlarged hands and gestures, which replaces the centred hero pose and the photographic crop.",
+  "pitfalls": "Models often draw flat vector shapes with uniform black outlines that only imitate glass, or lay the leads out as a random crazy-paving mosaic that cuts through faces and ignores the drawing. Watch for gradients inside a single piece, photoreal faces set into the glass, and church interiors, halos, light beams or inscription bands added unasked. Age and expression must still read in the painted lines and not be smoothed into generic saint faces.",
+  "tip": "Ask explicitly for 'one colour per glass piece' and 'lead lines following the contours of the figures', and for the panel seen straight on with light behind it; this produces a real lead network instead of a glass filter laid over an illustration.",
+  "sensitivity": "Stained glass is closely tied to Christian churches; do not add halos, saints or sacred scenes to secular subjects unasked, and treat religious figures with care."
+ },
+ "sources": [
+  {
+   "title": "Stained glass – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Stained_glass"
+  },
+  {
+   "title": "Augsburger Prophetenfenster – Wikipedia",
+   "url": "https://de.wikipedia.org/wiki/Augsburger_Prophetenfenster"
+  },
+  {
+   "title": "Basilica of Saint-Denis – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Basilica_of_Saint-Denis"
+  },
+  {
+   "title": "Chartres Cathedral – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chartres_Cathedral"
+  }
+ ]
+}

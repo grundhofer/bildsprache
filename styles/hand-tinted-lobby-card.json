@@ -1,0 +1,69 @@
+{
+ "slug": "hand-tinted-lobby-card",
+ "style_block": "An American cinema lobby card of the 1920s–30s: a hand-tinted black-and-white studio still. Medium: screenless collotype in warm brown-black on cream card; 8x10 sheet-film view camera, normal lens, hard arc light; translucent tints of flesh pink, pale aqua, olive, lemon and brick red laid flat, slipping past outlines, shadows dark; pin holes, rubbed corners. Composition: one frozen film moment, figures in medium-long shot on a built set; the still sits inside a wide cream border, cropped to an oval, a small medallion of the lead figure overlapping its edge. Lettering, where text is needed: hand-lettered in the border, never on the photograph: main line in roman capitals, next in slanted script, minor lines small. Information, where a diagram, map or chart is shown: a prop in the scene, tinted like the rest. Avoid painted posters, centred hero framing, digital colourisation, saturated three-colour film, overall sepia, bokeh, logos, invented credits.",
+ "de": {
+  "name": "Handkolorierte Lobby Card",
+  "aka": [
+   "Kolorierte Lobby Card",
+   "Aushangfoto",
+   "Fotobusta (Italien)"
+  ],
+  "era": "1910er- bis 1940er-Jahre, USA",
+  "summary": "Schwarz-weißes Standfoto aus einem Spielfilm, von Hand mit durchscheinenden Farben koloriert und von einem breiten Kartonrand mit gezeichneter Schrift gefasst; im Katalog, weil Foto, Farbe und Schrift getrennte Ebenen bleiben.",
+  "origin": "Lobby Cards kamen in den USA in den 1910er-Jahren als Ergänzung zum Filmplakat auf; sie hingen im Foyer der Kinos und sollten Passanten mit dramatischen Schlüsselszenen oder bekannten Darstellern in die Vorstellung locken. Standard war das Format 11 × 14 Zoll (etwa 28 × 36 cm); ein typischer Satz bestand aus acht Karten, einer Titelkarte mit Angaben zu Besetzung und Stab sowie sieben Szenenkarten. Die ersten Karten waren 8 × 10 Zoll große Schwarz-Weiß-Standfotos, bald folgten braun-weiße Karten im Rotationstiefdruck, von denen manche von Hand bemalt wurden. In den 1920er-Jahren gingen die Studios zum Lichtdruck über, einem rasterlosen Verfahren, dessen einfarbige Drucke sich von Hand oder mit Schablonen kolorieren ließen; die Library of Congress verzeichnet etwa eine Karte von 1921 mit Mary Pickford in „Der kleine Lord“ als farbigen Lichtdruck. In den US-Kinos verschwanden die Lobby-Card-Sätze Mitte der 1980er-Jahre.",
+  "markers": [
+   "Gestelltes Standfoto aus einem Spielfilm in Schwarz oder Braunschwarz, mit gebauter Kulisse und harter Studiobeleuchtung",
+   "Durchscheinende, flächig aufgetragene Farben in Hautrosa, Blassblau, Olivgrün, Zitronengelb und Ziegelrot, die über die Konturen hinauslaufen, während die Schatten dunkel bleiben",
+   "Feines, rasterloses Runzelkorn des Lichtdrucks auf mattem, cremefarbenem Karton",
+   "Breiter, gedruckter Kartonrand um das oft oval beschnittene Foto, manchmal mit einem kleinen Porträtmedaillon, das dessen Rand überlappt",
+   "Von Hand gezeichnete Schrift meist im Kartonrand statt im Foto: Namen in Versalien, der Filmtitel in schräger Schreibschrift oder in kräftigen, konturierten Versalien",
+   "Gebrauchsspuren wie Löcher von Reißzwecken und bestoßene Ecken"
+  ],
+  "escapes": "Ohne Stilangabe malt das Modell ein Plakat als glatte Illustration mit einer Figur in der Bildmitte, einer leuchtenden Sonnenscheibe am Horizont und unscharfem Hintergrund, oder es koloriert ein Foto digital in natürlichen, fein verlaufenden Farben. Die Lobby Card zeigt stattdessen eine gestellte Filmszene mit harter Studiobeleuchtung und sichtbarer Kulisse, legt wenige Farben ungenau und durchscheinend darüber und trennt Bild und Schrift deutlich: Das Foto sitzt, oft oval beschnitten, in einem breiten Kartonrand, und die gezeichnete Schrift bleibt in diesem Rand.",
+  "pitfalls": "Oft gerät das Bild zum vollständig gemalten Filmplakat oder zu einem durchgehend sepiabraun oder einfarbig getönten Foto statt zu einem Schwarz-Weiß-Foto mit einzelnen, lasierend aufgetragenen Farben. Das Modell erfindet gern Studiozeichen, Darstellernamen, Kartennummern und Urheberrechtsvermerke im Rand, die als unlesbare Buchstabenreihen erscheinen, und die Kolorierung wirkt häufig zu sauber und zu gesättigt wie eine digitale Nachkolorierung. Zu prüfen ist auch, dass die Gebrauchsspuren nicht in einen künstlich zerknitterten, eingerissenen Alterungseffekt kippen.",
+  "tip": "Ausdrücklich schreiben, dass das Foto selbst schwarz-weiß bleibt und nur einzelne Flächen wie Haut, Kleidung und Himmel ungenau mit durchscheinender Farbe angelegt sind, und vorgeben, dass im Rand außer dem verlangten Text nichts steht.",
+  "sensitivity": "Echte Filmtitel, Namen und Zeichen von Filmstudios sowie die Gesichter realer Schauspieler aus den Vorbildern gehören weder in den Prompt noch ins Bild. Hollywoodfilme dieser Jahrzehnte und ihre Werbemittel enthalten häufig rassistische Klischees, etwa Blackface; solche Darstellungsweisen sollten nicht übernommen werden."
+ },
+ "en": {
+  "name": "Hand-Tinted Lobby Card",
+  "aka": [
+   "lobby card",
+   "hand-coloured lobby card",
+   "front-of-house card (UK)",
+   "fotobusta (Italy)"
+  ],
+  "era": "1910s–1940s, USA",
+  "summary": "A black-and-white film still, hand-coloured in translucent tints and set in a wide card border with hand-drawn lettering; in the catalog because photo, colour and lettering stay separate layers.",
+  "origin": "Lobby cards appeared in the USA in the 1910s to complement the film poster; they were displayed in cinema lobbies and foyers to lure passers-by into the theatre with dramatic key scenes or popular actors. The standard format was 11 × 14 inches (about 28 × 36 cm); a typical set held eight cards, a title card with the cast and credits plus seven scene cards. The first cards were 8 × 10 inch black-and-white stills, soon followed by brown-and-white rotogravure cards, some of which were painted by hand. By the 1920s the studios had moved to collotype, a screenless process whose monochrome prints could be coloured by hand or with stencils; the Library of Congress, for example, catalogues a 1921 card showing Mary Pickford in “Little Lord Fauntleroy” as a colour collotype. Lobby card sets were phased out of US cinemas in the mid-1980s.",
+  "markers": [
+   "A staged still from a feature film in black or brown-black, with a built set and hard studio lighting",
+   "Translucent colour laid on in flat areas of flesh pink, pale blue, olive green, lemon yellow and brick red, running over the outlines while the shadows stay dark",
+   "The fine, screenless reticulated grain of collotype on matt cream card",
+   "A wide printed card border around the photograph, which is often cropped to an oval, sometimes with a small portrait medallion overlapping its edge",
+   "Hand-drawn lettering mostly in the card border rather than on the photograph: names in capitals, the film title in slanted script or in bold outlined capitals",
+   "Signs of use such as pin holes and rubbed corners"
+  ],
+  "escapes": "Without a style, the model paints a poster as a smooth illustration with a figure in the centre, a glowing sun disc on the horizon and a blurred background, or it colourises a photograph digitally in natural, finely graded colours. The lobby card instead shows a staged film scene with hard studio lighting and a visible set, lays a few colours over it loosely and translucently, and keeps image and lettering apart: the photograph sits, often cropped to an oval, in a wide card border, and the hand-drawn lettering stays in that border.",
+  "pitfalls": "The image often turns into a fully painted film poster or into a photograph tinted sepia or one colour throughout, instead of a black-and-white photograph with separate, glazed-on colours. The model likes to invent studio marks, actors' names, card numbers and copyright lines in the border that come out as illegible strings of letters, and the colouring often looks too clean and too saturated, like a digital colourisation. Also check that the signs of use do not tip into an artificially crumpled, torn ageing effect.",
+  "tip": "State explicitly that the photograph itself stays black and white and that only single areas such as skin, clothing and sky are loosely laid in with translucent colour, and specify that nothing but the required text appears in the border.",
+  "sensitivity": "Real film titles, the names and marks of film studios and the faces of real actors from the historical examples belong neither in the prompt nor in the image. Hollywood films of these decades and their advertising often contain racist stereotypes such as blackface; this way of depicting people should not be carried over."
+ },
+ "sources": [
+  {
+   "title": "The Western Silent Films Lobby Card Collection, 1912–1930 – Beinecke Rare Book and Manuscript Library, Yale University (archived)",
+   "url": "https://web.archive.org/web/20100616074449/http://beinecke.library.yale.edu/digitallibrary/lobbycards.html"
+  },
+  {
+   "title": "Lobby Cards/Sets – LearnAboutMoviePosters (archived)",
+   "url": "https://web.archive.org/web/20151104112706/http://www.learnaboutmovieposters.com/newsite/index/articles/lobby.asp"
+  },
+  {
+   "title": "Mary Pickford in “Little Lord Fauntleroy”, lobby card, 1921 (collotype, color) – Library of Congress, Prints & Photographs Online Catalog",
+   "url": "https://www.loc.gov/pictures/item/00652577/"
+  },
+  {
+   "title": "Collotype – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Collotype"
+  }
+ ]
+}

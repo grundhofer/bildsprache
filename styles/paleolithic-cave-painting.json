@@ -1,0 +1,68 @@
+{
+ "slug": "paleolithic-cave-painting",
+ "style_block": "Upper Paleolithic cave-wall painting, France or northern Spain, 40,000–12,000 years ago. Medium: red and yellow ochre, charcoal, swabbed or blown into soft edges, some lines engraved; lumpy cracked limestone, calcite crust, flaked pigment, raking light. Composition: no scenery, ground line, horizon, perspective or light-and-shade modelling; the bare wall is the only space. Interacting figures touch; others sit apart on rock bulges at uneven sizes and angles, overlapping older figures, hand stencils and dot rows. Each is a side-view silhouette: one confident contour, filled flat or blown; people are crude outlines showing age, sex and build; objects are flat side-view outlines. Water becomes wavy finger lines, ground scattered dots, plants single strokes, structures ladder- or roof-shaped signs; distant things are separate figures elsewhere. Lettering, where text is needed: crude finger-traced ochre capitals. Avoid receding landscape, reflections, ink-wash brushwork, woven texture, torches, cartoon cavemen, spirals and stick-figure friezes of later rock-shelter art.",
+ "de": {
+  "name": "Altsteinzeitliche Höhlenmalerei",
+  "aka": [
+   "Eiszeitliche Höhlenmalerei",
+   "Parietalkunst",
+   "Höhlenkunst"
+  ],
+  "era": "vor ca. 40.000–12.000 Jahren, Frankreich und Nordspanien",
+  "summary": "Tiere und grobe Menschenfiguren in Ocker und Holzkohle auf buckliger Kalksteinwand, ohne Boden und Horizont; im Katalog, weil der Fels statt einer Bühnenszene den Bildaufbau bestimmt.",
+  "origin": "Bemalte Höhlen der Jüngeren Altsteinzeit finden sich vor allem in Frankreich und Nordspanien: Die ältesten Malereien der Chauvet-Höhle (Ardèche) sind rund 36.000 Jahre alt, Lascaux (Dordogne) wird meist auf 17.000 bis 22.000 Jahre datiert, und in Altamira entstanden die Bilder über einen Zeitraum von mehr als 10.000 Jahren. Gemalt wurde mit roten und gelben Eisenoxiden (Hämatit, Goethit), schwarzen Manganoxiden und Holzkohle; die Farbe wurde aufgetupft, in Linien aufgetragen oder durch ein Röhrchen gesprüht und oft mit Gravuren kombiniert. In der Chauvet-Höhle kratzten die Maler Wandflächen vorher frei und ritzten die Umrisse mancher Figuren ein; in Altamira nutzten sie Wölbungen des Felsens, damit die Tierkörper plastisch wirken. Große Tiere wie Pferde, Bisons, Auerochsen und Hirsche überwiegen, Menschen sind selten und meist schematisch dargestellt; daneben stehen Handnegative und abstrakte Zeichen. Die Malereien von Altamira bemerkte 1879 Marcelino Sanz de Sautuola mit seiner Tochter María, doch die Fachwelt hielt sie bis 1902 für eine Fälschung; Lascaux fanden 1940 Marcel Ravidat und drei Freunde, die Chauvet-Höhle 1994 drei Höhlenforscher.",
+  "markers": [
+   "Nur Erdfarben: roter und gelber Ocker, Schwarz aus Holzkohle oder Manganoxid",
+   "Figuren folgen Wölbungen, Rissen und Kanten des Felsens",
+   "Tiere im Profil mit sicherem Umriss, ohne Bodenlinie, Horizont oder Landschaft",
+   "Einander überlagernde Figuren in unterschiedlicher Größe und Ausrichtung",
+   "Handnegative, Punktreihen und weich gesprühte Ränder",
+   "Rauer Kalkstein mit Sinterkruste, Laufspuren und abgeplatzter Farbe"
+  ],
+  "escapes": "Der Stil bricht mit der bühnenhaften KI-Szene: Es gibt keinen Boden, keinen Horizont, keinen Himmel und kein mittiges Motiv vor weichem Hintergrund; die Figuren sitzen dort, wo der Fels es zulässt, unterschiedlich groß und einander überlagernd. Die knappe Mineralpalette und die raue, beschädigte Oberfläche ersetzen zudem die glatten Verläufe und das glänzende Licht vieler KI-Bilder.",
+  "pitfalls": "Modelle malen gern glattes braunes Pergament oder ebenen Sandstein statt einer buckligen, versinterten Höhlenwand und fügen eine brennende Fackel, einen Maler oder dramatisches orangefarbenes Licht hinzu. Menschen werden zu detailliert gemalt oder als karikierte Steinzeitmenschen dargestellt, und Spiralen, Sonnenzeichen oder symmetrische Handabdruckmuster aus anderen Traditionen schleichen sich ein. Am häufigsten entsteht eine gewöhnliche naturalistische Illustration mit Horizont, zurückweichendem Ufer, Spiegelungen, perspektivisch gezeichneten Gegenständen und schattierten Figuren, die nur auf eine Felsstruktur gedruckt ist, mitunter unter einem gewebeartigen Filtermuster.",
+  "tip": "Ausdrücklich sagen, was der Stil nicht hat (keinen Horizont, keine Bodenlinie, keine Perspektive, keine Modellierung), Wasser, Pflanzen und Gebäude in einfache Zeichen verwandeln, die einzeln auf dem nackten Fels sitzen, und Menschen als grobe Umrissfiguren verlangen. Eine genaue Beschreibung der Wand mit Wölbungen, Rissen und Sinterkruste bewirkt mehr als jedes Farbadjektiv.",
+  "sensitivity": "Felsbilder australischer Aborigines und anderer heute lebender Gemeinschaften gehören zu Traditionen, die fortbestehen und teils heilig sind; gemeint ist hier nur die europäische Höhlenkunst der Eiszeit, ohne Anleihen bei diesen Motiven."
+ },
+ "en": {
+  "name": "Paleolithic cave painting",
+  "aka": [
+   "Upper Paleolithic cave art",
+   "Ice Age cave painting",
+   "Parietal art"
+  ],
+  "era": "c. 40,000–12,000 years ago, France and northern Spain",
+  "summary": "Animals and crude human figures in ochre and charcoal on bulging limestone, with no ground or horizon; included because the rock, not a staged scene, dictates the layout.",
+  "origin": "Painted caves of the Upper Paleolithic are concentrated in France and northern Spain: the oldest paintings at Chauvet (Ardèche) are about 36,000 years old, Lascaux (Dordogne) is usually dated to 17,000–22,000 years ago, and at Altamira the images were made over a span of more than 10,000 years. The painters used red and yellow iron oxides (haematite, goethite), black manganese oxides and charcoal, which they swabbed on, applied in lines or blew through a tube as a spray, often combining paint with engraving. At Chauvet they scraped wall surfaces clean beforehand and incised around the outlines of some figures; at Altamira they used bulges of the rock to give the animals volume. Large animals such as horses, bison, aurochs and deer dominate, while humans are rare and usually schematic; hand stencils and abstract signs appear alongside them. The Altamira paintings were noticed in 1879 by Marcelino Sanz de Sautuola and his daughter María but dismissed by scholars as a forgery until 1902; Lascaux was found in 1940 by Marcel Ravidat and three friends, Chauvet in 1994 by three cavers.",
+  "markers": [
+   "Earth colours only: red and yellow ochre, black from charcoal or manganese oxide",
+   "Figures follow bulges, cracks and edges of the rock",
+   "Animals in side view with a confident contour, no ground line, horizon or landscape",
+   "Overlapping figures of different sizes and orientations",
+   "Hand stencils, rows of dots and soft sprayed edges",
+   "Rough limestone with calcite crust, drip stains and flaking pigment"
+  ],
+  "escapes": "The style breaks with the stage-like AI scene: there is no ground, horizon, sky or centred subject against a soft background; figures sit wherever the rock allows, at uneven sizes and overlapping. Its narrow mineral palette and rough, damaged surface also replace the smooth gradients and glossy light of many AI images.",
+  "pitfalls": "Models tend to paint smooth brown parchment or flat sandstone instead of a lumpy, crusted cave wall, and add a burning torch, a painter or dramatic orange light. Humans come out too detailed or as cartoon cavemen, and spirals, sun symbols or symmetrical handprint patterns from other traditions creep in. Most often the result is an ordinary naturalistic illustration with horizon, receding shore, reflections, objects in perspective and shaded figures, merely printed onto a rock texture, sometimes under a woven filter pattern.",
+  "tip": "State outright what the style lacks (no horizon, ground line, perspective or modelling), turn water, plants and buildings into simple signs set apart on bare rock, and ask for people as crude outline figures. A precise description of the wall, with bulges, cracks and calcite crust, does more than any colour adjective.",
+  "sensitivity": "Rock art of Aboriginal Australians and other living communities belongs to traditions that continue today and are partly sacred; this style means only European Ice Age cave art and should not borrow their motifs."
+ },
+ "sources": [
+  {
+   "title": "Lascaux – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lascaux"
+  },
+  {
+   "title": "Chauvet Cave – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chauvet_Cave"
+  },
+  {
+   "title": "Cave of Altamira – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cave_of_Altamira"
+  },
+  {
+   "title": "Cave painting – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cave_painting"
+  }
+ ]
+}

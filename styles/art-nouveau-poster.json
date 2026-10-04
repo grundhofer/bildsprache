@@ -1,0 +1,65 @@
+{
+ "slug": "art-nouveau-poster",
+ "style_block": "A colour lithograph poster of Art Nouveau Paris and Munich, about 1895-1905. Medium: flat inks from several stones on yellowed paper; firm dark-brown contours; sage, olive, dusty rose, ochre, gold; crayon grain, slight misregistration. Composition: tall sheet in an ornamental frame; one stylised main figure or object fills the height, overlapping the frame, backed by a large flat circle or arch of mosaic or tracery; whiplash curves of hair, cloth or stems run into the border; scenery only as a small flat vignette; patterned ground, no depth. Lettering, where text is needed: hand-drawn rounded capitals with swelling strokes and high crossbars, filling a curved top band; smaller lines on a tablet below. Information, where a diagram, map or chart is shown: items in framed roundels, ringed around a centre or stacked in bordered panels. Avoid glossy fantasy art, airbrushed faces, glowing gradient suns, Art Deco geometry, mixed Victorian typefaces.",
+ "de": {
+  "name": "Jugendstil-Plakat",
+  "aka": [
+   "Art-nouveau-Plakat",
+   "Künstlerplakat der Jahrhundertwende"
+  ],
+  "era": "um 1890–1910, Paris, Brüssel, München, Wien",
+  "summary": "Farblithografiertes Plakat mit stilisierter Figur vor Ornamentkreis, Peitschenhiebkurven und gezeichneter Schrift in Feldern; im Katalog, weil Schrift, Bild und Rahmen eine geschlossene Fläche bilden.",
+  "origin": "Jules Chéret, als Lithograf in Paris und London ausgebildet, druckte ab 1866 in seiner eigenen Pariser Werkstatt farbige Plakate für Theater, Varietés und Cabarets; Anfang der 1870er-Jahre verbilligten er und die Brüder Choubrac den Farbsteindruck durch technische Neuerungen, und Chéret gilt als Vater des modernen Plakats. Der in Lausanne geborene Eugène Grasset, ein Wegbereiter des Art nouveau, zeichnete in Paris ebenfalls Plakate; ein Alphabet von ihm ließ der Schriftgießer Georges Peignot 1897 als Schrift „Grasset“ patentieren. Am 1. Januar 1895 erschien in den Straßen von Paris Alfons Muchas gut zwei Meter hohes, bei Lemercier gedrucktes Plakat zu „Gismonda“ mit Sarah Bernhardt: eine Ganzfigur vor einem mosaikartigen Bogen wie ein Heiligenschein, in zarten Pastellfarben statt der grellen Töne üblicher Plakate; Bernhardt nahm Mucha danach für sechs Jahre unter Vertrag. Den Namen Art nouveau gab Siegfried Bings 1895 eröffnete Pariser Galerie, den Namen Jugendstil die Münchner Zeitschrift „Jugend“ des Verlegers Georg Hirth, die ab 1896 erschien und auf ihren Titelblättern Schrift und Bild ineinanderfügte. Die geschwungene Linie heißt im Deutschen „Peitschenhieb“: So nannte ein Kritiker die Linienführung eines Wandbehangs mit Alpenveilchen aus der Stickereiwerkstatt, die Hermann Obrist mit Berthe Ruchet führte.",
+  "markers": [
+   "Stilisierte Hauptfigur, die fast die ganze Höhe des Hochformats füllt und über den Ornamentrahmen hinausgreift",
+   "Großer Kreis oder Bogen hinter der Figur, mit Mosaik oder Maßwerk gefüllt, wie ein Heiligenschein",
+   "Peitschenhiebkurven aus Haar, Stoff oder Pflanzenstielen, die in den Rahmen übergehen",
+   "Flächige Farben in festen dunkelbraunen Umrissen: Salbeigrün, Oliv, Altrosa, Ocker und Gold auf vergilbtem Papier",
+   "Gezeichnete, gerundete Versalien mit hohen Querstrichen, in ein gebogenes Band oder eine Tafel eingepasst",
+   "Landschaft nur als kleines, flaches Bildfeld; Hintergrund als Muster ohne Raumtiefe"
+  ],
+  "escapes": "Ohne Stilangabe legt das Modell Schrift über ein Bild: eine leuchtende Sonnenscheibe über dem Horizont, mittig gesetzte Groteskversalien, Farbverläufe und weiches Gegenlicht. Das Jugendstil-Plakat baut die Fläche dagegen aus Rahmen, Feldern und Umrisslinien, zeichnet die Schrift als Teil des Ornaments und verzichtet auf Raumtiefe und Lichtstimmung.",
+  "pitfalls": "Häufig gerät das Bild zur glatten Fantasy-Illustration mit airbrushartig modellierten Gesichtern und Goldfiligran oder kippt ins Art déco mit Stufenformen und Strahlenkranz. Außerdem neigt das Modell dazu, jede Figur zur idealisierten Frauengestalt mit wallendem Haar und Blumenkranz zu machen, wie sie die bekanntesten Vorbilder zeigen, und dabei Gegenstände oder Tätigkeiten aus dem Motiv zu verlieren. Die gezeichnete Schrift ist fehleranfällig: In gebogenen Bändern werden Buchstaben verdoppelt, verzerrt oder zu Ornament.",
+  "tip": "Die Schrift ausdrücklich in eigene Felder setzen, etwa ein gebogenes Band oben und eine Tafel unten, und den Kreis hinter der Figur als Mosaik oder Maßwerk beschreiben; so bleibt die Schrift lesbar, und der Kreis wird nicht zur leuchtenden Sonne.",
+  "sensitivity": "Der Stil wird oft schlicht nach Alfons Mucha benannt; im Prompt besser die Technik beschreiben als den Künstlernamen nennen, damit keine Nachahmung eines bestimmten Plakats entsteht."
+ },
+ "en": {
+  "name": "Art Nouveau poster",
+  "aka": [
+   "Jugendstil poster"
+  ],
+  "era": "c. 1890–1910, Paris, Brussels, Munich, Vienna",
+  "summary": "Colour-lithograph poster with a stylised figure against an ornamental circle, whiplash curves and hand-drawn lettering in panels; in the catalog because lettering, image and frame form one surface.",
+  "origin": "Jules Chéret, trained as a lithographer in Paris and London, printed colour posters for theatres, music halls and cabarets in his own Paris workshop from 1866; in the early 1870s he and the Choubrac brothers made colour lithography cheaper through technical advances, and Chéret has been called the father of the modern poster. The Lausanne-born Eugène Grasset, a pioneer of Art Nouveau design, also drew posters in Paris; the type founder Georges Peignot patented an alphabet of his as the typeface “Grasset” in 1897. On 1 January 1895 Alphonse Mucha’s poster for “Gismonda” with Sarah Bernhardt, a little over two metres high and printed by Lemercier, appeared in the streets of Paris: a full-length figure before a mosaic arch like a halo, in delicate pastel colours instead of the loud tones of ordinary posters; Bernhardt then put Mucha under contract for six years. The name Art Nouveau comes from Siegfried Bing’s Paris gallery, opened in 1895, and the German name Jugendstil from the Munich magazine “Jugend”, published by Georg Hirth from 1896, whose covers fused lettering and image. In German the curving line is called “Peitschenhieb” (whiplash): a critic used the word for the line of a cyclamen wall hanging from the embroidery workshop that Hermann Obrist ran with Berthe Ruchet.",
+  "markers": [
+   "A stylised main figure filling almost the full height of the upright sheet and reaching over the ornamental frame",
+   "A large circle or arch behind the figure, filled with mosaic or tracery, like a halo",
+   "Whiplash curves of hair, cloth or plant stems that flow into the frame",
+   "Flat colours inside firm dark-brown outlines: sage, olive, dusty rose, ochre and gold on yellowed paper",
+   "Hand-drawn, rounded capitals with high crossbars, fitted into a curved band or a tablet",
+   "Landscape only as a small, flat vignette; background as pattern without depth"
+  ],
+  "escapes": "Without a style, the model lays type over a picture: a glowing sun disc above the horizon, centred all-caps sans-serif, colour gradients and soft backlight. The Art Nouveau poster instead builds the sheet from frames, panels and outlines, draws the lettering as part of the ornament and does without depth or atmospheric light.",
+  "pitfalls": "Results often turn into slick fantasy illustration with airbrushed faces and gold filigree, or tip over into Art Deco with stepped shapes and sunbursts. The model also tends to turn every figure into an idealised woman with flowing hair and a flower wreath, as in the best-known originals, and to lose objects or actions the motif asks for. The hand-drawn lettering is error-prone: in curved bands letters get doubled, distorted or dissolved into ornament.",
+  "tip": "Assign the lettering explicitly to its own fields, such as a curved band at the top and a tablet at the bottom, and describe the circle behind the figure as mosaic or tracery; that keeps the text legible and stops the circle turning into a glowing sun.",
+  "sensitivity": "The style is often simply named after Alphonse Mucha; describe the technique in the prompt rather than naming the artist, so the result does not imitate a specific poster."
+ },
+ "sources": [
+  {
+   "title": "Jugendstil – Wikipedia (de)",
+   "url": "https://de.wikipedia.org/wiki/Jugendstil"
+  },
+  {
+   "title": "Alphonse Mucha – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Alphonse_Mucha"
+  },
+  {
+   "title": "Jules Chéret – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jules_Ch%C3%A9ret"
+  },
+  {
+   "title": "Eugène Grasset – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Grasset"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "slug": "impressionism",
+ "style_block": "A French Impressionist oil painting made outdoors in one sitting, northern France, c. 1870-1886. Medium: tube oil paint on white-primed canvas, laid wet-in-wet in short, thick, broken strokes of unmixed colour, kept separate, their direction changing with each surface, bare canvas between them; high-key palette of cobalt, viridian, chrome yellow, vermilion and white; no black. Coloured shadows, sky-blue and violet; edges dissolve; faces and hands a few strokes. Composition: an unposed, asymmetric moment glimpsed by chance, arranged along a diagonal; figures off-centre, cut by the frame, no sharper than their surroundings; an empty foreground; horizon high or low, never centred; one specific hour and weather. Lettering, where text is needed: letters brushed loosely onto a sign within the scene, never a crisp overlay. Avoid the oil-painting filter: blended colour, brown shadows, photo-sharp drawing; golden sunsets, background blur, centred posed figures, pointillist dots and swirling Post-Impressionist impasto.",
+ "de": {
+  "name": "Impressionismus",
+  "aka": [
+   "Französischer Impressionismus",
+   "Impressionistische Freilichtmalerei"
+  ],
+  "era": "um 1865–1890, Paris und Nordfrankreich",
+  "summary": "Kurze, getrennte Pinselstriche in ungemischten Farben, blaue und violette Schatten, ein zufällig wirkender Ausschnitt; im Katalog als Gegenprobe zum glatten Ölgemälde-Filter, auf den KI-Bilder meist zurückfallen.",
+  "origin": "Der Impressionismus entstand in den 1860er Jahren im Kreis um Claude Monet, Pierre-Auguste Renoir, Alfred Sisley und Frédéric Bazille, die sich als Schüler von Charles Gleyre in Paris kennengelernt hatten und gemeinsam aufs Land zogen, um Landschaften und Alltagsszenen im Freien nicht nur zu skizzieren, sondern dort auch fertigzustellen. Im Dezember 1873 gründeten Monet, Renoir und Sisley mit Camille Pissarro, Edgar Degas und weiteren Künstlern die Société anonyme des artistes peintres, sculpteurs, graveurs, etc.; ihre erste Ausstellung mit dreißig Künstlern, darunter Berthe Morisot und Paul Cézanne, wurde am 15. April 1874 im Atelier des Fotografen Nadar am Boulevard des Capucines 35 eröffnet. Der Kritiker Louis Leroy verspottete am 25. April 1874 im Satireblatt Le Charivari Monets Gemälde „Impression, soleil levant“ (1872) und leitete daraus die abschätzige Bezeichnung „Impressionisten“ ab; bis 1886 stellte die Gruppe in wechselnder Besetzung achtmal gemeinsam aus. Die Maler nutzten fertig angeriebene Ölfarbe aus Zinntuben, trugen sie in kurzen, pastosen Strichen nass in nass auf weiß oder hell grundierte Leinwand auf, setzten ungemischte Farben nebeneinander, mischten Grau- und Dunkeltöne aus Komplementärfarben statt mit Schwarz und malten Schatten im Freien mit dem Blau des Himmels. Angeregt von der Fotografie und von japanischen Farbholzschnitten wählten sie asymmetrische, wie zufällig wirkende Bildausschnitte; in Deutschland griffen später Max Liebermann, Lovis Corinth und Max Slevogt die Malweise auf.",
+  "markers": [
+   "kurze, getrennte Pinselstriche und Tupfen aus ungemischter Farbe, deren Richtung mit jeder Fläche wechselt",
+   "farbige Schatten in Blau und Violett, kein Schwarz",
+   "helle Palette auf weiß grundierter Leinwand, die zwischen den Strichen stellenweise frei bleibt",
+   "pastoser, deckender Farbauftrag nass in nass, weiche, sich auflösende Kanten",
+   "zufällig wirkender Ausschnitt, Figuren außerhalb der Mitte und vom Bildrand angeschnitten",
+   "Licht einer bestimmten Tageszeit und Wetterlage statt neutraler Beleuchtung"
+  ],
+  "escapes": "Der Stil ersetzt die glatten Verläufe, die glänzende Haut und die weiche Hintergrundunschärfe des KI-Standards durch sichtbare, getrennte Striche, in denen auch Gesichter und Hände nur aus wenigen Farbflecken bestehen. Farbige Schatten statt brauner Tiefen verhindern den warmen, schlammigen Gesamtton, und der angeschnittene, wie zufällig gewählte Ausschnitt löst die mittige, gestellte Anordnung der Figuren auf.",
+  "pitfalls": "Ohne genaue Vorgaben legt das Modell eine gleichmäßige Pinselstruktur über eine fotografisch genaue Zeichnung, verwischt die Farben weich ineinander und malt Schatten braun oder schwarz: der übliche Ölgemälde-Filter mit Postkarten-Abendrot. Ebenso leicht rutscht es in die Punkte des Pointillismus oder in den dicken, wirbelnden Pinselduktus des Postimpressionismus. Bei Figurenszenen prüfen, ob Hände und Werkzeug trotz der losen Malweise erkennbar bleiben und ob ältere Gesichter nicht zu glatten, jungen Gesichtern geschönt werden.",
+  "tip": "Die Malweise statt nur das Etikett beschreiben: getrennte, ungemischte Striche, sichtbare Leinwand, blaue und violette Schatten, kein Schwarz. Dazu eine bestimmte Tageszeit und Wetterlage nennen, damit das Modell nicht zum goldenen Abendlicht greift.",
+  "sensitivity": ""
+ },
+ "en": {
+  "name": "Impressionism",
+  "aka": [
+   "French Impressionism",
+   "Impressionist plein-air painting"
+  ],
+  "era": "c. 1865–1890, Paris and northern France",
+  "summary": "Short, separate strokes of unmixed colour, blue and violet shadows, a chance-looking crop; in the catalog as the test case against the smooth oil-painting filter AI images default to.",
+  "origin": "Impressionism emerged in the 1860s around Claude Monet, Pierre-Auguste Renoir, Alfred Sisley and Frédéric Bazille, who had met as students of Charles Gleyre in Paris and went into the countryside together to paint landscapes and everyday scenes in the open air, not just sketching them there but finishing them. In December 1873 Monet, Renoir and Sisley founded, with Camille Pissarro, Edgar Degas and other artists, the Société anonyme des artistes peintres, sculpteurs, graveurs, etc.; its first exhibition, with thirty artists including Berthe Morisot and Paul Cézanne, opened on 15 April 1874 in the photographer Nadar’s studio at 35 Boulevard des Capucines. On 25 April 1874 the critic Louis Leroy mocked Monet’s painting Impression, Sunrise (1872) in the satirical paper Le Charivari and derived from it the derisive label “Impressionists”; up to 1886 the group exhibited together eight times, with changing membership. The painters used ready-mixed oil paint from tin tubes, applied it in short, thick strokes wet-in-wet on white or light-primed canvas, set unmixed colours side by side, mixed greys and darks from complementary colours instead of black and painted outdoor shadows with the blue of the sky. Prompted by photography and Japanese woodblock prints, they chose asymmetric views that look accidental; in Germany Max Liebermann, Lovis Corinth and Max Slevogt later took up the manner.",
+  "markers": [
+   "short, separate strokes and dabs of unmixed colour, their direction changing with each surface",
+   "coloured shadows in blue and violet, no black",
+   "high-key palette on white-primed canvas, left bare in places between the strokes",
+   "thick, opaque paint laid wet-in-wet, soft dissolving edges",
+   "chance-looking crop, figures off-centre and cut by the frame edge",
+   "light of a particular hour and weather instead of neutral lighting"
+  ],
+  "escapes": "It replaces the smooth gradients, glossy skin and soft background blur of the AI default with visible, separate strokes in which even faces and hands are only a few patches of colour. Coloured shadows instead of brown depths prevent the warm, muddy overall tone, and a cropped, seemingly accidental view breaks up the centred, posed arrangement of figures.",
+  "pitfalls": "Without precise instructions the model lays a uniform brush texture over a photographically exact drawing, blends colours softly into each other and paints shadows brown or black: the familiar oil-painting filter with a greeting-card sunset. It drifts just as easily into pointillist dots or the thick, swirling brushwork of Post-Impressionism. In figure scenes, check that hands and tools stay readable despite the loose handling and that older faces are not smoothed into young, glossy ones.",
+  "tip": "Describe the handling rather than just the label: separate, unmixed strokes, visible canvas, blue and violet shadows, no black. Add a specific hour and weather so the model does not reach for golden evening light.",
+  "sensitivity": ""
+ },
+ "sources": [
+  {
+   "title": "Impressionism – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Impressionism"
+  },
+  {
+   "title": "Impressionismus (Malerei) – Wikipedia",
+   "url": "https://de.wikipedia.org/wiki/Impressionismus_(Malerei)"
+  },
+  {
+   "title": "Impressionism – Art Term, Tate",
+   "url": "https://www.tate.org.uk/art/art-terms/i/impressionism"
+  },
+  {
+   "title": "Impression, Sunrise – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Impression,_Sunrise"
+  }
+ ]
+}

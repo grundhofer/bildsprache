@@ -1,0 +1,66 @@
+{
+ "slug": "film-noir",
+ "style_block": "A black-and-white frame from a low-budget 1940s Hollywood crime picture, lit for darkness rather than visibility. Medium: 35mm nitrate negative; inky blacks, bright highlights, fine grain, halation around bare lamps; studio camera, 25–35mm wide-angle lens stopped down for deep focus. One hard key light from a source within the scene, low or raking, almost no fill: crisp cast shadows, faces half lost in black; night exteriors with wet, light-catching surfaces. Composition: low or tilted camera; deep staging: one figure near the lens, another small in depth, both sharp; figures off-centre, hemmed in by dark foreground shapes; large areas of solid black. Lettering, where text is needed: only inside the scene, a painted sign or headline in condensed bold capitals under the same lamp. Avoid centred rim-lit hero shots, desaturated digital monochrome, soft fill, bokeh, teal-orange or neon neo-noir colour and flat ink-comic black-and-white; no venetian-blind shadows without a slatted window.",
+ "de": {
+  "name": "Film noir",
+  "aka": [
+   "Schwarze Serie",
+   "Noir"
+  ],
+  "era": "1940–1958, Hollywood",
+  "summary": "Schwarzweißbilder aus dem Hollywood-Kriminalfilm der 1940er-Jahre: eine harte Lichtquelle, halb im Schwarz versinkende Gesichter, gekippte Weitwinkelperspektiven; im Katalog, weil Dunkelheit das Bild formt, nicht weiches Rundumlicht.",
+  "origin": "Der französische Filmkritiker Nino Frank wandte den Begriff im August 1946 auf amerikanische Kriminalfilme an, die wegen eines Importverbots erst nach Kriegsende in die französischen Kinos gekommen waren, darunter „Die Spur des Falken“ (1941), „Frau ohne Gewissen“, „Laura“ und „Murder, My Sweet“ (alle 1944); 1955 legten Raymond Borde und Étienne Chaumeton mit „Panorama du film noir américain 1941–1953“ die erste ausführliche Darstellung vor. Die klassische Phase, im deutschen Sprachraum auch „Schwarze Serie“ genannt, reicht von „Stranger on the Third Floor“ (1940) oder „Die Spur des Falken“ bis „Im Zeichen des Bösen“ (1958); die meisten Filme entstanden mit kleinem oder mittlerem Budget und ohne große Stars, viele nach Vorlagen der Hardboiled-Kriminalliteratur von Dashiell Hammett, Raymond Chandler, James M. Cain und Cornell Woolrich. Emigrierte Regisseure wie Fritz Lang und Robert Siodmak brachten eine schattenreiche, an den expressionistischen deutschen Stummfilm anknüpfende Lichtgestaltung nach Hollywood; der in Ungarn geborene Kameramann John Alton, der unter anderem „Geheimagent T“ (1947) und „Geheimring 99“ (1955) fotografierte, beschrieb seine Lichtführung 1949 im Buch „Painting with Light“. Höher empfindliches Filmmaterial, das Eastman Kodak ab 1935 herausbrachte, machte es überflüssig, die ganze Dekoration hell auszuleuchten, und erlaubte dunklere Bilder; zu den Kennzeichen gehören Low-Key-Beleuchtung mit halb oder ganz im Dunkel liegenden Gesichtern, Untersichten, gekippte Weitwinkelaufnahmen und echte Nachtaufnahmen statt der in Hollywood üblichen Amerikanischen Nacht. In der zweiten Hälfte der 1940er-Jahre wurde zunehmend an Originalschauplätzen gedreht; spätere Filme, die an diesen Stil anknüpfen, nennt man Neo-Noir.",
+  "markers": [
+   "Low-Key-Beleuchtung: ein hartes Führungslicht aus einer einzigen Quelle, kaum Aufhellung, große Bildflächen in reinem Schwarz",
+   "Gesichter halb oder ganz im Schatten, Licht von unten oder streifend von der Seite",
+   "Scharfe Schlagschatten von Gegenständen, Geländern oder Fensterrahmen auf Personen und Wänden",
+   "Untersicht oder gekippte Kamera, Weitwinkelobjektiv mit großer Schärfentiefe",
+   "Echte Nachtaufnahmen mit nassen Flächen, in denen sich Lampen spiegeln",
+   "Schwarzweißfilm mit tiefem Schwarz, hellen Spitzlichtern und feinem Korn"
+  ],
+  "escapes": "Bei Wörtern wie „filmisch“ oder „düster“ liefern Bildgeneratoren standardmäßig eine Farbkorrektur in Blaugrün und Orange, weiches Rundumlicht, eine mittig gesetzte Hauptfigur mit Gegenlichtsaum vor unscharfem Hintergrund und Schatten, in denen jede Einzelheit sichtbar bleibt. Der Film noir geht vom Dunkel aus: Eine einzige harte Lichtquelle erhellt nur, was sie erreicht, der Rest fällt in reines Schwarz, und das Weitwinkelobjektiv hält Vorder- und Hintergrund scharf. Ein niedriger oder gekippter Bildausschnitt mit aus der Mitte gerückten Figuren ersetzt die frontale Heldenaufnahme.",
+  "pitfalls": "Bildgeneratoren greifen zum Klischeebaukasten aus Jalousienschatten, Trenchcoat, Hut, Zigarettenrauch und regennassen Großstadtstraßen, auch wenn die Szene weder Fenster noch Stadt hat, und kostümieren die Personen als Detektiv und Femme fatale. Oft entsteht nur ein entsättigtes Digitalfoto mit weicher Aufhellung und durchgezeichneten Schatten, oder das Bild rutscht in grafisches Comic-Schwarzweiß ohne Grautöne oder in das farbige Neonlicht des Neo-Noir. Schmeichelndes Porträtlicht glättet gern ältere Gesichter; zu prüfen ist, ob Falten, Hautstruktur und Gebrauchsspuren im harten Licht erhalten bleiben.",
+  "tip": "Die eine Lichtquelle benennen, die es in der Szene wirklich gibt, und ihren Ort angeben, etwa eine Laterne am Boden, die die Gesichter von unten trifft, und verlangen, dass alles außerhalb ihres Lichtkegels in reines Schwarz fällt. Dann entstehen die Schatten aus der Szene selbst und nicht aus einem Filter oder aus Jalousien, die es dort nicht gibt.",
+  "sensitivity": ""
+ },
+ "en": {
+  "name": "Film noir",
+  "aka": [
+   "Noir",
+   "Classic noir"
+  ],
+  "era": "1940–1958, Hollywood",
+  "summary": "Black-and-white frames from 1940s Hollywood crime films: one hard light, faces half sunk in black, tilted wide-angle views; in the catalog because darkness, not soft even light, shapes the image.",
+  "origin": "In August 1946 the French critic Nino Frank applied the term to American crime films that, because of an import ban, reached French cinemas only after the war, among them The Maltese Falcon (1941), Double Indemnity, Laura and Murder, My Sweet (all 1944); in 1955 Raymond Borde and Étienne Chaumeton published the first extended study, Panorama du film noir américain 1941–1953. The classic cycle runs from Stranger on the Third Floor (1940) or The Maltese Falcon to Touch of Evil (1958); most of the films were made on low or modest budgets without major stars, many adapted from hard-boiled crime fiction by Dashiell Hammett, Raymond Chandler, James M. Cain and Cornell Woolrich. Émigré directors such as Fritz Lang and Robert Siodmak brought a heavily shadowed lighting style rooted in German Expressionist silent film to Hollywood; the Hungarian-born cinematographer John Alton, who shot T-Men (1947) and The Big Combo (1955), among others, set out his approach to light in the 1949 book Painting with Light. Faster film stock, released by Eastman Kodak from 1935, meant sets no longer had to be flooded with light and allowed darker images; hallmarks include low-key lighting with faces half or wholly in darkness, low-angle shots, tilted wide-angle shots and night-for-night shooting instead of the Hollywood norm of day-for-night. In the second half of the 1940s more and more films were shot on location; later films that take up the style are called neo-noir.",
+  "markers": [
+   "Low-key lighting: one hard key light from a single source, almost no fill, large areas of pure black",
+   "Faces half or wholly in shadow, lit from below or raking from the side",
+   "Crisp cast shadows of objects, railings or window frames falling across people and walls",
+   "Low or tilted camera, wide-angle lens with deep focus",
+   "Real night exteriors with wet surfaces reflecting lamps",
+   "Black-and-white film with deep blacks, bright highlights and fine grain"
+  ],
+  "escapes": "For words like “cinematic” or “moody”, image generators default to a teal-and-orange grade, soft wrap-around light, a rim-lit main figure centred against a blurred background, and shadows that keep every detail. Film noir starts from darkness: one hard source lights only what it reaches, the rest falls to solid black, and a wide-angle lens keeps foreground and background sharp. Low or tilted framing with figures pushed off-centre replaces the square-on hero shot.",
+  "pitfalls": "Image generators reach for the cliché kit of venetian-blind stripes, trench coats, hats, cigarette smoke and rain-soaked city streets even where the scene has no window and no city, and costume the people as detective and femme fatale. Often the result is just a desaturated digital photo with soft fill and fully detailed shadows, or it slides into graphic comic-book black and white without grey tones, or into the coloured neon of neo-noir. Flattering portrait light tends to smooth older faces; check that wrinkles, skin texture and signs of wear survive in the hard light.",
+  "tip": "Name the one light source that really exists in the scene and say where it is, for example a lantern on the ground lighting faces from below, and ask for everything outside its pool of light to fall to pure black. The shadows then come from the scene itself, not from a filter or from blinds that are not there.",
+  "sensitivity": ""
+ },
+ "sources": [
+  {
+   "title": "Film noir – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/Film_noir"
+  },
+  {
+   "title": "Film noir – Wikipedia (Deutsch)",
+   "url": "https://de.wikipedia.org/wiki/Film_noir"
+  },
+  {
+   "title": "John Alton – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/John_Alton"
+  },
+  {
+   "title": "List of motion picture film stocks – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/List_of_motion_picture_film_stocks"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "slug": "ms-paint-style",
+ "style_block": "A crude mouse drawing in the paint program bundled with home PCs worldwide, around 2000. Medium: shaky stair-stepped pencil lines, no anti-aliasing; ruler lines, perfect ellipses beside wobbly freehand; flat paint-bucket fills in default-palette primaries, leaking through gaps; spray-can speckle. Composition: no perspective, horizon, depth, shadows or shading; one straight ground line, sky strip, white canvas between; side or front views in one row, farther things higher, not smaller. Figures from tool shapes: big ellipse head, dot eyes, box body, stick limbs, blob hands; age as grey hair, one wrinkle. Setting as signs: water a zigzag blue band, stones a few copy-pasted ellipses, trees lollipops, houses box plus triangle, woodwork planks on sticks, birds V ticks. Lettering, where text is needed: jagged system font on white boxes, or wobbly mouse capitals. Avoid filter-pixelated illustration, tidy pixel art, skilled anatomy, three-quarter views, detailed ground, vector cartoon, crayon texture, program window, cursor.",
+ "de": {
+  "name": "MS-Paint-Zeichnung",
+  "aka": [
+   "Paint-Bild",
+   "Paint-Kritzelei",
+   "Mauszeichnung"
+  ],
+  "era": "ab 1985, Windows-PCs weltweit; Netzkultur der späten 2000er- und frühen 2010er-Jahre",
+  "summary": "Mit der Maus gezogene, treppenförmige Pixellinien, Farbeimerflächen mit weißen Lücken und Sprühdosenpunkte; im Katalog, weil das Bild seine Machart offenlegt, statt glatt und makellos zu wirken.",
+  "origin": "Paint entstand bei Microsoft als lizenzierte und angepasste Version des DOS-Programms PC Paintbrush der Firma ZSoft und lag ab November 1985 Windows 1.0 bei; diese erste Version hatte 24 Werkzeuge, zeichnete nur schwarz-weiß und speicherte ausschließlich im eigenen MSP-Format. Unter Windows 3.0 trat das ebenfalls von ZSoft lizenzierte Paintbrush mit Farbe und den Formaten BMP und PCX an seine Stelle; für Windows 95 schrieb Microsoft das Programm von Grund auf neu, und dessen Oberfläche blieb im Kern bis Windows Vista erhalten. Paint behandelt alles Gezeichnete als Rastergrafik aus einzelnen Bildpunkten; Formen werden erst seit Windows 7 kantengeglättet, und vor Vista ließen sich nur drei Arbeitsschritte rückgängig machen. Weil es auf jedem Windows-Rechner vorinstalliert war, wurde es für viele zum ersten Malprogramm und Ende der 2000er-Jahre zum Werkzeug der Netzkultur: Die Rage Comics, die ab 2008 auf dem Imageboard 4chan entstanden, wurden meist grob in Paint oder ähnlichen Programmen gezeichnet, und 2014 untersuchte Patrick Davison im Journal of Visual Culture Geschichte, Form und Einfluss des Programms. Künstler wie Hal Lasko malten damit auch aufwendige Bilder, und als Microsoft Paint im Juli 2017 für veraltet erklärte, blieb es auf Drängen vieler Nutzer doch Teil von Windows.",
+  "markers": [
+   "Zittrige, mit der Maus gezogene Linien von ein bis drei Pixeln Stärke, ohne Kantenglättung und an Schrägen und Rundungen deutlich treppenförmig",
+   "Schnurgerade Linien, Rechtecke und exakte Ellipsen aus den Formwerkzeugen neben wackeliger Freihandzeichnung",
+   "Mit dem Farbeimer gefüllte Flächen in reinen, ungemischten Farben der Standardpalette, mit weißen Pixelresten an den Konturen und ausgelaufener Farbe, wo eine Umrisslinie eine Lücke hat",
+   "Sprühdosentextur aus verstreuten Einzelpixeln für Gras, Schatten, Rauch oder Haare",
+   "Kopierte und eingefügte Bildteile, die sich identisch wiederholen und oft einen weißen Rechteckrand mitbringen",
+   "Kein Licht, kein Verlauf, keine Tiefe: flache Seiten- oder Vorderansichten auf weißer Zeichenfläche, der Hintergrund oft nur halb ausgemalt"
+  ],
+  "escapes": "Die KI-Voreinstellung liefert glatte, kantengeglättete Konturen, weiches volumetrisches Licht, Farbverläufe, geringe Schärfentiefe und eine sorgfältig inszenierte, mittig aufgebaute Szene. Ein Paint-Bild hat harte Pixelkanten, flache Eimerfüllungen ohne Lichtführung und Seiten- oder Vorderansichten ohne Tiefe auf weißem Grund; Lücken, ausgelaufene Farbe und halb fertige Hintergründe bleiben stehen. Das Bild zeigt offen, mit welchen Werkzeugen es entstanden ist, statt eine makellose Oberfläche vorzutäuschen.",
+  "pitfalls": "Das Modell zeichnet meist zu gekonnt: eine saubere Vektorfigur mit ein paar aufgesetzten Treppenstufen oder sorgfältige Pixelkunst mit geplanten Pixelgruppen und Schattierung, wie aus einem Videospiel; bei großer Bildfläche verschwinden die Pixelkanten zudem in feinen Details. Vor allem fällt es in eine naturalistische Szene zurück – Dreiviertelansicht, Horizont mit fernen Hügeln, in die Tiefe laufender Boden aus Hunderten Einzelsteinen, schattierte Kleidung und Holzmaserung – und legt die Pixeltreppen nur wie einen Filter darüber. Häufig zeigt es auch ein Bildschirmfoto der ganzen Programmoberfläche mit Werkzeugleiste, Farbpalette und Mauszeiger oder kippt in eine Kinderzeichnung mit Wachsmalstrich und Papierstruktur. Prüfen: Fehlen Horizont und Tiefe, stehen alle Dinge in Seiten- oder Vorderansicht auf einer Grundlinie, sind die Kanten wirklich pixelig und unregelmäßig, sind die Flächen flach und ohne Verlauf, und zeigt das Bild nur die Zeichenfläche?",
+  "tip": "Die Werkzeuge einzeln nennen und dazu sagen, welche Spur jedes hinterlässt – Stift, Linie, Ellipse, Farbeimer, Sprühdose, Textwerkzeug – und ausdrücklich verlangen, dass nur die Zeichenfläche ohne Programmfenster zu sehen ist. Außerdem den Bildaufbau vorgeben, nicht nur die Oberfläche: eine gerade Grundlinie ohne Horizont, Figuren aus Ellipse, Rechteck und Strichen, Wasser, Steine und Bäume als einfache Zeichen.",
+  "sensitivity": "„Paint“ und „MS Paint“ sind Produktnamen von Microsoft und werden nur beschreibend im Text verwendet; Logo und Programmoberfläche gehören nicht ins Bild. Bekannte Meme-Figuren wie die Gesichter der Rage Comics oder der Wojak, dessen Abwandlungen auch in politisch aufgeladenen und abwertenden Zusammenhängen kursieren, sollten nicht nachgebildet werden."
+ },
+ "en": {
+  "name": "MS Paint drawing",
+  "aka": [
+   "MS Paint art",
+   "Paint doodle",
+   "mouse drawing"
+  ],
+  "era": "from 1985, Windows PCs worldwide; internet culture of the late 2000s and early 2010s",
+  "summary": "Shaky, stair-stepped mouse lines, paint-bucket fills with white gaps and spray-can speckle; in the catalog because the picture shows how it was made instead of looking smooth and flawless.",
+  "origin": "Paint was licensed from ZSoft's DOS program PC Paintbrush, adapted at Microsoft and shipped with Windows 1.0 in November 1985; that first version had 24 tools, drew only in black and white and saved only in its own MSP format. In Windows 3.0 it was replaced by Paintbrush, again licensed from ZSoft, with colour and the BMP and PCX formats; for Windows 95 Microsoft rewrote the program from scratch, and its interface lasted, in essence, until Windows Vista. Paint treats everything drawn as a raster of single pixels; shapes have been anti-aliased only since Windows 7, and before Vista only three steps could be undone. Because it came pre-installed on every Windows PC, it was the first drawing program for many people and in the late 2000s became a tool of internet culture: the rage comics that began on the imageboard 4chan in 2008 were usually drawn crudely in Paint or similar programs, and in 2014 Patrick Davison examined the program's history, form and influence in the Journal of Visual Culture. Artists such as Hal Lasko also used it for elaborate pictures, and when Microsoft listed Paint as deprecated in July 2017, public demand kept it in Windows.",
+  "markers": [
+   "Shaky mouse-drawn lines one to three pixels wide, without anti-aliasing and clearly stair-stepped on diagonals and curves",
+   "Ruler-straight lines, rectangles and exact ellipses from the shape tools next to wobbly freehand drawing",
+   "Paint-bucket fills in pure, unmixed default-palette colours, with white pixel remnants along the outlines and colour leaking out wherever an outline has a gap",
+   "Spray-can texture of scattered single pixels for grass, shadow, smoke or hair",
+   "Copied and pasted elements repeated identically, often carrying a white rectangular border with them",
+   "No light, gradient or depth: flat side or front views on a white canvas, the background often only half filled in"
+  ],
+  "escapes": "The AI default delivers smooth, anti-aliased contours, soft volumetric light, colour gradients, shallow depth of field and a carefully staged, centred scene. A Paint picture has hard pixel edges, flat bucket fills without any lighting and side or front views without depth on a white ground; gaps, leaked colour and half-finished backgrounds stay in. The picture shows openly which tools made it instead of faking a flawless surface.",
+  "pitfalls": "The model usually draws too well: a clean vector figure with a few stair-steps added on top, or careful pixel art with planned pixel clusters and shading, as in a video game; on a large canvas the pixel edges also vanish into fine detail. Above all it falls back on a naturalistic scene – three-quarter view, horizon with distant hills, ground receding in hundreds of single stones, shaded clothing and wood grain – and lays the stair-steps over it like a filter. It often shows a screenshot of the whole program interface with toolbar, palette and mouse pointer, or tips into a child's crayon drawing with waxy strokes and paper texture. Check: are horizon and depth absent, does everything stand in side or front view on one ground line, are the edges really pixelated and irregular, are the fills flat without gradients, and does the image show only the canvas?",
+  "tip": "Name the tools one by one together with the trace each leaves – pencil, line, ellipse, paint bucket, spray can, text tool – and state explicitly that only the canvas is shown, with no program window. Also prescribe the structure, not just the surface: one straight ground line with no horizon, figures built from ellipse, rectangle and strokes, water, stones and trees as simple signs.",
+  "sensitivity": "'Paint' and 'MS Paint' are Microsoft product names; use them only descriptively in text and keep the logo and program interface out of the picture. Well-known meme figures such as the rage-comic faces or Wojak, whose variants also circulate in politically charged and demeaning contexts, should not be reproduced."
+ },
+ "sources": [
+  {
+   "title": "Microsoft Paint – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Microsoft_Paint"
+  },
+  {
+   "title": "Microsoft Paint – Wikipedia (de)",
+   "url": "https://de.wikipedia.org/wiki/Microsoft_Paint"
+  },
+  {
+   "title": "Rage comic – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rage_comic"
+  },
+  {
+   "title": "„Der letzte Schrei“ – Zum Ende des Grafikprogramms „Paint“, taz, 27. Juli 2017",
+   "url": "https://taz.de/Zum-Ende-des-Grafikprogramms-Paint/!5429743/"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "slug": "eastern-european-picture-book-illustration",
+ "style_block": "A 1960s Eastern Bloc picture-book page from a state-controlled publisher in Prague, Warsaw, Moscow or East Berlin, hand-painted for offset printing. Medium: opaque gouache and tempera, dry-brush, sponge and stamp textures, scratched lines; earthy ochre, rust, olive and slate grey with one or two sudden vermilion or lemon-yellow accents; print grain, slightly misregistered colour plates, faded ink on thick matt paper. Composition: flat, tilted space, high horizon, no cast shadows; elements lined up like a frieze; naive figures, elongated or squat, in profile or frontal, dot eyes, round cheek spots; fur, foliage and fabric as rows of ornamental strokes; figure off-centre on a wide coloured ground. Lettering, where text is needed: uneven brush-drawn capitals or a plain serif text block on a pale panel. Avoid glossy 3D mascots, big shiny eyes, soft gradients, rim light, blurred backgrounds, centred framing; no warm Western nostalgic storybook watercolour, propaganda symbols or folk-costume clichés.",
+ "de": {
+  "name": "Osteuropäische Bilderbuchillustration",
+  "aka": [
+   "Polnische Schule der Illustration",
+   "Sowjetische Kinderbuchillustration",
+   "Tschechische Kinderbuchillustration",
+   "DDR-Kinderbuchillustration"
+  ],
+  "era": "1950er–1980er, Tschechoslowakei, Polen, UdSSR, DDR",
+  "summary": "Flächige, volkskunstnahe Gouachebilder mit Ornamenten, gekippter Perspektive und körnigem Druckbild aus den Kinderbuchverlagen des Ostblocks; im Katalog als Gegenstück zum glatten, glänzenden KI-Kinderbuchbild.",
+  "origin": "In Prag wurde am 15. April 1949 der staatliche Kinderbuchverlag SNDK gegründet (seit 1969 Albatros); zu seinen Illustratoren gehörten Helena Zmatlíková, Zdeněk Miler und Adolf Born. In Ost-Berlin gründete der Parteivorstand der SED am 1. Juni 1949, noch vor der Gründung der DDR, den Kinderbuchverlag, in dem später die weit überwiegende Mehrheit aller DDR-Kinderbücher erschien. In Polen förderten die politischen Veränderungen nach 1956 und das Ministerium für Kultur und Kunst, das dem Kinderbuch hohen Rang einräumte, die Buchillustration; 1959 brachten polnische Illustratoren von der Internationalen Buchkunst-Ausstellung in Leipzig zwölf Medaillen mit, darunter zwei goldene. In den 1960er-Jahren kam für diese Gruppe, geschätzt für Farbigkeit, Humor und große künstlerische Freiheit, der Begriff „Polska Szkoła Ilustracji“ (Polnische Schule der Illustration) auf; zu ihr zählen etwa Jan Marcin Szancer, Olga Siemaszko und Janusz Stanny. In der Sowjetunion illustrierte Tatjana Mawrina in den 1950er-Jahren für den staatlichen Kinderbuchverlag Detgis russische Volksmärchen in einer leuchtenden, dem Primitivismus, der altrussischen Kunst und der Volkskunst nahen Manier; 1976 erhielt sie den Hans-Christian-Andersen-Preis für Illustration.",
+  "markers": [
+   "deckende Gouache oder Tempera mit Trockenpinsel-, Schwamm- und Stempelstrukturen",
+   "erdige Grundtöne wie Ocker, Rostrot, Oliv und Schiefergrau mit ein, zwei leuchtenden Akzenten in Zinnoberrot oder Zitronengelb",
+   "flacher, gekippter Bildraum mit hohem Horizont und ohne Schlagschatten",
+   "naive, volkskunstnahe Figuren, gestreckt oder gedrungen, mit Punktaugen und runden Farbtupfen auf den Wangen",
+   "Fell, Laub und Stoffe als Reihen kleiner ornamentaler Striche und Muster",
+   "körniges Druckbild, leichte Passerdifferenzen und verblasste Farben auf dickem, mattem Papier"
+  ],
+  "escapes": "Das übliche KI-Kinderbuchbild zeigt ein glänzendes 3D-Maskottchen mit großen Kulleraugen, weichen Verläufen, Lichtkanten und unscharfem Hintergrund, mittig ins Bild gesetzt. Dieser Stil arbeitet stattdessen mit flachen Farbflächen und sichtbarem Pinselduktus, einem gekippten Raum ohne Schlagschatten und Figuren, die ihre Form aus Ornamenten statt aus Licht beziehen. Die gedämpften Erdtöne mit wenigen grellen Akzenten brechen zudem den warmen Einheitston aus Bernstein und Pastell.",
+  "pitfalls": "Das Modell gleitet häufig in ein warmes, nostalgisches Aquarell-Bilderbuch westlicher Prägung ab oder in glatte Vektorgrafik mit aufgelegter Papierstruktur. Auch bei passender Malweise bekommen Figuren oft große, glänzende Augen und weich modelliertes Fell; dazu tauchen ungefragt Trachtenstickerei, rote Sterne oder Zwiebeltürme auf. Prüfen, ob der Raum wirklich flach bleibt und das Kostüm trotz der Ornamente lesbar ist.",
+  "tip": "Die Druckspuren ausdrücklich verlangen („leichte Passerdifferenzen, körniges Druckbild, dickes mattes Papier“) und die Palette mit konkreten Erdtönen und einem einzigen Leuchtakzent benennen; so wirkt das Bild wie eine gedruckte Buchseite und nicht wie digitale Malerei.",
+  "sensitivity": "Die Bücher erschienen in staatlich gelenkten Verlagen des Ostblocks; bei der Bildtradition bleiben und weder Propagandasymbole noch Trachten- und Folkloreklischees einzelner Völker übernehmen. Namen einzelner Illustratorinnen und Illustratoren gehören nicht in den Prompt."
+ },
+ "en": {
+  "name": "Eastern European picture-book illustration",
+  "aka": [
+   "Polish School of Illustration",
+   "Soviet children's book illustration",
+   "Czech picture-book illustration",
+   "GDR children's book illustration"
+  ],
+  "era": "1950s–1980s, Czechoslovakia, Poland, USSR, GDR",
+  "summary": "Flat, folk-inspired gouache pictures with ornament, tilted perspective and print grain from Eastern Bloc children's publishers; included as a counterpart to the smooth, glossy AI children's-book look.",
+  "origin": "In Prague the State Children's Book Publishing House (SNDK) was founded on 15 April 1949 (renamed Albatros in 1969); its illustrators included Helena Zmatlíková, Zdeněk Miler and Adolf Born. In East Berlin the SED party executive founded Der Kinderbuchverlag on 1 June 1949, before the GDR itself was founded, and it went on to publish the great majority of all GDR children's books. In Poland the political changes after 1956 and a Ministry of Culture and Art that gave children's books high priority fostered book illustration; in 1959 Polish illustrators brought home twelve medals, two of them gold, from the International Book Art Exhibition in Leipzig. In the 1960s the term 'Polska Szkoła Ilustracji' (Polish School of Illustration) arose for this group, valued for its colour, humour and great artistic freedom; it includes artists such as Jan Marcin Szancer, Olga Siemaszko and Janusz Stanny. In the Soviet Union Tatiana Mavrina illustrated Russian folk tales for the state children's publisher Detgiz in the 1950s in a bright manner close to primitivism, Old Russian art and folk art; in 1976 she received the Hans Christian Andersen Award for illustration.",
+  "markers": [
+   "opaque gouache or tempera with dry-brush, sponge and stamp textures",
+   "earthy base colours such as ochre, rust, olive and slate grey with one or two bright accents in vermilion or lemon yellow",
+   "flat, tilted picture space with a high horizon and no cast shadows",
+   "naive, folk-influenced figures, elongated or squat, with dot eyes and round cheek spots",
+   "fur, foliage and fabric rendered as rows of small ornamental strokes and patterns",
+   "print grain, slightly misregistered colour plates and faded colours on thick matt paper"
+  ],
+  "escapes": "The usual AI children's-book image shows a glossy 3D mascot with big shiny eyes, soft gradients, rim light and a blurred background, placed dead centre. This style counters it with flat colour areas over visible brushwork, a tilted space without cast shadows and figures shaped by ornament rather than by light. Its muted earth palette with a few loud accents also breaks the uniform warm amber-and-pastel tone.",
+  "pitfalls": "The model often slides into a warm, nostalgic Western watercolour storybook or into smooth vector art with a paper texture laid on top. Even when the paint handling is right, figures tend to get big glossy eyes and softly modelled fur, and folk embroidery, red stars or onion domes appear unasked. Check that the space really stays flat and that the costume remains legible despite the ornament.",
+  "tip": "Ask explicitly for the print traces ('slightly misregistered colour plates, print grain, thick matt paper') and name the palette as specific earth tones plus a single bright accent; this keeps the image a printed book page rather than a digital painting.",
+  "sensitivity": "The books came from state-controlled publishers in the Eastern Bloc; stay with the visual tradition and do not borrow propaganda symbols or folk-costume and folklore clichés of particular peoples. Names of individual illustrators stay out of the prompt."
+ },
+ "sources": [
+  {
+   "title": "Albatros (nakladatelství) – Wikipedie",
+   "url": "https://cs.wikipedia.org/wiki/Albatros_(nakladatelství)"
+  },
+  {
+   "title": "Kinderbuchverlag Berlin – Wikipedia",
+   "url": "https://de.wikipedia.org/wiki/Kinderbuchverlag_Berlin"
+  },
+  {
+   "title": "Polska Szkoła Ilustracji – Wikipedia",
+   "url": "https://pl.wikipedia.org/wiki/Polska_Szkoła_Ilustracji"
+  },
+  {
+   "title": "Маврина, Татьяна Алексеевна – Википедия",
+   "url": "https://ru.wikipedia.org/wiki/Маврина,_Татьяна_Алексеевна"
+  }
+ ]
+}

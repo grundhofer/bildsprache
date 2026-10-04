@@ -1,0 +1,68 @@
+{
+ "slug": "yamato-e-narrative-handscroll",
+ "style_block": "A yamato-e narrative handscroll (emaki) from a Japanese court workshop, 12th–13th century. Medium: ink underdrawing, opaque mineral colours (malachite green, azurite blue, vermilion, white), outlines redrawn in ink; browned paper, flaked pigment. Composition: one continuous scene read right to left, in a tall frame from top right to bottom left; steep bird's-eye view, roofless buildings; depth from parallel diagonals, no vanishing point; small figures with line eyes and hook noses, clothing as flat colour masses; rounded mist bands hide gaps between episodes. Lettering, where text is needed: Latin letters brushed in black ink, fluent and uneven; title on a gold-and-silver-dusted sheet, labels brushed into the painting above each episode. Information, where a diagram, map or chart is shown: steps as episodes along one landscape, divided by mist, each with a brushed numeral. Avoid centred hero framing, tile grids, gradients, ukiyo-e prints, gold-leaf screens, anime faces, scroll rollers, any Japanese-looking script.",
+ "de": {
+  "name": "Yamato-e-Bildrolle",
+  "aka": [
+   "Emaki",
+   "Emakimono",
+   "Erzählende Bilderrolle"
+  ],
+  "era": "12.–13. Jh., Japan (Heian- und Kamakura-Zeit)",
+  "summary": "Dachlose Räume, steil von oben gesehen, und eine durchlaufende, von rechts nach links gelesene Szene mit Nebelbändern: eine Bildfolge ohne Einzelfelder und Fluchtpunkt statt des KI-Kachelrasters.",
+  "origin": "Erzählende Bildrollen (Emaki) im Stil des Yamato-e erlebten in der Heian-Zeit (794–1185) und der Kamakura-Zeit (1185–1333) ihre Blüte, vor allem im 12. und 13. Jahrhundert. Eine solche Rolle ist meist 30 bis 39 Zentimeter hoch und 9 bis 12 Meter lang und wird von rechts nach links abgerollt, jeweils etwa 60 Zentimeter; darin wechseln Textabschnitte (kotobagaki) mit Bildern, oder die Szenen gehen ohne Unterbrechung ineinander über. Die Genji-Bildrollen (Genji Monogatari Emaki, um 1120–1140; heute im Tokugawa-Kunstmuseum Nagoya und im Gotoh-Museum Tokio) zeigen die höfische Tsukuri-e-Technik: Vorzeichnung in Tusche, deckende Mineralfarben wie Azurit, Zinnober und Malachit, danach die Linien erneut in Tusche nachgezogen; die Textblätter sind auf Papier geschrieben, das mit Gold- und Silberstaub verziert ist. Innenräume erscheinen von oben ohne Dach und Decke (fukinuki yatai, ältester bekannter Beleg 1069), die Gesichter der Höflinge sind auf Augen aus feinen Strichen und eine hakenförmige Nase reduziert (hikime kagibana). Das Shigisan Engi Emaki (zweite Hälfte des 12. Jahrhunderts) ist dagegen mit frei gezogenen Tuschlinien und zurückhaltender Farbe gemalt, zeigt den Alltag von Bauern, Händlern und Mönchen und stellt dieselbe Figur innerhalb einer Szene mehrmals dar, um eine Abfolge von Ereignissen zu erzählen (iji dōzu); dasselbe Mittel nutzt das Ban Dainagon Ekotoba (spätes 12. Jahrhundert).",
+  "markers": [
+   "Steiler Blick von oben in Gebäude, deren Dach und Decke weggelassen sind",
+   "Raumtiefe durch parallele Schrägen von rechts oben nach links unten, ohne Fluchtpunkt",
+   "Deckende Mineralfarben über Tuschvorzeichnung auf gebräuntem Papier, stellenweise abgeplatzt",
+   "Gesichter aus wenigen Strichen: Augen als feine Linien, Nase als kleiner Haken",
+   "Waagerechte Nebelbänder mit gerundeten Enden, die die Übergänge zwischen Szenen verdecken",
+   "Eine durchlaufende Szene, von rechts nach links gelesen, in der dieselben Figuren mehrmals auftreten"
+  ],
+  "escapes": "Der Stil ersetzt die zentrierte Hauptfigur, den einzelnen Kamerastandpunkt mit Fluchtpunkt und das weiche, gerichtete Licht durch einen steilen, gleichmäßigen Blick von oben, parallele Schrägen und flache Deckfarben ohne Schlagschatten. In der Infografik tritt an die Stelle des sauberen Rasters aus sechs Symbolkacheln eine durchlaufende Szene mit Nebel zwischen den Stationen, sodass die Schritte als Erzählung gelesen werden und nicht als Tabelle.",
+  "pitfalls": "Modelle gleiten leicht ab: in Farbholzschnitte der Edo-Zeit, in Stellschirme mit großen Goldwolken oder in allgemeine ostasiatische Illustration mit Anime-Gesichtern. Außerdem fügen sie pseudojapanische Schrift, Torii, Kimonos und Samurai hinzu, die aus Lornholm Japan machen, oder zeigen ein Foto der Rolle mit Rollstäben statt der bemalten Fläche. Im Hochformat zerfällt die Leserichtung oft in gestapelte Einzelfelder; prüfen, ob die Reihenfolge der Schritte eindeutig bleibt.",
+  "tip": "Die Leserichtung ausdrücklich nennen („von rechts oben nach links unten“) und Nebelbänder als Trenner verlangen, sonst greift das Modell zu umrahmten Feldern. Dazu festlegen, dass Kleidung und Gegenstände wie beschrieben bleiben, damit sich die Malweise ändert und nicht der Schauplatz.",
+  "sensitivity": "Pseudojapanische Zeichen können zufällig echte Wörter bilden; Schrift daher auf den vorgegebenen Text in lateinischen Buchstaben beschränken. Die Strichaugen als Malkonvention für alle Figuren beschreiben, nicht als ethnisches Merkmal, und Lornholm nicht mit japanischen Klischees wie Samurai, Geishas oder Torii ausstatten."
+ },
+ "en": {
+  "name": "Yamato-e narrative handscroll",
+  "aka": [
+   "Emaki",
+   "Emakimono",
+   "Japanese illustrated handscroll"
+  ],
+  "era": "12th–13th c., Japan (Heian and Kamakura periods)",
+  "summary": "Roofless rooms seen steeply from above and one continuous scene read right to left, divided by mist: a sequence without panels or vanishing point, unlike the AI tile grid.",
+  "origin": "Narrative handscrolls (emaki) in the yamato-e manner flourished in the Heian (794–1185) and Kamakura (1185–1333) periods, above all in the 12th and 13th centuries. A scroll is usually 30–39 cm high and 9–12 m long and is unrolled from right to left about 60 cm at a time, with calligraphic text sections (kotobagaki) alternating with pictures or with scenes flowing into one another without a break. The Tale of Genji scrolls (Genji Monogatari Emaki, c. 1120–1140; now in the Tokugawa Art Museum, Nagoya, and the Gotoh Museum, Tokyo) show the court tsukuri-e technique: ink underdrawing, opaque mineral pigments such as azurite, vermilion and malachite, then the lines redrawn in ink; their text sheets are written on paper decorated with gold and silver dust. Interiors are seen from above with roof and ceiling removed (fukinuki yatai, earliest known example 1069), and courtiers' faces are reduced to line eyes and a hooked nose (hikime kagibana). The Shigisan Engi Emaki (second half of the 12th century), by contrast, is painted with freely drawn ink lines and restrained colour, shows the everyday life of peasants, merchants and monks, and depicts the same figure several times within one scene to tell a sequence of events (iji dōzu); the Ban Dainagon Ekotoba (late 12th century) uses the same device.",
+  "markers": [
+   "Steep view from above into buildings with roof and ceiling removed",
+   "Depth from parallel diagonals running from upper right to lower left, no vanishing point",
+   "Opaque mineral colours over ink underdrawing on browned paper, flaked in places",
+   "Faces of a few strokes: eyes as thin lines, nose as a small hook",
+   "Horizontal mist bands with rounded ends hiding the transitions between scenes",
+   "One continuous scene read right to left, with the same figures appearing several times"
+  ],
+  "escapes": "The style replaces the centred hero figure, the single camera viewpoint with a vanishing point and soft directional light with a steep, even view from above, parallel diagonals and flat opaque colour without cast shadows. In the infographic, the tidy grid of six icon tiles gives way to one continuous scene with mist between the stations, so the steps read as a story rather than a table.",
+  "pitfalls": "Models easily drift into Edo-period woodblock prints, folding screens with large gold clouds, or generic East Asian illustration with anime faces. They also add pseudo-Japanese writing, torii gates, kimonos and samurai that turn Lornholm into Japan, or show a photograph of the scroll with its rollers instead of the painted surface. In a tall frame the reading direction often breaks into stacked separate panels, so check that the order of steps stays unambiguous.",
+  "tip": "State the reading direction explicitly ('from top right to bottom left') and ask for mist bands as dividers, or the model falls back on framed panels. Also state that clothes and objects stay as described, so the painting manner changes and not the setting.",
+  "sensitivity": "Pseudo-Japanese characters can accidentally form real words, so keep lettering to the given text in Latin letters. Describe the line eyes as a painting convention for all figures, not as an ethnic feature, and do not dress Lornholm up with Japanese clichés such as samurai, geishas or torii."
+ },
+ "sources": [
+  {
+   "title": "Emakimono – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Emakimono"
+  },
+  {
+   "title": "Genji Monogatari Emaki – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Genji_Monogatari_Emaki"
+  },
+  {
+   "title": "fukinuki yatai – JAANUS (Japanese Architecture and Art Net Users System)",
+   "url": "https://www.aisf.or.jp/~jaanus/deta/f/fukinukiyatai.htm"
+  },
+  {
+   "title": "iji douzu – JAANUS (Japanese Architecture and Art Net Users System)",
+   "url": "https://www.aisf.or.jp/~jaanus/deta/i/ijidouzu.htm"
+  }
+ ]
+}

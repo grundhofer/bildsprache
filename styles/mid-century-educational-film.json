@@ -1,0 +1,69 @@
+{
+ "slug": "mid-century-educational-film",
+ "style_block": "A frame from a 1950s American 16 mm classroom film. Medium: much-projected colour print, grain, dust, vertical scratches; faded pink-magenta cast, blues violet, greens grey, whites rosy; shadowless floodlight. Composition: locked-off camera square-on, all in focus; shallow studio set, no horizon, sky or receding land; painted backdrop close behind, outdoor things as cut-outs; people stiff, frontal. Lettering, where text is needed: plain sans-serif capitals, white on dark title cards, black on pale card. Information, where a diagram, map or chart is shown: one hand-painted card filmed from overhead, filling the frame; no panels or scenery; each item flat, dark-outlined poster-colour shapes in side or top view, no perspective, modelling or shadow; soil a ridged brown strip, water wavy bands, trees lollipops, houses box-and-roof, hands plain outlines; one dotted arrow line winding downwards, items alternating sides; circled numerals. Avoid realistic vignettes, tile grids, vector icons, sepia, film borders, sprocket holes.",
+ "de": {
+  "name": "Lehrfilm der 1950er-Jahre",
+  "aka": [
+   "Unterrichtsfilm",
+   "Schulfilm",
+   "Industriefilm"
+  ],
+  "era": "1940er- bis 1960er-Jahre, USA",
+  "summary": "Ausgeblichene 16-mm-Filmbilder mit Magentastich, steif inszenierte Vorführungen und handgemalte Diagramme; im Katalog, weil der Stil einen Ablauf als nüchternen Unterrichtsfilm zeigt statt als glänzende Infografik.",
+  "origin": "Eastman Kodak brachte 1923 den 16-mm-Film für Amateure auf den Markt; im November 1928 beschloss die AT&T-Tochter Electrical Research Products Inc. (ERPI), den Tonfilm auf dieses Format zu übertragen, das sich an Schulen und Hochschulen allmählich durchsetzte. 1943 wurde aus ERPI Classroom Films die Firma Encyclopædia Britannica Films, und 1946 waren rund 150.000 16-mm-Projektoren in Betrieb. Coronet, 1934 von dem Esquire-Verleger David Smart und seinen Brüdern gegründet und später mit eigenem Studio in Glenview (Illinois), drehte viele Filme einige Jahre früher als die Konkurrenz auf Kodachrome-Farbfilm, während Encyclopædia Britannica Films erst 1946/47 die ersten Farbfilme herstellte; Mitte der 1950er-Jahre war Farbe üblich. Industrie- und Schulungsfilme als Auftragsproduktionen erlebten ihre Blütezeit vom Ende des Zweiten Weltkriegs bis in die 1950er-Jahre; der Filmarchivar Rick Prelinger schätzt, dass in den USA rund 300.000 Filme für Industrie und Institutionen entstanden. Mit den modernen Farbfilmen, die in den 1950er-Jahren aufkamen, wurde das Ausbleichen zu einem verbreiteten Problem: Viele ältere Kopien haben heute einen violett-magentafarbenen Stich, weil Cyan- und Gelbfarbstoff schnell verblassen.",
+  "markers": [
+   "Ausgeblichene Farben mit Magentastich: Blau wird violett, Grün grau, Weiß rosa",
+   "Korn, leichte Unschärfe, Staubpunkte und feine senkrechte Kratzer einer oft vorgeführten 16-mm-Kopie",
+   "Gleichmäßiges, schattenloses Flächenlicht auf schlichten gemalten Kulissen oder einem leeren Vorführtisch",
+   "Statische Kamera frontal auf Augenhöhe, alles scharf; Personen stehen steif und mit ernster Miene da",
+   "Diagramme als handgemalte Tafeln, auf dem Tricktisch von oben gefilmt: flache Bilder in Plakatfarbe, durch punktierte Pfeillinien verbunden, eingekreiste Ziffern",
+   "Schlichte Versalien einer Grotesk mit gleichmäßiger Strichstärke, weiß auf dunklen Titeltafeln oder schwarz auf hellem Karton"
+  ],
+  "escapes": "Die übliche KI-Infografik ist ein gestochen scharfes Vektorplakat mit abgerundeten Kacheln, Farbverläufen und Symbolen in einem Raster aus zwei mal drei Feldern. Hier stehen die Schritte auf einer einzigen handgemalten Tafel, gleichmäßig ausgeleuchtet abgefilmt und durch einen punktierten Pfad verbunden; ausgeblichene Farben, Korn und Kratzer einer oft vorgeführten Kopie lassen keinen digitalen Glanz zu. In Szenen mit Menschen ersetzt die steife, frontale Inszenierung mit durchgehender Schärfe die stimmungsvolle Lichtführung und die geringe Schärfentiefe des Spielfilms.",
+  "pitfalls": "Oft macht das Modell aus dem Stil einen Sepia- oder Nostalgiefilter mit warmem Gelbstich statt des typischen Magentastichs oder setzt Perforationslöcher, Bildränder und Brandflecken als Dekor ein. Diagramme geraten zu sauberen modernen Vektorsymbolen oder zu Zeitschriftengrafik der 1950er-Jahre mit Strahlensternen, und der punktierte Pfad weicht leicht wieder einem Kachelraster. Zu prüfen ist, ob die Schrift schlicht und richtig geschrieben bleibt und nicht in eine nostalgische Schreibschrift abgleitet. Am häufigsten wird allerdings jeder Schritt zu einer fast fotografischen oder digital gemalten Vignette mit eigenem Horizont, in die Tiefe laufendem Feld, plastisch modellierten Gegenständen und Händen in Nahaufnahme, angeordnet in einem Kachelraster; Magentastich und Korn liegen dann nur als Filter darüber.",
+  "tip": "Den Farbstich genau benennen („Cyan- und Gelbfarbstoff ausgeblichen, rosa-magentafarbener Stich“) und das Diagramm als eine einzige, von oben abgefilmte gemalte Tafel beschreiben; das hält den Nostalgiefilter ebenso fern wie das Kachelraster. Außerdem ausdrücklich ausschließen, was die Tafel nicht hat – keine Perspektive, keinen Horizont, keine Modellierung, keine Schatten, keine Felder –, und jeden Schritt als ein flaches, umrissenes Zeichen in Seiten- oder Draufsicht beschreiben: Boden ein brauner Streifen, Wasser Wellenbänder, Bäume Lutscherformen.",
+  "sensitivity": "Viele Erziehungsfilme der Zeit stellten die weiße Mittelschichtfamilie als Norm dar und lehrten Anpassung und feste Geschlechterrollen; solche Botschaften und Klischees sollten nicht übernommen werden. Namen und Logos von Produktionsfirmen und Auftraggebern gehören nicht in den Prompt."
+ },
+ "en": {
+  "name": "Mid-century educational film",
+  "aka": [
+   "classroom film",
+   "instructional film",
+   "industrial film",
+   "social guidance film"
+  ],
+  "era": "1940s–1960s, USA",
+  "summary": "Faded pink-magenta 16 mm frames of stiff demonstrations and hand-painted diagrams; in the catalog because it shows a process as a sober teaching film, not a glossy infographic.",
+  "origin": "Eastman Kodak introduced 16 mm film for amateurs in 1923; in November 1928 the AT&T subsidiary Electrical Research Products Inc. (ERPI) decided to bring sound film to this gauge, which schools and colleges were gradually adopting. In 1943 ERPI Classroom Films became Encyclopædia Britannica Films, and by 1946 some 150,000 16 mm projectors were in operation. Coronet, founded in 1934 by the Esquire publisher David Smart and his brothers and later working from its own studio in Glenview, Illinois, shot many titles in Kodachrome colour a few years ahead of its competitors, while Encyclopædia Britannica Films made its first colour films only in 1946–47; colour was common by the mid-1950s. Sponsored industrial and training films had their heyday from the end of the Second World War through the 1950s; the film archivist Rick Prelinger estimates that some 300,000 industrial and institutional films were made in the United States. With the modern colour film stocks that came into use in the 1950s, fading became a widespread problem: many older prints now show a purplish-magenta cast because their cyan and yellow dyes fade quickly.",
+  "markers": [
+   "Faded colour with a pink-magenta cast: blues turn violet, greens grey, whites rosy",
+   "Grain, slight softness, dust specks and fine vertical scratches of a much-projected 16 mm print",
+   "Flat, shadowless floodlight on plain painted sets or a bare demonstration table",
+   "Locked-off camera square-on at eye level, everything in focus; people stand stiffly with earnest faces",
+   "Diagrams as hand-painted cards filmed from above on an animation stand: flat poster-colour pictures joined by dotted arrow lines, circled numerals",
+   "Plain sans-serif capitals of even stroke, white on dark title cards or black on pale card"
+  ],
+  "escapes": "The model's default infographic is a crisp flat-vector poster with rounded tiles, gradients and icons in a two-by-three grid. Here the steps sit on a single hand-painted card, filmed under even light and joined by one dotted path, while the faded colour, grain and scratches of a much-projected print rule out digital gloss. In scenes with people, stiff frontal staging with everything in focus replaces cinematic lighting and shallow depth of field.",
+  "pitfalls": "Models often reduce the style to a sepia or warm yellowish vintage filter instead of the specific magenta cast, or add sprocket holes, film borders and burn marks as decoration. Diagrams drift into clean modern vector icons or 1950s magazine art with starbursts, and the dotted path easily gives way to a tile grid again. Check that the lettering stays plain and correctly spelt rather than turning into a nostalgic script. Most often, though, each step becomes a near-photographic or digitally painted vignette with its own horizon, receding field, modelled volumes and close-up hands, set in a tile grid; the magenta cast and grain then lie over it only as a filter.",
+  "tip": "Name the colour shift precisely ('cyan and yellow dyes faded, pink-magenta cast') and describe the diagram as one painted card filmed from overhead; this keeps away both the vintage filter and the tile grid. Also state what the card does not have – no perspective, horizon, modelling, shadow or panels – and make each step one flat, outlined sign in side or top view: soil a brown strip, water wavy bands, trees lollipops.",
+  "sensitivity": "Many guidance films of the period presented the white, middle-class nuclear family as the norm and taught conformity and fixed gender roles; such messages and stereotypes should not be reproduced. Names and logos of producers and sponsoring companies stay out of the prompt."
+ },
+ "sources": [
+  {
+   "title": "Encyclopædia Britannica Films – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica_Films"
+  },
+  {
+   "title": "Coronet Films – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Coronet_Films"
+  },
+  {
+   "title": "Industrial film – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Industrial_film"
+  },
+  {
+   "title": "National Film Preservation Foundation: Color Dye Fading",
+   "url": "https://www.filmpreservation.org/preservation-basics/color-dye-fading"
+  }
+ ]
+}

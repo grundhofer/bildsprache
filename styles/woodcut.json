@@ -1,0 +1,65 @@
+{
+ "slug": "woodcut",
+ "style_block": "Bold black-line woodcut cut with knife and gouge into a plank of soft wood, in the manner of early 16th-century broadsheets and herbals. Medium: thick, coarse black lines and large solid black areas, only sparse parallel hatching, no cross-hatching and no fine detail; faces and hands reduced to a few confident cuts; wood-grain streaks and white flecks in the solids; uneven hand-burnished ink, black on warm off-white laid paper. Composition: flat, stage-like space with few overlapping planes, figures large and outlined, a heavy ruled border. Lettering, where text is needed: chunky carved roman capitals or blackletter in scroll banners or a framed title panel. Information is arranged like a broadsheet page of framed, numbered vignettes. Avoid fine wood engraving, scratchboard, photographic tonal modelling, smooth vector lines and grey tones.",
+ "de": {
+  "name": "Holzschnitt",
+  "aka": [
+   "Schwarzlinienschnitt"
+  ],
+  "era": "um 1400–1550, Mitteleuropa",
+  "summary": "Schwarze, mit dem Messer geschnittene Konturen und Parallelschraffuren auf warmweißem Papier, gerahmt wie ein Flugblatt des 16. Jahrhunderts; im Katalog, weil selbst Diagramme und Karten zu geschnittenen Bildfeldern werden.",
+  "origin": "Der Holzschnitt kommt in Europa um 1400 auf, zuerst als Einblattholzschnitt mit Andachtsbildern, die unter anderem in Klöstern im Alpenraum und in Bayern entstanden. Das Bild wird mit Messer und Hohleisen in ein Brett aus Langholz, oft Birnbaum oder Kirsche, geschnitten; die stehen gebliebenen Linien drucken im Hochdruck wie die beweglichen Lettern, sodass Bildstock und Schriftsatz zusammen gedruckt werden können. Den Entwurf zeichnete meist ein Künstler, in den Stock schnitt ihn ein Formschneider; um 1500 brachte Albrecht Dürer den Einblattholzschnitt in Qualität und Ansehen auf eine Stufe mit dem Kupferstich. Die Schedelsche Weltchronik, 1493 bei Anton Koberger in Nürnberg erschienen, enthält 1809 Holzschnitte aus der Werkstatt von Michael Wolgemut und Wilhelm Pleydenwurff, die auf nur 645 Stöcke zurückgehen; viele Stöcke kehren mit geänderter Beschriftung mehrfach wieder. Leonhart Fuchs’ Kräuterbuch „De historia stirpium“ (Basel 1542) setzte mit über 500 Pflanzenholzschnitten Maßstäbe; gezeichnet hat sie Albrecht Meyer, auf den Stock übertragen Heinrich Füllmaurer, geschnitten Veit Rudolph Speckle.",
+  "markers": [
+   "mit dem Messer geschnittene schwarze Konturen von ungleicher Stärke, alles ist umrissen",
+   "Parallelschraffuren statt Grautönen und Verläufen",
+   "Holzmaserung und weiße Fehlstellen in schwarzen Flächen, kleine Brüche in abgenutzten Linien",
+   "Einfassungslinien um das Bild und Rahmenlinien um jedes einzelne Bildfeld",
+   "in den Stock geschnittene Schrift: Antiqua-Versalien oder gebrochene Schrift in Spruchbändern und Titelfeldern",
+   "nur schwarze Farbe auf warmweißem, geripptem Papier"
+  ],
+  "escapes": "Der Stil ersetzt weiche Verläufe, Glanzlichter und glatte Oberflächen, an denen man KI-Bilder oft erkennt, durch reines Schwarz auf Papier, in dem jeder Ton aus geschnittenen Linien entstehen muss. Weil der Stilblock Rahmenlinien, Spruchbänder und nummerierte Bildfelder vorgibt, verlieren Infografik und Diagramm die gewohnten abgerundeten Kacheln und folgen der Ordnung eines gedruckten Flugblatts; die übrigen Motive stehen auf einer flachen Bildbühne statt in unscharfer Tiefe.",
+  "pitfalls": "Das Modell rutscht leicht in Nachbartechniken ab: in die feinen weißen Linien und Tonflächen des Holzstichs, in die weichen, runden Schnitte des Linolschnitts oder in eine glatte Vektorgrafik mit gleichmäßig dicken Linien. Schraffuren werden oft zu fein und zu regelmäßig, und ins Bild schleichen sich graue Lavierungen, Verläufe oder künstlich gealterte Papierränder ein. Bei Motiven mit Text prüfen, ob die gebrochene Schrift lesbar bleibt und Beschriftungen und Zahlen genau stimmen.",
+  "tip": "Grobe, mit dem Messer geschnittene Linien und nur wenige Schraffurrichtungen verlangen und den Platz für Text ausdrücklich nennen (Spruchband oder gerahmtes Titelfeld), damit Beschriftungen im geschnittenen Rahmen stehen und nicht frei über dem Bild schweben.",
+  "sensitivity": ""
+ },
+ "en": {
+  "name": "Woodcut",
+  "aka": [
+   "black-line woodcut",
+   "woodblock print"
+  ],
+  "era": "c. 1400–1550, Central Europe",
+  "summary": "Black knife-cut contours and parallel hatching on off-white paper, framed like a 16th-century broadsheet; in the catalog because even charts and maps become carved, framed panels.",
+  "origin": "Woodcut appeared in Europe around 1400, at first as single-sheet devotional prints, some of them made in monasteries in the Alpine region and Bavaria. The design is cut with knives and gouges into a long-grain plank, often of pear or cherry; the raised lines print in relief like movable type, so block and type can be printed together. Usually an artist drew the design and a specialist block cutter (Formschneider) cut it; by about 1500 Albrecht Dürer had raised the single-leaf woodcut to the quality and status of engraving. The Nuremberg Chronicle, printed by Anton Koberger in Nuremberg in 1493, contains 1,809 woodcuts from the workshop of Michael Wolgemut and Wilhelm Pleydenwurff, printed from only 645 blocks; many blocks recur with just the label changed. Leonhart Fuchs’s herbal De historia stirpium (Basel, 1542) set a standard with more than 500 plant woodcuts, drawn by Albrecht Meyer, transferred to the block by Heinrich Füllmaurer and cut by Vitus Rudolph Speckle.",
+  "markers": [
+   "knife-cut black contours of uneven width, everything outlined",
+   "parallel hatching instead of grey tones and gradients",
+   "wood-grain streaks and white flecks in solid blacks, small breaks in worn lines",
+   "ruled border lines around the image and around each separate panel",
+   "lettering cut into the block: roman capitals or blackletter in scroll banners and title panels",
+   "black ink only, on warm off-white laid paper"
+  ],
+  "escapes": "It replaces soft gradients, glowing highlights and glossy surfaces, the usual giveaways of AI images, with pure black on paper, where every tone has to be built from cut lines. Because the block prescribes ruled borders, scroll banners and numbered vignettes, the infographic and the chart lose the familiar rounded card grid and follow the order of a printed broadsheet; the other motifs sit on a shallow stage instead of in blurred depth.",
+  "pitfalls": "The model easily drifts into neighbouring techniques: the fine white lines and tints of wood engraving, the soft rounded cuts of linocut, or a clean vector imitation with lines of even width. Hatching often comes out too fine and too regular, and grey washes, gradients or fake aged-paper edges creep into the image. On text motifs, check that blackletter stays legible and that labels and numbers are exactly as requested.",
+  "tip": "Ask for coarse, knife-cut lines and only a few hatching directions, and name the place for text explicitly (scroll banner or framed title panel) so labels sit inside the carved frame instead of floating over the image.",
+  "sensitivity": ""
+ },
+ "sources": [
+  {
+   "title": "Woodcut – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Woodcut"
+  },
+  {
+   "title": "Holzschnitt – Wikipedia",
+   "url": "https://de.wikipedia.org/wiki/Holzschnitt"
+  },
+  {
+   "title": "Nuremberg Chronicle – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nuremberg_Chronicle"
+  },
+  {
+   "title": "De historia stirpium commentarii insignes – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/De_historia_stirpium_commentarii_insignes"
+  }
+ ]
+}

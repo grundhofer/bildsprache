@@ -1,0 +1,68 @@
+{
+ "slug": "glossy-3d-icon",
+ "style_block": "A glossy 3D icon render for app listings, software websites and stock icon packs, worldwide, 2020s. Medium: computer render of inflated glossy plastic; chunky simplified forms with rounded, bevelled edges; saturated candy-colour gradients, each object its own hue; broad white highlights from a large softbox at upper left, soft ambient occlusion; flawless surfaces, no texture or grain. Composition: each object alone and centred, turned slightly to a three-quarter view from above, floating over a plain pastel gradient with a soft blurred shadow beneath; even margins, all evenly lit and sharp. Lettering, where text is needed: chunky inflated rounded sans-serif in the same glossy plastic. Information, where a diagram, map or chart is shown: each item a separate glossy object in an evenly spaced row or grid; values as rounded glossy bars. Avoid flat vector glyphs, outlines, matte clay, translucent glass, backing tiles, sparkles, photoreal materials, platform emoji and logos.",
+ "de": {
+  "name": "Glänzendes 3D-Icon",
+  "aka": [
+   "3D-Emoji-Look",
+   "Hochglanz-3D-Icon",
+   "KI-3D-Icon"
+  ],
+  "era": "seit etwa 2020, App- und Webdesign weltweit",
+  "summary": "Glänzende, abgerundete Kunststoffobjekte in Bonbonfarben, mittig über einem Pastellverlauf schwebend, mit weichem Schatten; ein Negativbeispiel für den austauschbaren 3D-Look, den man aus KI-Icons kennt.",
+  "origin": "Nach dem Flat Design der 2010er-Jahre kehrte um 2020 die Räumlichkeit in die Icons zurück: macOS Big Sur, erschienen am 12. November 2020, gab seinen abgerundeten App-Icons mehr Schattierung und Glanzlichter als iOS, damit sie dreidimensional wirken. Im Februar 2021 begann der Designer Vijay Verma, zur Übung Icons im 3D-Programm Blender zu modellieren; daraus entstand 3dicons, ein kostenloses Set von zunächst 120 Icons, jedes in vier Stilen und aus drei Kameraperspektiven gerendert und unter der Lizenz CC0 zur freien Verwendung freigegeben. Am 15. Juli 2021 kündigte Microsoft neu gestaltete Emojis an, die den flachen, umrandeten Stil von Windows 10 durch eine weiche 3D-Optik wie aus Knetmasse ablösen sollten; in Teams und Skype erschienen die 3D-Fassungen, Windows 11 nutzte zunächst flache Varianten. Der Designer Michał Malewicz nannte die weiche, gerundete 3D-Grafik dieser Jahre „fluffy 3D“, stellte 2021 ihre Anwendung auf Benutzeroberflächen unter dem Namen „Claymorphism“ vor und schrieb Werkzeugen wie Spline zu, 3D-Gestaltung für Designer zugänglich gemacht zu haben. Am 10. August 2022 veröffentlichte Microsoft mehr als 1500 seiner neuen Emojis als Open Source.",
+  "markers": [
+   "Ein Objekt pro Icon, mittig gesetzt und leicht in Dreiviertelansicht gedreht, frei schwebend ohne Kontur oder Sockel",
+   "Glatter, glänzender Kunststoff mit breiten weißen Glanzlichtern von einer großen, weichen Lichtquelle",
+   "Gedrungene, aufgeblasene Formen mit großzügig gerundeten, gefasten Kanten und ohne scharfe Ecken",
+   "Satte Bonbonfarben in weichen Verläufen, jedes Objekt in einem eigenen Farbton",
+   "Weicher, verschwommener Schatten unter jedem Objekt auf einem schlichten Pastellverlauf",
+   "Makellose Oberflächen ohne Struktur, Abnutzung oder Korn, alles gleichmäßig ausgeleuchtet und scharf"
+  ],
+  "escapes": "Der Look wirkt wie KI, weil er jedes Thema in denselben Gegenstand verwandelt: ein glänzendes Spielzeug aus einheitlichem Kunststoff, im selben weichen Studiolicht und über demselben Pastellverlauf, sodass sich Glocke, Haus und Herz nur noch in Umriss und Farbe unterscheiden. Er zeigt die typischen Merkmale erzeugter Icons: aufgeblasene, gerundete Körper ohne Zeichenraster und Konstruktionslogik, Farben, die gefallen sollen, statt etwas zu bedeuten, Verläufe und Glanzlichter statt klarer Flächen und keine Spur von Hand, Werkzeug oder Herstellungsverfahren. Prompt-Ratgebern zufolge treffen Bildgeneratoren diesen Icon-Trend der frühen 2020er-Jahre besonders leicht, vermutlich weil solche Renderings Bilddatenbanken und Designportfolios füllen; ein Automatismus ist er aber nicht – ohne Stilangabe zeichnete das Modell dieses Icon-Set im Katalog flach und mit dicken, dunklen Konturen.",
+  "pitfalls": "In einem Set aus neun Icons wechselt das Modell gern Blickwinkel, Größe, Farblogik und Detailgrad von Icon zu Icon, sodass eher eine zusammengewürfelte Sammlung als eine Icon-Familie entsteht; zu prüfen ist, ob alle neun denselben Blickwinkel, dieselbe Lichtrichtung und dieselben Eckenradien haben. Außerdem ergänzt es Beiwerk wie Glitzersterne, Pluszeichen, Benachrichtigungspunkte, kleine schwebende Kugeln oder eine abgerundete Kachel hinter jedem Objekt und schreibt mitunter Ziffern oder Buchstaben auf das Kalenderblatt. Wörter wie „clay“ oder „matte“ kippen den Look in die benachbarte matte Knetoptik, „glass“ in durchscheinende Glas-Icons.",
+  "tip": "Licht, Material und Kamera für das ganze Set als feste physische Angaben nennen, etwa „one large softbox at upper left, glossy plastic, three-quarter view from above, soft contact shadow“, damit die neun Icons als eine Familie herauskommen. Wer dem Look entgehen will, legt genau diese Punkte anders fest: Fläche oder Linie statt Volumen, ein Zeichenraster und Farben mit Bedeutung.",
+  "sensitivity": "Ähnelt kommerziellen 3D-Emoji- und Icon-Sets; das Bild soll weder die Emojis einer bestimmten Plattform noch ein kostenpflichtiges Icon-Paket nachbauen, und App- oder Markenlogos gehören nicht hinein."
+ },
+ "en": {
+  "name": "Glossy 3D icon",
+  "aka": [
+   "3D emoji style",
+   "glossy app icon render",
+   "AI 3D icon"
+  ],
+  "era": "since c. 2020, app and web design worldwide",
+  "summary": "Shiny rounded plastic objects in candy colours, floating centred over a pastel gradient with a soft shadow; a negative example of the interchangeable 3D look familiar from AI icons.",
+  "origin": "After the flat design of the 2010s, depth returned to icons around 2020: macOS Big Sur, released on 12 November 2020, gave its rounded app icons more shading and highlights than iOS to make them look three-dimensional. In February 2021 the designer Vijay Verma began modelling icons in the 3D program Blender as an exercise; the result was 3dicons, a free set of at first 120 icons, each rendered in four styles and from three camera angles and dedicated to the public domain under CC0. On 15 July 2021 Microsoft announced redesigned emoji meant to replace the flat, outlined style of Windows 10 with a soft 3D look like modelling clay; the 3D versions appeared in Teams and Skype, while Windows 11 at first used flat variants. The designer Michał Malewicz called the soft, rounded 3D graphics of these years 'fluffy 3D', presented their application to user interfaces in 2021 under the name 'claymorphism' and credited tools such as Spline with making 3D design accessible to designers. On 10 August 2022 Microsoft released more than 1,500 of its new emoji as open source.",
+  "markers": [
+   "One object per icon, centred and turned slightly to a three-quarter view, floating free without outline or base",
+   "Smooth, glossy plastic with broad white highlights from a large, soft light source",
+   "Squat, inflated forms with generously rounded, bevelled edges and no sharp corners",
+   "Saturated candy colours in smooth gradients, each object in its own hue",
+   "Soft, blurred shadow beneath each object on a plain pastel gradient",
+   "Flawless surfaces without texture, wear or grain, everything evenly lit and sharp"
+  ],
+  "escapes": "The look reads as AI because it turns every subject into the same object: a glossy toy of uniform plastic, under the same soft studio light and over the same pastel gradient, so that a bell, a house and a heart differ only in outline and colour. It shows the usual tells of generated icons: inflated, rounded volumes without a drawing grid or construction logic, colours chosen to please rather than to mean something, gradients and highlights instead of clear shapes, and no trace of a hand, a tool or a production process. According to prompting guides, image generators hit this icon trend of the early 2020s particularly easily, probably because such renders fill stock libraries and design portfolios; it is not automatic, though – without a style description the model drew this catalog's icon set flat, with thick, dark outlines.",
+  "pitfalls": "In a set of nine, the model tends to vary viewing angle, size, colour logic and amount of detail from icon to icon, so the result looks like a random collection rather than one icon family; check that all nine share one viewing angle, one light direction and the same corner radii. It also adds extras such as sparkles, plus signs, notification dots, small floating spheres or a rounded tile behind each object, and sometimes prints digits or letters on the calendar page. Words such as 'clay' or 'matte' tip the look into the neighbouring matte clay render, 'glass' into translucent glass icons.",
+  "tip": "Name light, material and camera as fixed physical facts for the whole set, e.g. 'one large softbox at upper left, glossy plastic, three-quarter view from above, soft contact shadow', so that the nine icons come out as one family. To escape the look, set exactly these points differently: flat shape or line instead of volume, a drawing grid and colours that mean something.",
+  "sensitivity": "Resembles commercial 3D emoji and icon sets; the image should copy neither a particular platform's emoji nor a paid icon pack, and app or brand logos do not belong in it."
+ },
+ "sources": [
+  {
+   "title": "macOS Big Sur – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/MacOS_Big_Sur"
+  },
+  {
+   "title": "Vijay Verma: Open-Source 3dicons Library: Case Study and Free Downloads – Smashing Magazine, 2022",
+   "url": "https://www.smashingmagazine.com/2022/05/3dicons-open-source-library-case-study-download/"
+  },
+  {
+   "title": "Michał Malewicz: Claymorphism in User Interfaces – Hype4 Academy",
+   "url": "https://hype4.academy/articles/design/claymorphism-in-user-interfaces"
+  },
+  {
+   "title": "Fluent Design System (Fluent emoji) – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fluent_Design_System"
+  }
+ ]
+}

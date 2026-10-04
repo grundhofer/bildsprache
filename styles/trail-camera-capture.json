@@ -1,0 +1,68 @@
+{
+ "slug": "trail-camera-capture",
+ "style_block": "A night frame from an unattended digital infrared trail camera, as used worldwide by hunters and field biologists in the 21st century. Medium: small CMOS sensor, fixed-focus wide lens about 35 mm equivalent, infrared LED flash beside the lens; monochrome grey, near objects blown out, black beyond a few metres, smeared motion, coarse noise, JPEG blocking; white eye-shine only where a mammal faces the lamp. Composition: fixed knee-height viewpoint, slightly tilted; subject off-centre, crowding a frame edge or cut by it; a blurred grass blade glaring in the foreground; nothing deliberately framed. Lettering, where text is needed: a black strip along the bottom holding temperature, moon-phase icon, date and 24-hour time in white blocky bitmap digits; where text is forbidden, the strip shows only a moon-phase icon. Avoid composed wildlife portraits, daylight colour, shallow depth of field, cinematic grading, green night-vision footage, thermal false colour and any maker's logo.",
+ "de": {
+  "name": "Wildkamera-Aufnahme",
+  "aka": [
+   "Fotofallen-Aufnahme",
+   "Kamerafallen-Bild",
+   "Wildkamerabild"
+  ],
+  "era": "seit den 1990er-Jahren mit Infrarotauslösung, weltweit; Fotofallen seit Ende der 1890er-Jahre, USA",
+  "summary": "Nachtaufnahme einer selbsttätig auslösenden Wildkamera: grau im Infrarotlicht, angeschnittenes Tier, verwischte Bewegung, Datenleiste am unteren Rand; im Katalog, weil niemand das Bild gestaltet hat.",
+  "origin": "Die ersten Fotofallen baute der US-amerikanische Fotograf und Kongressabgeordnete George Shiras III (1859–1942) Ende der 1890er-Jahre: Tiere lösten über einen Stolperdraht Kamera und Blitzlicht selbst aus, und im Juli 1906 druckte National Geographic Aufnahmen von ihm als erste Wildtierfotos des Magazins. In den 1920er-Jahren setzte der US-amerikanische Ornithologe Frank M. Chapman Fotofallen mit Stolperdraht auf Barro Colorado Island in Panama erstmals zu rein wissenschaftlichen Zwecken ein; zur selben Zeit fotografierte der britische Forstbeamte Frederick Walter Champion mit solchen Kameras und Blitzlicht in den Siwaliks im Norden Indiens nachts Tiger, Leoparden und Lippenbären. Anfang der 1990er-Jahre wurde die Fotofalle in der Tigerforschung weiterentwickelt, zugleich kamen handelsübliche Kameras mit Infrarotauslöser auf; Jäger, die damit Wild auskundschaften, trieben ihre Entwicklung voran. Heutige Geräte arbeiten digital, lösen über einen Passiv-Infrarot-Sensor aus, der warme, sich bewegende Körper erkennt, leuchten das Bildfeld nachts mit Infrarot-Leuchtdioden aus, bei 940 Nanometern für Menschen und Wildtiere kaum sichtbar, und liefern dann Schwarz-Weiß-Bilder, in die Datum und Uhrzeit eingeblendet sind.",
+  "markers": [
+   "Fester, niedriger Standpunkt etwa in Kniehöhe, die Kamera an Pfahl oder Stamm geschnallt und oft leicht schief",
+   "Infrarotblitz bei Nacht: einfarbig grau, nahe Dinge überstrahlt, dahinter fällt das Bild rasch ins Schwarz ab",
+   "Tier außerhalb der Bildmitte, oft vom Bildrand angeschnitten oder nur zur Hälfte im Bild",
+   "Bewegungsunschärfe an allem, was sich bewegt, dazu grobes Rauschen und JPEG-Blockartefakte",
+   "Weiß leuchtende Augen, wo ein Säugetier wie Fuchs oder Reh in den Infrarotstrahler blickt",
+   "Datenleiste am unteren Rand mit Temperatur, Mondphasen-Symbol, Datum und Uhrzeit in weißer, grober Pixelschrift"
+  ],
+  "escapes": "Ohne Stilangabe setzen Bildgeneratoren ein Tier als gestochen scharfes Porträt in die Bildmitte, mit weichem Gegenlicht, unscharfem Hintergrund und satten Farben. Die Wildkamera löst blind aus: Das Tier steht, wo es gerade ist, oft angeschnitten und verwischt, und das flache Licht der Kamera endet nach wenigen Metern im Schwarz. Gerade dieses Fehlen jeder Bildgestaltung macht das Bild glaubwürdig.",
+  "pitfalls": "Modelle machen aus dem Infrarotbild gern ein grünstichiges Nachtsichtbild wie aus einem Restlichtverstärker oder ein sauberes Schwarz-Weiß-Foto mit voller Schärfe und mittiger Komposition. Die Datenleiste gerät leicht zu einer erfundenen Bedienoberfläche mit Markenlogo, unsinnigen Zeichen oder Werten, die nicht zur Szene passen. Augenreflexe werden übertrieben: Das Modell gibt jedem Tier grell leuchtende Augen, auch Vögeln ohne reflektierende Schicht hinter der Netzhaut oder Tieren, die seitlich zur Kamera stehen.",
+  "tip": "Kamerahöhe und zufälligen Bildausschnitt ausdrücklich angeben, etwa „Kamera in 50 cm Höhe an einen Pfahl geschnallt, Tier vom rechten Bildrand angeschnitten“, und den Inhalt der Datenleiste wörtlich vorschreiben.",
+  "sensitivity": "Wildkameras können auch Menschen erfassen; nach Auffassung der Datenschutzaufsichtsbehörden der Länder ist ihr privater Einsatz in öffentlich zugänglichen Wäldern in Deutschland grundsätzlich unzulässig. Weil der Stil wie ein echter Nachweis wirkt, sollten erzeugte Bilder keine realen Sichtungen, etwa von Wolf oder Luchs, vortäuschen."
+ },
+ "en": {
+  "name": "Trail camera capture",
+  "aka": [
+   "Camera trap image",
+   "Game camera photo",
+   "Trail cam shot"
+  ],
+  "era": "since the 1990s with infrared triggers, worldwide; camera traps since the late 1890s, USA",
+  "summary": "Night frame from an automatically triggered trail camera: grey under infrared light, a cut-off animal, smeared motion, a data strip along the bottom; in the catalog because nobody composed it.",
+  "origin": "The first camera traps were built in the late 1890s by the American photographer and congressman George Shiras III (1859–1942): animals set off camera and flash themselves by tripping a wire, and in July 1906 National Geographic printed pictures by him as the magazine's first wildlife photographs. In the 1920s the American ornithologist Frank M. Chapman made the first purely scientific use of trip-wire camera traps on Barro Colorado Island in Panama; at the same time the British forest officer Frederick Walter Champion used such cameras with flash in the Sivalik Hills of northern India to photograph tigers, leopards and sloth bears at night. In the early 1990s the camera trap was developed further in tiger research, and commercial cameras with infrared triggers appeared at the same time; hunters, who use them to scout for game, drove their development. Today's devices are digital and are triggered by a passive infrared sensor that detects warm moving bodies; at night they light the scene with infrared LEDs, barely visible to people or wildlife at 940 nanometres, and deliver black-and-white pictures stamped with date and time.",
+  "markers": [
+   "Fixed low viewpoint at about knee height, the camera strapped to a post or trunk and often slightly tilted",
+   "Infrared flash at night: monochrome grey, near objects blown out, rapid falloff into black behind",
+   "Animal off-centre, often cut by the frame edge or only half in the picture",
+   "Motion blur on anything that moves, with coarse noise and JPEG blocking",
+   "Eyes glowing white where a mammal such as a fox or deer looks into the infrared lamp",
+   "Data strip along the bottom with temperature, moon-phase icon, date and time in coarse white bitmap type"
+  ],
+  "escapes": "Without a style, image generators place an animal as a pin-sharp portrait in the centre, with soft backlight, a blurred background and rich colour. The trail camera fires blindly: the animal is wherever it happens to be, often cut off and blurred, and the flat light from the camera ends in black after a few metres. This very absence of composition is what makes the picture believable.",
+  "pitfalls": "Models tend to turn the infrared picture into green-tinted night-vision footage like that of an image intensifier, or into a polished black-and-white photo, sharp throughout and centrally composed. The data strip easily becomes an invented user interface with a brand logo, nonsense characters or values that do not fit the scene. Eye-shine gets exaggerated: the model gives every animal glaring eyes, even birds without a reflective layer behind the retina or animals standing side-on to the camera.",
+  "tip": "State the camera height and the accidental framing explicitly, for example 'camera strapped to a post 50 cm above ground, animal cut off by the right frame edge', and dictate the contents of the data strip word for word.",
+  "sensitivity": "Trail cameras can record people too; German state data-protection authorities hold that their private use in publicly accessible forests is generally unlawful. Because the style reads as genuine evidence, generated images should not fake real sightings, for instance of wolves or lynx."
+ },
+ "sources": [
+  {
+   "title": "Camera trap – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/Camera_trap"
+  },
+  {
+   "title": "Wildkamera – Wikipedia (Deutsch)",
+   "url": "https://de.wikipedia.org/wiki/Wildkamera"
+  },
+  {
+   "title": "Camera Traps Emerge as Key Tool in Wildlife Research – Yale Environment 360 (2011)",
+   "url": "https://e360.yale.edu/features/camera_traps_emerge_as_key_tool_in_wildlife_research"
+  },
+  {
+   "title": "Frederick Walter Champion – Wikipedia (English)",
+   "url": "https://en.wikipedia.org/wiki/Frederick_Walter_Champion"
+  }
+ ]
+}

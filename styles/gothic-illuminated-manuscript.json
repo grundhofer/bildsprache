@@ -1,0 +1,68 @@
+{
+ "slug": "gothic-illuminated-manuscript",
+ "style_block": "A Gothic book-of-hours page painted in Paris around 1390. Medium: opaque tempera on cream vellum; raised, burnished gold leaf, slightly cracked; ultramarine, vermilion, green and rose; thin pen contours; cockled vellum, rubbed edges. Composition: framed miniatures on diapered or gold grounds, no sky or depth; slender swaying figures on a narrow ground strip; ivy-leaf bar borders with small drolleries; plain vellum for empty space. Lettering, where text is needed: a clear, widely spaced textura or rotunda hand in black ink, red rubrics, blue-and-gold initials, scroll banners. Information, where a diagram, map or chart is shown: framed scenes or roundels strung on a vine stem in reading order, each led by a gilded numeral; maps as an illuminated sea chart: inked coastline, tiny gabled towns, wavy water, red place names, gilded compass rose. Avoid cinematic light, fantasy parchment, foil-glossy gold, modern serifs, Celtic knotwork, trompe-l'oeil borders and pseudo-script.",
+ "de": {
+  "name": "Gotische Buchmalerei",
+  "aka": [
+   "Buchmalerei der Gotik",
+   "Gotische Illumination",
+   "Stundenbuchmalerei"
+  ],
+  "era": "13.–15. Jh., Westeuropa, Zentrum Paris",
+  "summary": "Deckfarben und poliertes Gold auf Pergament, Teppichgrund statt Raumtiefe, Efeuranken mit Drolerien, Textura: Der Stil bestimmt die ganze Seite, Bild wie Schrift, nicht nur die Oberfläche.",
+  "origin": "Die gotische Buchmalerei setzte in Frankreich um 1200 ein und erreichte England um 1220; seit der Wende zum 13. Jahrhundert traten gewerbliche Werkstätten weltlicher Schreiber und Maler, vor allem in Paris, neben die Klosterskriptorien und lösten sie im 14. Jahrhundert weitgehend ab. Maître Honoré, ab 1288 in Paris nachweisbar, gilt als einer der ersten Hofmaler unter den Buchmalern: Er arbeitete für Philipp den Schönen, seine Werkstatt lag in der heutigen Rue Boutebrie. Jean Pucelle malte um 1324–1328 das nur etwa 9 × 6 cm große Stundenbuch der Jeanne d’Évreux in Grisaille mit farbigen Akzenten und prägte die hochgotische Rahmung aus Blattranken voller Drolerien. Das Stundenbuch, ein Gebetbuch für den privaten Gebrauch, wurde zum meistillustrierten Buchtyp; die Brüder von Limburg arbeiteten von etwa 1410 bis 1416 an den Très Riches Heures für den Herzog von Berry. Auf dem Pergament wurde zuerst der Text geschrieben, meist in Textura; dann wurde Blattgold aufgelegt und in der Regel poliert, zuletzt kamen die Deckfarben.",
+  "markers": [
+   "Erhabenes, poliertes Blattgold, das Licht spiegelt, neben flächigen Deckfarben wie Ultramarin und Zinnoberrot",
+   "Gerahmte Miniaturen vor Gold-, Rauten- oder Schachbrettgrund statt Himmel und Raumtiefe",
+   "Schlanke Figuren in leichtem S-Schwung auf einem schmalen Bodenstreifen",
+   "Randleisten mit Efeuranken und kleinen Drolerien",
+   "Textura in linierten Spalten, mit roten Rubriken und blau-roten oder goldenen Initialen",
+   "Historisierte Initiale: ein großer Anfangsbuchstabe mit einer kleinen Szene darin"
+  ],
+  "escapes": "Der Stil ersetzt den KI-Standard aus zentrierter Hauptfigur, weichem Filmlicht und dunstiger Raumtiefe durch flache Muster- und Goldgründe, gleichmäßiges Licht und schlanke Figuren auf einem schmalen Bodenstreifen. Weil Rahmen, Initialen, Rubriken und Randleisten zur Seite gehören, wird eine Infografik oder Karte als Handschriftenseite gegliedert statt als Kachelraster aus Symbolen.",
+  "pitfalls": "Modelle machen aus der Seite gern ein Pergament wie aus einem Fantasy-Rollenspiel, mit gerissenen Rändern, Siegeln und folienglänzendem Gold, oder rutschen in keltisches Flechtwerk oder in flämische Randleisten mit täuschend echt gemalten Blumen ab. Textura ist schwer lesbar, weil viele Buchstaben aus gleichen senkrechten Schäften bestehen; Beschriftungen werden deshalb oft zu Scheinschrift, und um die verlangten Wörter herum erscheinen Zeilen erfundenen Textes. Außerdem schieben sich ungefragt Heiligenscheine, Engel oder Kreuze ins Bild, weil die Vorbilder meist Andachtsbücher sind.",
+  "tip": "Eine Rotunda oder eine „klare Textura mit weiten Abständen“ verlangen, jede Beschriftung wörtlich nennen und den übrigen Raum ausdrücklich als leeres, unbeschriebenes Pergament beschreiben, damit das Modell ihn nicht mit Scheinschrift füllt.",
+  "sensitivity": "Die meisten Vorbilder sind Andachtsbücher: Heiligenscheine, Kreuze, Heiligenfiguren oder Gebetstexte nicht in weltliche Motive übernehmen."
+ },
+ "en": {
+  "name": "Gothic illuminated manuscript",
+  "aka": [
+   "Gothic manuscript illumination",
+   "Gothic illumination",
+   "Book of Hours style"
+  ],
+  "era": "13th–15th c., Western Europe, centred on Paris",
+  "summary": "Opaque colour and burnished gold on vellum, patterned grounds instead of depth, ivy borders with drolleries, textura: the style shapes the whole page, image and text, not just the surface.",
+  "origin": "Gothic manuscript painting began in France around 1200 and reached England around 1220; from the turn of the 13th century, commercial workshops of lay scribes and painters, above all in Paris, worked alongside the monastic scriptoria and had largely replaced them by the 14th century. Master Honoré, documented in Paris from 1288, is regarded as one of the first court painters among illuminators: he worked for Philip the Fair, and his workshop stood in the street now called Rue Boutebrie. Around 1324–1328 Jean Pucelle painted the Hours of Jeanne d'Évreux, only about 9 × 6 cm in size, in grisaille with touches of colour and shaped the High Gothic frame of leafy borders filled with drolleries. The book of hours, a prayer book for private use, became the most frequently illustrated type of book; the Limbourg brothers worked on the Très Riches Heures for the Duke of Berry from about 1410 to 1416. On the vellum the text was written first, usually in textura; then gold leaf was laid and normally burnished, and the opaque colours came last.",
+  "markers": [
+   "Raised, burnished gold leaf that catches the light, beside flat opaque colours such as ultramarine and vermilion",
+   "Framed miniatures on gold, diapered or chequered grounds instead of sky and depth",
+   "Slender figures in a gentle S-curve standing on a narrow ground strip",
+   "Bar borders with ivy-leaf sprays and small drolleries",
+   "Textura in ruled columns, with red rubrics and blue-and-red or gold initials",
+   "Historiated initial: a large opening letter with a small scene inside"
+  ],
+  "escapes": "The style replaces the AI default of a centred hero figure, soft cinematic light and hazy depth with flat patterned and gold grounds, even light and slender figures on a narrow ground strip. Because frames, initials, rubrics and borders belong to the page, an infographic or map is organised as a manuscript page instead of a tile grid of icons.",
+  "pitfalls": "Models like to turn the page into fantasy-game parchment with torn edges, wax seals and foil-glossy gold, or drift into Celtic knotwork or Flemish borders with trompe-l'oeil flowers. Textura is hard to read because many letters are built from identical upright strokes, so labels often turn into pseudo-script, and lines of invented text appear around the required words. Halos, angels or crosses also creep in uninvited, because the historical examples are mostly devotional books.",
+  "tip": "Ask for a rotunda or a 'clear, widely spaced textura', quote every label word for word and describe the remaining space explicitly as blank, unwritten vellum, so the model does not fill it with pseudo-script.",
+  "sensitivity": "Most surviving examples are devotional books: do not carry halos, crosses, saints or prayer texts over into secular subjects."
+ },
+ "sources": [
+  {
+   "title": "Buchmalerei der Gotik – Wikipedia",
+   "url": "https://de.wikipedia.org/wiki/Buchmalerei_der_Gotik"
+  },
+  {
+   "title": "Illuminated manuscript – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Illuminated_manuscript"
+  },
+  {
+   "title": "Maître Honoré – Wikipédia",
+   "url": "https://fr.wikipedia.org/wiki/Ma%C3%AEtre_Honor%C3%A9"
+  },
+  {
+   "title": "Hours of Jeanne d'Evreux – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hours_of_Jeanne_d%27Evreux"
+  }
+ ]
+}

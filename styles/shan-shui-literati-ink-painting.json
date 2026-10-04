@@ -1,0 +1,68 @@
+{
+ "slug": "shan-shui-literati-ink-painting",
+ "style_block": "A Chinese literati landscape (shan shui) in ink on paper, lower Yangtze, Yuan to early Qing, 14th-17th century. Medium: pointed brush; ink from dry black to pale wash, faint ochre and indigo tints, aged ivory paper; rocks and slopes built from dense, dry texture strokes and dark moss dots; each tree a different brush pattern; houses in fine, wobbly lines; no light source or cast shadow. Composition: no vanishing point, no single focus; near ground, middle ground and high far peaks stacked up the picture, parted by bands of unpainted mist; bare paper for water and sky; wide formats unfold like a handscroll; buildings and figures tiny. Lettering, where text is needed: only the required words, brushed small in one vertical column; otherwise no writing. Avoid smooth digital wash, cinematic light, sun discs, fantasy pillar mountains, sparse Zen sumi-e, added pagodas or robed scholars, inscriptions, pseudo-characters and seal stamps.",
+ "de": {
+  "name": "Shanshui (chinesische Literaten-Landschaftsmalerei)",
+  "aka": [
+   "Shanshui-Malerei",
+   "Berg-Wasser-Malerei",
+   "Literatenmalerei (wenrenhua)"
+  ],
+  "era": "10.–19. Jh., China",
+  "summary": "Berge, Wasser und Nebel in gestaffelten Ebenen aus Tuschstrichen, ohne Fluchtpunkt und mit viel leerem Papier; im Katalog, weil hier der Pinsel den Raum aufbaut, nicht die Kamera.",
+  "origin": "Die Zeit der Fünf Dynastien und der Nördlichen Song-Dynastie (907–1127) gilt als große Epoche der chinesischen Landschaftsmalerei, die als höchste Gattung der chinesischen Malerei angesehen wird; im Norden malten Li Cheng, Fan Kuan und Guo Xi aufragende Gebirge mit kräftigen schwarzen Linien, Tuschlavierungen und spitzen, getupften Strichen für rauen Fels. Guo Xi, der 1072 den „Vorfrühling“ malte, beschrieb in seiner Schrift „Die erhabene Schönheit von Wald und Strom“ drei Arten der Ferne – Höhenferne, Tiefenferne und Weitenferne –, mit denen der Blick durch das Bild wandert, statt an einem festen Standpunkt zu bleiben. Im 11. Jahrhundert verbanden die Gelehrtenbeamten Su Shi (Su Dongpo, 1037–1101) und Mi Fu (1051–1107) Malerei mit Kalligrafie und Dichtung und stellten den inneren Ausdruck über die Naturtreue; darauf gründet die Literatenmalerei (wenrenhua). In der Yuan-Zeit (1271–1368) machten die Vier Meister Huang Gongwang, Wu Zhen, Ni Zan und Wang Meng sie zu einer Kunst des persönlichen Ausdrucks mit einem eigenen Vokabular an Pinselstrichen, und die Maler schrieben Gedichte direkt auf ihre Bilder. In der späten Ming-Zeit stellte Dong Qichang (1555–1636) diese „Südschule“ der freien, kalligrafischen Pinselführung über die „Nordschule“ der feinen Linien und Farben; seine Lehre prägte viele Maler der Qing-Zeit.",
+  "markers": [
+   "Felsen und Hänge aus vielen wiederholten, trockenen Texturstrichen (cun), besetzt mit dunklen Moospunkten",
+   "Vorder-, Mittel- und Hintergrund übereinander gestaffelt und durch Bänder aus unbemaltem Nebel getrennt",
+   "kein Fluchtpunkt: Fernes steht weiter oben im Bild, der Blick wandert durch mehrere Standpunkte",
+   "Tusche in vielen Tonstufen von trockenem Schwarz bis zu blassgrauer Lavierung, höchstens zarte Ocker- und Indigotöne",
+   "winzige Häuser, Brücken und Figuren, klein gegenüber Bergen und Wasser",
+   "im Original oft eine Gedichtaufschrift und rote Siegel von Maler und Sammlern; im Katalog bewusst weggelassen"
+  ],
+  "escapes": "KI-Landschaften folgen standardmäßig einer Kameraansicht: ein Fluchtpunkt, Dunst, der mit der Entfernung zunimmt, Gegenlicht zur goldenen Stunde, eine Sonnenscheibe am Horizont und glatte Farbverläufe am Himmel. Shanshui ersetzt all das durch gestaffelte Ebenen, Streifen leeren Papiers für Nebel und Wasser und Flächen, die Strich für Strich aufgebaut sind; Tiefe entsteht durch Anordnung und Pinselführung, nicht durch Licht und Unschärfe.",
+  "pitfalls": "Modelle weichen die Texturstriche gern zu einer gleichmäßig grauen Lavierung oder wenigen kräftigen Tuschflecken auf und landen so bei japanischer Zen-Tuschmalerei (Sumi-e) oder einem glatten digitalen Tuschfilter. Außerdem ergänzen sie gern Pseudo-Schriftzeichen, rote Siegel, Pagoden, Kraniche und fantastische Felsnadeln und machen aus Dorfhäusern und einer Kapelle chinesische Pavillons. Zu prüfen ist deshalb, ob die Gebäude wie beschrieben bleiben und die Perspektive nicht doch auf einen Fluchtpunkt zuläuft.",
+  "tip": "Die Striche benennen statt der Stimmung: Felsen aus vielen trockenen Texturstrichen mit Moospunkten verlangen und leeres Papier als Nebel zwischen den Ebenen. „Keine Siegel, keine Inschrift“ ausdrücklich in den Prompt zu schreiben, hält rote Stempel und Pseudo-Schriftzeichen meist fern.",
+  "sensitivity": "Wer Chinesisch liest, erkennt Pseudo-Kalligrafie und erfundene Siegel sofort; falsche Siegel ahmen zudem Urheber- und Besitzvermerke nach, deshalb beides weglassen. KI-Bilder nicht als echte chinesische Malerei oder als Werk eines bestimmten Meisters ausgeben."
+ },
+ "en": {
+  "name": "Chinese literati landscape painting (shan shui)",
+  "aka": [
+   "shan shui",
+   "mountain-and-water painting",
+   "literati painting (wenrenhua)"
+  ],
+  "era": "10th–19th c., China",
+  "summary": "Mountains, water and mist stacked in planes of ink strokes, with no vanishing point and much bare paper; included because the brush, not a camera, builds the space.",
+  "origin": "The Five Dynasties and Northern Song period (907–1127) is known as the great age of Chinese landscape painting, which is regarded as the highest genre of Chinese painting; in the north, Li Cheng, Fan Kuan and Guo Xi painted towering mountains with strong black lines, ink wash and sharp, dotted strokes for rough rock. Guo Xi, who painted Early Spring in 1072, described in his treatise The Lofty Message of Forests and Streams three kinds of distance – high, deep and level – that let the eye travel through the picture instead of staying at one fixed point. In the 11th century the scholar-officials Su Shi (Su Dongpo, 1037–1101) and Mi Fu (1051–1107) joined painting with calligraphy and poetry and put inner expression above likeness, laying the ground for literati painting (wenrenhua). Under the Yuan dynasty (1271–1368) the Four Masters Huang Gongwang, Wu Zhen, Ni Zan and Wang Meng made it an art of personal expression with its own vocabulary of brushstrokes, and painters wrote poems directly onto their pictures. In the late Ming, Dong Qichang (1555–1636) ranked this ‘Southern School’ of free, calligraphic brushwork above the ‘Northern School’ of fine lines and colour, and his theory shaped many Qing painters.",
+  "markers": [
+   "rocks and slopes built from many repeated, dry texture strokes (cun), set with dark moss dots",
+   "near, middle and far planes stacked up the picture and separated by bands of unpainted mist",
+   "no vanishing point: distant things sit higher up the picture, the eye moving through several viewpoints",
+   "ink in many tones from dry black to pale grey wash, at most faint ochre and indigo tints",
+   "tiny houses, bridges and figures, small against mountains and water",
+   "in originals often a poem inscription and red seals of painter and collectors; deliberately left out in this catalog"
+  ],
+  "escapes": "AI landscapes default to a camera view: one vanishing point, haze that thickens with distance, golden-hour backlight, a sun disc on the horizon and smooth gradient skies. Shan shui replaces all of this with stacked planes, strips of blank paper for mist and water, and surfaces built stroke by stroke; depth comes from placement and brushwork, not from light and blur.",
+  "pitfalls": "Models tend to soften the texture strokes into an even grey wash or a few bold ink blots, drifting into Japanese Zen ink painting (sumi-e) or a smooth digital ink filter. They also like to add pseudo-Chinese characters, red seals, pagodas, cranes and fantasy rock pillars, and to turn village houses and a chapel into Chinese pavilions. So check that the buildings stay as described and that the perspective has not slipped back to a single vanishing point.",
+  "tip": "Name the strokes rather than the mood: ask for rocks built from many dry texture strokes with moss dots, and for blank paper as mist between the planes. Writing ‘no seals, no inscription’ explicitly into the prompt usually keeps red stamps and pseudo-characters out.",
+  "sensitivity": "Readers of Chinese spot pseudo-calligraphy and invented seals at once, and fake seals imitate marks of authorship and ownership, so leave both out. Do not present AI images as genuine Chinese paintings or as the work of a named master."
+ },
+ "sources": [
+  {
+   "title": "Chinese painting – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chinese_painting"
+  },
+  {
+   "title": "Guo Xi – Wikipedia (deutsch)",
+   "url": "https://de.wikipedia.org/wiki/Guo_Xi"
+  },
+  {
+   "title": "Four Masters of the Yuan dynasty – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Four_Masters_of_the_Yuan_dynasty"
+  },
+  {
+   "title": "Dong Qichang – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dong_Qichang"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "slug": "german-expressionist-film",
+ "style_block": "A frame from a German Expressionist silent film, shot on a painted Berlin studio set, c. 1920. Medium: 35mm orthochromatic nitrate film, normal lens, flat arc-lamp light; frame tinted in one dye: amber, green or steel blue; grain, scratches, dark iris corners. Canvas flats in broad monochrome brushwork; jagged light and shadow painted onto walls and ground. Composition: fixed frontal eye-level camera; shallow stage filled edge to edge by the set, sky painted too; buildings lean, windows rhomboid, doors askew; lanes zigzag to an off-centre vanishing point; figures small, off-centre, pale, dark-eyed, frozen in angular poses. Lettering, where text is needed: brush-painted on the set, jagged, uneven, still legible. Information, where a diagram, map or chart is shown: a painted prop flat, jagged lines, labels in the same hand. Avoid photographic film noir, real cast shadows, fisheye warping, gothic-horror props, monsters, full colour, centred hero framing, added title cards.",
+ "de": {
+  "name": "Expressionistischer Film",
+  "aka": [
+   "Filmexpressionismus",
+   "Caligarismus",
+   "Expressionistischer Stummfilm"
+  ],
+  "era": "etwa 1920–1925, Berlin",
+  "summary": "Stummfilmszenen vor bemalten Kulissen mit schiefen Häusern, aufgemalten Licht- und Schattenkeilen und einfarbiger Virage; im Katalog, weil hier die Kulisse den Bildaufbau bestimmt, nicht ein Filter.",
+  "origin": "Der expressionistische Film entstand nach dem Ersten Weltkrieg vor allem in Berliner Filmateliers und hatte seine Blütezeit von 1920 bis 1925; zuvor hatte ein 1916 erlassenes Einfuhrverbot für ausländische Filme die deutsche Filmproduktion stark wachsen lassen. Als erstes berühmtes Werk der Strömung gilt Robert Wienes „Das Cabinet des Dr. Caligari“, den die Decla-Film unter Erich Pommer von Ende Dezember 1919 bis Ende Januar 1920 in einem Atelier in Berlin-Weißensee drehte und der am 26. Februar 1920 im Berliner Marmorhaus uraufgeführt wurde. Die Filmarchitekten Hermann Warm, Walter Reimann und Walter Röhrig schufen teils gebaute, teils auf Leinwand gemalte Kulissen mit schiefen Häusern, verzogenen Fenstern, nicht rechtwinkligen Türen und engen, gewundenen Gassen, auf die sie Licht und Schatten direkt aufmalten; Pommer gab später an, die bemalten Leinwände vor allem aus Kostengründen gewählt zu haben, und nach dem Film sprach man auch von „Caligarismus“. Die ursprünglichen Zwischentitel zeigten nach dem Vorbild expressionistischer Plakate verformte Buchstaben mit übertriebenen Unterstreichungen und Ausrufezeichen und waren grün, stahlblau oder braun viragiert. Zur Strömung zählen außerdem „Der Golem, wie er in die Welt kam“ (1920, Paul Wegener und Carl Boese), „Nosferatu – Eine Symphonie des Grauens“ (1922, Friedrich Wilhelm Murnau), „Schatten“ (1923, Arthur Robison) und Karl Grunes „Die Straße“ (1923), mit dem der Straßenfilm begann; Mitte der 1920er-Jahre war der Stil weitgehend vorüber, doch über Filmschaffende, die vor allem nach 1933 nach Hollywood gingen, wirkte seine Bildsprache im Horrorfilm und im Film noir fort.",
+  "markers": [
+   "Kulissen aus bemalter Leinwand: schiefe, spitzgiebelige Häuser, rautenförmige Fenster, nicht rechtwinklige Türen",
+   "Licht- und Schattenflächen direkt auf Wände und Boden gemalt, als gezackte Keile und Streifen",
+   "Gassen, die im Zickzack steil auf einen Fluchtpunkt zulaufen, in übersteigerter, widersprüchlicher Perspektive",
+   "starre, frontale Kamera auf Augenhöhe wie vor einer flachen Bühne; Figuren von hohen, schiefen Kulissen überragt, bleich geschminkt mit dunkel umrandeten Augen, in eckigen, erstarrten Haltungen",
+   "Bild einfarbig viragiert, etwa bernsteingelb, grün oder stahlblau, mit Korn, Kratzern und abgedunkelten Bildecken",
+   "zackige, kantige, ungleich große Buchstaben, mit dem Pinsel auf die Kulisse gemalt oder auf Zwischentiteln"
+  ],
+  "escapes": "Bei Wörtern wie „Stummfilm“ oder „expressionistisch“ liefern Bildgeneratoren meist ein realistisches Schwarzweißfoto mit weichem Licht, glattem Digitalgrau und mittig gesetzter Hauptfigur, oder sie legen einen Verzerrungsfilter über ein sonst gewöhnliches Foto. Im expressionistischen Film entsteht das Bild aus der gemalten Kulisse: Die Schatten kommen nicht von Lampen, sondern sind mit dem Pinsel aufgetragen, und die schiefe Perspektive ist in die Dekoration selbst hineingemalt. Die starre, frontale Kamera und die einfarbige Virage ersetzen die dramatische Untersicht auf eine Heldenfigur und die blaugrün-orange Farbkorrektur.",
+  "pitfalls": "Ohne ausdrücklichen Hinweis auf bemalte Leinwand rutscht das Bild in allgemeinen Gruselkitsch mit Burgen, Fledermäusen, Spinnweben und Vampirschatten auf der Treppe oder in den Film noir mit realistischer Architektur und echten Schlagschatten. Die Verzerrung gerät oft zur glatten Computerverformung wie durch ein Fischaugenobjektiv, statt nach gemalter Dekoration auszusehen, und die Schminke wird zur Zombie- oder Clownsmaske. Prüfen, ob Hausnummern und andere Texte trotz zackiger Schrift lesbar bleiben, keine zusätzlichen Zwischentitel oder Frakturwörter auftauchen und das Bild nur einen einzigen Farbton hat.",
+  "tip": "„Gemalte Leinwandkulisse“ und „Licht und Schatten aufgemalt“ ausdrücklich schreiben und ein oder zwei konkrete Verzerrungen benennen, etwa eine im Zickzack ansteigende Gasse und rautenförmige Fenster, statt nur „verzerrt“ zu verlangen.",
+  "sensitivity": ""
+ },
+ "en": {
+  "name": "German Expressionist film",
+  "aka": [
+   "German Expressionist cinema",
+   "Caligarism",
+   "Expressionist silent film"
+  ],
+  "era": "c. 1920–1925, Berlin",
+  "summary": "Silent-film frames on painted sets with leaning houses, painted wedges of light and shadow and a single-colour tint; in the catalog because the set, not a filter, shapes the image.",
+  "origin": "German Expressionist film emerged after the First World War, mainly in Berlin studios, and flourished from 1920 to 1925; a ban on foreign films imposed in 1916 had already made German film production grow sharply. Its first famous work is taken to be Robert Wiene’s The Cabinet of Dr. Caligari, shot for Decla-Film under Erich Pommer from late December 1919 to late January 1920 at a studio in Berlin-Weißensee and premiered on 26 February 1920 at the Marmorhaus in Berlin. The designers Hermann Warm, Walter Reimann and Walter Röhrig created partly built, partly canvas-painted sets with leaning houses, distorted windows, doors that are not square and narrow winding streets, and painted light and shadow directly onto walls and floors; Pommer later said he chose painted canvases mainly to save money, and the film gave rise to the term “Caligarism”. The original title cards showed misshapen lettering with excessive underlining and exclamation marks, modelled on Expressionist posters, and were tinted green, steel blue or brown. Other films of the movement include The Golem: How He Came into the World (1920, Paul Wegener and Carl Boese), Nosferatu (1922, F. W. Murnau), Schatten (Warning Shadows, 1923, Arthur Robison) and Karl Grune’s Die Straße (The Street, 1923), which started the “street film”; the style had largely run its course by the mid-1920s, but through filmmakers who went to Hollywood, especially after 1933, its visual language lived on in horror films and film noir.",
+  "markers": [
+   "sets of painted canvas: leaning houses with pointed gables, rhomboid windows, doors that are not square",
+   "areas of light and shadow painted directly onto walls and floor, as jagged wedges and streaks",
+   "lanes that zigzag steeply towards a vanishing point, in exaggerated, contradictory perspective",
+   "fixed, frontal camera at eye level as before a shallow stage; figures dwarfed by tall, leaning sets, pale makeup with dark-rimmed eyes, in angular, frozen poses",
+   "frame tinted in a single colour, such as amber, green or steel blue, with grain, scratches and darkened corners",
+   "jagged, angular letters of uneven size, brush-painted onto the set or on title cards"
+  ],
+  "escapes": "For words like “silent film” or “expressionist”, image generators usually produce a realistic black-and-white photo with soft light, smooth digital grey and a centred main figure, or lay a distortion filter over an otherwise ordinary photo. In German Expressionist film the image comes from the painted set: the shadows do not come from lamps but are applied with a brush, and the slanted perspective is painted into the set itself. The fixed, frontal camera and the single-colour tint replace the dramatic low angle on a hero and the teal-and-orange grade.",
+  "pitfalls": "Without an explicit mention of painted canvas the image slides into generic horror kitsch with castles, bats, cobwebs and vampire shadows on the stairs, or into film noir with realistic architecture and real cast shadows. The distortion often turns into smooth computer warping, as if through a fisheye lens, instead of looking like a painted set, and the makeup becomes a zombie or clown mask. Check that house numbers and other text stay legible despite the jagged lettering, that no extra title cards or blackletter words appear and that the frame has only one tint.",
+  "tip": "Write “painted canvas set” and “light and shadow painted on” explicitly and name one or two concrete distortions, such as a lane that zigzags uphill and rhomboid windows, instead of just asking for “distorted”.",
+  "sensitivity": ""
+ },
+ "sources": [
+  {
+   "title": "The Cabinet of Dr. Caligari – Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/The_Cabinet_of_Dr._Caligari"
+  },
+  {
+   "title": "Expressionismus (Film) – Wikipedia (de)",
+   "url": "https://de.wikipedia.org/wiki/Expressionismus_(Film)"
+  },
+  {
+   "title": "German expressionist cinema – Wikipedia (en)",
+   "url": "https://en.wikipedia.org/wiki/German_expressionist_cinema"
+  },
+  {
+   "title": "Die Straße (1923) – Wikipedia (de)",
+   "url": "https://de.wikipedia.org/wiki/Die_Stra%C3%9Fe_(1923)"
+  }
+ ]
+}

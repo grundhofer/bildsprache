@@ -1,0 +1,68 @@
+{
+ "slug": "ukiyo-e-woodblock-print",
+ "style_block": "A Japanese colour woodblock print (nishiki-e) from Edo, c. 1765-1868, hand-printed from cherry-wood blocks. Medium: mulberry paper, water-based pigments; thin, even black keyblock outlines; flat unshaded colour fields showing woodgrain; bokashi gradients fading to bare paper; Prussian blue, indigo, muted vermilion, ochre, sage green; slight registration shifts. Composition: high viewpoint, subject off-centre, strong diagonals, depth from overlapping flat planes, foreground cut by the frame edge, mist bands between near and far, faces drawn with few lines, no cast shadows, water as rhythmic lines. Lettering, where text is needed: brushed, tapered letters cut into the keyblock, in a narrow upright cartouche beside a small red seal; without text, no cartouche or seal. Avoid glossy 3D rendering, anime cel shading, centred hero framing, heavy-black European woodcut and shin-hanga lighting; keep buildings, clothing and landscape as described, no added volcanic cone, giant curling wave, red sun disc, cherry blossom or pseudo-Japanese characters.",
+ "de": {
+  "name": "Ukiyo-e (japanischer Farbholzschnitt)",
+  "aka": [
+   "Japanischer Farbholzschnitt",
+   "Nishiki-e (Brokatbild)",
+   "Mokuhanga"
+  ],
+  "era": "1670er Jahre bis 1868, Edo (heute Tokio), Japan",
+  "summary": "Unschattierte Farbflächen in dünnen schwarzen Konturen, abgestufte Himmel und angeschnittene Ansichten aus erhöhtem Blickpunkt; im Katalog, weil sich hier nicht nur die Oberfläche, sondern der ganze Bildaufbau vom KI-Standard unterscheidet.",
+  "origin": "Ukiyo-e, „Bilder der fließenden Welt“, entstanden in den 1670er Jahren in Edo, dem heutigen Tokio, als Hishikawa Moronobu einfarbige Holzschnitte schöner Frauen entwarf. 1765 setzte sich mit Suzuki Harunobu der Vielfarbendruck von zahlreichen Platten durch, Nishiki-e („Brokatbilder“) genannt. Jedes Blatt entstand in Arbeitsteilung: Ein Verleger finanzierte und steuerte es, ein Zeichner entwarf es, ein Holzschneider schnitt Kontur- und Farbplatten mit Passermarken (Kentō), und ein Drucker trug wasserlösliche Farben auf die Platten auf und rieb das aufgelegte Papier mit einem Reiber (Baren) ab. Im 19. Jahrhundert machten Katsushika Hokusai und Utagawa Hiroshige die Landschaft zu einer Hauptgattung; um 1830 setzte sich das in Europa entwickelte Berliner Blau durch. Nach der Meiji-Restauration 1868 ging das Gewerbe zurück, während die Blätter ab den 1870er Jahren den Japonismus in Europa prägten.",
+  "markers": [
+   "Dünne schwarze Linien der Konturplatte in gleichmäßiger Stärke",
+   "Flache, unschattierte Farbflächen mit sichtbarer Holzmaserung",
+   "Bokashi: gedruckte Farbabstufungen, oft ein blauer Streifen am oberen Himmelsrand",
+   "Hoher Blickpunkt, Hauptmotiv außerhalb der Mitte, vom Bildrand angeschnittener Vordergrund",
+   "Wasser, Regen und Wellen als rhythmische Linienmuster",
+   "Schmale, senkrechte Titelkartusche und kleine rote Siegel"
+  ],
+  "escapes": "Der Stil ersetzt das weiche Volumenlicht und die Hintergrundunschärfe des KI-Standards durch flache Farbe und Linie; glänzende Haut und Kantenlicht entfallen. Hoher Blickpunkt und harte Anschnitte lösen die mittige Inszenierung der Hauptfigur auf, und gedruckte Farbstufen ersetzen den üblichen Abendrot-Farbverlauf.",
+  "pitfalls": "Modelle greifen zu Touristenklischees: Vulkankegel, riesige Brandungswelle, Kirschblüten, rote Sonnenscheibe und japanische Häuser tauchen auch in europäischen Szenen auf, und Kartuschen füllen sich mit erfundenen, japanisch aussehenden Schriftzeichen. Die Farben geraten oft zu gesättigt und zu sauber, ohne Holzmaserung, Papierstruktur und Passerungenauigkeiten, sodass das Bild wie Vektorgrafik oder Anime wirkt. Gesichter bekommen leicht westliche Schattierung oder Anime-Augen.",
+  "tip": "Den Druckvorgang benennen (Konturplatte, Farbplatten, Bokashi, Japanpapier), statt nur „Ukiyo-e-Stil“ zu schreiben, und ausdrücklich festhalten, dass Gebäude und Kleidung so bleiben, wie das Motiv sie beschreibt.",
+  "sensitivity": "Namen berühmter Meister oder einzelner Blätter im Prompt führen zu Beinahe-Kopien bekannter Werke. Japanische Klischees wie Geishas, Tempel oder der Fuji gehören nicht als Dekor in Szenen, die nicht in Japan spielen."
+ },
+ "en": {
+  "name": "Ukiyo-e woodblock print",
+  "aka": [
+   "Japanese colour woodblock print",
+   "nishiki-e (brocade picture)",
+   "moku-hanga"
+  ],
+  "era": "1670s to 1868, Edo (now Tokyo), Japan",
+  "summary": "Flat colour fields in thin black outlines, graded skies and cropped high-angle views; in the catalog because not only the surface but the whole composition departs from the AI default.",
+  "origin": "Ukiyo-e, 'pictures of the floating world', emerged in Edo (now Tokyo) in the 1670s, when Hishikawa Moronobu designed monochrome prints of beautiful women. In 1765 full-colour printing from many blocks, called nishiki-e ('brocade pictures'), became established with Suzuki Harunobu. Each sheet was the product of a division of labour: a publisher financed and directed it, a designer drew it, a carver cut a keyblock and colour blocks with registration marks (kentō), and a printer brushed water-based pigments onto the blocks and rubbed the back of the sheet with a baren. In the 19th century Katsushika Hokusai and Utagawa Hiroshige made landscape a major genre, and around 1830 Prussian blue, a pigment developed in Europe, became established. After the Meiji Restoration of 1868 the trade declined, while the prints shaped European Japonisme from the 1870s.",
+  "markers": [
+   "Thin black keyblock outlines of even weight",
+   "Flat, unshaded colour fields with visible woodgrain",
+   "Bokashi: printed colour gradations, often a blue band along the top of the sky",
+   "High viewpoint, main subject off-centre, foreground cropped by the frame edge",
+   "Water, rain and waves as rhythmic line patterns",
+   "Narrow upright title cartouche and small red seals"
+  ],
+  "escapes": "The style replaces the AI default's soft volumetric light and background blur with flat colour and line, so glossy skin and rim lighting disappear. A high viewpoint and hard cropping break up centred hero framing, and printed colour gradations take the place of the usual sunset gradient.",
+  "pitfalls": "Models reach for tourist clichés: a volcanic cone, a giant breaking wave, cherry blossom, a red sun disc and Japanese houses turn up even in European scenes, and cartouches fill with invented pseudo-Japanese glyphs. Colours often come out too saturated and too clean, without woodgrain, paper texture or misregistration, so the image reads as vector illustration or anime. Faces easily pick up Western shading or anime eyes.",
+  "tip": "Name the printing process (keyblock, colour blocks, bokashi, mulberry paper) instead of writing only 'ukiyo-e style', and state explicitly that buildings and clothing stay as the motif describes them.",
+  "sensitivity": "Naming famous masters or individual prints in the prompt produces near-copies of well-known works. Japanese clichés such as geishas, temples or Mount Fuji should not be added as decoration to scenes that are not set in Japan."
+ },
+ "sources": [
+  {
+   "title": "Ukiyo-e – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ukiyo-e"
+  },
+  {
+   "title": "Japanese woodblock prints (ukiyo-e) – Victoria and Albert Museum",
+   "url": "https://www.vam.ac.uk/articles/japanese-woodblock-prints-ukiyo-e"
+  },
+  {
+   "title": "Woodblock printing in Japan – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Woodblock_printing_in_Japan"
+  },
+  {
+   "title": "Thirty-six Views of Mount Fuji – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thirty-six_Views_of_Mount_Fuji"
+  }
+ ]
+}

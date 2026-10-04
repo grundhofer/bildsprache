@@ -1,0 +1,68 @@
+{
+ "slug": "art-deco-poster",
+ "style_block": "A Paris colour-lithograph advertising poster of 1925-1940, built with ruler, compass and airbrush. Medium: matte black, deep blue, vermilion and ochre inks on cream paper; airbrushed gradients with spray grain inside hard masked edges; no brushwork or fine detail. Composition: a geometric construction, not a view: one form enormous, from steeply below or dead-on, cropped by the edge; all else small flat signs before an empty gradient field; depth only from that scale jump: no receding layers, haze or cast shadows. Forms: cones, cylinders, wedges, arcs, each split into lit and shaded facets; water as ruled bands, slopes stepped wedges, trees cones, houses white cubes. Lettering, where text is needed: hand-drawn bold geometric monoline capitals in a solid band. Information, where a diagram, map or chart is shown: routes as one ruled line, stops as dots. Avoid detailed foliage, rocks, reflections, glossy retro travel-poster vectors, sunbursts and gold filigree.",
+ "de": {
+  "name": "Art-déco-Plakat",
+  "aka": [
+   "Art-déco-Reiseplakat",
+   "Plakat des Style moderne",
+   "Französische Plakatkunst der Zwischenkriegszeit"
+  ],
+  "era": "um 1925–1940, Frankreich und Europa",
+  "summary": "Farblithografie mit gespritzten Verläufen, einem aus extremem Blickwinkel gezeigten, in Flächen zerlegten Hauptmotiv und gezeichneten Versalien im Schriftband; im Katalog, weil Perspektive und Schrift gemeinsam konstruiert sind.",
+  "origin": "Bekannt wurde der Stil durch die Pariser „Exposition internationale des Arts décoratifs et industriels modernes“ von 1925: Charles Loupot gehörte zu ihren offiziellen Plakatkünstlern, und A. M. Cassandre (eigentlich Adolphe Mouron, 1901–1968) erhielt für sein Plakat „Bûcheron“ (1923) für eine Möbelfirma den ersten Preis. Cassandre und Loupot brachen mit dem Jugendstilplakat; zusammen mit Paul Colin und Jean Carlu nannte die Kritik sie die „Musketiere“ einer neuen Plakatkunst. Statt malerischer Ansichten zeigten Cassandres Eisenbahnplakate „Étoile du Nord“ und „Nord Express“ (beide 1927) den Zug und die Schienen selbst als Bild für Tempo und Ferne. Anfang der 1930er-Jahre gründeten Cassandre und Loupot die Werbeagentur Alliance Graphique; Cassandres Farblithografie für das Passagierschiff „Normandie“ (1935) zeigt den Bug streng frontal und riesenhaft aufragend. Cassandre arbeitete früh mit der Spritzpistole (Airbrush) und entwarf für die französische Schriftgießerei Deberny & Peignot Schriften wie Bifur (1929) und Peignot (1937).",
+  "markers": [
+   "Ein einziges monumentales Hauptmotiv aus steiler Untersicht oder streng frontal, vom Blattrand angeschnitten",
+   "Fluchtlinien, Strahlen und Zirkelbögen, die das Bild wie mit Lineal und Zirkel konstruiert wirken lassen",
+   "Glatte, gespritzte Farbverläufe auf scharf abgedeckten, facettierten Flächen, mit feinem Sprühkorn",
+   "Wenige matte Druckfarben wie Schwarz, tiefes Blau, Zinnoberrot, Grau und Ocker, oft vor einer großen einfarbigen Fläche",
+   "Gezeichnete, kräftige geometrische Grotesk-Versalien in gleichmäßiger Strichstärke, hoch oder weit gesperrt, in einem Schriftband",
+   "Winzige Figuren oder Details als Maßstab, die das Hauptmotiv noch größer erscheinen lassen"
+  ],
+  "escapes": "Ohne Stilangabe baut das Modell ein Plakat aus einer mittig gesetzten, weich gemalten Szene mit leuchtender Sonnenscheibe am Horizont und stapelt den Text in einer beliebigen Schrift darüber und darunter; eine Landschaft wird zum detailreichen Panorama im warmen Abendlicht. Das Art-déco-Plakat vergrößert stattdessen ein einziges Element aus extremem Blickwinkel ins Riesenhafte, zerlegt den Rest in wenige Flächen mit gespritzten Verläufen und zeichnet die Schrift als Teil derselben Konstruktion.",
+  "pitfalls": "Das Stichwort „Art déco“ ruft oft schwarz-goldene Ornamente mit Fächern, Strahlenkränzen und Zierrahmen wie auf einer Partyeinladung hervor oder führt zu heutigen Vektorgrafiken im Stil eines Retro-Reiseplakats mit glatten Verläufen ohne Sprühkorn. Bei gezeichneter Schrift misslingen leicht einzelne Buchstaben, Abstände und Sonderzeichen wie das Et-Zeichen oder der Halbgeviertstrich im Datum, und das Modell erfindet gern Druckvermerke, Firmenzeichen oder Liniennamen am unteren Rand. Zu prüfen ist auch, ob das Hauptmotiv wirklich angeschnitten und aus steilem Winkel gezeigt wird, statt brav in der Bildmitte zu stehen. Bei Landschaften fällt das Modell leicht auf ein naturalistisches Panorama mit Laub, Felsen, Spiegelungen und Abendlicht zurück und legt nur Sprühkorn darüber; im Stil entsteht Tiefe allein aus dem Größensprung zwischen dem riesigen Hauptmotiv und winzigen, flachen Zeichen.",
+  "tip": "Blickwinkel und Anschnitt ausdrücklich vorgeben, etwa „aus steiler Untersicht, vom oberen Blattrand angeschnitten“, und die Zahl der Druckfarben nennen; sonst stellt das Modell das Motiv in die Mitte und überzieht alles mit glänzenden Verläufen. Landschaftselemente als geometrische Zeichen benennen, etwa Wasser als linierte Bänder und Bäume als Kegel.",
+  "sensitivity": "Namen realer Reedereien, Bahngesellschaften und Getränkemarken aus den Vorbildern sowie Schriftnamen wie Peignot können noch als Marken geschützt sein und gehören weder in den Prompt noch ins Bild. Jazz- und Revueplakate der 1920er-Jahre stellten schwarze Musiker und Tänzerinnen oft als überzeichnete, exotisierende Figuren dar; diese Darstellungsweise sollte nicht übernommen werden."
+ },
+ "en": {
+  "name": "Art Deco Poster",
+  "aka": [
+   "Art Deco travel poster",
+   "Style moderne poster",
+   "French interwar poster"
+  ],
+  "era": "c. 1925–1940, France and Europe",
+  "summary": "Colour lithograph with airbrushed gradients, one subject broken into planes from an extreme angle, and drawn capitals in a band; in the catalog because perspective and lettering share one construction.",
+  "origin": "The style became known through the 1925 Exposition internationale des Arts décoratifs et industriels modernes in Paris: Charles Loupot was one of its official poster artists, and A. M. Cassandre (Adolphe Mouron, 1901–1968) won first prize with his poster 'Bûcheron' (1923) for a furniture firm. Cassandre and Loupot broke with the Art Nouveau poster; together with Paul Colin and Jean Carlu, critics called them the 'Musketeers' of a new poster art. Instead of picturesque views, Cassandre's railway posters 'Étoile du Nord' and 'Nord Express' (both 1927) showed the train and the tracks themselves as an image of speed and distance. In the early 1930s Cassandre and Loupot founded the advertising agency Alliance Graphique; Cassandre's colour lithograph for the passenger liner Normandie (1935) shows the bow dead-on, looming to a gigantic scale. Cassandre was an early user of the airbrush and designed typefaces such as Bifur (1929) and Peignot (1937) for the French type foundry Deberny & Peignot.",
+  "markers": [
+   "A single monumental main subject seen from a steep low angle or dead-on, cropped by the edge of the sheet",
+   "Converging lines, rays and compass arcs that make the image look constructed with ruler and compass",
+   "Smooth airbrushed gradients on sharply masked, faceted planes, with fine spray grain",
+   "A few matt inks such as black, deep blue, vermilion, grey and ochre, often against a large single-colour field",
+   "Hand-drawn bold geometric sans-serif capitals of even stroke weight, tall or widely spaced, set in a band",
+   "Tiny figures or details that give scale and make the main subject look even bigger"
+  ],
+  "escapes": "Without a style, the model builds a poster from a centred, softly painted scene with a glowing sun disc on the horizon and stacks the text above and below it in an arbitrary typeface; a landscape becomes a detailed panorama in warm evening light. The Art Deco poster instead blows up a single element from an extreme angle, reduces the rest to a few planes with airbrushed gradients and draws the lettering as part of the same construction.",
+  "pitfalls": "The term 'Art Deco' often calls up black-and-gold ornament with fans, sunbursts and decorative frames like a party invitation, or leads to present-day vector art in the manner of a retro travel poster with smooth gradients and no spray grain. In drawn lettering, single letters, spacing and special characters such as the ampersand or the en dash in the date easily go wrong, and the model likes to invent printer's imprints, company marks or line names along the bottom edge. Also check that the main subject is really cropped and seen from a steep angle instead of sitting politely in the middle. In landscapes the model easily falls back to a naturalistic panorama with foliage, rocks, reflections and evening light and only adds spray grain on top; in this style depth comes solely from the jump in scale between the huge main subject and tiny flat signs.",
+  "tip": "State the viewpoint and the crop explicitly, for example 'seen from far below, cut off by the top edge', and give the number of inks; otherwise the model centres the subject and covers everything in glossy gradients. Name landscape elements as geometric signs, such as water as ruled bands and trees as cones.",
+  "sensitivity": "Names of real shipping lines, railway companies and drinks brands from the historical examples, and typeface names such as Peignot, may still be protected trademarks and belong neither in the prompt nor in the image. Jazz and revue posters of the 1920s often showed Black musicians and dancers as exaggerated, exoticising figures; this way of depicting people should not be carried over."
+ },
+ "sources": [
+  {
+   "title": "Cassandre (artist) – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cassandre_(artist)"
+  },
+  {
+   "title": "Charles Loupot – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Charles_Loupot"
+  },
+  {
+   "title": "Étoile du Nord, poster by Cassandre, 1927 – Victoria and Albert Museum",
+   "url": "https://collections.vam.ac.uk/item/O74368/etoile-du-nord-poster-cassandre/"
+  },
+  {
+   "title": "Normandie, poster by Cassandre, 1935 – Victoria and Albert Museum",
+   "url": "https://collections.vam.ac.uk/item/O1405126/normandie-poster-cassandre/"
+  }
+ ]
+}

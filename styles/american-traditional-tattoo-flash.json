@@ -1,0 +1,70 @@
+{
+ "slug": "american-traditional-tattoo-flash",
+ "style_block": "A hand-painted American tattoo flash sheet from a navy-port shop, 1920s to 1950s. Medium: ink and watercolour on paper; thick, even black outlines closing every shape; flat, streaky red, yellow, green, a little blue; black shading fading out in coarse dots; bare-paper highlights; yellowed, tack-holed sheet. Composition: separate designs, not one picture: the main element as one large design, the others smaller, packed irregularly around it, no even grid; closed silhouettes, some boxed in round, heart or shield frames; bare paper between, no scenery or horizon. Lettering, where text is needed: heavy hand-lettered capitals in curling ribbon banners with forked ends, main words across the largest design, lesser words in smaller banners. Information, where a diagram, map or chart is shown: each item a small design with its own banner. Avoid tattooed skin, vector stickers, gradients, sunset glow, neo-traditional detail, rum-label or T-shirt graphics, prices, signatures, shop names.",
+ "de": {
+  "name": "Old-School-Tattoovorlage",
+  "aka": [
+   "American Traditional",
+   "Old-School-Flash",
+   "Traditional",
+   "Seemannstätowierung"
+  ],
+  "era": "etwa 1900–1960, USA, vor allem Hafen- und Marinestädte",
+  "summary": "Handgemalter Vorlagenbogen aus der Tätowierstube mit dicken schwarzen Konturen, wenigen flächigen Farben und Schriftbändern; im Katalog, weil er ein Motiv in einzelne, auf Abstand lesbare Abzeichen zerlegt.",
+  "origin": "Der Name „Flash“ stammt aus dem reisenden Jahrmarkt- und Zirkusgewerbe des späten 19. Jahrhunderts, in dem Tätowierer ihre Entwürfe als Blickfang vor ihren Buden aufhängten. Nachdem in den 1890er Jahren elektrische Tätowiermaschinen aufgekommen waren, arbeiteten mehr von ihnen hauptberuflich in festen Läden; um die Nachfrage vor allem nach Seemannstätowierungen zu bedienen, kauften und verkauften sie Sätze vorgezeichneter Motive auf großen Papierbögen, die gerahmt an der Wand hingen. Lew Alberts (1880–1954) zeichnete und verkaufte viele solcher Bögen, und Milton Zeis (1901–1972) vertrieb, unter anderem in den 1940er und 1950er Jahren, Tausende Vorlagen über seinen Versandhandel für Tätowierbedarf. August „Cap“ Coleman (um 1884–1973), der sich 1918 in der Marinestadt Norfolk (Virginia) niederließ, machte die Motive mit kräftigen schwarzen Konturen und schwarzer Schattierung besser lesbar und haltbarer; 1936 erwarb das Mariners’ Museum in Newport News Tätowiermaschinen, Nadeln, Farben und Schablonen aus seinem Laden und gab bei ihm zwei große, mit Feder, Tusche und Aquarellfarbe gemalte Vorlagenblätter in Auftrag. Viele Motive wie Adler, US-Flaggen und Pin-up-Girls gehen auf Tätowierungen zurück, die im Zweiten Weltkrieg unter US-Soldaten beliebt waren; in Honolulu überarbeitete Norman Keith Collins (1911–1973), genannt Sailor Jerry, Vorlagen der 1920er und 1930er Jahre mit Anregungen aus der japanischen Tätowierkunst und entwickelte eigene Pigmente.",
+  "markers": [
+   "Dicke schwarze Konturen gleichmäßiger Stärke, die jede Form schließen",
+   "Wenige flächige Farben – Rot, Gelb, Grün, etwas Blau – ohne Verläufe",
+   "Schwarze Schattierung, die in groben Punkten ausläuft; Glanzlichter bleiben papierweiß",
+   "Kompakte, abzeichenhafte Entwürfe mit geschlossenem Umriss, frei auf dem Papier ohne Hintergrund",
+   "Schriftbänder (Banderolen) mit gegabelten Enden, darin Namen oder Sprüche in kräftigen, von Hand gezeichneten Großbuchstaben",
+   "Mehrere einzelne Entwürfe verschiedener Größe auf einem vergilbten, aquarellierten Papierbogen"
+  ],
+  "escapes": "Ohne Stilangabe malt das Modell ein Plakat als weich ausgeleuchtete Szene mit Sonnenscheibe über dem Horizont, Raumtiefe und Farbverläufen und legt den Text in beliebiger Schrift darüber. Die Tattoovorlage kennt weder Landschaft noch Lichtstimmung: Sie zerlegt das Motiv in einzelne umrandete Entwürfe auf blankem Papier, stellt den wichtigsten groß heraus und schreibt die Wörter in Schriftbänder, statt Schrift über ein Bild zu legen. Wenige flächige Farben und schwarze Schattierung ersetzen die glatten Verläufe und das Kantenlicht der üblichen KI-Bilder.",
+  "pitfalls": "Das Stichwort „Tattoo“ führt leicht zu einem Foto tätowierter Haut, etwa eines Unterarms, oder zu Neo Traditional mit vielen Farben, Verläufen, Schmucksteinen und feinen Details. Außerdem reiht das Modell die Entwürfe gern in einem gleichmäßigen Raster auf wie auf einem Aufkleberbogen, füllt Lücken mit Schwalben, Rosen, Dolchen und Totenköpfen aus dem bekannten Motivvorrat, erfindet Sprüche, Preise oder Signaturen oder ahmt heutige Rumetiketten und Bekleidungsaufdrucke nach. Zu prüfen ist, ob der Text in den Schriftbändern genau stimmt und die Konturen dick genug bleiben, um auf Abstand lesbar zu sein.",
+  "tip": "Ausdrücklich „ein gemalter Vorlagenbogen auf vergilbtem Papier, keine Tätowierung auf Haut“ verlangen, das Element für den großen Hauptentwurf benennen und angeben, welche Wörter in welches Schriftband gehören.",
+  "sensitivity": "Ältere Vorlagenbögen enthalten teils herabsetzende ethnische Klischeebilder und sexualisierte Pin-ups; solche Darstellungen nicht übernehmen. Name und Entwürfe von Sailor Jerry werden heute als Marke für Rum und Bekleidung genutzt und gehören weder in den Prompt noch ins Bild."
+ },
+ "en": {
+  "name": "American traditional tattoo flash",
+  "aka": [
+   "Old school tattoo",
+   "Traditional flash",
+   "Sailor tattoo",
+   "Flash sheet"
+  ],
+  "era": "c. 1900–1960, USA, especially port and navy towns",
+  "summary": "Hand-painted tattoo-shop design sheet with thick black outlines, few flat colours and ribbon banners; in the catalog because it splits a subject into separate badges readable at a distance.",
+  "origin": "The name 'flash' comes from the travelling carnival and circus trade of the late 19th century, where tattooists hung their designs in front of their booths to catch the eye. After electric tattoo machines arrived in the 1890s, more of them worked full-time from permanent shops; to meet demand, above all for sailor tattoos, they bought and sold sets of pre-drawn designs on large sheets of paper that were framed and hung on the wall. Lew Alberts (1880–1954) drew and sold many such sheets, and Milton Zeis (1901–1972) sold thousands of designs through his mail-order tattoo supply business, including in the 1940s and 1950s. August 'Cap' Coleman (c. 1884–1973), who settled in the navy town of Norfolk, Virginia, in 1918, made designs more legible and durable with strong black outlines and black shading; in 1936 the Mariners' Museum in Newport News acquired tattoo machines, needles, inks and stencils from his shop and commissioned two large pen, ink and watercolour sheets of designs from him. Many motifs, such as eagles, American flags and pin-up girls, derive from tattoos popular among US servicemen in the Second World War; in Honolulu, Norman Keith Collins (1911–1973), known as Sailor Jerry, reworked designs of the 1920s and 1930s with influences from Japanese tattooing and developed his own pigments.",
+  "markers": [
+   "Thick black outlines of even weight that close every shape",
+   "A few flat colours – red, yellow, green, some blue – with no gradients",
+   "Black shading that fades out in coarse dots; highlights left as bare paper",
+   "Compact, badge-like designs with a closed silhouette, standing free on the paper with no background",
+   "Ribbon banners with forked ends carrying names or mottos in heavy hand-drawn capitals",
+   "Several separate designs of different sizes on one yellowed, watercoloured paper sheet"
+  ],
+  "escapes": "Without a style, the model paints a poster as a softly lit scene with a sun disc over the horizon, depth and colour gradients, and lays the text over it in an arbitrary typeface. Tattoo flash has neither landscape nor lighting mood: it splits the subject into separate outlined designs on bare paper, sets the most important one large and writes the words into ribbon banners instead of laying type over a picture. A handful of flat colours and black shading replace the smooth gradients and rim light of typical AI images.",
+  "pitfalls": "The word 'tattoo' easily leads to a photo of tattooed skin, such as a forearm, or to neo-traditional work with many colours, gradients, jewels and fine detail. The model also likes to line the designs up in an even grid like a sticker sheet, fill gaps with stock swallows, roses, daggers and skulls, invent mottos, prices or signatures, or imitate present-day rum labels and clothing prints. Check that the banner text is exactly right and that the outlines stay thick enough to read at a distance.",
+  "tip": "Ask explicitly for 'a painted flash sheet on yellowed paper, not a tattoo on skin', name the element that becomes the large main design and say which words go into which banner.",
+  "sensitivity": "Older flash sheets sometimes contain demeaning ethnic stereotypes and sexualised pin-ups; do not carry these over. The name and designs of Sailor Jerry are used today as a trademark for rum and clothing and belong neither in the prompt nor in the image."
+ },
+ "sources": [
+  {
+   "title": "Flash (tattoo) – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Flash_(tattoo)"
+  },
+  {
+   "title": "American traditional – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/American_traditional"
+  },
+  {
+   "title": "Sailor Jerry – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sailor_Jerry"
+  },
+  {
+   "title": "Tattooing…a dead art? – The Mariners' Museum and Park (2020)",
+   "url": "https://www.marinersmuseum.org/2020/10/tattooinga-dead-art/"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "slug": "1990s-clip-art",
+ "style_block": "Clip art from a CD-ROM or office-software clip gallery, United States, early 1990s. Medium: early vector drawing from few closed shapes; thick, uniform black outlines; flat fills in pure red, royal blue, yellow, green, tan; one crude banded gradient, one darker flat shade; no modelling, texture or hatching; slightly jagged diagonals. Composition: separate clips on plain white, mismatched in scale and line weight, each over a grey shadow ellipse; no horizon, perspective or continuous scene. Setting reduced to stock icons: water a scalloped blue band, trees lollipops, buildings plain boxes, ground a small flat patch. Stiff side-view figures, big round heads, dot eyes, four-finger hands; age as grey hair and two wrinkle lines. Lettering, where text is needed: default system fonts stretched or arched, gradient fill, hard drop shadow. Avoid edge-to-edge scenes, comic-book detail, modern flat vector, smooth gradients, 3D rendering, pixel art, known stock-clip characters.",
+ "de": {
+  "name": "Clipart der 1990er Jahre",
+  "aka": [
+   "Clipart",
+   "DTP-Clipart"
+  ],
+  "era": "späte 1980er und 1990er Jahre, USA",
+  "summary": "Grob gezeichnete Vektorfiguren mit dicken schwarzen Konturen, grellen Grundfarben und gestuften Farbverläufen auf weißem Grund; im Katalog, weil hier Unbeholfenheit und Schablonenhaftigkeit gewollt sind, nicht Glätte.",
+  "origin": "Der Begriff stammt aus dem Klebeumbruch: Grafiker schnitten Zeichnungen aus gedruckten Vorlagenheften und -bögen spezialisierter Anbieter aus und klebten sie auf die Druckvorlage; im Englischen hießen solche Bilder zuvor „printer’s cuts“, „stock cuts“ oder „electrotype cuts“. Digital wurde Clipart mit dem Apple Macintosh: Ab 1984 verkaufte die T/Maker Company aus Mountain View, Kalifornien, unter dem Namen ClickArt schwarz-weiße Rastergrafiken für den Macintosh, eines der ersten Programme für diesen Rechner überhaupt; 1985 lösten der Laserdrucker LaserWriter und das Layoutprogramm PageMaker von Aldus den Aufschwung des Desktop-Publishing aus. 1986 brachte die kleine DTP-Firma Composite aus Eureka, Kalifornien, den ersten Datenträger mit Vektor-Cliparts heraus, 1987 veröffentlichte T/Maker die ersten mit Adobe Illustrator gezeichneten Vektor-Cliparts. Mit der CD-ROM wuchsen die Sammlungen in den 1990er Jahren auf Hunderttausende Bilder, und Büroprogramme brachten eigene Clipart-Galerien mit, häufig als Vektordateien im WMF- oder EPS-Format; im März 1995 wurde T/Maker exklusiver Verleger von mehr als 500.000 frei verwendbaren Bildern. Microsoft schloss die Online-Clipart-Bibliothek seiner Office-Programme am 1. Dezember 2014 und verwies stattdessen auf die Bildersuche von Bing.",
+  "markers": [
+   "Dicke schwarze Konturen in gleichbleibender Stärke um jede Fläche",
+   "Flächige, satte Grundfarben aus einer kleinen Bildschirmpalette",
+   "Lineare Farbverläufe in sichtbaren Stufen statt weicher Übergänge",
+   "Schablonenhafte Comicfiguren mit großen Köpfen, Punktaugen und steifen Standardposen",
+   "Freigestellte Figuren und Gegenstände auf weißem Grund, oft mit grauer Schattenellipse am Boden",
+   "Leichter Treppeneffekt an Schrägen und Rundungen"
+  ],
+  "escapes": "Der Stil verzichtet auf das weiche, volumetrische Licht, die porenlose Haut, die Hintergrundunschärfe und die filmische Inszenierung, an denen man KI-Bilder oft erkennt: Licht gibt es nur als aufgesetzten weißen Glanzstrich, Tiefe nur als graue Ellipse unter den Füßen. Statt einer stimmungsvollen Gesamtszene entsteht eine Zusammenstellung einzelner freigestellter Bildteile auf weißem Grund, deren Maßstab und Linienstärke nicht ganz zueinander passen.",
+  "pitfalls": "Das Modell glättet den Stil fast immer zur heutigen flachen Vektorillustration: Konturen verschwinden, Farben werden gedämpft, Verläufe weich, Figuren geometrisch und gesichtslos. Ebenso oft, vor allem wenn das Motiv eine Umgebung verlangt, füllt es den weißen Grund mit einer vollständigen, perspektivisch stimmigen Szene mit Horizont, Holzmaserung und einzeln schattierten Steinen, also einer detailreichen Comiczeichnung, der nur Konturen und Grundfarben aufgesetzt sind, oder setzt Glanz und Schatten wie in einer 3D-Grafik. Am anderen Ende kippt es in Pixelgrafik mit groben Quadraten oder in die Optik einer Fernseh-Zeichentrickserie; darauf achten, dass die Kanten nur leicht treppig sind und die Konturen dick und schwarz bleiben.",
+  "tip": "Ausdrücklich gestufte Farbverläufe, dicke schwarze Konturen und weißen Grund verlangen und die Szene als Zusammenstellung einzelner Cliparts beschreiben, die in Maßstab und Linienstärke nicht ganz zueinander passen; das hält das Modell von der glatten Grafik von heute fern. Umgebung nur als kleine Symbol-Cliparts zulassen (Wasser als Wellenband, Bäume als Lutscherbäume) und Horizont, Perspektive und Materialstruktur ausdrücklich ausschließen.",
+  "sensitivity": "Die bekanntesten Sammlungen gehörten zu bestimmten Büroprogrammen und Herstellern, deren Namen und Marken nicht in den Prompt gehören; bekannte einzelne Cliparts und Figurenserien nicht nachbilden. Austauschbare Standardfiguren neigen zu Klischees bei Geschlecht, Alter und Herkunft, deshalb die Figuren nach dem Motiv gestalten und nicht nach Rollenbildern."
+ },
+ "en": {
+  "name": "1990s clip art",
+  "aka": [
+   "clip art",
+   "office clip art",
+   "desktop-publishing clip art"
+  ],
+  "era": "late 1980s and 1990s, United States",
+  "summary": "Crudely drawn vector figures with thick black outlines, loud primary colours and banded gradients on white; in the catalog because clumsiness and stock genericness are the point, not polish.",
+  "origin": "The term comes from paste-up: designers cut drawings out of printed booklets and sheets from specialist suppliers and glued them onto the artwork; older names for such images were printer's cuts, stock cuts or electrotype cuts. Clip art went digital with the Apple Macintosh: from 1984 the T/Maker Company of Mountain View, California, sold black-and-white bitmap images for the Macintosh under the name ClickArt, one of the very first titles for that computer; in 1985 the LaserWriter laser printer and the Aldus PageMaker layout program set off the desktop-publishing boom. In 1986 Composite, a small desktop-publishing firm in Eureka, California, released the first disc of vector clip art, and in 1987 T/Maker published the first vector clip art drawn in Adobe Illustrator. With the CD-ROM, collections grew to hundreds of thousands of images in the 1990s, and office software shipped with its own clip galleries, often as vector files in WMF or EPS format; in March 1995 T/Maker became the exclusive publisher of more than 500,000 copyright-free images. Microsoft closed the online clip art library of its Office programs on 1 December 2014 and pointed users to Bing image search instead.",
+  "markers": [
+   "Thick black outlines of constant weight around every shape",
+   "Flat, saturated primary colours from a small screen palette",
+   "Linear gradients in visible bands instead of smooth transitions",
+   "Generic cartoon figures with big heads, dot eyes and stiff stock poses",
+   "Cut-out figures and objects on white, often with a grey shadow ellipse beneath",
+   "Slight stair-stepping on diagonals and curves"
+  ],
+  "escapes": "The style drops the soft volumetric light, poreless skin, background blur and cinematic staging that give AI images away: light exists only as a pasted-on white highlight stroke, depth only as a grey ellipse under the feet. Instead of an atmospheric unified scene, the picture is an assembly of separate cut-out pieces on white whose scale and line weight do not quite match.",
+  "pitfalls": "The model almost always smooths the style into present-day flat vector illustration: outlines disappear, colours turn muted, gradients go soft, figures become geometric and faceless. Just as often, especially when the motif calls for a setting, it fills the white ground with a complete scene in correct perspective, with horizon, wood grain and individually shaded stones: a detailed comic drawing with only the outlines and primary colours laid on top; or it adds gloss and shadow like a 3D render. At the other extreme it tips into pixel art with coarse squares or the look of a TV cartoon series; check that edges are only slightly stepped and that the outlines stay thick and black.",
+  "tip": "Ask explicitly for banded gradients, thick black outlines and a white ground, and describe the scene as an assembly of separate clips that do not quite match in scale and line weight; this keeps the model away from smooth present-day graphics. Allow the setting only as small stock icons (water as a band of scalloped waves, trees as lollipops) and explicitly rule out horizon, perspective and surface texture.",
+  "sensitivity": "The best-known collections belonged to particular office programs and vendors whose names and trademarks stay out of the prompt; do not copy known individual clips or character series. Generic stock figures tend towards clichés of gender, age and ethnicity, so shape the figures from the motif, not from stereotypes."
+ },
+ "sources": [
+  {
+   "title": "Clip art – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Clip_art"
+  },
+  {
+   "title": "T/Maker – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/T/Maker"
+  },
+  {
+   "title": "Desktop publishing – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Desktop_publishing"
+  },
+  {
+   "title": "Clip Art now powered by Bing Images – Microsoft 365 Blog",
+   "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2014/12/01/clip-art-now-powered-bing-images/"
+  }
+ ]
+}

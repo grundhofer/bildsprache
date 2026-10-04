@@ -1,0 +1,1416 @@
+{
+ "axes": [
+  {
+   "id": "lighting",
+   "name_de": "Licht",
+   "name_en": "Light",
+   "description_de": "Bestimmt Richtung, Härte und Farbe des Lichts und ersetzt das weiche Goldlicht, das KI-Bilder sonst über jede Szene legen.",
+   "description_en": "Controls where the light comes from, how hard it is and what colour it has, replacing the soft golden glow AI lays over every scene."
+  },
+  {
+   "id": "lens_camera",
+   "name_de": "Objektiv & Kamera",
+   "name_en": "Lens & camera",
+   "description_de": "Legt Brennweite, Schärfentiefe und Kameratyp fest und ersetzt den Standard-Porträtlook mit 85 mm und cremiger Unschärfe.",
+   "description_en": "Sets focal length, depth of field and the type of camera, replacing the default 85mm portrait look with creamy bokeh."
+  },
+  {
+   "id": "composition_framing",
+   "name_de": "Bildaufbau",
+   "name_en": "Composition & framing",
+   "description_de": "Entscheidet, wo das Motiv sitzt, wie viel davon zu sehen ist und aus welcher Höhe wir schauen, statt immer mittig, halbnah und auf Augenhöhe.",
+   "description_en": "Decides where the subject sits, how much of it the frame shows and from which height we look, instead of the centred medium close-up at eye level."
+  },
+  {
+   "id": "color_grade",
+   "name_de": "Farbgebung",
+   "name_en": "Colour grade",
+   "description_de": "Steuert Weißabgleich, Sättigung und Farbstimmung und vermeidet den warmen Gelbstich und den Teal-Orange-Look typischer KI-Bilder.",
+   "description_en": "Controls white balance, saturation and the overall colour mood, escaping the warm yellow cast and teal-and-orange grade of typical AI images."
+  },
+  {
+   "id": "texture_imperfection",
+   "name_de": "Textur & Makel",
+   "name_en": "Texture & imperfection",
+   "description_de": "Bringt Poren, Korn, Abnutzung und Handspuren ins Bild, damit Oberflächen echt wirken statt glatt wie Plastik.",
+   "description_en": "Adds pores, grain, wear and traces of the hand so that surfaces feel physical instead of plastic-smooth."
+  },
+  {
+   "id": "era_dating",
+   "name_de": "Zeit & Epoche",
+   "name_en": "Era",
+   "description_de": "Verortet das Bild über Fototechnik, Requisiten und Mode in einem bestimmten Jahrzehnt statt in einer zeitlosen Stockfoto-Gegenwart.",
+   "description_en": "Places the image in a specific decade through photographic technique, props and fashion, instead of a timeless stock-photo present."
+  },
+  {
+   "id": "medium_surface",
+   "name_de": "Medium & Material",
+   "name_en": "Medium & surface",
+   "description_de": "Legt das Material fest, vom Druckverfahren über Farbe und Papier bis zum Bastelmodell, statt glatter Digitalillustration oder glänzendem 3D-Render.",
+   "description_en": "Defines the physical medium, from print process to paint and paper to handmade models, instead of smooth digital illustration or a glossy 3D render."
+  },
+  {
+   "id": "post_processing",
+   "name_de": "Nachbearbeitung",
+   "name_en": "Post-processing",
+   "description_de": "Regelt Belichtung, Kontrast und Bearbeitung und lässt echte Kameragrenzen stehen, statt alles per HDR, Nachschärfen und Retusche zu glätten.",
+   "description_en": "Governs exposure, contrast and finishing, keeping real camera limits instead of smoothing everything with HDR, sharpening and retouching."
+  },
+  {
+   "id": "subject_casting",
+   "name_de": "Besetzung",
+   "name_en": "Casting",
+   "description_de": "Bestimmt, wer im Bild steht und wie sich die Leute verhalten: normale Menschen in echten Momenten statt junger, lächelnder Models.",
+   "description_en": "Chooses who appears and how they behave: ordinary people in real moments instead of young, smiling models."
+  },
+  {
+   "id": "typography_layout",
+   "name_de": "Typografie & Layout",
+   "name_en": "Typography & layout",
+   "description_de": "Gestaltet Schrift, Raster und Diagramme in Grafiken und vermeidet die typische KI-Infografik mit runden Kacheln, Verlaufs-Icons und Fantasietext.",
+   "description_en": "Shapes type, grids and charts in graphics, escaping the generic AI infographic of rounded cards, gradient icons and garbled filler text."
+  }
+ ],
+ "levers": [
+  {
+   "axis": "lighting",
+   "name_de": "Harte Mittagssonne",
+   "name_en": "Hard midday sun",
+   "effect_de": "Steiles Licht von oben wirft harte schwarze Schatten in Augenhöhlen und unters Kinn, helle Flächen wirken ausgebleicht wie an einem heißen Sommertag.",
+   "effect_en": "Steep top light carves hard black shadows into eye sockets and under chins and bleaches bright surfaces, like a documentary shot on a hot day.",
+   "prompt_phrase": "harsh overhead midday sun, hard-edged black shadows under eyes, noses and chins, people squinting, bleached bright pavement",
+   "counters_de": "Weiches Abendlicht, das jedes Gesicht schmeichelhaft ausleuchtet",
+   "counters_en": "Soft golden-hour glow and flattering light on every face"
+  },
+  {
+   "axis": "lighting",
+   "name_de": "Bedeckter Himmel",
+   "name_en": "Flat overcast daylight",
+   "effect_de": "Weiches, schattenloses Licht mit wenig Kontrast und gedämpften, echten Farben ergibt die ruhige Stimmung eines grauen Alltags im Norden.",
+   "effect_en": "Soft, shadowless light with low contrast and muted true colours creates a quiet, everyday Northern European mood.",
+   "prompt_phrase": "flat overcast daylight under a uniform grey sky, no direct sun, soft barely visible shadows, muted natural colors",
+   "counters_de": "Dramatisches Gegenlicht und leuchtende Lichtkanten in jeder Szene",
+   "counters_en": "Dramatic backlight and glowing rim light added to every scene"
+  },
+  {
+   "axis": "lighting",
+   "name_de": "Direkter Kamerablitz",
+   "name_en": "Direct on-camera flash",
+   "effect_de": "Hartes Licht von vorn macht Gesichter hell und leicht glänzend, der Hintergrund versinkt im Dunkeln, und an der Wand dahinter steht ein scharfer Schatten.",
+   "effect_en": "Hard frontal light makes faces bright and slightly shiny, drops the background into darkness and leaves a crisp shadow on the wall behind.",
+   "prompt_phrase": "direct on-camera flash, hard frontal light, slightly overexposed faces with shiny skin highlights, background falling off into darkness, crisp flash shadow on the wall behind",
+   "counters_de": "Weiches Studiolicht und gleichmäßig ausgeleuchtete, glattgebügelte Hintergründe",
+   "counters_en": "Soft studio beauty light and evenly lit, airbrushed backgrounds"
+  },
+  {
+   "axis": "lighting",
+   "name_de": "Blitz mit Langzeitbelichtung",
+   "name_en": "Flash with dragged shutter",
+   "effect_de": "Der Blitz friert die Menschen scharf ein, die Lichter dahinter verwischen zu bunten Schlieren, und die Party bekommt Tempo.",
+   "effect_en": "The flash freezes people sharply while the lights behind them smear into coloured trails, giving night and party scenes real energy.",
+   "prompt_phrase": "flash photo with a slow shutter: people frozen sharp by the flash while the background lights smear into colored motion trails, handheld camera shake",
+   "counters_de": "Starre, komplett eingefrorene Szenen ohne jedes Gefühl für Zeit",
+   "counters_en": "Static, perfectly frozen scenes with no sense of time"
+  },
+  {
+   "axis": "lighting",
+   "name_de": "Neonröhrenlicht",
+   "name_en": "Overhead fluorescent light",
+   "effect_de": "Gleichmäßiges, leicht grünstichiges Licht von der Decke gibt Büros, Schulen und Kliniken ihren nüchternen Behördencharme.",
+   "effect_en": "Even, slightly sickly green-tinged light from above gives offices, schools and hospitals their banal institutional look.",
+   "prompt_phrase": "flat overhead fluorescent tube lighting with a faint green cast, even and unflattering, institutional office atmosphere",
+   "counters_de": "Warmes Kinolicht und durchweg schmeichelhafte Hauttöne",
+   "counters_en": "Warm cinematic glow and universally flattering skin tones"
+  },
+  {
+   "axis": "lighting",
+   "name_de": "Natriumdampflicht",
+   "name_en": "Sodium-vapor streetlight",
+   "effect_de": "Die Nacht wird fast einfarbig orange, alle übrigen Farben verschwinden zwischen Orange und Schwarz, und die Stadt wirkt rau und echt.",
+   "effect_en": "The night turns almost monochrome amber, every other colour collapses into orange and black, and the city looks gritty and real.",
+   "prompt_phrase": "night scene lit only by orange sodium-vapor street lamps, near-monochrome amber light, deep black shadows, almost no other colors",
+   "counters_de": "Die übliche Cyberpunk-Stadt in Türkis und Magenta",
+   "counters_en": "The generic teal-and-magenta neon cyberpunk city at night"
+  },
+  {
+   "axis": "lighting",
+   "name_de": "Mischlicht",
+   "name_en": "Mixed colour temperatures",
+   "effect_de": "Kühles Tageslicht vom Fenster und warmes Lampenlicht bleiben unkorrigiert nebeneinander stehen, der Raum wirkt bewohnt.",
+   "effect_en": "Cool window daylight and warm lamplight sit side by side uncorrected, so the interior feels genuinely lived in.",
+   "prompt_phrase": "mixed light sources left uncorrected: cool blue daylight from the window on one side, warm yellow tungsten lamp on the other, visible color casts on skin and walls",
+   "counters_de": "Komplett durchkorrigierte Bilder mit einem einzigen, meist warmen Farbton",
+   "counters_en": "Fully colour-corrected images with one global, usually warm, tint"
+  },
+  {
+   "axis": "lighting",
+   "name_de": "Seitliches Fensterlicht",
+   "name_en": "Single window side light",
+   "effect_de": "Gerichtetes Licht aus einem Fenster fällt rasch in dunklere Raumecken ab, ruhig und intim wie auf einem alten Gemälde.",
+   "effect_en": "Directional light from a single window falls off quickly into darker corners, calm and intimate like an old painting.",
+   "prompt_phrase": "lit only by a single window to the side, light falling off quickly into darker corners of the room, soft directional shadows",
+   "counters_de": "Alles gleich hell, ohne erkennbare Lichtquelle",
+   "counters_en": "Everything evenly lit with no logic about the light source"
+  },
+  {
+   "axis": "lighting",
+   "name_de": "Helldunkel (Low Key)",
+   "name_en": "Low-key chiaroscuro",
+   "effect_de": "Fast das ganze Bild liegt im tiefen Schatten, nur Teile von Gesichtern und Händen fangen Licht, dramatisch wie ein Barockgemälde.",
+   "effect_en": "Most of the frame sinks into deep shadow and only fragments of faces and hands catch the light, dramatic like a Baroque painting.",
+   "prompt_phrase": "low-key lighting, one small hard key light from 45 degrees above, most of the frame in deep black shadow, only parts of faces and hands illuminated",
+   "counters_de": "Zu hell ausgeleuchtete Bilder, in denen nichts im Schatten bleibt",
+   "counters_en": "Over-lit images where every detail is visible"
+  },
+  {
+   "axis": "lighting",
+   "name_de": "Gegenlicht mit Lichtschleier",
+   "name_en": "Contre-jour with veiling flare",
+   "effect_de": "Bei Aufnahmen direkt in die tiefe Sonne werden die Personen halb zu Silhouetten, ein Lichtschleier drückt den Kontrast, poetisch und unperfekt.",
+   "effect_en": "Shot straight into a low sun, people turn half into silhouettes and a hazy flare washes out the contrast, lyrical and imperfect.",
+   "prompt_phrase": "shot directly into a low sun, subjects partly silhouetted, veiling flare washing out the contrast, hazy light spilling across the lens",
+   "counters_de": "Perfekt kontrollierte Belichtung und pathetisches goldenes Konturlicht",
+   "counters_en": "Perfectly controlled exposure and epic golden rim light"
+  },
+  {
+   "axis": "lighting",
+   "name_de": "Lichtflecken unter Laub",
+   "name_en": "Dappled light",
+   "effect_de": "Unregelmäßige Flecken aus Sonne und Schatten liegen auf Gesichtern und Boden, das Bild wirkt sommerlich und natürlich.",
+   "effect_en": "Irregular patches of sun and shade fall across faces and ground, giving the image an organic, summery naturalness.",
+   "prompt_phrase": "dappled sunlight filtering through tree leaves, uneven patches of light and shadow across faces, clothing and ground",
+   "counters_de": "Gleichförmiges, sauberes Licht ohne jede Struktur",
+   "counters_en": "Uniform, clean, featureless light"
+  },
+  {
+   "axis": "lighting",
+   "name_de": "Blaue Stunde",
+   "name_en": "Blue hour",
+   "effect_de": "Kühles Dämmerlicht kurz nach Sonnenuntergang, wenn die ersten Fenster und Laternen angehen, wirkt still und ein wenig melancholisch.",
+   "effect_en": "Cool twilight just after sunset, with the first windows and streetlamps switching on, feels quiet and slightly melancholic.",
+   "prompt_phrase": "blue hour shortly after sunset, deep cool ambient twilight, lit windows and street lamps just switched on, low light with visible grain",
+   "counters_de": "Goldene Stunde als Standard für jede Außenaufnahme",
+   "counters_en": "Golden hour as the default for every outdoor scene"
+  },
+  {
+   "axis": "lighting",
+   "name_de": "Nur Lichtquellen im Bild",
+   "name_en": "Practical lights only",
+   "effect_de": "Nur Lampen, Bildschirme und andere sichtbare Quellen erhellen die Szene, dazwischen bleibt der Raum dunkel.",
+   "effect_en": "Only lamps, screens and other sources visible in the frame light the scene, leaving dim pools of light in an otherwise dark room.",
+   "prompt_phrase": "lit only by practical light sources visible in the scene, a table lamp, a phone screen, an open fridge door, dim pools of light, the rest of the room dark",
+   "counters_de": "Licht aus dem Nichts, ausgeleuchtet wie ein Filmset",
+   "counters_en": "Light from nowhere, scenes lit like a film set"
+  },
+  {
+   "axis": "lens_camera",
+   "name_de": "Weitwinkel aus der Nähe",
+   "name_en": "Wide-angle up close",
+   "effect_de": "Ein naher Blick mittendrin, mit leicht gedehnten Rändern, zeigt viel vom Umfeld.",
+   "effect_en": "A close, involved viewpoint with slightly stretched edges shows plenty of the surroundings.",
+   "prompt_phrase": "shot on a 24mm wide-angle lens from about one meter away, slight perspective stretching at the edges, lots of surrounding environment visible",
+   "counters_de": "Das Standardporträt mit 85 mm vor unscharfem, beliebigem Hintergrund",
+   "counters_en": "The default 85mm portrait with a blurred, context-free background"
+  },
+  {
+   "axis": "lens_camera",
+   "name_de": "Tele-Verdichtung",
+   "name_en": "Long telephoto compression",
+   "effect_de": "Aus großer Entfernung wird der Raum flach, Hintergrundebenen rücken dicht hinter die Personen, der Blick wirkt beobachtend.",
+   "effect_en": "Seen from far away, space flattens and background layers stack tightly behind the subjects, with a voyeuristic distance.",
+   "prompt_phrase": "shot from far away with a 300mm telephoto lens, strongly compressed perspective, background buildings stacked tightly behind the subjects",
+   "counters_de": "Beliebige Normalperspektive aus Gesprächsabstand",
+   "counters_en": "Generic normal-lens perspective at conversational distance"
+  },
+  {
+   "axis": "lens_camera",
+   "name_de": "Durchgehende Schärfe",
+   "name_en": "Deep focus",
+   "effect_de": "Alles ist scharf, vom Vordergrund bis zum Horizont, und die Umgebung erzählt mit.",
+   "effect_en": "Everything from foreground to background is sharp, so the surroundings tell part of the story.",
+   "prompt_phrase": "deep depth of field at f/11, everything from the nearest object to the far background in sharp focus, no bokeh",
+   "counters_de": "Geringe Schärfentiefe und cremiges Bokeh hinter jedem Motiv",
+   "counters_en": "Shallow depth of field and creamy bokeh behind every subject"
+  },
+  {
+   "axis": "lens_camera",
+   "name_de": "Handyfoto",
+   "name_en": "Smartphone snapshot",
+   "effect_de": "Weitwinkliges Handyobjektiv, durchgehende Schärfe und etwas Software-Bearbeitung ergeben den ehrlichen Look der unbearbeiteten Fotogalerie.",
+   "effect_en": "A wide phone lens, focus everywhere and a touch of computational processing give the honest look of an unedited camera roll.",
+   "prompt_phrase": "casual smartphone photo, wide phone lens, everything in focus, slight computational HDR, mild noise in the shadows, unedited camera-roll quality",
+   "counters_de": "Spiegelreflex-Bokeh und Hochglanz wie vom Profi-Shooting",
+   "counters_en": "DSLR bokeh and professional photo-shoot polish"
+  },
+  {
+   "axis": "lens_camera",
+   "name_de": "Einwegkamera",
+   "name_en": "Disposable film camera",
+   "effect_de": "Eingebauter Blitz, weiche Plastiklinse, dunkle Ecken und Korn ergeben einen nostalgischen, unprätentiösen Schnappschuss.",
+   "effect_en": "Built-in flash, a soft plastic lens, dark corners and grain make a nostalgic, unpretentious snapshot.",
+   "prompt_phrase": "disposable 35mm film camera snapshot with built-in flash, soft plastic lens, soft corners and vignetting, visible film grain",
+   "counters_de": "Saubere, rauschfreie, gestochen scharfe Digitaloptik",
+   "counters_en": "Clean, noiseless, razor-sharp digital rendering"
+  },
+  {
+   "axis": "lens_camera",
+   "name_de": "Großformatkamera",
+   "name_en": "Large-format view camera",
+   "effect_de": "Frontal und gerade aufgenommen, mit senkrechten Linien und enormem Detailreichtum, wirkt das Bild ruhig und architektonisch.",
+   "effect_en": "Frontal, level framing with straight verticals and extreme detail creates a slow, architectural stillness.",
+   "prompt_phrase": "4x5 large-format view camera on a tripod, frontal and level, perfectly straight verticals, extreme fine detail, slow deliberate stillness",
+   "counters_de": "Dramatisch gekippte Heldenperspektiven und actionreiche Bildausschnitte",
+   "counters_en": "Dramatic tilted hero angles and dynamic action framing"
+  },
+  {
+   "axis": "lens_camera",
+   "name_de": "Tilt-Shift-Miniatur",
+   "name_en": "Tilt-shift miniature",
+   "effect_de": "Ein schmaler Schärfestreifen aus erhöhter Sicht lässt echte Szenen wie eine Modelleisenbahn aussehen.",
+   "effect_en": "A narrow band of focus seen from above makes real scenes look like toy models.",
+   "prompt_phrase": "tilt-shift lens from a high viewpoint, only a narrow horizontal band in focus, top and bottom heavily blurred, the scene looks like a miniature model",
+   "counters_de": "",
+   "counters_en": ""
+  },
+  {
+   "axis": "lens_camera",
+   "name_de": "Fischauge",
+   "name_en": "Fisheye",
+   "effect_de": "Ein 180-Grad-Blick mit starker Tonnenverzeichnung und gebogenem Horizont wirkt wie aus dem Skatevideo, dem Club oder dem Türspion.",
+   "effect_en": "A 180-degree view with strong barrel distortion and curved horizons brings skate-video, club or surveillance energy.",
+   "prompt_phrase": "180-degree fisheye lens, strong barrel distortion, curved horizon and walls, subject very close to the lens",
+   "counters_de": "",
+   "counters_en": ""
+  },
+  {
+   "axis": "lens_camera",
+   "name_de": "Makro",
+   "name_en": "Macro",
+   "effect_de": "Eine extreme Nahaufnahme mit hauchdünner Schärfeebene zeigt die Feinstruktur von Haut, Stoff oder Material.",
+   "effect_en": "An extreme close-up with a razor-thin plane of focus reveals the microtexture of skin, fabric or material.",
+   "prompt_phrase": "macro lens extreme close-up at 1:1 magnification, razor-thin focus plane, visible microtexture of the surface",
+   "counters_de": "",
+   "counters_en": ""
+  },
+  {
+   "axis": "lens_camera",
+   "name_de": "Kino-Breitbild (anamorphotisch)",
+   "name_en": "Anamorphic widescreen",
+   "effect_de": "Kinoformat 2,39:1 mit ovalem Bokeh und waagerechtem Lichtstreifen lässt das Bild wie ein Filmstill aussehen und sollte sparsam eingesetzt werden.",
+   "effect_en": "A 2.39:1 cinema frame with oval bokeh and a horizontal flare streak looks like a film still and is best used sparingly.",
+   "prompt_phrase": "anamorphic cinema lens, 2.39:1 widescreen framing with black bars, oval bokeh, thin horizontal lens flare streak, slight edge distortion",
+   "counters_de": "",
+   "counters_en": ""
+  },
+  {
+   "axis": "lens_camera",
+   "name_de": "Altes unvergütetes Objektiv",
+   "name_en": "Vintage uncoated lens",
+   "effect_de": "Wenig Kontrast, leuchtende Lichter, ein wirbelnder Hintergrund und weiche Ecken geben dem Bild einen sanften, altmodischen Charakter.",
+   "effect_en": "Low contrast, glowing highlights, a swirly background and soft corners give a gentle, old-fashioned rendering.",
+   "prompt_phrase": "vintage uncoated lens, low contrast, soft glow blooming around highlights, swirly out-of-focus background, slightly soft corners",
+   "counters_de": "Klinisch scharfe, kontrastreiche Digitaloptik",
+   "counters_en": "Clinical, razor-sharp, high-contrast digital rendering"
+  },
+  {
+   "axis": "lens_camera",
+   "name_de": "Überwachungskamera",
+   "name_en": "Security camera still",
+   "effect_de": "Ein hoher, weiter Blick nach unten mit niedriger Auflösung, blassen Farben und eingeblendeter Uhrzeit wirkt wie zufällig gefundenes Material.",
+   "effect_en": "A high, wide view looking down, in low resolution with washed-out colours and a timestamp, feels like detached found footage.",
+   "prompt_phrase": "still frame from a high-mounted security camera, wide distorted angle looking down, low resolution, washed-out colors, timestamp overlay in the corner",
+   "counters_de": "Heldenperspektive und schmeichelhaft gewählter Kamerastandpunkt",
+   "counters_en": "Hero framing and flattering, carefully chosen camera placement"
+  },
+  {
+   "axis": "lens_camera",
+   "name_de": "Mitzieher",
+   "name_en": "Panning motion blur",
+   "effect_de": "Das bewegte Motiv bleibt einigermaßen scharf, der Hintergrund verwischt waagerecht, und das Bild bekommt Tempo.",
+   "effect_en": "The moving subject stays fairly sharp while the background streaks horizontally, conveying speed and life.",
+   "prompt_phrase": "panning shot at 1/15 second: the moving subject relatively sharp, the background streaked with horizontal motion blur",
+   "counters_de": "Starre Stille, in der sich nichts bewegt",
+   "counters_en": "Frozen stillness where nothing moves"
+  },
+  {
+   "axis": "lens_camera",
+   "name_de": "Fehlfokus",
+   "name_en": "Missed focus",
+   "effect_de": "Die Schärfe liegt knapp hinter der Person, das Bild wirkt wie ein echtes, nicht ganz gelungenes Foto vom Kontaktabzug.",
+   "effect_en": "Focus lands just behind the subject, so the frame looks like a real, imperfect shot from a contact sheet.",
+   "prompt_phrase": "focus slightly missed: the autofocus caught the background, the people in front are a little soft",
+   "counters_de": "Gestochen scharfe Augen in jedem einzelnen Bild",
+   "counters_en": "Tack-sharp focus on the eyes in every image"
+  },
+  {
+   "axis": "composition_framing",
+   "name_de": "Motiv am Rand",
+   "name_en": "Off-centre placement",
+   "effect_de": "Das Motiv rückt an den Rand, die andere Seite bleibt frei, das erzeugt Spannung und lässt Raum für eine Geschichte.",
+   "effect_en": "The subject sits at one edge with open space on the other side, which builds tension and suggests a story.",
+   "prompt_phrase": "subject placed at the far left edge of the frame, large empty area on the right, deliberately asymmetric composition",
+   "counters_de": "Motiv genau in der Mitte, der häufigste KI-Bildaufbau",
+   "counters_en": "Subject placed dead centre, the most common AI framing"
+  },
+  {
+   "axis": "composition_framing",
+   "name_de": "Viel Leerraum",
+   "name_en": "Vast negative space",
+   "effect_de": "Ein kleines Motiv in einem fast leeren Bild wirkt ruhig oder einsam und lässt Platz für Text.",
+   "effect_en": "A small subject in a mostly empty frame evokes calm or loneliness and leaves room for text.",
+   "prompt_phrase": "subject small in the frame, about 80 percent of the image is empty sky or bare wall",
+   "counters_de": "Formatfüllendes Motiv, jedes Bild eine Halbnahe",
+   "counters_en": "Subject filling the frame, every image a medium close-up"
+  },
+  {
+   "axis": "composition_framing",
+   "name_de": "Harter Anschnitt",
+   "name_en": "Awkward edge cropping",
+   "effect_de": "Köpfe und Gliedmaßen werden vom Bildrand abgeschnitten, Leute ragen halb aus dem Bild, alles wirkt spontan und ungestellt.",
+   "effect_en": "Heads and limbs are cut off by the frame edge and people hang half out of the picture, candid and unstaged.",
+   "prompt_phrase": "tight, imperfect crop: heads and limbs cut off at the frame edges, one person half out of frame",
+   "counters_de": "Alles ordentlich im Bild, mit bequemem Abstand zum Rand",
+   "counters_en": "Everything neatly contained with comfortable margins"
+  },
+  {
+   "axis": "composition_framing",
+   "name_de": "Verdeckender Vordergrund",
+   "name_en": "Foreground obstruction",
+   "effect_de": "Ein unscharfer Gegenstand verdeckt einen Teil der Sicht, die Szene wirkt beobachtet und vielschichtig statt inszeniert.",
+   "effect_en": "A blurred object partly blocks the view, so the scene feels observed and layered rather than staged.",
+   "prompt_phrase": "shot past an out-of-focus foreground object that partially blocks the view, a doorframe, a shoulder, a plant leaf",
+   "counters_de": "Freie, saubere Präsentationsansicht des Motivs",
+   "counters_en": "Clean, unobstructed, presentation-style view of the subject"
+  },
+  {
+   "axis": "composition_framing",
+   "name_de": "Rahmen im Rahmen",
+   "name_en": "Frame within a frame",
+   "effect_de": "Eine Tür oder ein Fenster rahmt das Motiv ein, das schafft Tiefe und das Gefühl, von außen hineinzuschauen.",
+   "effect_en": "A doorway or window frames the subject, adding depth and the feeling of looking in from outside.",
+   "prompt_phrase": "subject seen through a doorway, framed by the dark edges of the door and the wall",
+   "counters_de": "",
+   "counters_en": ""
+  },
+  {
+   "axis": "composition_framing",
+   "name_de": "Mehrere Bildebenen",
+   "name_en": "Layered depth",
+   "effect_de": "Im Vorder-, Mittel- und Hintergrund passiert jeweils etwas anderes, das Bild erzählt dicht und dokumentarisch.",
+   "effect_en": "Separate actions unfold in foreground, middle ground and background, telling a rich documentary story.",
+   "prompt_phrase": "three layers of action: a figure in the foreground, a group in the middle ground, unrelated people going about their business in the background",
+   "counters_de": "Ein einzelnes Motiv vor leerem, verschwommenem Hintergrund",
+   "counters_en": "A single subject isolated against a blurred, empty backdrop"
+  },
+  {
+   "axis": "composition_framing",
+   "name_de": "Senkrechte Draufsicht",
+   "name_en": "Top-down overhead",
+   "effect_de": "Die Kamera blickt senkrecht von oben, Menschen und Dinge werden zu einem flachen, grafischen Muster.",
+   "effect_en": "The camera looks straight down at 90 degrees, turning people and objects into a flat, graphic pattern.",
+   "prompt_phrase": "straight top-down overhead view, camera at 90 degrees, flat graphic arrangement of people and objects",
+   "counters_de": "Standardblick auf Augenhöhe im Dreiviertelprofil",
+   "counters_en": "Default eye-level three-quarter view"
+  },
+  {
+   "axis": "composition_framing",
+   "name_de": "Froschperspektive",
+   "name_en": "Worm's-eye view",
+   "effect_de": "Die Kamera liegt am Boden und schaut nach oben, die Figuren ragen vor dem Himmel auf, monumental oder bedrohlich.",
+   "effect_en": "The camera sits on the ground looking up, so figures tower against the sky, monumental or unsettling.",
+   "prompt_phrase": "extreme low angle from ground level looking up, figures towering against the sky",
+   "counters_de": "Kamerahöhe immer auf Augenhöhe",
+   "counters_en": "Default eye-level camera height"
+  },
+  {
+   "axis": "composition_framing",
+   "name_de": "Schiefer Horizont",
+   "name_en": "Tilted horizon",
+   "effect_de": "Ein leicht schiefer Ausschnitt aus der Hand wirkt spontan und ein wenig unruhig.",
+   "effect_en": "A slightly crooked handheld frame suggests spontaneity and a hint of unease.",
+   "prompt_phrase": "horizon tilted by about 8 degrees, slightly crooked handheld framing",
+   "counters_de": "Kerzengerader Bildausschnitt wie vom Stativ",
+   "counters_en": "Perfectly level, tripod-correct framing"
+  },
+  {
+   "axis": "composition_framing",
+   "name_de": "Strenge Frontalsymmetrie",
+   "name_en": "Rigorous frontal symmetry",
+   "effect_de": "Die Kamera steht exakt parallel zur Rückwand, das Motiv mittig und frontal zur Linse, die Inszenierung wirkt flach, trocken und formal.",
+   "effect_en": "With the camera square to the back wall and the subject dead centre facing the lens, the staging turns flat, deadpan and formal.",
+   "prompt_phrase": "strictly frontal, symmetrical composition, camera square to the back wall, subject dead center facing the lens, flat planar staging",
+   "counters_de": "",
+   "counters_en": ""
+  },
+  {
+   "axis": "composition_framing",
+   "name_de": "Rückenfigur",
+   "name_en": "Figure from behind",
+   "effect_de": "Die Gesichter bleiben verborgen, wir schauen mit den Figuren in dieselbe Richtung, nachdenklich und anonym.",
+   "effect_en": "Faces stay hidden and the viewer looks where the figures look, contemplative and anonymous.",
+   "prompt_phrase": "people seen from behind, faces not visible, looking at the same thing the viewer looks at",
+   "counters_de": "Alle schauen in die Kamera und posieren",
+   "counters_en": "Everyone facing the camera and posing"
+  },
+  {
+   "axis": "composition_framing",
+   "name_de": "Totale mit kleinen Figuren",
+   "name_en": "Wide establishing shot",
+   "effect_de": "Menschen erscheinen winzig in einer weiten Umgebung, der Ort selbst wird zum Thema.",
+   "effect_en": "People appear tiny in a large environment, so the place itself becomes the subject.",
+   "prompt_phrase": "wide establishing shot, people tiny in a large environment, the place itself is the main subject",
+   "counters_de": "Der übliche halbnahe Porträtausschnitt",
+   "counters_en": "Default medium close-up portrait framing"
+  },
+  {
+   "axis": "composition_framing",
+   "name_de": "Diagonaler Bildaufbau",
+   "name_en": "Diagonal composition",
+   "effect_de": "Kräftige Linien von Ecke zu Ecke führen den Blick durchs Bild und bringen Bewegung hinein.",
+   "effect_en": "Strong lines running from corner to corner pull the eye through the frame and create movement.",
+   "prompt_phrase": "strong diagonal composition, leading lines running from the bottom-left corner to the top-right corner",
+   "counters_de": "Statische, mittige, waagerecht ausbalancierte Bildaufteilung",
+   "counters_en": "Static, centred, horizontally balanced layouts"
+  },
+  {
+   "axis": "composition_framing",
+   "name_de": "Wimmelbild",
+   "name_en": "All-over busy composition",
+   "effect_de": "Statt eines Blickfangs gibt es überall Geschehen und Details bis in jede Ecke, die man beim genauen Hinsehen nach und nach entdeckt.",
+   "effect_en": "Instead of one focal point there is activity and detail from edge to edge, rewarding anyone who looks closely.",
+   "prompt_phrase": "crowded all-over composition with no single focal point, small details and activity everywhere from edge to edge",
+   "counters_de": "Ein einzelnes Hauptmotiv in leerer, vereinfachter Umgebung",
+   "counters_en": "One hero subject in an empty, simplified setting"
+  },
+  {
+   "axis": "color_grade",
+   "name_de": "Neutraler Weißabgleich",
+   "name_en": "Neutral white balance",
+   "effect_de": "Weiß ist weiß, Hauttöne stimmen, kein Farbstich liegt über dem Bild, und es wirkt ehrlich und zeitgemäß.",
+   "effect_en": "Whites are white, skin tones are accurate and no tint lies over the image, which looks honest and contemporary.",
+   "prompt_phrase": "neutral, accurate white balance: whites are truly white, no warm yellow or orange cast, true-to-life skin tones",
+   "counters_de": "Der warme Gelb-Orange-Stich typischer ChatGPT-Bilder",
+   "counters_en": "The warm yellow-orange cast typical of ChatGPT images"
+  },
+  {
+   "axis": "color_grade",
+   "name_de": "Gedämpfte Farben",
+   "name_en": "Muted desaturated palette",
+   "effect_de": "Wenig Sättigung, staubige Grautöne, Graugrün und verblasstes Blau wirken ruhig, sachlich und redaktionell.",
+   "effect_en": "Low saturation with dusty greys, greyish greens and faded blues gives a calm, sober, editorial feel.",
+   "prompt_phrase": "muted, desaturated palette, low saturation, dusty greys, greyish greens and faded blues",
+   "counters_de": "Übersättigte, knallige Bonbonfarben",
+   "counters_en": "Oversaturated, punchy, candy-coloured images"
+  },
+  {
+   "axis": "color_grade",
+   "name_de": "Kein Teal-Orange-Look",
+   "name_en": "No teal-and-orange",
+   "effect_de": "Grün bleibt grün, Schatten bleiben neutral, Haut sieht aus wie Haut, und der Blockbuster-Look verschwindet.",
+   "effect_en": "Greens stay green, shadows stay neutral and skin looks like skin, so the blockbuster grade disappears.",
+   "prompt_phrase": "natural color, no teal-and-orange grading, greens stay green, shadows stay neutral, skin tones not pushed orange",
+   "counters_de": "Türkise Schatten und orange Haut, der beliebige Kinolook",
+   "counters_en": "Teal shadows and orange skin, the generic cinematic grade"
+  },
+  {
+   "axis": "color_grade",
+   "name_de": "Kühler Farbstich",
+   "name_en": "Cool colour cast",
+   "effect_de": "Ein bläulich-cyanfarbener Schleier, am stärksten in den Schatten, wirkt winterlich, distanziert und nordisch.",
+   "effect_en": "A bluish-cyan tint, strongest in the shadows, makes the image feel wintry, detached and Nordic.",
+   "prompt_phrase": "cool bluish color cast, slightly cyan shadows, wintry and detached mood",
+   "counters_de": "Der übliche warme Farbstich",
+   "counters_en": "The default warm tint"
+  },
+  {
+   "axis": "color_grade",
+   "name_de": "Bleach-Bypass",
+   "name_en": "Bleach bypass",
+   "effect_de": "Wenig Farbe, viel Kontrast und silbrig-metallische Lichter geben dem Bild die Härte eines Kriegsfilms.",
+   "effect_en": "Low saturation, high contrast and silvery metallic highlights give the image the hardness of a war film.",
+   "prompt_phrase": "bleach-bypass look: low saturation, high contrast, silvery metallic highlights, gritty texture",
+   "counters_de": "Glatter, satter Werbelook mit weichem Kontrast",
+   "counters_en": "Glossy, saturated, soft-contrast commercial look"
+  },
+  {
+   "axis": "color_grade",
+   "name_de": "Farbnegativfilm (Portra-Look)",
+   "name_en": "Colour negative film (Portra-like)",
+   "effect_de": "Zarte Hauttöne, sanfter Kontrast und cremige Lichter ergeben warme, aber natürliche analoge Farben.",
+   "effect_en": "Soft pastel skin tones, gentle contrast and creamy highlights give warm but natural analog colour.",
+   "prompt_phrase": "shot on professional 400-speed portrait color negative film, soft natural skin tones, gentle contrast, creamy highlights, fine grain",
+   "counters_de": "Digitale HDR-Härte und künstlich wirkende Farben",
+   "counters_en": "Digital HDR crunch and plastic-looking colour"
+  },
+  {
+   "axis": "color_grade",
+   "name_de": "Satte Diafilmfarben (Velvia-Look)",
+   "name_en": "Slide film saturation (Velvia-like)",
+   "effect_de": "Tiefe, satte Blau- und Grüntöne, dichtes Schwarz und hoher Kontrast bringen die Wucht eines Landschaftsmagazins.",
+   "effect_en": "Deep saturated blues and greens, dense blacks and high contrast bring the intensity of a landscape magazine.",
+   "prompt_phrase": "high-saturation color slide film look: deep saturated blues and greens, dense blacks, high contrast, crisp",
+   "counters_de": "",
+   "counters_en": ""
+  },
+  {
+   "axis": "color_grade",
+   "name_de": "Kodachrome-Farben",
+   "name_en": "Kodachrome colour",
+   "effect_de": "Kräftige Rottöne, tiefblauer Himmel und starker, doch natürlicher Kontrast erinnern an Dias aus den 1950er- und 60er-Jahren.",
+   "effect_en": "Rich reds, deep cyan-blue skies and strong yet natural contrast recall mid-century slide colour.",
+   "prompt_phrase": "1950s color slide film look: rich deep reds, saturated cyan-blue sky, strong contrast, slightly dark exposure",
+   "counters_de": "",
+   "counters_en": ""
+  },
+  {
+   "axis": "color_grade",
+   "name_de": "Kunstlicht-Nachtfilm (Cinestill-Look)",
+   "name_en": "Tungsten night film (Cinestill-like)",
+   "effect_de": "Ein kühler Kunstlicht-Farbton und rote Lichthöfe um helle Lampen geben Nachtszenen analogen Kinocharakter.",
+   "effect_en": "A cool tungsten-balanced cast with red halation glowing around bright lights gives night scenes an analog cinema feel.",
+   "prompt_phrase": "tungsten-balanced 800-speed cinema film shot at night, cool overall cast, red halation glow around bright lights, grain",
+   "counters_de": "",
+   "counters_en": ""
+  },
+  {
+   "axis": "color_grade",
+   "name_de": "Verblasster Abzug",
+   "name_en": "Faded matte print",
+   "effect_de": "Milchig angehobenes Schwarz und wenig Kontrast lassen das Bild wie einen alten Abzug aussehen.",
+   "effect_en": "Lifted, milky blacks and low contrast make the image look like an aged print.",
+   "prompt_phrase": "faded print look, lifted milky blacks, low contrast, matte finish, slightly washed colors",
+   "counters_de": "Satter Hochglanzkontrast mit perfekt tiefem Schwarz",
+   "counters_en": "Deep glossy contrast with crushed, perfect blacks"
+  },
+  {
+   "axis": "color_grade",
+   "name_de": "Crossentwicklung",
+   "name_en": "Cross-processed",
+   "effect_de": "Verschobene Farben, gelbgrüne Lichter, cyanfarbene Schatten und harter Kontrast holen den Alternativ-Look der 90er zurück.",
+   "effect_en": "Shifted hues with yellow-green highlights, cyan shadows and harsh contrast bring back the alternative look of the 1990s.",
+   "prompt_phrase": "cross-processed film look: shifted colors, yellow-green highlights, cyan shadows, harsh contrast",
+   "counters_de": "",
+   "counters_en": ""
+  },
+  {
+   "axis": "color_grade",
+   "name_de": "Gepushter Schwarzweißfilm",
+   "name_en": "Pushed black-and-white film",
+   "effect_de": "Grobes Korn, tiefes Schwarz und ausgefressene Lichter geben dem Bild die Dringlichkeit von Reportage und Straßenfotografie.",
+   "effect_en": "Gritty grain, deep blacks and blown highlights give the urgency of reportage and street photography.",
+   "prompt_phrase": "black-and-white 400-speed film pushed two stops, gritty grain, deep blacks, blown highlights",
+   "counters_de": "Glatte, bunte, rauschfreie Digitalbilder",
+   "counters_en": "Smooth, colourful, noiseless digital images"
+  },
+  {
+   "axis": "color_grade",
+   "name_de": "Duplex (zweifarbig)",
+   "name_en": "Duotone",
+   "effect_de": "Das Bild besteht nur aus Schwarz und einer Schmuckfarbe und wirkt grafisch und plakattauglich.",
+   "effect_en": "The image is reduced to black plus one spot colour, graphic and ready for a poster.",
+   "prompt_phrase": "duotone image using only black and one spot color, burnt orange, no other hues",
+   "counters_de": "Regenbogenpaletten und Farbbrei aus Verläufen",
+   "counters_en": "Full rainbow palettes and gradient colour soup"
+  },
+  {
+   "axis": "color_grade",
+   "name_de": "Erdtöne",
+   "name_en": "Earth palette",
+   "effect_de": "Ocker, Oliv, Lehmrot und verwaschenes Jeansblau wirken erdig, greifbar und analog.",
+   "effect_en": "Ochre, olive, clay red and faded denim make the image feel grounded, tactile and analog.",
+   "prompt_phrase": "earthy natural palette of ochre, olive, clay red and faded denim blue, no neon or candy colors",
+   "counters_de": "Grelle Neonakzente und Bonbonfarben",
+   "counters_en": "Saturated neon accents and candy-coloured highlights"
+  },
+  {
+   "axis": "texture_imperfection",
+   "name_de": "Echte Hautstruktur",
+   "name_en": "Real skin texture",
+   "effect_de": "Poren, feine Fältchen, ungleichmäßiger Teint und kleine Unreinheiten lassen Menschen körperlich echt wirken.",
+   "effect_en": "Pores, fine wrinkles, uneven tone and small blemishes make people look physically real.",
+   "prompt_phrase": "visible skin texture: pores, fine wrinkles, uneven skin tone, small blemishes, peach fuzz, no retouching",
+   "counters_de": "Glatte, porenlose Plastikhaut",
+   "counters_en": "Plastic, poreless, airbrushed skin"
+  },
+  {
+   "axis": "texture_imperfection",
+   "name_de": "Fliegende Haare",
+   "name_en": "Flyaway hair",
+   "effect_de": "Einzelne abstehende Haare und eine leicht zerzauste Frisur wirken natürlich und ungestylt.",
+   "effect_en": "Stray hairs and slightly messy styling make people look natural and unstyled.",
+   "prompt_phrase": "flyaway hairs, slightly messy hair, uneven hairline, a few strands across the face",
+   "counters_de": "Perfekt modellierte Helmfrisuren",
+   "counters_en": "Perfectly sculpted, helmet-like hair"
+  },
+  {
+   "axis": "texture_imperfection",
+   "name_de": "Getragene Kleidung",
+   "name_en": "Worn, creased clothing",
+   "effect_de": "Falten, Knötchen, verblasste Nähte und ein kleiner Fleck geben der Kleidung eine Geschichte.",
+   "effect_en": "Creases, pilling, faded seams and a small stain give clothes a history.",
+   "prompt_phrase": "creased, worn clothing with lint, pilling, faded seams and a small stain",
+   "counters_de": "Makellose, frisch gebügelte Kleidung wie aus dem Katalog",
+   "counters_en": "Pristine, freshly ironed, catalogue-new clothing"
+  },
+  {
+   "axis": "texture_imperfection",
+   "name_de": "Alltagsunordnung",
+   "name_en": "Lived-in clutter",
+   "effect_de": "Kabel, Kassenbons, Tassen und Klebezettel im Hintergrund zeigen einen Raum, in dem wirklich gelebt und gearbeitet wird.",
+   "effect_en": "Cables, receipts, cups and sticky notes in the background show a space that is actually used.",
+   "prompt_phrase": "realistic everyday clutter in the background: tangled cables, receipts, half-empty coffee cups, sticky notes, a jacket over a chair",
+   "counters_de": "Sterile, inszenierte Räume, sauber wie im Möbelhaus",
+   "counters_en": "Sterile, staged, showroom-clean sets"
+  },
+  {
+   "axis": "texture_imperfection",
+   "name_de": "Gebrauchsspuren und Patina",
+   "name_en": "Wear and patina",
+   "effect_de": "Kratzer, abgeplatzter Lack, Fingerabdrücke und abgegriffene Kanten machen Gegenstände und Produkte glaubwürdig.",
+   "effect_en": "Scuffs, chipped paint, fingerprints and worn edges give objects and products material honesty.",
+   "prompt_phrase": "scuffed surfaces, chipped paint, fingerprints, worn edges, dull patina on metal",
+   "counters_de": "Makellose CGI-Oberflächen mit perfekten Glanzlichtern",
+   "counters_en": "Flawless CGI surfaces with perfect specular highlights"
+  },
+  {
+   "axis": "texture_imperfection",
+   "name_de": "Filmkorn",
+   "name_en": "Organic film grain",
+   "effect_de": "Sichtbares Korn, in den Schatten stärker, bricht die digitale Glätte mit analoger Struktur.",
+   "effect_en": "Visible grain, stronger in the shadows, adds an analog texture that breaks digital smoothness.",
+   "prompt_phrase": "visible organic film grain throughout the image, stronger in the shadows",
+   "counters_de": "Übertrieben glatte, rauschfreie Flächen",
+   "counters_en": "Overly smooth, noiseless surfaces"
+  },
+  {
+   "axis": "texture_imperfection",
+   "name_de": "Digitales Bildrauschen",
+   "name_en": "High-ISO digital noise",
+   "effect_de": "Farbiges Rauschen in den Schatten verrät eine ehrliche Aufnahme bei wenig Licht.",
+   "effect_en": "Coloured speckle in the shadows signals an honest shot taken in low available light.",
+   "prompt_phrase": "high-ISO digital noise, colored speckle in the shadows, slightly muddy dark areas",
+   "counters_de": "Rauschfreie Nachtbilder, die keine echte Kamera liefern würde",
+   "counters_en": "Clean, noiseless low-light images no real camera produces"
+  },
+  {
+   "axis": "texture_imperfection",
+   "name_de": "Staub und Kratzer",
+   "name_en": "Dust and scratches",
+   "effect_de": "Staubkörner, ein Haar und feine Kratzer wie auf einem eingescannten Negativ machen das Bild archivisch und greifbar.",
+   "effect_en": "Specks, a stray hair and fine scratches from a scanned negative make the image feel archival and physical.",
+   "prompt_phrase": "scanned film with dust specks, a stray hair and fine scratches on the emulsion",
+   "counters_de": "Perfekt saubere, sterile Bildoberflächen",
+   "counters_en": "Perfectly clean, sterile image surfaces"
+  },
+  {
+   "axis": "texture_imperfection",
+   "name_de": "Lichteinfall (Light Leak)",
+   "name_en": "Light leak",
+   "effect_de": "Von einer Bildkante her läuft ein orangeroter Schimmer ins Bild, zufällig und nostalgisch.",
+   "effect_en": "An orange-red glow bleeds in from one edge of the frame, accidental and nostalgic.",
+   "prompt_phrase": "orange-red light leak bleeding in from the right edge of the frame",
+   "counters_de": "",
+   "counters_en": ""
+  },
+  {
+   "axis": "texture_imperfection",
+   "name_de": "Farbsäume (chromatische Aberration)",
+   "name_en": "Chromatic aberration",
+   "effect_de": "Lila und grüne Säume an kontrastreichen Kanten verraten eine echte, unvollkommene Optik.",
+   "effect_en": "Purple and green fringes on high-contrast edges reveal real, imperfect optics.",
+   "prompt_phrase": "slight chromatic aberration, purple and green fringing on high-contrast edges",
+   "counters_de": "Optisch perfekte Kanten ohne jeden Objektivcharakter",
+   "counters_en": "Optically perfect edges with no lens character"
+  },
+  {
+   "axis": "texture_imperfection",
+   "name_de": "Wetterspuren",
+   "name_en": "Weather traces",
+   "effect_de": "Nasser Asphalt, Regentropfen, zerzauste Haare und rote Nasen zeigen, dass in der Szene Wetter herrscht.",
+   "effect_en": "Wet pavement, raindrops, wind-blown hair and cold red noses give the scene a real climate.",
+   "prompt_phrase": "wet pavement, raindrops on jackets and the lens, wind-blown hair, cold red noses and cheeks",
+   "counters_de": "Szenen ohne Wetter, Jahreszeit oder Temperatur",
+   "counters_en": "Weatherless, climate-neutral scenes"
+  },
+  {
+   "axis": "texture_imperfection",
+   "name_de": "Papier und Vorzeichnung sichtbar",
+   "name_en": "Visible paper and process",
+   "effect_de": "Papierstruktur, ungleichmäßig deckende Farbe und Reste von Bleistiftvorzeichnung und Radierspuren zeigen die Handarbeit.",
+   "effect_en": "Paper tooth, uneven pigment and leftover pencil underdrawing and erasures reveal a handmade illustration.",
+   "prompt_phrase": "visible paper tooth, uneven pigment coverage, faint pencil underdrawing and erased marks still visible",
+   "counters_de": "Glatte, perfekt ausgefüllte Digitalillustration",
+   "counters_en": "Smooth, perfectly filled digital illustration"
+  },
+  {
+   "axis": "texture_imperfection",
+   "name_de": "Ungleichmäßige Handlinie",
+   "name_en": "Wobbly hand-drawn line",
+   "effect_de": "Ungleich dicke Linien, ein leichtes Zittern und überstehende Ecken zeigen eine menschliche Hand statt eines Vektorpfads.",
+   "effect_en": "Uneven line weight, a slight wobble and overshooting corners show a human hand instead of a vector path.",
+   "prompt_phrase": "hand-drawn lines with slight wobble, uneven line weight, overshooting corners, not perfectly closed shapes",
+   "counters_de": "Perfekte geometrische Vektorlinien",
+   "counters_en": "Perfect geometric vector strokes"
+  },
+  {
+   "axis": "era_dating",
+   "name_de": "Ferrotypie / Nassplatte (1860er)",
+   "name_en": "Wet-plate tintype (1860s)",
+   "effect_de": "Silbergraue Töne auf schwarzer Metallplatte, Chemieschlieren am Rand und steife Posen aus der langen Belichtungszeit versetzen das Bild in die 1860er.",
+   "effect_en": "Silver-grey tones on a black metal plate, swirling chemical marks at the edges and stiff long-exposure poses place the image in the 1860s.",
+   "prompt_phrase": "wet-plate collodion tintype, silver-grey tones on a black metal plate, swirling chemical artifacts at the edges, stiff long-exposure poses",
+   "counters_de": "",
+   "counters_en": ""
+  },
+  {
+   "axis": "era_dating",
+   "name_de": "Autochrom (1910er)",
+   "name_en": "Autochrome (1910s)",
+   "effect_de": "Weiches, pointillistisches Farbkorn und gedämpfte Pastelltöne erinnern an die verträumten ersten Farbfotos.",
+   "effect_en": "Soft, pointillist colour grain and muted pastel hues give the dreamy look of the earliest colour photographs.",
+   "prompt_phrase": "early Autochrome color plate, soft pointillist color grain, muted pastel hues, slightly blurred long exposure",
+   "counters_de": "",
+   "counters_en": ""
+  },
+  {
+   "axis": "era_dating",
+   "name_de": "Dokumentarfotografie der 1930er",
+   "name_en": "1930s documentary photograph",
+   "effect_de": "Nüchternes Schwarzweiß, Großformatschärfe und frontaler Aufbau geben den Menschen die schlichte Würde der Sozialreportage.",
+   "effect_en": "Sober black and white, large-format detail and frontal framing give people the plain dignity of social documentary.",
+   "prompt_phrase": "1930s documentary photograph, black and white, large-format detail, sober frontal framing, people in period work clothes",
+   "counters_de": "Heutige Hochglanzästhetik, beliebig in jede Epoche verpflanzt",
+   "counters_en": "Contemporary glossy aesthetics transplanted onto any era"
+  },
+  {
+   "axis": "era_dating",
+   "name_de": "Illustriertendruck der 1960er",
+   "name_en": "1960s magazine print",
+   "effect_de": "Sichtbares Druckraster und leicht verrutschte, warme Farben erinnern an die Farbseiten einer Illustrierten aus den 60ern.",
+   "effect_en": "Visible halftone dots and slightly off-register warm inks recall the colour pages of a 1960s magazine.",
+   "prompt_phrase": "1960s magazine color print, visible halftone dots, slightly off-register warm inks, period hairstyles and clothing",
+   "counters_de": "",
+   "counters_en": ""
+  },
+  {
+   "axis": "era_dating",
+   "name_de": "Familienfoto der 1970er",
+   "name_en": "1970s family snapshot",
+   "effect_de": "Ins Orangebraune verblasste Farben und ein quadratischer Abzug mit abgerundetem weißem Rand datieren das Bild auf einen Blick.",
+   "effect_en": "A faded orange-brown colour shift and a square print with a rounded white border date the image at a glance.",
+   "prompt_phrase": "1970s family snapshot, faded orange-brown color shift, square print with a white rounded border, period wallpaper and clothing",
+   "counters_de": "Ein zeitloses Irgendwo im Jetzt",
+   "counters_en": "A timeless, placeless now"
+  },
+  {
+   "axis": "era_dating",
+   "name_de": "DDR-Farbfilm (ORWO-Look)",
+   "name_en": "East German colour film (1970s/80s)",
+   "effect_de": "Gedämpfte Farben mit leichtem Grün-Cyan-Stich und blassem Rot ergeben den unverwechselbaren Farbton alter DDR-Fotos.",
+   "effect_en": "Muted colours with a slight greenish-cyan cast and weak reds produce a distinctly Central European period look.",
+   "prompt_phrase": "1970s East German color photograph on Eastern Bloc color film, muted colors with a slight greenish-cyan cast, weak reds, soft contrast, period interiors",
+   "counters_de": "",
+   "counters_en": ""
+  },
+  {
+   "axis": "era_dating",
+   "name_de": "80er-Blitzfoto mit Datumsstempel",
+   "name_en": "1980s flash with date imprint",
+   "effect_de": "Greller Blitz, satte Grundfarben und ein orangefarbenes Datum in der Ecke verorten das Bild sofort in den 80ern.",
+   "effect_en": "Bright flash, saturated primary colours and an orange LED date in the corner mark the period instantly.",
+   "prompt_phrase": "1980s compact camera flash photo, saturated primary colors, orange LED date imprint '87 6 14' in the lower right corner",
+   "counters_de": "",
+   "counters_en": ""
+  },
+  {
+   "axis": "era_dating",
+   "name_de": "Drogerie-Abzug der 90er",
+   "name_en": "1990s drugstore print",
+   "effect_de": "Kompaktkamerablitz, leicht grünstichige Laborfarben und ein glänzender 10x15-Abzug wirken wie frisch aus der Fototasche vom Drogeriemarkt.",
+   "effect_en": "Point-and-shoot flash, slightly greenish lab colour and a glossy 10x15 print look like they came out of a photo-lab envelope.",
+   "prompt_phrase": "late-1990s point-and-shoot 35mm print, on-camera flash, slightly greenish drugstore lab color, glossy 10x15 cm print",
+   "counters_de": "",
+   "counters_en": ""
+  },
+  {
+   "axis": "era_dating",
+   "name_de": "VHS-Standbild",
+   "name_en": "VHS camcorder still",
+   "effect_de": "Zeilenstruktur, auslaufende Farben, weiche Details und eingeblendetes Datum wecken Heimvideo-Nostalgie.",
+   "effect_en": "Scanlines, colour bleed, soft detail and a timestamp bring back home-video nostalgia.",
+   "prompt_phrase": "frame grab from a 1990s VHS camcorder: scanlines, color bleeding, soft detail, white timestamp in the corner",
+   "counters_de": "Hochauflösende, gestochene Schärfe",
+   "counters_en": "High-resolution crispness"
+  },
+  {
+   "axis": "era_dating",
+   "name_de": "Digicam der frühen 2000er",
+   "name_en": "Early 2000s digicam",
+   "effect_de": "Wenige Megapixel, harter Blitz, ausgefressene Lichter, lila Farbsäume und ein Datumsstempel sehen unverkennbar nach den frühen 2000ern aus.",
+   "effect_en": "Few megapixels, harsh flash, blown highlights, purple fringing and a date stamp look unmistakably early 2000s.",
+   "prompt_phrase": "2004 compact digital camera photo, 3 megapixels, harsh flash, blown highlights, purple fringing, orange date stamp in the corner",
+   "counters_de": "Die glatte Perfektion heutiger Smartphone-Software",
+   "counters_en": "Modern computational-photography perfection"
+  },
+  {
+   "axis": "era_dating",
+   "name_de": "Instagram-Filter der 2010er",
+   "name_en": "2010s Instagram filter",
+   "effect_de": "Quadratischer Ausschnitt, verblasste, abgedunkelte Ränder und ein warmer Gelbton markieren die jüngere Vergangenheit mit einem Augenzwinkern.",
+   "effect_en": "A square crop, faded vignetted edges and a warm yellowish tint mark the recent past with a touch of irony.",
+   "prompt_phrase": "2012 photo-sharing app filter look: square crop, faded edges, vignette, warm yellowish tint, lifted shadows",
+   "counters_de": "",
+   "counters_en": ""
+  },
+  {
+   "axis": "era_dating",
+   "name_de": "Epochengetreue Ausstattung",
+   "name_en": "Period-correct props",
+   "effect_de": "Jeder Gegenstand passt in ein bestimmtes Jahr, das verhindert Anachronismen und beliebige Zeitlosigkeit.",
+   "effect_en": "Every object fits one specific year, which prevents anachronisms and generic timelessness.",
+   "prompt_phrase": "every object period-correct for 1987: no smartphones, a CRT television, a corded phone, era-appropriate cars, haircuts and fashion",
+   "counters_de": "Moderne Gegenstände in einer vage zeitlosen Kulisse",
+   "counters_en": "Anachronistic modern objects in a vaguely timeless setting"
+  },
+  {
+   "axis": "era_dating",
+   "name_de": "Eindeutig heute",
+   "name_en": "Unmistakably present day",
+   "effect_de": "Aktuelle Geräte, Fahrzeuge und Mode datieren das Bild eindeutig auf heute.",
+   "effect_en": "Current devices, ways of getting around and fashion clearly date the image to the present.",
+   "prompt_phrase": "unmistakably present-day: smartphones in hands, wireless earbuds, e-scooters, contemporary everyday fashion, current car models",
+   "counters_de": "Eine vage, nicht datierbare Stockfoto-Welt",
+   "counters_en": "A vague, undatable stock-photo world"
+  },
+  {
+   "axis": "medium_surface",
+   "name_de": "Zeitungsdruck",
+   "name_en": "Newsprint halftone",
+   "effect_de": "Grobes Druckraster, ausgelaufene Farbe und vergilbtes, billiges Papier lassen das Bild aussehen wie aus der Tageszeitung.",
+   "effect_en": "Coarse halftone dots, ink bleed and yellowed cheap paper make the image look like it came from a daily paper.",
+   "prompt_phrase": "printed on cheap newsprint, coarse halftone dots, ink bleed, slightly yellowed paper",
+   "counters_de": "Glatte Digitalverläufe und perfekte Tonwertübergänge",
+   "counters_en": "Smooth digital gradients and perfect tonal transitions"
+  },
+  {
+   "axis": "medium_surface",
+   "name_de": "Risodruck",
+   "name_en": "Risograph print",
+   "effect_de": "Körniger Farbauftrag, leicht versetzte Farben und Leuchtfarben sehen aus wie aus einer kleinen Riso-Druckwerkstatt.",
+   "effect_en": "Grainy ink coverage, slight misregistration and fluorescent spot colours look like the output of a small independent print studio.",
+   "prompt_phrase": "two-color risograph print in fluorescent pink and blue, grainy uneven ink coverage, slight misregistration between colors",
+   "counters_de": "Saubere digitale Farbflächen",
+   "counters_en": "Clean digital colour fills"
+  },
+  {
+   "axis": "medium_surface",
+   "name_de": "Siebdruck",
+   "name_en": "Screenprint",
+   "effect_de": "Flache, deckende Farbschichten, leicht versetzt und ohne Verläufe, ergeben einen kräftigen Plakatlook.",
+   "effect_en": "Flat, opaque ink layers with slight registration offsets and no gradients give a bold poster look.",
+   "prompt_phrase": "screenprinted poster, flat opaque ink layers, slight registration offsets, no gradients, visible ink edges",
+   "counters_de": "Glänzende Digitalkunst voller Farbverläufe",
+   "counters_en": "Gradient-heavy glossy digital artwork"
+  },
+  {
+   "axis": "medium_surface",
+   "name_de": "Linolschnitt / Holzschnitt",
+   "name_en": "Linocut / woodcut",
+   "effect_de": "Sichtbare Schnittspuren, kräftige schwarze Flächen und ungleichmäßiger Farbauftrag wirken expressiv und handgemacht.",
+   "effect_en": "Carved gouge marks, bold black shapes and uneven ink look expressive and handmade.",
+   "prompt_phrase": "linocut print, visible carved gouge marks, bold black shapes, uneven ink coverage on off-white paper",
+   "counters_de": "Glatte Vektorformen",
+   "counters_en": "Smooth vector shapes"
+  },
+  {
+   "axis": "medium_surface",
+   "name_de": "Gouache auf Papier",
+   "name_en": "Gouache on paper",
+   "effect_de": "Matte, deckende Farbe mit sichtbarem Pinselstrich und unbemalten Papierrändern wirkt handgemalt und greifbar.",
+   "effect_en": "Matte, opaque paint with visible brushstrokes and bare paper edges looks hand-painted and tactile.",
+   "prompt_phrase": "gouache painting on textured paper, matte opaque paint, visible brushstrokes, unpainted paper edges",
+   "counters_de": "Glänzende Digitalmalerei mit weichgespritzten Übergängen",
+   "counters_en": "Glossy digital painting with airbrushed blends"
+  },
+  {
+   "axis": "medium_surface",
+   "name_de": "Lockeres Aquarell",
+   "name_en": "Loose watercolor",
+   "effect_de": "Farbblüten, harte Trockenränder, körniges Pigment und durchscheinende Bleistiftlinien zeigen echtes Wasser auf Papier.",
+   "effect_en": "Pigment blooms, hard drying edges, granulation and pencil lines showing through reveal real water on paper.",
+   "prompt_phrase": "loose watercolor on cold-press paper, pigment blooms and hard drying edges, granulation, pencil lines showing through",
+   "counters_de": "Gleichmäßig glatter, überkontrollierter Digital-Aquarellfilter",
+   "counters_en": "Uniformly smooth, over-controlled digital watercolor filter"
+  },
+  {
+   "axis": "medium_surface",
+   "name_de": "Kugelschreiber auf Collegeblock",
+   "name_en": "Ballpoint on lined paper",
+   "effect_de": "Blaue Kugelschreiber-Schraffuren auf liniertem Papier wirken persönlich und beiläufig wie eine Kritzelei aus der Vorlesung.",
+   "effect_en": "Blue ballpoint cross-hatching on lined notebook paper feels personal and casual, like a doodle from a lecture.",
+   "prompt_phrase": "blue ballpoint pen sketch on lined notebook paper, cross-hatching, pressure variation, a coffee ring stain",
+   "counters_de": "Polierte, präsentationsfertige Illustration",
+   "counters_en": "Polished, presentation-ready illustration"
+  },
+  {
+   "axis": "medium_surface",
+   "name_de": "Papiercollage",
+   "name_en": "Cut-paper collage",
+   "effect_de": "Scherenkanten, kleine Schatten zwischen den Lagen und verschiedene Papiersorten zeigen eine echte Klebearbeit.",
+   "effect_en": "Scissor edges, tiny shadows between layers and mixed paper textures show a real cut-and-paste piece.",
+   "prompt_phrase": "cut paper collage, visible scissor edges, small shadows between layers, mixed paper textures and colors",
+   "counters_de": "Flache Vektorillustration mit perfekten Kanten",
+   "counters_en": "Flat vector illustration with perfect edges"
+  },
+  {
+   "axis": "medium_surface",
+   "name_de": "Kopiertes Fanzine",
+   "name_en": "Photocopied zine",
+   "effect_de": "Harter Tonerkontrast, Sprenkel, Streifen und schief aufgelegte Vorlagen wirken nach Do-it-yourself und Punk.",
+   "effect_en": "High-contrast toner, speckles, streaks and skewed alignment give a DIY punk feel.",
+   "prompt_phrase": "photocopied zine page, high-contrast black toner, speckles and streaks, slightly skewed alignment",
+   "counters_de": "Sauberes, glattes Firmenlayout",
+   "counters_en": "Clean, corporate digital layout"
+  },
+  {
+   "axis": "medium_surface",
+   "name_de": "Cyanotypie",
+   "name_en": "Cyanotype",
+   "effect_de": "Preußischblau und Weiß mit gepinselten Rändern der Beschichtung wirken botanisch und wie aus dem Archiv.",
+   "effect_en": "Prussian blue and white with brushed emulsion edges look botanical and archival.",
+   "prompt_phrase": "cyanotype print, Prussian blue and white only, brushed emulsion edges on watercolor paper",
+   "counters_de": "",
+   "counters_en": ""
+  },
+  {
+   "axis": "medium_surface",
+   "name_de": "Knetfiguren",
+   "name_en": "Plasticine models",
+   "effect_de": "Handgeknetete Figuren mit Fingerabdrücken und Werkzeugspuren haben den Charme eines Stop-Motion-Films.",
+   "effect_en": "Handmade clay figures with fingerprints and tool marks have the warmth of stop-motion animation.",
+   "prompt_phrase": "handmade plasticine figures with visible fingerprints and tool marks, photographed on a tabletop set",
+   "counters_de": "Glänzende, perfekte 3D-Figuren",
+   "counters_en": "Glossy, perfect 3D-rendered characters"
+  },
+  {
+   "axis": "medium_surface",
+   "name_de": "Pappmodell",
+   "name_en": "Cardboard diorama",
+   "effect_de": "Ein echtes Modell aus Pappe und Papier mit sichtbarem Kleber und Schnittkanten, auf dem Tisch fotografiert, wirkt greifbar und gebastelt.",
+   "effect_en": "A physical model of cardboard and paper with visible glue and cut edges, photographed on a table, looks tactile and crafted.",
+   "prompt_phrase": "physical cardboard and paper diorama with visible glue and cut edges, photographed on a table with soft daylight",
+   "counters_de": "Glänzende isometrische 3D-Renderings",
+   "counters_en": "Glossy isometric 3D renders"
+  },
+  {
+   "axis": "medium_surface",
+   "name_de": "Grafik in echter Umgebung",
+   "name_en": "Graphic in situ",
+   "effect_de": "Die Grafik erscheint als echter Druck in ihrer Umgebung, etwa als Plakat an einer Wand, und wirkt dadurch glaubwürdig.",
+   "effect_en": "The design appears as a real printed object in its surroundings, such as a poster on a wall, which makes it believable.",
+   "prompt_phrase": "the graphic printed as a poster, wheatpasted on a weathered concrete wall, photographed straight on, slight wrinkles and torn corners",
+   "counters_de": "Schwebender, kontextloser Render vor leerem Hintergrund",
+   "counters_en": "Floating, context-free flat render on an empty background"
+  },
+  {
+   "axis": "post_processing",
+   "name_de": "Unretuschiert",
+   "name_en": "Unretouched",
+   "effect_de": "Das Bild kommt direkt aus der Kamera, ohne Hautglättung und Beautyfilter, und die Gesichter bleiben ehrlich.",
+   "effect_en": "Straight out of camera, with no skin smoothing or beauty filter, faces stay honest.",
+   "prompt_phrase": "unretouched, straight out of camera, no skin smoothing, no beauty filter, no glamorization",
+   "counters_de": "Glattretuschierte Gesichter mit Beautyfilter",
+   "counters_en": "Airbrushed, beauty-filtered faces"
+  },
+  {
+   "axis": "post_processing",
+   "name_de": "Natürlicher Dynamikumfang",
+   "name_en": "Natural dynamic range",
+   "effect_de": "Heller Himmel darf ausbrennen, Schatten dürfen dunkel werden, so wie eine echte Kamera sie aufnimmt.",
+   "effect_en": "Bright skies may blow out and shadows may go dark, just as a real camera would record them.",
+   "prompt_phrase": "natural dynamic range: bright sky allowed to blow out, shadows allowed to go dark, no HDR tone mapping",
+   "counters_de": "HDR-Look, bei dem jede Bildpartie perfekt belichtet ist",
+   "counters_en": "HDR tone mapping that exposes every area perfectly"
+  },
+  {
+   "axis": "post_processing",
+   "name_de": "Nicht nachgeschärft",
+   "name_en": "No over-sharpening",
+   "effect_de": "Ein leicht weiches Bild ohne künstliche Klarheit zeigt natürliche Details statt harter, überzeichneter Kanten.",
+   "effect_en": "A slightly soft image without a clarity boost shows natural detail instead of crunchy edges.",
+   "prompt_phrase": "slightly soft, no digital sharpening, no clarity boost, no halos around edges",
+   "counters_de": "Übertriebene Nachschärfung mit hellen Säumen an den Kanten",
+   "counters_en": "Over-sharpened micro-contrast and halos around edges"
+  },
+  {
+   "axis": "post_processing",
+   "name_de": "Abgesoffene Schatten",
+   "name_en": "Crushed blacks",
+   "effect_de": "Die Schatten fallen in reines Schwarz ohne Zeichnung ab, der Abzug wirkt kontrastreich, grafisch und kraftvoll.",
+   "effect_en": "Shadows drop to pure black with no detail, giving a contrasty, graphic, punchy print.",
+   "prompt_phrase": "contrasty print with crushed shadows, no detail in the blacks",
+   "counters_de": "Aufgehellte Schatten, in denen überall alles zu sehen ist",
+   "counters_en": "Shadow detail lifted everywhere"
+  },
+  {
+   "axis": "post_processing",
+   "name_de": "Unterbelichtet",
+   "name_en": "Underexposed",
+   "effect_de": "Eine Blende zu dunkel belichtet, verliert das Bild Details im Schatten und wirkt düster und zurückhaltend.",
+   "effect_en": "One stop too dark, with details lost in shadow, the image turns moody and restrained.",
+   "prompt_phrase": "underexposed by one stop, dark and moody, details lost in the shadows",
+   "counters_de": "Helle, perfekt belichtete Bilder",
+   "counters_en": "Bright, perfectly exposed images"
+  },
+  {
+   "axis": "post_processing",
+   "name_de": "Ausgefressene Lichter",
+   "name_en": "Blown highlights",
+   "effect_de": "Überbelichtete Lichter reißen zu reinem Weiß aus, das Bild wird luftig, sommerlich und unperfekt.",
+   "effect_en": "Overexposed highlights bleach out to pure white, making the image airy, summery and imperfect.",
+   "prompt_phrase": "overexposed, bleached highlights blown to pure white, airy washed-out look",
+   "counters_de": "Perfekt kontrollierte Belichtung",
+   "counters_en": "Perfect, controlled exposure"
+  },
+  {
+   "axis": "post_processing",
+   "name_de": "Halation (Lichthöfe)",
+   "name_en": "Halation and bloom",
+   "effect_de": "Ein sanfter rotoranger Schein umgibt helle Stellen und Lichtquellen und bringt analoge Wärme ins Bild.",
+   "effect_en": "A gentle red-orange glow bleeds around bright highlights and light sources, adding analog warmth.",
+   "prompt_phrase": "gentle red-orange halation glow around bright highlights and light sources",
+   "counters_de": "",
+   "counters_en": ""
+  },
+  {
+   "axis": "post_processing",
+   "name_de": "Natürliche Vignettierung",
+   "name_en": "Natural vignetting",
+   "effect_de": "Leicht abgedunkelte Ecken, wie sie das Objektiv erzeugt, lenken den Blick zur Bildmitte.",
+   "effect_en": "Slightly darker corners from the lens draw the eye toward the centre.",
+   "prompt_phrase": "natural lens vignetting, slightly darker corners",
+   "counters_de": "",
+   "counters_en": ""
+  },
+  {
+   "axis": "post_processing",
+   "name_de": "Scan mit Filmrand",
+   "name_en": "Film rebate scan",
+   "effect_de": "Der vollständige Scan zeigt den schwarzen Filmrand mit Bildnummern und Perforation als Beleg für ein analoges Original.",
+   "effect_en": "The full scan shows the black film edge with frame numbers and sprocket holes as proof of an analog original.",
+   "prompt_phrase": "full-frame negative scan including the black film rebate, frame numbers and sprocket holes",
+   "counters_de": "Randlose Digitalbilder ohne erkennbare Herkunft",
+   "counters_en": "Borderless digital images with no visible source"
+  },
+  {
+   "axis": "post_processing",
+   "name_de": "JPEG-Artefakte",
+   "name_en": "JPEG compression artifacts",
+   "effect_de": "Blockartige Artefakte und Farbstufen lassen das Bild aussehen wie ein Meme, das schon hundertmal weitergeleitet wurde.",
+   "effect_en": "Blocky artifacts and colour banding make the image look like a meme that has been reshared many times.",
+   "prompt_phrase": "heavily compressed JPEG, blocky artifacts, color banding, looks re-shared many times",
+   "counters_de": "Makellose, hochaufgelöste Bilder",
+   "counters_en": "Pristine high-resolution output"
+  },
+  {
+   "axis": "post_processing",
+   "name_de": "Handkoloriert",
+   "name_en": "Hand-tinted photo",
+   "effect_de": "Durchscheinende Ölfarben, ungleichmäßig auf ein Schwarzweißfoto aufgetragen, wirken historisch und handgemacht.",
+   "effect_en": "Translucent oil colours laid unevenly over a black-and-white photograph look historic and handmade.",
+   "prompt_phrase": "hand-tinted black-and-white photograph, translucent oil colors applied unevenly, color slightly outside the lines",
+   "counters_de": "",
+   "counters_en": ""
+  },
+  {
+   "axis": "post_processing",
+   "name_de": "Doppelbelichtung",
+   "name_en": "In-camera double exposure",
+   "effect_de": "Zwei Szenen liegen geisterhaft durchscheinend übereinander, poetisch und leicht surreal.",
+   "effect_en": "Two scenes overlap with ghostly transparency, poetic and slightly surreal.",
+   "prompt_phrase": "in-camera double exposure, two scenes overlapping with ghostly transparency",
+   "counters_de": "",
+   "counters_en": ""
+  },
+  {
+   "axis": "post_processing",
+   "name_de": "1-Bit-Dithering",
+   "name_en": "Ordered dithering",
+   "effect_de": "Ein regelmäßiges Punktmuster in Schwarzweiß oder wenigen Farben auf sichtbarem Pixelraster erinnert an frühe Computergrafik.",
+   "effect_en": "A regular dither pattern in black and white or a few colours, on a visible pixel grid, recalls early computer graphics.",
+   "prompt_phrase": "1-bit black-and-white image with an ordered dithering pattern, visible pixel grid",
+   "counters_de": "",
+   "counters_en": ""
+  },
+  {
+   "axis": "subject_casting",
+   "name_de": "Normale Menschen statt Models",
+   "name_en": "Ordinary people, not models",
+   "effect_de": "Durchschnittliche Gesichter, unterschiedliche Körperformen und echte Proportionen machen die Menschen im Bild glaubwürdig.",
+   "effect_en": "Average looks, varied body types and real proportions make the people in the image believable.",
+   "prompt_phrase": "ordinary everyday people, not models: average looks, varied body types and heights, real proportions",
+   "counters_de": "Durchweg schöne, schlanke Modelgesichter",
+   "counters_en": "Uniformly attractive, slim, model-like faces"
+  },
+  {
+   "axis": "subject_casting",
+   "name_de": "Gemischte Altersgruppen",
+   "name_en": "Real age range",
+   "effect_de": "Menschen jeden Alters stehen nebeneinander, von der Rentnerin mit tiefen Falten bis zum Teenager.",
+   "effect_en": "People of every age share the frame, from a deeply wrinkled pensioner to a teenager.",
+   "prompt_phrase": "mixed ages: an elderly woman with deep wrinkles and grey hair, a balding middle-aged man, a teenager",
+   "counters_de": "Alle ungefähr zwischen 25 und 35",
+   "counters_en": "Everyone aged roughly 25 to 35"
+  },
+  {
+   "axis": "subject_casting",
+   "name_de": "Unbemerkt fotografiert",
+   "name_en": "Candid and unaware",
+   "effect_de": "Niemand schaut in die Kamera, alle sind mit sich und ihrer Sache beschäftigt.",
+   "effect_en": "Nobody looks at the camera and everyone is absorbed in what they are doing.",
+   "prompt_phrase": "candid, nobody is looking at the camera, everyone absorbed in what they are doing",
+   "counters_de": "Alle lächeln in die Kamera",
+   "counters_en": "Everyone smiling into the lens"
+  },
+  {
+   "axis": "subject_casting",
+   "name_de": "Neutrale Mimik",
+   "name_en": "Neutral expressions",
+   "effect_de": "Gesichter ohne Lächeln, mit geschlossenem Mund und in Gedanken versunken, lassen die Szene ruhig und echt wirken.",
+   "effect_en": "Unsmiling faces with closed mouths, caught mid-thought, make the scene quiet and real.",
+   "prompt_phrase": "neutral unsmiling expressions, mouths closed, people lost in thought",
+   "counters_de": "Stockfoto-Lächeln mit allen Zähnen",
+   "counters_en": "Toothy stock-photo smiles"
+  },
+  {
+   "axis": "subject_casting",
+   "name_de": "Ausdrucksloser Blick in die Kamera",
+   "name_en": "Deadpan direct gaze",
+   "effect_de": "Die Person blickt ausdruckslos direkt in die Linse, die Arme hängen herab, wie in einer strengen Porträtserie.",
+   "effect_en": "The subject stares straight into the lens without expression, arms hanging, as in a formal portrait series.",
+   "prompt_phrase": "subject stares straight into the lens with a deadpan expression, arms hanging loosely, no pose",
+   "counters_de": "Aufgesetztes Lächeln und Modelposen",
+   "counters_en": "Posed, performative smiles and model poses"
+  },
+  {
+   "axis": "subject_casting",
+   "name_de": "Zwischenmoment",
+   "name_en": "In-between moment",
+   "effect_de": "Mitten im Blinzeln, im Satz oder im Schritt erwischt, ist es genau das Bild, das man sonst aussortieren würde.",
+   "effect_en": "Caught mid-blink, mid-sentence or mid-step, it is exactly the frame a photographer would normally discard.",
+   "prompt_phrase": "caught in an awkward in-between moment: mid-blink, mid-sentence, mid-step, an unfinished gesture",
+   "counters_de": "Perfekt komponierte Posen im besten Moment",
+   "counters_en": "Perfectly composed peak-moment poses"
+  },
+  {
+   "axis": "subject_casting",
+   "name_de": "Erkennbarer Beruf",
+   "name_en": "Specific occupation and gear",
+   "effect_de": "Ein klar erkennbarer Beruf mit echter Dienstkleidung und Werkzeug verankert die Szene im Alltag.",
+   "effect_en": "A clear role with authentic work clothes and tools anchors the scene in real life.",
+   "prompt_phrase": "a tram driver in a worn uniform with a lanyard, reading glasses pushed up on her forehead, a thermos in hand",
+   "counters_de": "Eine beliebige Person ohne erkennbare Rolle",
+   "counters_en": "A generic, roleless person"
+  },
+  {
+   "axis": "subject_casting",
+   "name_de": "Kleidung von der Stange",
+   "name_en": "Off-the-rack clothing",
+   "effect_de": "Wild kombinierte Schichten und praktische Teile aus ganz normalen Läden sehen aus wie echte Alltagskleidung.",
+   "effect_en": "Mismatched layers and practical pieces from ordinary shops make the clothing look like real life.",
+   "prompt_phrase": "clothing from ordinary shops: mismatched layers, a fleece jacket, practical shoes, faded jeans, nothing styled",
+   "counters_de": "Abgestimmte Outfits wie von der Stylistin ausgesucht",
+   "counters_en": "Coordinated outfits picked by a stylist"
+  },
+  {
+   "axis": "subject_casting",
+   "name_de": "Beschäftigte Hände",
+   "name_en": "Busy hands",
+   "effect_de": "Die Hände tragen, tippen, schälen oder halten etwas, das bringt Handlung und Glaubwürdigkeit ins Bild.",
+   "effect_en": "Hands carry, scroll, peel or hold something, which adds action and believability.",
+   "prompt_phrase": "hands busy with real tasks: carrying a shopping bag, scrolling a phone, peeling an orange",
+   "counters_de": "Gestellte, untätige Hände, die nichts berühren",
+   "counters_en": "Posed, idle hands that touch nothing"
+  },
+  {
+   "axis": "subject_casting",
+   "name_de": "Individuelle Merkmale",
+   "name_en": "Individual features",
+   "effect_de": "Brille, Zahnlücke, Sommersprossen, Narben, Tattoos und leichte Asymmetrie machen aus Gesichtern unverwechselbare Menschen.",
+   "effect_en": "Glasses, gap teeth, freckles, scars, tattoos and slight asymmetry turn faces into distinct people.",
+   "prompt_phrase": "individual features: glasses, a gap between the front teeth, freckles, a small scar, a faded tattoo, a slightly asymmetric face",
+   "counters_de": "Symmetrische, austauschbare Durchschnittsgesichter",
+   "counters_en": "Symmetrical, interchangeable generic faces"
+  },
+  {
+   "axis": "subject_casting",
+   "name_de": "Ungestellte Gruppe",
+   "name_en": "Unstaged group",
+   "effect_de": "Die Leute überschneiden sich, stehen in ungleichen Abständen und wenden sich teils ab, so wie Gruppen sich wirklich verhalten.",
+   "effect_en": "People overlap, stand at uneven distances and some turn away, the way groups really behave.",
+   "prompt_phrase": "people overlapping and interacting, unequal spacing, some turned away, not lined up for the camera",
+   "counters_de": "Aufgereihte Gruppen mit gleichmäßigen Abständen",
+   "counters_en": "Lined-up, evenly spaced group shots"
+  },
+  {
+   "axis": "subject_casting",
+   "name_de": "Natürliche Haltung",
+   "name_en": "Natural posture",
+   "effect_de": "Krummer Rücken, Gewicht auf einem Bein und Hände in den Taschen lassen die Leute entspannt und echt wirken.",
+   "effect_en": "Slouching, weight on one leg and hands in pockets make people look relaxed and real.",
+   "prompt_phrase": "natural relaxed posture: slouching, weight on one leg, hands in pockets",
+   "counters_de": "Steife Modelposen und kerzengerade Haltung",
+   "counters_en": "Rigid model poses and perfect posture"
+  },
+  {
+   "axis": "subject_casting",
+   "name_de": "Lokalkolorit",
+   "name_en": "Local specificity",
+   "effect_de": "Unverwechselbare Läden, Schilder, Autos und Menschen der Region machen den Ort konkret statt beliebig.",
+   "effect_en": "Unmistakably regional shops, signs, cars and people make the place specific instead of generic.",
+   "prompt_phrase": "set unmistakably in a German mid-sized town: German shop signs, a bakery, a kiosk, cars with German license plates, people dressed as locals",
+   "counters_de": "Ortlose amerikanische Vorstadt, das Stockfoto-Nirgendwo",
+   "counters_en": "Placeless American suburbia, the stock-photo nowhere"
+  },
+  {
+   "axis": "typography_layout",
+   "name_de": "Nur der vorgegebene Text",
+   "name_en": "Literal text only",
+   "effect_de": "Das Bild zeigt genau den vorgegebenen Text, richtig geschrieben und ohne erfundene Zusatzbeschriftungen.",
+   "effect_en": "The image shows exactly the quoted copy, correctly spelled and without invented extra labels.",
+   "prompt_phrase": "render exactly this text and nothing else: \"…\"; correct spelling, no extra words, no lorem ipsum, no invented labels",
+   "counters_de": "Fantasieschrift und erfundene Platzhalter-Beschriftungen",
+   "counters_en": "Garbled pseudo-text and invented filler labels"
+  },
+  {
+   "axis": "typography_layout",
+   "name_de": "Schweizer Raster",
+   "name_en": "Swiss grid",
+   "effect_de": "Ein strenges Raster, linksbündige Grotesk und viel Weißraum ergeben ein asymmetrisches, klares Layout.",
+   "effect_en": "A strict modular grid, flush-left grotesk type and generous white space give an asymmetric, orderly layout.",
+   "prompt_phrase": "Swiss International Style: strict modular grid, flush-left ragged-right grotesk typeface, asymmetric layout, generous white space",
+   "counters_de": "Mittig gestapelte Rundkacheln mit Icons, die typische KI-Infografik",
+   "counters_en": "Centred stacks of rounded icon cards, the generic AI infographic"
+  },
+  {
+   "axis": "typography_layout",
+   "name_de": "Erklärgrafik im Zeitungsstil",
+   "name_en": "Newspaper explainer graphic",
+   "effect_de": "Serifenüberschrift, feine Linien, direkte Beschriftung und Quellenangabe geben der Grafik journalistische Glaubwürdigkeit.",
+   "effect_en": "A serif headline, thin rules, direct labels and a source line lend journalistic credibility.",
+   "prompt_phrase": "newspaper explainer graphic: serif headline, short deck text, thin hairline rules, direct labels on the chart instead of a legend, small grey source line at the bottom, muted palette",
+   "counters_de": "Glänzende Vektor-Infografik mit Verlaufs-Icons",
+   "counters_en": "Glossy generic vector infographic with gradient icons"
+  },
+  {
+   "axis": "typography_layout",
+   "name_de": "Isotype-Piktogramme",
+   "name_en": "Isotype pictograms",
+   "effect_de": "Mengen erscheinen als Reihen gleicher, flacher Figuren, die Daten lassen sich auf einen Blick abzählen.",
+   "effect_en": "Quantities appear as rows of identical flat figures, so the data can be counted at a glance.",
+   "prompt_phrase": "Isotype pictogram chart: quantities shown by rows of identical repeated flat silhouette figures, one figure equals a fixed amount, two or three flat colors, no perspective",
+   "counters_de": "Dekorative Icons ohne Aussage über Mengen",
+   "counters_en": "Decorative icons with no quantitative meaning"
+  },
+  {
+   "axis": "typography_layout",
+   "name_de": "Reduziertes Diagramm",
+   "name_en": "Minimal data-ink",
+   "effect_de": "Dünne Achsen, direkte Beschriftung und eine einzige Akzentfarbe ohne jedes Dekor stellen die Lesbarkeit an erste Stelle.",
+   "effect_en": "Thin axes, direct labels and a single accent colour, with no chart junk, put clarity first.",
+   "prompt_phrase": "minimalist chart: no 3D, no shadows, no gradients, no icons, thin axis lines, light gridlines, direct value labels, a single accent color",
+   "counters_de": "Glänzende 3D-Balken, Schlagschatten und Farbverläufe",
+   "counters_en": "Glossy 3D bars, drop shadows and gradient fills"
+  },
+  {
+   "axis": "typography_layout",
+   "name_de": "Beschriftung mit Hinweislinien",
+   "name_en": "Leader-line callouts",
+   "effect_de": "Nummerierte Beschriftungen führen über dünne, gerade Linien genau an die gemeinte Stelle, präzise wie im Handbuch.",
+   "effect_en": "Numbered labels connect to exact points through thin straight lines, with technical precision.",
+   "prompt_phrase": "numbered callouts connected by thin straight leader lines to precise points on the drawing, small labels set in the margin",
+   "counters_de": "Schwebende Beschriftungen mit vagen Zierpfeilen",
+   "counters_en": "Floating labels with vague, decorative arrows"
+  },
+  {
+   "axis": "typography_layout",
+   "name_de": "Eine riesige Zahl",
+   "name_en": "Oversized numerals",
+   "effect_de": "Eine riesige Zahl beherrscht die Fläche, daneben steht nur kleiner Begleittext, die Rangfolge ist sofort klar.",
+   "effect_en": "One huge number dominates with small supporting text beside it, creating an instantly clear hierarchy.",
+   "prompt_phrase": "one enormous numeral dominates the layout in heavy type, with small supporting caption text",
+   "counters_de": "Icon-Kacheln, die alles gleich wichtig erscheinen lassen",
+   "counters_en": "Icon-in-circle tiles that give every item equal weight"
+  },
+  {
+   "axis": "typography_layout",
+   "name_de": "Festgelegte Schriftmischung",
+   "name_en": "Named type character",
+   "effect_de": "Eine klar benannte Kombination aus schmaler Grotesk, Buchschrift und Tabellenziffern gibt der Grafik eine eigene Stimme.",
+   "effect_en": "An explicit pairing of condensed grotesque, book serif and tabular figures gives the graphic its own voice.",
+   "prompt_phrase": "headline in a tightly spaced condensed grotesque, all caps; body text in a classic book serif; numbers in tabular monospaced figures",
+   "counters_de": "Dieselbe geometrische Allerwelts-Grotesk in jeder Grafik",
+   "counters_en": "The same default geometric sans-serif in every graphic"
+  },
+  {
+   "axis": "typography_layout",
+   "name_de": "Technische Zeichnung",
+   "name_en": "Technical drawing",
+   "effect_de": "Haarlinien, Maßlinien, Schnittschraffur und Schriftfeld verleihen der Grafik die Autorität einer Konstruktionszeichnung.",
+   "effect_en": "Hairlines, dimension lines, section hatching and a title block give the graphic engineering authority.",
+   "prompt_phrase": "technical drawing style: black hairline strokes on white, dimension lines with arrowheads and measurements, section hatching, title block in the lower right corner",
+   "counters_de": "Weicher, illustrativer Infografik-Look",
+   "counters_en": "Soft, illustrative infographic look"
+  },
+  {
+   "axis": "typography_layout",
+   "name_de": "Sketchnote von Hand",
+   "name_en": "Hand-lettered sketchnote",
+   "effect_de": "Fineliner und Marker, krakelige Handschrift und hingekritzelte Pfeile wirken persönlich wie Notizen aus einem Workshop.",
+   "effect_en": "Fineliner and marker, imperfect handwriting and doodled arrows feel personal, like notes from a workshop.",
+   "prompt_phrase": "hand-drawn sketchnote with black fineliner and one grey marker, imperfect handwriting, doodled arrows and boxes, slightly uneven baselines",
+   "counters_de": "Sterile Vektorperfektion",
+   "counters_en": "Sterile vector perfection"
+  },
+  {
+   "axis": "typography_layout",
+   "name_de": "Brutalistisches Layout",
+   "name_en": "Brutalist raw layout",
+   "effect_de": "Systemschriften, harte Rahmenlinien, dichter Text und null Dekor ergeben einen ehrlichen Anti-Design-Look.",
+   "effect_en": "System fonts, hard borders, dense text and no decoration create an honest anti-design look.",
+   "prompt_phrase": "raw brutalist layout: default system fonts, black text on white, hard 1px borders, dense text blocks, underlined blue links, no decoration, no rounded corners",
+   "counters_de": "Weiche Kachel-Optik mit abgerundeten Ecken",
+   "counters_en": "Soft, rounded-corner card UI aesthetics"
+  },
+  {
+   "axis": "typography_layout",
+   "name_de": "Eine Schmuckfarbe",
+   "name_en": "Single spot colour",
+   "effect_de": "Schwarz auf gebrochenem Weiß plus eine einzige Auszeichnungsfarbe wirkt zurückhaltend und wie gedruckt.",
+   "effect_en": "Black on off-white paper plus one emphasis colour gives a restrained, printed feel.",
+   "prompt_phrase": "black type on off-white uncoated paper with a single spot color, signal red, used only for emphasis",
+   "counters_de": "Lila-Türkis-Verläufe und Regenbogenfarben für jede Kategorie",
+   "counters_en": "Purple-to-teal gradients and rainbow category colours"
+  },
+  {
+   "axis": "typography_layout",
+   "name_de": "Raster aus Minidiagrammen",
+   "name_en": "Small multiples",
+   "effect_de": "Ein Raster gleicher Minidiagramme mit gemeinsamer Skala macht viele Daten leicht vergleichbar.",
+   "effect_en": "A grid of identical mini-charts sharing one scale makes dense data easy to compare.",
+   "prompt_phrase": "small multiples: a grid of 12 identical miniature charts sharing the same scale and axes, each with a short label",
+   "counters_de": "Ein einziges großes Schaudiagramm, mit Deko aufgepolstert",
+   "counters_en": "One oversized hero chart padded with decoration"
+  },
+  {
+   "axis": "typography_layout",
+   "name_de": "Reines Typoplakat",
+   "name_en": "Type-only poster",
+   "effect_de": "Ganz ohne Illustration füllen die Buchstaben das Format und werden selbst zum Bild.",
+   "effect_en": "With no illustration at all, the letterforms fill the format and become the image.",
+   "prompt_phrase": "typographic poster with no illustration at all: only the words, set huge, filling the format edge to edge, the letterforms are the image",
+   "counters_de": "Beliebige Illustration mit draufgeklatschtem Titel",
+   "counters_en": "Generic illustration with a title slapped on top"
+  }
+ ]
+}

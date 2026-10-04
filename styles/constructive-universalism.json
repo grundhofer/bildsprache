@@ -1,0 +1,68 @@
+{
+ "slug": "constructive-universalism",
+ "style_block": "A Constructive Universalist painting, Montevideo, Uruguay, 1930s–1940s, setting pictographic signs into a grid like a universal script. Medium: matte oil on cardboard; uneven hand-painted black lines; board showing through thin, brushy paint; ochre, brick red, umber, slate grey, black, chalky white. Composition: an orthogonal grid fills the surface edge to edge with unequal, asymmetric compartments in golden-section proportions; each holds one flat sign, frontal or in profile, sized to its cell, not reality; some cells stay plain colour. Lettering, where text is needed: irregular hand-painted block capitals and numerals, set into compartments like signs; the title fills one long cell. Information, where a diagram, map or chart is shown: each item a sign in its own compartment, read left to right, top to bottom like script, its numeral in an adjoining cell. Avoid equal tile grids, vector icons, arrows, gradients, shadows, perspective, primary-colour Neo-Plastic grids and faux pre-Columbian ornament.",
+ "de": {
+  "name": "Konstruktiver Universalismus",
+  "aka": [
+   "Universalismo Constructivo",
+   "Universaler Konstruktivismus",
+   "Stil des Taller Torres García"
+  ],
+  "era": "ab 1934, Montevideo, Uruguay (Anfänge ab 1929 in Paris)",
+  "summary": "Handgemaltes, ungleich geteiltes Raster mit flachen Bildzeichen in Ocker, Ziegelrot und Schiefergrau; im Katalog, weil es Information wie eine Bilderschrift ordnet und nicht in gleich große Symbolkacheln aufteilt.",
+  "origin": "Joaquín Torres García (1874–1949) wurde in Montevideo geboren und kam 1891 mit seiner Familie nach Katalonien; in Paris schlug er 1929 Michel Seuphor die Gründung der Gruppe Cercle et Carré vor und gliederte dort die Bildfläche mit orthogonalen, nach dem Goldenen Schnitt gezogenen Linien, in deren Felder er Zeichen von universeller Bedeutung setzte. Im April 1934 kehrte er nach Montevideo zurück, gründete 1935 die Asociación de Arte Constructivo und veröffentlichte 1944 bei Editorial Poseidón in Buenos Aires das Buch „Universalismo Constructivo“, das seine Vorträge aus den Jahren 1934 bis 1943 mit 253 Zeichnungen versammelt. Um die Jahreswende 1942/43 trat erstmals der Taller Torres García zusammen, zu dem unter anderen Julio Alpuy, Gonzalo Fonseca, José Gurvich sowie Torres Garcías Söhne Augusto und Horacio Torres gehörten; gelehrt wurde eine streng flächige Malerei aus Farbfläche, Linie und Geometrie, deren Einheit ein Gerüst nach dem Goldenen Schnitt herstellt. 1944 malte die Werkstatt Wandbilder im Pavillon Martirené des Hospitals Saint Bois. Typisch sind Ölbilder auf Karton wie „Composición II“ (1935), ein Raster, dessen Felder Menschen, Tiere und abstrakte Zeichen in vorwiegend erdigen Ockertönen enthalten; Torres García schrieb, die Größe der Dinge richte sich nach der Proportion und nicht nach der Wirklichkeit, eine Flasche und ein Mensch könnten gleich groß sein.",
+  "markers": [
+   "Handgemaltes rechtwinkliges Raster aus ungleich großen Feldern, asymmetrisch nach dem Goldenen Schnitt geteilt",
+   "In jedem Feld ein flaches Bildzeichen wie Sonne, Fisch, Anker, Uhr, Haus, Leiter oder Mensch",
+   "Zeichen frontal oder im Profil, ohne Perspektive und Schattierung, nach der Feldgröße bemessen statt nach der Wirklichkeit",
+   "Erdige Palette aus Ocker, Ziegelrot, Braun, Schiefergrau, Schwarz und Weiß, matt in Öl auf Karton oder Holz",
+   "Gemalte Großbuchstaben und Ziffern stehen in eigenen Feldern, als Zeichen unter Zeichen",
+   "Von Hand gemalte Linien mit unruhigen Rändern und sichtbarer Pinselstrich; nichts wirkt maschinell exakt"
+  ],
+  "escapes": "Bildgeneratoren legen eine Prozess-Infografik meist als Raster gleich großer Kacheln mit sauberen Vektorsymbolen, Farbverläufen, Schlagschatten und Pfeilen an. Der Konstruktive Universalismus nutzt zwar ebenfalls ein Raster, aber ein ungleich geteiltes, von Hand gemaltes, dessen Felder unterschiedlich viel Gewicht tragen; die Zeichen sind flach, matt und auf ihr Feld zugeschnitten. Die Reihenfolge ergibt sich aus der Leserichtung wie bei einer Schrift, nicht aus Pfeilen, Licht oder Raumtiefe.",
+  "pitfalls": "Das Modell rutscht leicht in ein Raster in Rot, Gelb und Blau mit schwarzen Balken wie im Neoplastizismus ab oder fällt in das gleichmäßige Kachelraster mit glatten Symbolen zurück. Andere Ergebnisse überladen die Fläche mit Fantasieornamenten im Stil präkolumbischer Textilien oder werden kindlich verspielt. Bei Beschriftung und Ziffern auf Schreibfehler achten und darauf, dass die Lesefolge eindeutig bleibt, wenn zusätzliche Füllzeichen die sechs Schritte umgeben.",
+  "tip": "Ausdrücklich „ungleich große Felder, von Hand gemalt, Teilung nach dem Goldenen Schnitt“ verlangen und die Lesefolge benennen: von links nach rechts, von oben nach unten, jede Ziffer in einem eigenen kleinen Feld.",
+  "sensitivity": "Der Stil ist eng an einen verstorbenen Künstler und seine Werkstatt gebunden; im Prompt die Bewegung beschreiben, nicht den Künstlernamen nennen, und Ergebnisse nicht als Werke von Torres García oder seinen Schülern ausgeben. Zeichen andiner Kulturen, etwa Darstellungen des Sonnengottes Inti, nicht als beliebiges Dekor einsetzen."
+ },
+ "en": {
+  "name": "Constructive Universalism",
+  "aka": [
+   "Universalismo Constructivo",
+   "Universal Constructivism",
+   "Taller Torres-García style"
+  ],
+  "era": "from 1934, Montevideo, Uruguay (beginnings in Paris from 1929)",
+  "summary": "Hand-painted grid of unequal compartments with flat signs in ochre, brick red and slate grey; in the catalog because it orders information like picture writing, not in equal icon tiles.",
+  "origin": "Joaquín Torres-García (1874–1949) was born in Montevideo and moved with his family to Catalonia in 1891; in Paris in 1929 he proposed founding the group Cercle et Carré to Michel Seuphor, and there he divided the picture plane with orthogonal lines drawn on the golden section, placing signs of universal meaning in the compartments. He returned to Montevideo in April 1934, founded the Asociación de Arte Constructivo in 1935 and in 1944 published the book 'Universalismo Constructivo' with Editorial Poseidón in Buenos Aires, collecting his lectures of 1934 to 1943 with 253 drawings. The Taller Torres-García first met around the turn of 1942/43; its members included Julio Alpuy, Gonzalo Fonseca, José Gurvich and Torres-García's sons Augusto and Horacio Torres, and it taught a strictly flat painting of colour plane, line and geometry held together by a golden-section framework. In 1944 the workshop painted murals in the Martirené pavilion of the Saint Bois hospital. Typical works are oils on cardboard such as 'Composición II' (1935), a grid whose compartments hold human figures, animals and abstract signs in mainly earthy ochre tones; Torres-García wrote that the size of things follows proportion, not reality, so that a bottle and a man may be the same size.",
+  "markers": [
+   "Hand-painted orthogonal grid of unequal compartments, divided asymmetrically on the golden section",
+   "One flat pictographic sign per compartment, such as sun, fish, anchor, clock, house, ladder or figure",
+   "Signs frontal or in profile, without perspective or shading, sized to their cell rather than to reality",
+   "Earthy palette of ochre, brick red, brown, slate grey, black and white, matte oil on cardboard or wood",
+   "Painted capitals and numerals placed in their own compartments, as signs among signs",
+   "Hand-painted lines with uneven edges and visible brushwork; nothing looks mechanically precise"
+  ],
+  "escapes": "Image generators usually lay out a process infographic as a grid of equal tiles with clean vector icons, gradients, drop shadows and arrows. Constructive Universalism also uses a grid, but an unequal, hand-painted one whose compartments carry different weight; the signs are flat, matte and cut to fit their cells. The order comes from reading direction, as in a script, not from arrows, light or depth.",
+  "pitfalls": "The model easily slides into a red, yellow and blue grid with black bars in the manner of Neo-Plasticism, or back into the even tile grid with smooth icons. Other results crowd the surface with invented pre-Columbian textile ornament or turn childish and whimsical. Check labels and numerals for misspellings, and check that the reading order stays clear when extra filler signs surround the six steps.",
+  "tip": "Ask explicitly for 'unequal compartments, hand-painted, divided on the golden section' and name the reading order: left to right, top to bottom, each numeral in its own small cell.",
+  "sensitivity": "The style is closely tied to one deceased artist and his workshop; prompt by the movement, not the artist's name, and do not pass results off as works by Torres-García or his students. Do not use signs from Andean cultures, such as images of the sun god Inti, as arbitrary decoration."
+ },
+ "sources": [
+  {
+   "title": "Torres García – Biografía y cronología, Museo Torres García (Montevideo)",
+   "url": "https://www.torresgarcia.org.uy/bio.php"
+  },
+  {
+   "title": "Joaquín Torres García: Sección áurea (from Universalismo Constructivo) – Museo Torres García",
+   "url": "https://www.torresgarcia.org.uy/te_puede_interesar/bio/textos_de_Torres/SECCION-AUREA.pdf"
+  },
+  {
+   "title": "Joaquín Torres García – Wikipedia (es)",
+   "url": "https://es.wikipedia.org/wiki/Joaqu%C3%ADn_Torres_Garc%C3%ADa"
+  },
+  {
+   "title": "Joaquín Torres-García – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Torres-Garc%C3%ADa"
+  }
+ ]
+}

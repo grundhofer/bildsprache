@@ -1,0 +1,68 @@
+{
+ "slug": "cut-paper-collage",
+ "style_block": "A French gouache cut-out of about 1950 from Nice or Vence, scissor-cut freehand from hand-painted sheets. Medium: paper brushed with opaque gouache in a few saturated colours (ultramarine, vermilion, lemon yellow, emerald, black), brush streaks in each sheet; fluid scissor contours, slightly angular where the blade turned; overlaps with lifted edges, pinholes and glue wrinkles; photographed flat. Composition: no perspective; a ground of two or three large colour rectangles butted edge to edge; big simplified silhouettes, some cropped by the edge; faces and hands as a few cut pieces, never drawn; leaf, star or seaweed shapes scattered for rhythm. Lettering, where text is needed: uneven scissor-cut capitals glued in a row. Information, where a diagram, map or chart is shown: cut strips side by side, keyed by colour swatches. Avoid smooth vector illustration, gradients, shading, outlines and a centred hero figure; no torn edges, newsprint or shadow-box depth.",
+ "de": {
+  "name": "Papiercollage",
+  "aka": [
+   "Papier collé",
+   "Klebebild",
+   "Gouaches découpées"
+  ],
+  "era": "1912–1954, Frankreich",
+  "summary": "Flache, frei mit der Schere geschnittene Formen aus gouachiertem Papier auf großen Farbflächen; im Katalog, weil Schnittkante und bemalter Bogen weiche Verläufe und Modellierung ausschließen.",
+  "origin": "Im Kubismus klebten Pablo Picasso und Georges Braque 1912 bildfremdes Material ins Bild: Picasso setzte im „Stillleben mit Rohrstuhl“ ein Wachstuch mit aufgedrucktem Stuhlgeflecht auf die Leinwand, Braque klebte im Herbst 1912 in Sorgues für „Obstschale und Glas“ Stücke einer Tapete mit aufgedruckter Holzmaserung auf eine Kohlezeichnung – das erste Papier collé. Zu einer eigenen Bildsprache aus geschnittenem Farbpapier machte die Technik Henri Matisse, nachdem ihn eine Krebsoperation 1941 oft ans Bett und an den Rollstuhl gebunden hatte: Er schnitt seine Formen aus Bögen, die seine Assistenten zuvor mit Gouache bemalt hatten. Sein erstes großes Projekt war das Künstlerbuch „Jazz“ mit 20 im Schablonendruck (Pochoir) reproduzierten Farbtafeln, das der Verleger Tériade am 30. September 1947 herausgab; für die wandgroßen „Océanie“-Arbeiten von 1946 steckte seine Atelierassistentin Lydia Delectorskaya Vögel, Fische und Algenformen nach seinen Anweisungen lose mit Nadeln an die Wand. Ab 1948 entwarf er Fenster, Messgewänder und Tabernakeltür der Rosenkranzkapelle in Vence mit geschnittenem Papier; nach seinem letzten Gemälde 1951 arbeitete er bis zu seinem Tod 1954 nur noch mit der Schere, 1952 entstanden etwa die „Blauen Akte“.",
+  "markers": [
+   "frei mit der Schere geschnittene, fließende Konturen, an Richtungswechseln leicht eckig",
+   "Papier mit deckender Gouache bemalt, Pinselspuren und Schlieren in jeder Farbfläche",
+   "wenige gesättigte Farben wie Ultramarin, Zinnoberrot, Zitronengelb und Smaragdgrün, ohne Schattierung und Verlauf",
+   "überlappende Papierstücke mit leicht abstehenden Rändern, Nadellöchern und vom Leim gewellten Stellen",
+   "Grund aus zwei oder drei großen, aneinanderstoßenden Farbrechtecken, darauf vereinfachte Silhouetten ohne Perspektive",
+   "Blatt-, Stern- und Algenformen als rhythmisch verteilte Füllformen"
+  ],
+  "escapes": "Mit der Schere lassen sich keine weichen Verläufe, Glanzlichter oder unscharfen Hintergründe herstellen: Jede Form ist eine flache Farbfläche mit Schnittkante, Tiefe entsteht nur durch Überlappung. Weil der Stil die Fläche in wenige große Farbrechtecke teilt, Figuren am Bildrand anschneidet und Füllformen frei verteilt, entfallen auch die mittig inszenierte Hauptfigur, der fotografische Bildausschnitt und das Kachelraster der üblichen Infografik.",
+  "pitfalls": "Oft liefert das Modell glatte Vektorgrafik mit makellos gleichmäßigen Kanten und darübergelegter Papierstruktur oder fügt Schlagschatten wie bei einem mehrschichtigen Papierschnitt hinzu. Gesichter werden gern mit Linien gezeichnet statt aus Papier geschnitten; außerdem schleichen sich gerissene Ränder, Zeitungsausschnitte oder Pastelltöne ein. Bei Figurenszenen prüfen, ob Alter, Körperhaltung und Werkzeug in den Händen trotz der vereinfachten Silhouetten lesbar bleiben.",
+  "tip": "Ausdrücklich „frei mit der Schere geschnitten, ohne Vorzeichnung“ und „deckende Gouache mit sichtbaren Pinselstrichen“ verlangen und das Blatt flach von oben fotografieren lassen; so entstehen echte Papierkanten statt einer Vektorfläche mit Papiertextur.",
+  "sensitivity": "Der Stil ist eng mit dem Spätwerk eines einzelnen Malers verbunden; sein Name und bestimmte Werke wie die „Blauen Akte“ gehören nicht in den Prompt, und Figuren sollen deren Haltungen nicht nachbilden."
+ },
+ "en": {
+  "name": "Cut-paper collage",
+  "aka": [
+   "papier collé",
+   "gouache cut-outs",
+   "paper cut-outs"
+  ],
+  "era": "1912–1954, France",
+  "summary": "Flat shapes cut freehand with scissors from gouache-painted paper and laid on large fields of colour; included because the cut edge and painted sheet rule out soft gradients and modelling.",
+  "origin": "Within Cubism, Pablo Picasso and Georges Braque pasted everyday materials into their pictures in 1912: Picasso set a piece of oilcloth printed with a chair-caning pattern onto the canvas of Still Life with Chair Caning, and in autumn 1912 in Sorgues Braque glued pieces of wood-grain wallpaper onto a charcoal drawing for Fruit Dish and Glass, the first papier collé. Henri Matisse turned the technique into a pictorial language of its own after cancer surgery in 1941 left him often confined to bed or a wheelchair: he cut his shapes from sheets that his assistants had painted with gouache. His first major project was the artist’s book Jazz, with 20 colour plates reproduced by stencil (pochoir), published by Tériade on 30 September 1947; for the wall-sized Oceania works of 1946 his studio assistant Lydia Delectorskaya, following his directions, loosely pinned birds, fish and seaweed shapes straight onto the wall. From 1948 he designed the windows, chasubles and tabernacle door of the Chapel of the Rosary in Vence with cut paper; after his last painting in 1951 he worked only with scissors until his death in 1954, making the Blue Nudes in 1952.",
+  "markers": [
+   "fluid contours cut freehand with scissors, slightly angular where the cut changes direction",
+   "paper painted with opaque gouache, brush marks and streaks inside each colour area",
+   "a few saturated colours such as ultramarine, vermilion, lemon yellow and emerald, with no shading or gradients",
+   "overlapping paper pieces with slightly lifted edges, pinholes and glue wrinkles",
+   "a ground of two or three large abutting colour rectangles, with simplified silhouettes on top and no perspective",
+   "leaf, star and seaweed shapes scattered rhythmically as fillers"
+  ],
+  "escapes": "Scissors cannot make soft gradients, glowing highlights or blurred backgrounds: every form is a flat colour area with a cut edge, and depth comes only from overlap. Because the style divides the sheet into a few large colour rectangles, crops figures at the edge and scatters filler shapes freely, the centred hero figure, the photographic crop and the tile grid of the usual infographic disappear as well.",
+  "pitfalls": "The model often delivers smooth vector art with perfectly even edges and a paper texture laid over it, or adds drop shadows as in a layered paper cut. Faces tend to be drawn with lines instead of cut from paper, and torn edges, newspaper clippings or pastel tones creep in. In figure scenes, check that age, posture and the tools in the hands still read despite the simplified silhouettes.",
+  "tip": "Ask explicitly for shapes 'cut freehand with scissors, no underdrawing' and 'opaque gouache with visible brush strokes', and have the sheet photographed flat from above; this gives real paper edges instead of a vector shape with a paper texture.",
+  "sensitivity": "The style is closely tied to the late work of a single painter; his name and specific works such as the Blue Nudes stay out of the prompt, and figures should not copy their poses."
+ },
+ "sources": [
+  {
+   "title": "Fruit Dish and Glass – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fruit_Dish_and_Glass"
+  },
+  {
+   "title": "Still Life with Chair Caning – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Still_Life_with_Chair_Caning"
+  },
+  {
+   "title": "Henri Matisse – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Henri_Matisse"
+  },
+  {
+   "title": "Jazz (Henri Matisse) – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jazz_(Henri_Matisse)"
+  }
+ ]
+}

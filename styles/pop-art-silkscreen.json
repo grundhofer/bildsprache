@@ -1,0 +1,67 @@
+{
+ "slug": "pop-art-silkscreen",
+ "style_block": "A New York Pop Art silkscreen painting of the early 1960s: an enlarged press photo screened in black over hand-painted colour on canvas. Medium: photo reduced to hard black, mid-tones dropped or coarsely screened; flat acrylic fields in unnatural hot pink, turquoise, orange and lemon yellow, black printed millimetres off-register; clogged, flooded blacks beside pale squeegee skips, canvas weave showing. Composition: tight crop pressed flat against a single-colour ground, no scenery or depth; often the same stencil repeated edge to edge, identical in drawing, differing in colour and ink load. Lettering, where text is needed: found headline or label capitals screened in the same blotchy black. Information, where a diagram, map or chart is shown: quantities as one printed image repeated in rows, like stock on a shelf. Avoid airbrushed skin, gradients, glow, posterize filters and clean vector edges; no comic-strip dot fields, speech balloons or celebrity likeness.",
+ "de": {
+  "name": "Pop-Art-Siebdruck",
+  "aka": [
+   "Fotosiebdruck",
+   "Siebdruckbild der Pop-Art"
+  ],
+  "era": "frühe 1960er-Jahre, New York",
+  "summary": "Ein vergrößertes Pressefoto, in hartem Schwarz versetzt über flache Acrylflächen in Pink, Türkis und Orange gedruckt, oft mehrfach nebeneinander; im Katalog, weil Druckfehler und Wiederholung das glatte KI-Porträt ersetzen.",
+  "origin": "Der Siebdruck war in den USA bereits ein eingeführtes Verfahren für Gebrauchsdrucke, als Künstler ihn in den 1930er-Jahren aufgriffen; ihre Blätter nannten sie zur Abgrenzung vom gewerblichen Druck Serigrafien. Andy Warhol, in den 1950er-Jahren Werbegrafiker in New York, übernahm 1962 den Fotosiebdruck für seine Gemälde: Er schickte ausgewählte Presse- und Werbefotos an einen gewerblichen Siebhersteller, der sie auf lichtempfindlich beschichtete Siebe übertrug; dann pauste er die Umrisse auf die Leinwand, malte flache Farbflächen in Acryl und druckte das schwarze Fotomotiv mit der Rakel darüber. So ließ sich dieselbe Vorlage beliebig oft wiederholen, und jeder Abzug fiel etwas anders aus. Das „Marilyn Diptych“ (1962, Tate), kurz nach dem Tod Marilyn Monroes im August 1962 nach einem Werbefoto zum Film „Niagara“ (1953) entstanden, wiederholt ihr Gesicht fünfzigmal, auf der linken Tafel in kräftigen Farben, auf der rechten in Schwarz-Weiß, das zunehmend verblasst. Robert Rauschenberg begann 1962 nach einem Besuch in Warhols Atelier mit eigenen Siebdruckbildern; zwischen Oktober 1962 und Juni 1964 entstanden rund fünfzig Siebe nach Fotos aus Zeitschriften, Zeitungen und eigenen Aufnahmen, die er für viele Bilder wiederverwendete.",
+  "markers": [
+   "Foto auf hartes Schwarz reduziert: Mitteltöne fallen weg, Schatten werden zu geschlossenen schwarzen Flächen oder grobem Raster",
+   "flache, von Hand gemalte Acrylflächen in unnatürlichen Farben wie Pink, Türkis, Orange und Zitronengelb, ohne jede Modellierung",
+   "das Schwarz liegt um einige Millimeter gegenüber den Farbflächen verschoben (Passerversatz)",
+   "Spuren der Rakel: zugelaufene, verschmierte schwarze Partien neben blassen Fehlstellen, durchscheinendes Leinwandgewebe",
+   "eng beschnittenes Motiv, flach vor einen einfarbigen Grund gesetzt, ohne Umgebung und Raumtiefe",
+   "oft dieselbe Schablone mehrfach nebeneinander gedruckt: gleiche Zeichnung, aber in jedem Abzug andere Farben und Farbmenge"
+  ],
+  "escapes": "Das übliche KI-Porträt zeigt weich ausgeleuchtete, retuschierte Haut, einen unscharfen Hintergrund, Farbverläufe und eine mittig inszenierte Einzelfigur. Hier gibt es nur zwei Schichten, flache Farbe und eine harte schwarze Fotoschablone, und damit keinen Platz für Verläufe, Tiefenunschärfe oder weiche Modellierung; Passerversatz und Druckfehler brechen die makellose Oberfläche, und die Wiederholung nimmt dem einzelnen Bild seine Sonderstellung.",
+  "pitfalls": "Ohne ausdrücklichen Hinweis entsteht ein Bild wie aus einem digitalen Pop-Art-Filter, mit sauber getrennten Tonwertstufen, passgenauen Kanten und Neonverläufen, oder es rutscht in die Comic-Pop-Art mit gleichmäßigen Rasterpunktflächen und Sprechblasen ab. In Reihungen zeichnet das Modell jede Wiederholung gern neu, mit anderer Haltung, anderem Ausdruck oder anderem Alter, statt denselben Abzug zu wiederholen; außerdem nähern sich Gesichter leicht dem bekannten Vorbild mit blondem Haar und roten Lippen an. Zu prüfen ist auch, ob kleine Merkmale wie Narben, Falten oder feine Schrift im Schwarz untergehen.",
+  "tip": "Farbe und Foto als getrennte Schichten beschreiben, etwa „flache Farbflächen von Hand gemalt, das schwarze Fotosieb einige Millimeter verschoben darüber gedruckt“, und die Zahl der Wiederholungen ausdrücklich nennen, auch wenn es nur ein einziger Abzug sein soll.",
+  "sensitivity": "Die Vorbilder sind urheberrechtlich geschützt, und der Stil ist eng mit einem einzelnen Künstler und dessen Nachlass verbunden; Künstlernamen, konkrete Werke, Gesichter berühmter Personen und Markenverpackungen gehören nicht in den Prompt, auch wegen der Persönlichkeits- und Markenrechte."
+ },
+ "en": {
+  "name": "Pop Art Silkscreen",
+  "aka": [
+   "photo silkscreen",
+   "Pop screenprint",
+   "silkscreen painting"
+  ],
+  "era": "early 1960s, New York",
+  "summary": "An enlarged press photo in hard black, off-register over flat acrylic pink, turquoise and orange, often repeated; in the catalog because print flaws and repetition replace glossy AI portraiture.",
+  "origin": "Screen printing was already a commercial process when American artists took it up in the 1930s; they called their prints serigraphs to set them apart from trade printing. Andy Warhol, a commercial illustrator in New York in the 1950s, adopted the photographic silkscreen for his paintings in 1962: he sent chosen press and publicity photos to a commercial screen maker, who turned them into light-sensitive stencils; he then traced the outlines onto the canvas, painted flat areas of acrylic colour and pulled the black photo image over them with a squeegee. The same image could thus be repeated at will, each pull coming out slightly different. His Marilyn Diptych (1962, Tate), made shortly after Marilyn Monroe's death in August 1962 from a publicity still for the film Niagara (1953), repeats her face fifty times, in bright colour on the left panel and in fading black and white on the right. Robert Rauschenberg began his own silkscreen paintings in 1962 after visiting Warhol's studio; between October 1962 and June 1964 he made about fifty screens from magazine and newspaper photographs and his own pictures, reusing them across many works.",
+  "markers": [
+   "photo reduced to hard black: mid-tones drop out, shadows become solid black shapes or coarse halftone",
+   "flat, hand-painted acrylic fields in unnatural colours such as hot pink, turquoise, orange and lemon yellow, with no modelling at all",
+   "the black lands a few millimetres off-register from the colour areas",
+   "squeegee traces: clogged, smeared blacks next to pale skips, canvas weave showing through",
+   "tightly cropped subject set flat against a single-colour ground, with no setting and no depth",
+   "often the same stencil printed several times side by side: identical drawing, but different colours and ink load in each pull"
+  ],
+  "escapes": "The default AI portrait has softly lit, retouched skin, a blurred background, colour gradients and a single centred hero figure. Here there are only two layers, flat colour and a hard black photo stencil, and so no room for gradients, shallow-focus blur or soft modelling; misregistration and ink flaws break the flawless surface, and repetition takes away the single image's special status.",
+  "pitfalls": "Without explicit instructions the result looks like a digital pop-art filter, with cleanly separated tone steps, perfectly fitted edges and neon gradients, or it slides into comic-strip Pop with even Ben-Day dot fields and speech balloons. In repeats the model likes to redraw each copy with a different pose, expression or age instead of repeating the same pull, and faces drift towards the famous blonde, red-lipped prototype. Also check that small features such as scars, wrinkles or fine lettering are not lost in the black.",
+  "tip": "Describe colour and photo as separate layers, for example 'flat colour fields painted by hand, the black photo screen printed a few millimetres off-register on top', and state the number of repeats explicitly, even if it is a single pull.",
+  "sensitivity": "The historical models are protected by copyright, and the style is closely tied to one artist and his estate; artists' names, specific works, famous faces and branded packaging do not belong in the prompt, also because of likeness and trademark rights."
+ },
+ "sources": [
+  {
+   "title": "Marilyn Diptych – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Marilyn_Diptych"
+  },
+  {
+   "title": "Lesson 4: Underpainting and Photographic Silkscreen Printing – The Andy Warhol Museum",
+   "url": "https://www.warhol.org/lessons/silkscreen-printing/underpainting-and-photographic-silkscreen-printing/"
+  },
+  {
+   "title": "Silkscreen Paintings (1962–64) – Robert Rauschenberg Foundation",
+   "url": "https://www.rauschenbergfoundation.org/art/series/silkscreen-paintings"
+  },
+  {
+   "title": "Screenprint – Art Term, Tate",
+   "url": "https://www.tate.org.uk/art/art-terms/s/screenprint"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "slug": "skeuomorphic-interface-art",
+ "style_block": "Skeuomorphic screen graphics, California and worldwide, 2007–2013, raster-painted to imitate real materials. Medium: photo textures of stitched leather, green felt, brushed aluminium, wood grain, notepaper, grey linen; every object a detailed miniature with glass and metal reflections; bevels, one-pixel white highlights, soft drop shadows; curved top-half gloss on rounded-square tiles. Composition: straight-on, no perspective; one light directly above, shadows falling downward; elements in recessed wells, bevelled panels or a strict grid of identical tiles sharing bevel, gloss and shadow on one textured ground; no device frame or status bar. Lettering, where text is needed: bold grotesque labels pressed into the material with a light lower edge. Information, where a diagram, map or chart is shown: values on needle gauges, LCD digits and sliders in bevelled panels. Avoid flat or outline icons, clay or candy-plastic 3D, frosted glass, sky-and-bubble gloss, photographed objects, stray numerals or letters, real system icons, logos.",
+ "de": {
+  "name": "Skeuomorphismus",
+  "aka": [
+   "skeuomorphes Design",
+   "Skeuo"
+  ],
+  "era": "etwa 2007–2013, Smartphone- und Computeroberflächen weltweit",
+  "summary": "Bildschirmgrafik der Jahre 2007 bis 2013, die Leder, Filz, Metall, Holz und Papier nachahmt; im Katalog, weil sie Tiefe aus Texturen, Kanten und Glanzlichtern aufbaut statt aus weichem 3D-Rendering.",
+  "origin": "Das englische Wort skeuomorph, gebildet aus griechisch skeuos („Gefäß, Werkzeug“) und morphē („Gestalt“), ist seit 1890 belegt und bezeichnete zunächst Gegenstände, die die Form eines älteren Materials oder Geräts nachahmen, ohne dass ihre Funktion das verlangt; im Softwaredesign meint es Benutzeroberflächen, die reale Gegenstände abbilden. Grafische Benutzeroberflächen nutzten seit den 1980er-Jahren die Schreibtischmetapher mit Ordnern und Papierkorb, und Apple führte 1999 mit dem QuickTime Player 4.0 eine Fensteroptik aus gebürstetem Metall ein. Ihren Höhepunkt erreichte diese Gestaltung in den Jahren nach dem ersten iPhone von 2007: Bei Apple, wo Steve Jobs (1955–2011) sie nachdrücklich unterstützte, bekamen in Mac OS X Lion (2011) das Kalenderprogramm iCal eine Lederoptik und das Adressbuch die Form eines Buches. Ein frühes Gegenmodell war Microsofts flache Designsprache Metro, mit der 2010 Windows Phone 7 erschien. Nach einem Wechsel an der Spitze von Apples Oberflächengestaltung im Herbst 2012 gab Apple die Materialnachbildungen mit iOS 7 (2013) weitgehend auf; OS X Mavericks entfernte im selben Jahr auch die Leder- und Buchoptik vom Mac.",
+  "markers": [
+   "Nachgeahmte Materialien: Leder mit sichtbaren Nähten, grüner Filz, gebürstetes Aluminium, Holzmaserung, abgerissenes Notizpapier, feines graues Leinen als Hintergrund",
+   "Schrift wie eingeprägt: Beschriftungen scheinen ins Material gedrückt, mit einer feinen hellen Kante darunter",
+   "Abgeschrägte Kanten, eingetiefte Felder und weiche Schlagschatten, alles von einer einzigen Lichtquelle senkrecht von oben beleuchtet",
+   "Icons als abgerundete Quadrate mit einem gewölbten Glanzlicht über der oberen Hälfte",
+   "Dargestellte Gegenstände als detailreiche Miniaturen ihrer realen Vorbilder, mit Spiegelungen in Glas und Metall",
+   "Bedienelemente und Details nach realen Vorbildern: Drehknöpfe, Schiebe- und Kippschalter, Zeigerinstrumente, umgeschlagene Seitenecken, Spiralbindungen"
+  ],
+  "escapes": "Ohne Stilangabe zeichnet das Modell Icons und Bildschirme als glatte, flache Karten mit Umrisssymbolen in gleicher Strichstärke oder als pastellfarbene 3D-Figuren wie aus Knete, weich von allen Seiten beleuchtet. Skeuomorphismus setzt dagegen auf erkennbare Materialstrukturen, harte, ein Pixel breite Lichtkanten, gewölbte Glanzlichter und eine Lichtquelle streng von oben, alles auf einem strukturierten Grund. Das Bild wirkt dadurch wie ein Bildschirm um 2010, nicht wie ein heutiges Rendering.",
+  "pitfalls": "Das Modell verfällt leicht in heutige Hochglanz-3D-Icons mit weichen Pastellverläufen oder in Milchglasoptik; Leder und Metall werden dann zu glattem Kunststoff. Bei mehreren Icons wechseln oft Lichtrichtung, Kachelform oder Material von Feld zu Feld, sodass kein System entsteht, und auf Kalenderblättern, Skalen und Anzeigen erscheinen erfundene Zahlen oder Buchstaben, auch wenn kein Text verlangt ist. Außerdem fügt das Modell gern Statusleisten, Home-Tasten und Gerätegehäuse hinzu oder zeichnet Symbole, die echten App-Icons zu nahe kommen.",
+  "tip": "Licht, Kachel und Grund für alle Elemente gleich festlegen, etwa „ein Licht senkrecht von oben, jedes Icon auf derselben abgerundeten Kachel mit demselben Glanzlicht, gemeinsamer grauer Leinengrund“, und nur den Gegenstand in der Kachel wechseln lassen.",
+  "sensitivity": "Echte App-Icons, Systemoberflächen und Logos von Apple, Google oder Microsoft können marken-, design- oder urheberrechtlich geschützt sein und gehören weder in den Prompt noch ins Bild; Kalender-, Kamera- und Zahnradsymbole kommen bekannten Systemicons besonders leicht zu nahe."
+ },
+ "en": {
+  "name": "Skeuomorphism",
+  "aka": [
+   "Skeuomorphic design",
+   "Skeuo"
+  ],
+  "era": "c. 2007–2013, smartphone and desktop interfaces worldwide",
+  "summary": "Screen graphics of 2007 to 2013 imitating leather, felt, metal, wood and paper; in the catalog because they build depth from textures, bevels and highlights rather than soft 3D rendering.",
+  "origin": "The English word skeuomorph, from Greek skeuos ('vessel, tool') and morphē ('shape'), has been recorded since 1890, first for objects that imitate the form of an older material or device without any functional need; in software design it means interfaces that depict real objects. Graphical user interfaces used the desktop metaphor from the 1980s onwards, with folders and a wastebasket, and Apple introduced a brushed-metal window look with QuickTime Player 4.0 in 1999. The style peaked in the years after the first iPhone of 2007: at Apple, where Steve Jobs (1955–2011) strongly advocated it, Mac OS X Lion (2011) gave the calendar app iCal a leather look and Address Book the form of a book. Microsoft's flat Metro design language, launched with Windows Phone 7 in 2010, was an early counterpoint. After a change at the head of Apple's interface design in autumn 2012, Apple largely abandoned the material imitations with iOS 7 (2013); OS X Mavericks removed the leather and book look from the Mac in the same year.",
+  "markers": [
+   "Imitated materials: stitched leather with visible thread, green felt, brushed aluminium, wood grain, torn notepaper, fine grey linen as background",
+   "Letterpress lettering: labels look pressed into the material, with a thin light edge below",
+   "Bevelled edges, recessed wells and soft drop shadows, all lit by a single light directly from above",
+   "Icons as rounded squares with a curved gloss highlight over the upper half",
+   "Depicted objects as detailed miniatures of their real counterparts, with reflections in glass and metal",
+   "Controls and details modelled on real objects: rotary knobs, slide and toggle switches, needle gauges, page curls, spiral bindings"
+  ],
+  "escapes": "Without a style, the model draws icons and screens as smooth, flat cards with outline symbols of uniform stroke, or as pastel 3D figures that look like modelling clay, softly lit from all sides. Skeuomorphism instead relies on recognisable material textures, hard one-pixel light edges, curved gloss highlights and a strictly overhead light, all on a textured ground. The image therefore reads as a screen from around 2010, not as a present-day render.",
+  "pitfalls": "The model easily slides into present-day glossy 3D icons with soft pastel gradients or into frosted-glass design; leather and metal then turn into smooth plastic. In a set of icons, light direction, tile shape or material often change from cell to cell so that no system emerges, and calendar pages, dials and displays get invented numbers or letters even when no text is requested. It also likes to add status bars, home buttons and device housings, or draws symbols that come too close to real app icons.",
+  "tip": "Fix light, tile and ground for every element, for example 'one light directly from above, every icon on the same rounded tile with the same gloss highlight, one shared grey linen ground', and let only the object inside the tile change.",
+  "sensitivity": "Real app icons, system interfaces and logos of Apple, Google or Microsoft may be protected by trademark, design or copyright law and belong neither in the prompt nor in the image; calendar, camera and gear symbols in particular easily come too close to well-known system icons."
+ },
+ "sources": [
+  {
+   "title": "Skeuomorph – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Skeuomorph"
+  },
+  {
+   "title": "Aqua (user interface) – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Aqua_(user_interface)"
+  },
+  {
+   "title": "Scott Forstall – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Scott_Forstall"
+  },
+  {
+   "title": "Flat design – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Flat_design"
+  }
+ ]
+}

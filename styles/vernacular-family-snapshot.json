@@ -1,0 +1,68 @@
+{
+ "slug": "vernacular-family-snapshot",
+ "style_block": "A family snapshot: a colour print from a home album, shot by an amateur in Western Europe around 1975–1990. Medium: cheap 35mm compact camera with a fixed-focus plastic lens at f/8, ISO 100 colour negative film; flat daylight or built-in flash bleaching the foreground; glossy lab print, thin white border; soft, grainy, misexposed, dyes faded toward orange and magenta, blacks gone brown. Composition: from standing eye height, a step too far back: subjects at middle distance and off centre, empty ground in front, horizon tilted, a head or feet clipped, a stray object cut by the edge. Lettering, where text is needed: no caption or date stamp; only words on objects in the scene. Avoid golden-hour backlight, bokeh, smooth glowing skin, colour grading, tidy rule-of-thirds framing, a vintage filter on a sharp photo, toy-camera vignettes with cross-processed colour, a square instant-photo frame, or a print on a table.",
+ "de": {
+  "name": "Knipserfotografie",
+  "aka": [
+   "Familienschnappschuss",
+   "Privatfotografie",
+   "Amateurfotografie",
+   "Vernakuläre Fotografie"
+  ],
+  "era": "1960er- bis 1990er-Jahre, Westeuropa und Nordamerika",
+  "summary": "Ausgeblichener Farbabzug aus dem Familienalbum mit schiefem Horizont, angeschnittenen Personen und flachem Blitz- oder Tageslicht; im Katalog, weil er das Ungeschickte bewahrt, das Bildgeneratoren wegglätten.",
+  "origin": "Die Schnappschussfotografie für ein breites Publikum begann 1888 mit George Eastmans erster Kodak-Kamera: Sie kostete 25 Dollar, war mit Rollfilm für 100 Aufnahmen geladen und wurde zum Entwickeln und für die Abzüge nach Rochester eingeschickt; Eastman warb dafür mit dem Satz „You press the button, we do the rest“. 1942 brachte Kodak mit Kodacolor einen Farbnegativfilm heraus, der sich auch in den einfachsten Kameras verwenden ließ; in den 1960er-Jahren überholten Farbabzüge im Amateurgeschäft der Fotolabore die Schwarzweißabzüge. Ab 1963 verkaufte Kodak die Instamatic-Kameras mit einer einfach einzulegenden Filmkassette im Format 126, die einfachen Modelle mit Fixfokus-Objektiv; bis 1970 wurden mehr als 50 Millionen Stück gebaut, 1972 folgte der kleinere Pocketfilm im Format 110. Timm Starl beschrieb diese private Fotografie 1995 in seinem Buch „Knipser. Die Bildgeschichte der privaten Fotografie in Deutschland und Österreich von 1880 bis 1980“ und nannte ihre Urheber mit dem umgangssprachlichen Wort „Knipser“: Laien, die ihr privates Leben fotografieren.",
+  "markers": [
+   "Schiefer Horizont und unbedachter Anschnitt: Köpfe, Füße oder Gegenstände vom Bildrand abgeschnitten",
+   "Menschen in mittlerer Entfernung und außermittig, davor viel leerer Boden",
+   "Flaches Tageslicht oder frontaler Kamerablitz, der den Vordergrund überstrahlt",
+   "Ausgeblichene Farben mit Farbstich ins Orange und Magenta, Schwarztöne ins Bräunliche verblasst",
+   "Leichte Unschärfe, Korn und Fehlbelichtung auf einem glänzenden Laborabzug mit schmalem weißem Rand"
+  ],
+  "escapes": "Ohne Stilangabe zeigt das Modell eine Szene mit Menschen als ausgewogene, mittige Halbtotale in weichem, goldenem Seitenlicht, mit unscharfem Hintergrund und glatter, schimmernder Haut. Der Schnappschuss ersetzt das durch die Gewohnheiten eines Gelegenheitsfotografen mit billiger Kamera: schiefer, angeschnittener Ausschnitt, zu viel Abstand, flaches Blitz- oder Mittagslicht und eine über die ganze Bildtiefe gleichmäßige, etwas weiche Schärfe; die ausgeblichenen Farbstoffe des Abzugs nehmen den Farben ihre saubere Sättigung.",
+  "pitfalls": "Modelle komponieren das Bild oft doch wieder ordentlich und legen nur Farbfilter, Korn und abgerundete Ecken darüber; das wirkt wie ein auf alt getrimmtes modernes Foto, nicht wie ein nachlässig gemachtes. Andere übertreiben es mit starker Vignettierung, Lichteinfall am Filmrand und grellen Farben wie bei der Crossentwicklung oder zeigen den Abzug als Gegenstand auf einem Tisch oder einer Albumseite. Rote Augen und harte Wandschatten vom Blitz gehören in Innenräume und sollten im Freien nicht erzwungen werden; außerdem taucht leicht ein ungewolltes, orange eingebelichtetes Datum in der Ecke auf.",
+  "tip": "Die Fehler des Fotografen konkret und räumlich beschreiben, etwa „Kamera einen Schritt zu weit weg, Horizont um etwa fünf Grad gekippt, oben ein Kopf vom Bildrand angeschnitten“; ein bloßes „Amateurschnappschuss“ ergibt meist ein gut komponiertes Bild.",
+  "sensitivity": "Erzeugte Schnappschüsse lassen sich leicht für echte private Familienfotos halten; sie sollten als KI-Bilder gekennzeichnet bleiben, damit sie nicht als Aufnahmen realer Menschen oder Ereignisse gelten. „Instamatic“ ist ein Produktname von Kodak und wird im Prompt nicht gebraucht."
+ },
+ "en": {
+  "name": "Family snapshot (vernacular photography)",
+  "aka": [
+   "Amateur snapshot",
+   "Family album photo",
+   "Vernacular photography",
+   "Point-and-shoot snapshot"
+  ],
+  "era": "1960s–1990s, Western Europe and North America",
+  "summary": "A faded colour print from a family album, with tilted horizon, clipped figures and flat flash or daylight; in the catalog because it keeps the clumsiness image generators smooth away.",
+  "origin": "Snapshot photography for a mass public began in 1888 with George Eastman's first Kodak camera: it cost 25 dollars, came loaded with roll film for 100 exposures and was sent back to Rochester for developing and printing; Eastman advertised it with the line 'You press the button, we do the rest'. In 1942 Kodak released Kodacolor, a colour negative film that could be used in the simplest cameras, and by the 1960s colour prints had overtaken black and white in amateur photofinishing. From 1963 Kodak sold its Instamatic cameras with a drop-in 126 film cartridge, the simpler models with fixed-focus lenses; more than 50 million were made by 1970, and the smaller 110 pocket format followed in 1972. In 1995 Timm Starl described this private photography in his book 'Knipser. Die Bildgeschichte der privaten Fotografie in Deutschland und Österreich von 1880 bis 1980', calling its makers by the colloquial German word 'Knipser': lay people who photograph their private lives.",
+  "markers": [
+   "Tilted horizon and careless cropping: heads, feet or objects cut off by the frame edge",
+   "People at middle distance and off centre, with a lot of empty ground in front",
+   "Flat daylight or frontal on-camera flash that burns out the foreground",
+   "Faded colours with an orange and magenta cast, blacks faded to brown",
+   "Slight softness, grain and misjudged exposure on a glossy lab print with a narrow white border"
+  ],
+  "escapes": "Unprompted, the model frames a scene with people as a balanced, centred medium shot in soft golden side light, with a blurred background and smooth, glowing skin. The snapshot replaces this with the habits of a casual amateur with a cheap camera: tilted, clipped framing, too much distance, flat flash or midday light and slightly soft focus that is even from front to back, while the faded print dyes take the clean saturation out of the colour.",
+  "pitfalls": "Models often recompose the picture neatly and only lay a colour filter, grain and rounded corners over it, which reads as a modern photo dressed up as old rather than a carelessly taken one. Others overshoot into heavy vignettes, light leaks and lurid cross-processed colour, or show the print as an object on a table or album page. Red-eye and hard wall shadows from the flash belong indoors and should not be forced into outdoor scenes; an unwanted orange date imprint in the corner also tends to appear.",
+  "tip": "Describe the photographer's mistakes in concrete spatial terms, for example 'camera a step too far back, horizon tilted about five degrees, the top of one head cut off by the frame'; a bare 'amateur snapshot' usually comes out well composed.",
+  "sensitivity": "Generated snapshots are easily taken for genuine private family photographs; keep them labelled as AI-generated so they are not read as pictures of real people or events. 'Instamatic' is a Kodak product name and is not needed in prompts."
+ },
+ "sources": [
+  {
+   "title": "Kodak camera – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kodak_camera"
+  },
+  {
+   "title": "Chromogenic print – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chromogenic_print"
+  },
+  {
+   "title": "Kodak Instamatic – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kodak_Instamatic"
+  },
+  {
+   "title": "Timm Starl – Wikipedia (de)",
+   "url": "https://de.wikipedia.org/wiki/Timm_Starl"
+  }
+ ]
+}

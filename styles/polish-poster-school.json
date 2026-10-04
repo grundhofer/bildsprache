@@ -1,0 +1,68 @@
+{
+ "slug": "polish-poster-school",
+ "style_block": "A Polish film, theatre or circus poster of 1955–1975, painted in gouache and printed as an offset lithograph. Medium: loose opaque gouache, dry-brush streaks, uneven washes, painted cut paper; matte paper, slight misregistration; muted ochre, grey-green, black or off-white, one sharp red accent. Composition: one visual metaphor carries the sheet: two things merge or turn into each other as one large, flat, cropped shape on a plain painted ground; no scene, no horizon, no depth; wide empty colour field; witty, slightly unsettling. Lettering, where text is needed: brush-painted irregular capitals or loose script written into or around the shape; title large, other lines small. Information, where a diagram, map or chart is shown: one painted sign per fact, hand-lettered numbers, no grid. Avoid glossy digital surrealism, smooth gradients, vector shapes, typeset fonts, a sun disc over the horizon, centred posing figures, polished surrealist oil painting and socialist-realist propaganda.",
+ "de": {
+  "name": "Polnische Plakatschule",
+  "aka": [
+   "Polnische Schule der Plakatkunst",
+   "Polska szkoła plakatu",
+   "Polnisches Film- und Theaterplakat"
+  ],
+  "era": "1950er bis 1980er Jahre, Polen",
+  "summary": "Gemalte Plakate mit einer einzigen überraschenden Bildmetapher, lockerem Pinselstrich und handgemalter Schrift; im Katalog, weil eine einzige Bildidee statt einer Szene das ganze Blatt trägt.",
+  "origin": "In der Volksrepublik Polen gaben staatliche Stellen nach 1945 Plakate für Filme, Theater, Konzerte, Ausstellungen und den Staatszirkus in Auftrag; der staatliche Verlag Wydawnictwo Artystyczno-Graficzne (WAG) brachte jedes Jahr Hunderte davon heraus, und jeder Entwurf musste vor dem Druck von der Zensur freigegeben werden. Henryk Tomaszewski (1914–2005), der bald nach dem Krieg Filmplakate für den staatlichen Filmverleih entwarf, erhielt 1948 auf der internationalen Plakatausstellung in Wien fünf erste Preise und leitete ab 1952 eine Plakatklasse an der Kunstakademie Warschau. Statt Filmszenen und Starporträts zeigten er, Tadeusz Trepkowski, Jan Lenica, Waldemar Świerzy, Jan Młodożeniec und andere eine knappe Bildmetapher, mit lockerem Pinsel gemalt oder aus bemaltem Schnittpapier gelegt, dazu handgezeichnete Schrift statt Satzschrift; gedruckt wurden die Blätter als Farblithografie, oft im Offsetverfahren. Nach Stalins Tod 1953 und dem Tauwetter von 1956 wuchs der Spielraum: In den 1960er Jahren ließen die staatlichen Unterhaltungsbetriebe ZPR Zirkusplakate mit dem Schriftzug „CYRK“ entwerfen, 1966 begann in Warschau die Internationale Plakatbiennale, und 1968 öffnete in Wilanów das erste Plakatmuseum der Welt. Mit dem Übergang zur Marktwirtschaft nach 1989 fielen die staatlichen Aufträge weg, und es erschienen deutlich weniger Plakate.",
+  "markers": [
+   "Eine einzige Bildmetapher, in der zwei Dinge verschmelzen, Teile tauschen oder sich ineinander verwandeln",
+   "Lockerer, sichtbarer Pinselstrich in Gouache mit trockenen Pinselspuren, teils bemaltes Schnittpapier",
+   "Handgemalte, unregelmäßige Schrift, die ins Bild hineingeschrieben ist, statt gesetzter Typografie",
+   "Wenige flächige Farben, oft ein gedämpfter Grund mit einer einzigen kräftigen Akzentfarbe",
+   "Große, ruhige Farbflächen ohne Raumtiefe, das Hauptmotiv groß und frei angeschnitten",
+   "Witz, Mehrdeutigkeit und ein leicht unheimlicher Unterton statt einer Szene aus Film oder Stück"
+  ],
+  "escapes": "Ohne Stilangabe zeigt das Modell auf einem Plakat eine mittig angeordnete Szene mit Sonnenscheibe über dem Horizont, glatten Farbverläufen und sauberer Satzschrift über und unter dem Bild; eine Konzeptillustration wird zum detailreichen, weich ausgeleuchteten Panorama. Die Polnische Plakatschule ersetzt die Szene durch eine einzige Bildidee, in der Formen verschmelzen, zeigt den Pinselstrich offen und malt die Schrift mit demselben Werkzeug ins Bild. Dadurch ändert sich der Aufbau des Blattes, nicht nur seine Oberfläche.",
+  "pitfalls": "Das Stichwort „surreal“ führt leicht zu glänzendem Digitalsurrealismus mit zerfließenden Formen, weichen Verläufen und Glanzlichtern, und der Pinselstrich wird zu glatt, wenn keine sichtbare Gouache-Struktur verlangt wird. Oft bleiben alle Bildelemente brav nebeneinander stehen, statt zu einer Metapher zu verschmelzen, oder die Schrift erscheint als saubere Satzschrift in einem eigenen Balken. Bei handgemalter Schrift auf Buchstaben, Et-Zeichen und Halbgeviertstrich im Datum achten; außerdem erfindet das Modell gern polnische Wörter, Druckvermerke oder Signaturen.",
+  "tip": "Die Verwandlung konkret benennen, also welches Ding in welches übergeht, und sichtbare Gouache-Spuren auf Papier ausdrücklich verlangen; sonst stellt das Modell die Bildelemente nebeneinander und malt sie glatt.",
+  "sensitivity": "Viele Originalplakate sind noch urheberrechtlich geschützt und warben für reale Filme und Inszenierungen; keine bestimmten Plakate, Filmtitel oder Gesichter von Schauspielern nachbilden. Einige Gestalter der späteren Generation leben noch, ihre Namen gehören nicht in den Prompt."
+ },
+ "en": {
+  "name": "Polish School of Posters",
+  "aka": [
+   "Polish Poster School",
+   "Polska szkoła plakatu",
+   "Polish film and theatre poster"
+  ],
+  "era": "1950s–1980s, Poland",
+  "summary": "Painted posters built on a single surprising visual metaphor, with loose brushwork and hand-painted lettering; in the catalog because one idea, not a scene, carries the whole sheet.",
+  "origin": "In the Polish People's Republic after 1945, state bodies commissioned posters for films, theatre, concerts, exhibitions and the state circus; the state publisher Wydawnictwo Artystyczno-Graficzne (WAG) issued hundreds of them every year, and each design had to be approved by the censor before printing. Henryk Tomaszewski (1914–2005), who designed film posters for the state film distributor soon after the war, won five first prizes at the international poster exhibition in Vienna in 1948 and from 1952 ran a poster studio at the Warsaw Academy of Fine Arts. Instead of film stills and star portraits, he, Tadeusz Trepkowski, Jan Lenica, Waldemar Świerzy, Jan Młodożeniec and others showed one concise visual metaphor, painted with a loose brush or laid out in painted cut paper, with hand-drawn lettering instead of typesetting; the sheets were printed as colour lithographs, often by offset. After Stalin's death in 1953 and the thaw of 1956 the scope widened: in the 1960s the state entertainment enterprise ZPR commissioned circus posters bearing the word ‘CYRK’, in 1966 the International Poster Biennale began in Warsaw, and in 1968 the world's first poster museum opened in Wilanów. With the move to a market economy after 1989 the state commissions ended and far fewer posters were published.",
+  "markers": [
+   "A single visual metaphor in which two things merge, swap parts or turn into each other",
+   "Loose, visible gouache brushwork with dry-brush streaks, sometimes painted cut paper",
+   "Hand-painted, irregular lettering written into the image instead of typeset type",
+   "A few flat colours, often a muted ground with one strong accent colour",
+   "Large, quiet colour fields without depth, the main shape big and freely cropped",
+   "Wit, ambiguity and a slightly unsettling undertone instead of a scene from the film or play"
+  ],
+  "escapes": "Without a style, the model turns a poster into a centred scene with a sun disc over the horizon, smooth gradients and clean typeset text above and below the picture; a concept illustration becomes a detailed, softly lit panorama. The Polish School of Posters replaces the scene with a single idea in which forms merge, leaves the brushwork visible and paints the lettering into the picture with the same tool. This changes the structure of the sheet, not just its surface.",
+  "pitfalls": "The word ‘surreal’ easily leads to glossy digital surrealism with melting forms, soft gradients and highlights, and the brushwork comes out too smooth unless visible gouache texture is requested. Often all elements stay politely side by side instead of merging into one metaphor, or the lettering appears as clean type in a separate band. With hand-painted lettering, check the letters, the ampersand and the en dash in the date; the model also likes to invent Polish words, printer's imprints or signatures.",
+  "tip": "Name the transformation concretely, i.e. which thing turns into which, and ask explicitly for visible gouache marks on paper; otherwise the model places the elements side by side and paints them smooth.",
+  "sensitivity": "Many original posters are still under copyright and advertised real films and productions; do not reproduce specific posters, film titles or actors' faces. Some designers of the later generation are still alive, and their names do not belong in the prompt."
+ },
+ "sources": [
+  {
+   "title": "Polish School of Posters – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Polish_School_of_Posters"
+  },
+  {
+   "title": "Reflecting the Soul of a Nation: Polish Poster Art – Illustration History",
+   "url": "https://www.illustrationhistory.org/essays/reflecting-the-soul-of-a-nation-polish-poster-art"
+  },
+  {
+   "title": "Jan Lenica, poster ‘Jajko’, 1957 (colour offset lithograph, WAG) – Victoria and Albert Museum",
+   "url": "https://collections.vam.ac.uk/item/O551514/"
+  },
+  {
+   "title": "Waldemar Świerzy, poster advertising Polish circus for ZPR, c. 1965 – Victoria and Albert Museum",
+   "url": "https://collections.vam.ac.uk/item/O1605466/"
+  }
+ ]
+}

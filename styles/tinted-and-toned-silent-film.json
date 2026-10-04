@@ -1,0 +1,69 @@
+{
+ "slug": "tinted-and-toned-silent-film",
+ "style_block": "A frame from a tinted and toned 35mm silent-film print, Europe or the USA, about 1915-1927. Medium: orthochromatic black-and-white nitrate film, hand-cranked camera, uncoated 50mm lens stopped down, flat daylight; the print dyed in one bath, a single translucent colour veiling the whole frame, amber for day, blue for night; whites carry the dye, blacks stay black or, if toned, faintly brown. Blank white sky, dark reds and lips, coarse grain, uneven dye density, scratches, blur on moving parts, rounded corners. Composition: static camera at chest height facing a frontal, stage-like tableau; figures full length or cut at the knee, spread across the frame; deep focus; no close-ups or tilted angles. Lettering, where text is needed: white serif capitals on black in a thin ornamental border, like a tinted intertitle. Avoid bokeh, golden-hour rim light, teal-orange grading, duotone or split-toning gradients, sepia filters, hand-coloured patches, sprocket holes, film-strip borders.",
+ "de": {
+  "name": "Viragierter und getonter Stummfilm",
+  "aka": [
+   "Viragierung",
+   "Virage",
+   "Viragierung und Tonung",
+   "eingefärbter Stummfilm"
+  ],
+  "era": "um 1896–1930, Europa und USA",
+  "summary": "Schwarzweißes Stummfilmbild, ganz in eine durchscheinende Farbe getaucht, Bernsteingelb für den Tag, Blau für die Nacht; im Katalog, weil eine einzige Farbe die Stimmung trägt statt Lichtführung und Farbkorrektur.",
+  "origin": "Viragierung ist seit etwa 1896 belegt und wurde zusammen mit der Tonung während der ganzen Stummfilmzeit in Europa und den USA verwendet; Loyd A. Jones von den Kodak-Forschungslaboratorien schrieb 1929 in den „Transactions“ der Society of Motion Picture Engineers, in manchen Zeiträumen der vorangegangenen Jahre seien 80 bis 90 Prozent der gesamten Produktion auf eingefärbtem Positivfilm kopiert worden. Für die Viragierung zerschnitt das Kopierwerk die schwarzweiße Positivkopie in ihre Szenen, tauchte diese einzeln in ein Bad aus synthetischem Anilinfarbstoff, der sich mit der Gelatine verband, und klebte die Kopie wieder zusammen; so lag ein Farbschleier über dem ganzen Bild, während das Schwarz schwarz blieb. Bei der Tonung wurde dagegen das Silberbild ganz oder teilweise durch farbige Verbindungen ersetzt – Berliner Blau (Eisenhexacyanoferrat) für Blau, Kupferhexacyanoferrat für Rot bis Rotbraun, Silbersulfid für Sepia –, sodass die Schatten die Farbe annahmen und die Lichter klar blieben; das Handbuch von Eastman Kodak von 1918 nennt als gelungenste Verbindung beider Verfahren Sonnenuntergänge und Mondlicht über Wasser, erst blau getont, dann orange, rot oder gelb viragiert. Blau für die Nacht und Rot für Feuer waren verbreitet, aber nie verbindlich; D. W. Griffiths „The Birth of a Nation“ (1915) nutzte Bernsteingelb, Blau, Lavendel und Rot, und in F. W. Murnaus „Nosferatu“ (1922) sind die Nachtszenen blau viragiert. Kodak bot ab 1921 Positivfilm mit eingefärbtem Schichtträger an und Ende der 1920er-Jahre mit Sonochrome eine Sorte, die die Lichttonspur nicht störte; dennoch ging das Verfahren mit dem Tonfilm stark zurück und blieb danach auf einzelne Szenen beschränkt.",
+  "markers": [
+   "das ganze Bild unter einer einzigen durchscheinenden Farbe (Bernsteingelb, Gelb, Blau, Rosa oder Grün); Weiß und Lichter tragen die Farbe, Schwarz bleibt schwarz",
+   "bei Tonung färben sich die Schatten braun oder blau, während die Lichter klar bleiben",
+   "orthochromatisches Schwarzweiß: leerer weißer Himmel, dunkle Lippen, grobes Korn",
+   "starre Kamera auf Brusthöhe, ganze oder bis zum Knie angeschnittene Figuren in einem tiefen Tableau, große Schärfentiefe",
+   "ungleichmäßige Farbdichte mit Schlieren, feine Kratzer, leichte Bewegungsunschärfe an bewegten Teilen",
+   "weich abgerundete Bildecken, vereinzelt Zersetzungsflecken des Nitrofilms am Rand"
+  ],
+  "escapes": "Statt der Blaugrün-Orange-Farbgebung, des Gegenlichts zur goldenen Stunde und der unscharfen Hintergründe des KI-Standards liegt eine einzige flache Farbe über einem Schwarzweißbild; Farbe kann hier weder Gesichter modellieren noch die Figur vom Hintergrund lösen. Das starre, weite Tableau mit ganzen Figuren ersetzt die nahe, mittige Heldeninszenierung, und grobes Korn und ungleichmäßige Farbdichte brechen die glatte, rauschfreie Oberfläche auf.",
+  "pitfalls": "Modelle verwechseln Viragierung oft mit modernen Duplex- oder Teiltonungseffekten und erzeugen Verläufe mit orangefarbenen Lichtern und blaugrünen Schatten, oder sie legen einen braunen Altfoto-Filter über das Bild, statt es in ein klares bernsteingelbes oder blaues Farbbad zu tauchen. Schäden werden übertrieben: Perforationslöcher, Filmstreifenränder, verbrannte Kanten und Kratzer quer über die Gesichter machen das Bild zum Klischee „alter Film“. Gesichter geraten zu glatt und zu modern, ohne die orthochromatische Verdunklung von Lippen und Haut.",
+  "tip": "Den Vorgang konkret beschreiben (eine Schwarzweißkopie in einem einzigen Farbbad, die Lichter tragen die Farbe, das Schwarz bleibt schwarz) und die Farbe nach der Konvention der Szene wählen: Bernsteingelb oder Gelb für den Tag, Blau für die Nacht.",
+  "sensitivity": ""
+ },
+ "en": {
+  "name": "Tinted and toned silent film",
+  "aka": [
+   "film tinting",
+   "film toning",
+   "tinted nitrate print"
+  ],
+  "era": "c. 1896–1930, Europe and USA",
+  "summary": "A black-and-white silent-film frame steeped in one translucent dye, amber for day, blue for night; in the catalog because a single colour carries the mood instead of lighting and grading.",
+  "origin": "Film tinting is documented from about 1896 and, together with toning, was used in Europe and the USA throughout the silent era; in 1929 Loyd A. Jones of the Kodak Research Laboratories wrote in the Transactions of the Society of Motion Picture Engineers that during some periods of the preceding few years 80 to 90 percent of the total production had been printed on tinted positive film. For tinting, the laboratory cut the black-and-white positive print into its scenes, dipped them one by one in a bath of synthetic aniline dye that bonded with the gelatin, and spliced the print back together, so a veil of colour lay over the whole picture while the blacks stayed black. Toning instead replaced the silver image wholly or partly with coloured compounds (Prussian blue, an iron ferrocyanide, for blue; copper ferrocyanide for red to red-brown; silver sulphide for sepia), so the shadows took the colour and the highlights stayed clear; Eastman Kodak's manual of 1918 names sunset and moonlight effects over water, first toned blue and then tinted orange, red or yellow, as the most successful combination of the two. Blue for night and red for fire were common but never binding conventions; D. W. Griffith's The Birth of a Nation (1915) used amber, blue, lavender and red, and in F. W. Murnau's Nosferatu (1922) the night scenes are tinted blue. Kodak offered positive film on tinted base from 1921 and, in the late 1920s, Sonochrome stocks that did not interfere with the optical soundtrack, yet with the coming of sound the practice declined sharply and afterwards survived only in single scenes.",
+  "markers": [
+   "the whole frame under one translucent colour (amber, yellow, blue, rose or green); whites and highlights carry the colour, blacks stay black",
+   "with toning, the shadows turn brown or blue while the highlights stay clear",
+   "orthochromatic black and white: blank white sky, dark lips, coarse grain",
+   "static camera at chest height, figures full length or cut at the knee in a deep tableau, deep focus",
+   "uneven dye density with streaks, fine scratches, slight motion blur on moving parts",
+   "softly rounded frame corners, occasional nitrate decay blotches at the edge"
+  ],
+  "escapes": "Instead of the AI default's teal-orange grading, golden-hour rim light and blurred backgrounds, a single flat colour lies over a black-and-white image, so colour can neither model faces nor separate the figure from the background. The static, wide tableau with full figures replaces the close, centred hero framing, and coarse grain and uneven dye density break up the smooth, noise-free surface.",
+  "pitfalls": "Models often confuse tinting with modern duotone or split-toning effects and produce gradients with orange highlights and teal shadows, or they lay a brown vintage-photo filter over the image instead of steeping it in a clear amber or blue dye bath. Damage gets overdone: sprocket holes, film-strip borders, burnt edges and scratches across faces turn the frame into an 'old film' cliché. Faces come out too smooth and too modern, without the orthochromatic darkening of lips and skin.",
+  "tip": "Describe the process concretely (a black-and-white print in a single dye bath, the highlights carrying the colour, the blacks staying black) and choose the colour by the scene's convention: amber or yellow for day, blue for night.",
+  "sensitivity": ""
+ },
+ "sources": [
+  {
+   "title": "Film tinting – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Film_tinting"
+  },
+  {
+   "title": "Tinting – Timeline of Historical Film Colors (filmcolors.org)",
+   "url": "https://filmcolors.org/timeline-entry/1216/"
+  },
+  {
+   "title": "Eastman Kodak Company: Tinting and Toning of Eastman Positive Motion Picture Film, 2nd ed. (1918) – Internet Archive",
+   "url": "https://archive.org/details/tintingtoningofe00east"
+  },
+  {
+   "title": "Loyd A. Jones: Tinted Films for Sound Positives, Transactions of the SMPE 13, no. 37 (1929), p. 199 – Internet Archive",
+   "url": "https://archive.org/details/transactionsofso37soci"
+  }
+ ]
+}

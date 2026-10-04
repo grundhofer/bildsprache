@@ -1,0 +1,66 @@
+{
+ "slug": "patent-drawing",
+ "style_block": "A hand-inked patent drawing sheet from the United States Patent Office in the late 19th and early 20th century. Medium: India ink, ruling pen and compass on smooth white Bristol board; even black lines, heavier shade lines on edges away from upper-left light; curved surfaces modelled with spaced parallel lines, cut faces with oblique hatching; no colour, grey, solid black or cast shadow. Composition: the flat sheet fills the frame inside a thin ruled border; two to four views of one object (perspective, elevations, section), closely grouped yet clearly separated, parts matching in every view, no ground or setting. Lettering, where text is needed: 'Fig. 1', 'Fig. 2' beside the views, bare reference numerals on thin lead lines; where text is forbidden, views stay unlabelled. Avoid sepia 'vintage patent poster' toning, blueprints, glossy CAD renders, product-photo staging, coloured cutaways, engraved cross-hatching and invented titles, patent numbers, dates or signatures.",
+ "de": {
+  "name": "Patentzeichnung",
+  "aka": [
+   "Zeichnungsblatt einer Patentschrift"
+  ],
+  "era": "seit dem 19. Jahrhundert, Patentämter in den USA und Europa",
+  "summary": "Schwarze Tuschelinien auf weißem Blatt, mehrere getrennte Ansichten mit Bezugszeichen; im Katalog, weil Amtsvorschriften das Bild bestimmen und nicht die übliche Produktinszenierung.",
+  "origin": "In den USA mussten Erfinder von 1790 bis 1880 mit ihrer Patentanmeldung ein Modell einreichen. Die Vorschriften des US-Patentamts, die ein Lehrbuch des technischen Zeichnens von 1902 wiedergibt, verlangten eine Zeichnung, die jedes beanspruchte Merkmal zeigt, ausgeführt nur mit der Feder und schwarzer Tusche auf glattem weißem Bristolkarton, auf Blättern von genau 10 × 15 Zoll mit einer Randlinie einen Zoll vom Blattrand, mit schrägen Parallellinien für Schnittflächen, ohne schwarze Flächen und mit kräftigen Linien auf der Schattenseite der Gegenstände, wobei stets Lichteinfall von links oben unter 45 Grad angenommen wird. Bekannte Beispiele sind das Schreibmaschinenpatent von Christopher Latham Sholes, Carlos Glidden und Samuel W. Soule von 1868 und King Camp Gillettes Rasiererpatent von 1904. Die heute geltende US-Vorschrift 37 CFR 1.84 verlangt weiterhin Tusche oder ein gleichwertiges Mittel für tiefschwarze, gleichmäßig starke Linien, legt den Lichteinfall für Schattierungen auf links oben unter 45 Grad fest und schreibt vor, dass Ansichten mit „FIG.“ nummeriert werden und Bezugszeichen mindestens 0,32 cm hoch und nicht eingekreist sind. In Deutschland verlangt die Patentverordnung ebenso schwarze Linien ohne Farben und Schraffuren für Querschnitte; Erläuterungen sind in der Zeichnung nicht erlaubt, ausgenommen kurze, unentbehrliche Angaben wie „Wasser“, „Dampf“, „offen“ oder „zu“.",
+  "markers": [
+   "Schwarze Tuschelinien gleichmäßiger Stärke auf weißem Papier, ohne Farbe und ohne Grautöne",
+   "Gewölbte Flächen mit feinen Parallellinien schattiert, Schnittflächen schräg schraffiert, meist unter 45 Grad, kräftigere Linien an den vom Licht (links oben) abgewandten Kanten",
+   "Mehrere getrennte Ansichten eines Gegenstands auf einem Blatt: perspektivische Ansicht, Vorder- und Seitenansicht, Schnitt oder Explosionsdarstellung",
+   "Bloße Bezugszeichen ohne Kreis, über dünne gerade oder geschwungene Führungslinien mit den Teilen verbunden",
+   "Ansichtsbezeichnungen „Fig. 1“, „Fig. 2“ (heute vorgeschrieben: „FIG.“) neben den Ansichten, kaum erklärende Wörter",
+   "Freier Rand, auf älteren Blättern von einer dünnen Randlinie begrenzt; kein Hintergrund, kein Boden, kein Schlagschatten"
+  ],
+  "escapes": "Das übliche Produktbild eines Bildgenerators, ein glänzendes Rendering mittig vor einer Hohlkehle mit weichem Studiolicht, Spiegelungen und Kontaktschatten, hat hier keinen Platz: Erlaubt sind nur schwarze Linien auf Weiß, keine Grautöne und keine schwarzen Flächen, sodass Form und Material allein durch Linie, Schraffur und mehrere Ansichten erklärt werden. An die Stelle der einen inszenierten Ansicht tritt ein Blatt mit getrennten Ansichten von vorn, von der Seite und im Schnitt; damit entfällt auch das eine große Objekt in der Bildmitte.",
+  "pitfalls": "Bildgeneratoren rutschen leicht in die nostalgischen Patentdrucke ab, die als Wandschmuck verkauft werden: sepiafarbenes oder blaues Papier, ein verzierter Titel, eine erfundene Patentnummer, Datum und Unterschrift. Bezugszeichen wiederholen sich oft, zeigen ins Leere oder zerfallen zu unleserlichen Zeichen, und die Ansichten widersprechen sich in Zahl oder Lage der Teile. Bei Motiven ohne Text fallen Bezugszeichen und „Fig.“-Angaben weg; dann tragen allein Linienführung, Schraffur und die getrennten Ansichten den Stil.",
+  "tip": "Die gewünschten Ansichten einzeln nennen („eine perspektivische Ansicht, eine Vorderansicht und ein senkrechter Schnitt“), statt nur „Patentstil“ zu schreiben; das Wort allein kann das sepiafarbene Poster hervorrufen, die Liste der Ansichten führt eher zum eigentlichen Zeichnungsblatt.",
+  "sensitivity": "Keine echte erteilte Patentschrift nachzeichnen und keine Patentnummern, Namen oder Amtsstempel hinzufügen, durch die das Bild als echtes Rechtsdokument durchgehen könnte."
+ },
+ "en": {
+  "name": "Patent drawing",
+  "aka": [
+   "patent illustration",
+   "patent figure",
+   "drawing sheet"
+  ],
+  "era": "19th century onwards, patent offices in the USA and Europe",
+  "summary": "Black ink lines on a white sheet, several separate views with reference numerals; in the catalog because office rules, not the usual product staging, decide the image.",
+  "origin": "In the United States inventors had to submit a model with their patent application from 1790 to 1880. The Patent Office rules reprinted in a 1902 manual of mechanical drawing required a drawing showing every claimed feature, made with the pen and India ink only on smooth white Bristol board, on sheets of exactly 10 × 15 inches with a margin line one inch from the edge, with oblique parallel lines for cut surfaces, no solid black, and heavy lines on the shade side of objects, the light always assumed to come from the upper left at 45 degrees. Well-known examples are the 1868 typewriter patent of Christopher Latham Sholes, Carlos Glidden and Samuel W. Soule and King Camp Gillette's razor patent of 1904. The current US rule, 37 CFR 1.84, still requires India ink or an equivalent that gives solid black lines of uniform thickness, sets the light for shading at the upper left at 45°, and requires views numbered with 'FIG.' and reference characters at least 0.32 cm high that are not encircled. In Germany the Patent Ordinance likewise requires black lines without colours and hatching for cross-sections; explanations are not allowed in the drawing except short, indispensable terms such as 'water', 'steam', 'open' or 'closed'.",
+  "markers": [
+   "Black India ink lines of even weight on white paper, with no colour and no grey tones",
+   "Curved surfaces shaded with fine parallel lines, cut faces hatched obliquely, usually at 45°, heavier lines on the edges turned away from the light (upper left)",
+   "Several separate views of one object on a sheet: perspective, front and side elevations, section or exploded view",
+   "Bare reference numerals without circles, joined to the parts by thin straight or curved lead lines",
+   "View labels 'Fig. 1', 'Fig. 2' (now required as 'FIG.') beside the views, hardly any explanatory words",
+   "Empty margin, on older sheets bounded by a thin ruled border; no background, no floor, no cast shadow"
+  ],
+  "escapes": "An image generator's usual product image, a glossy render centred on a seamless backdrop with soft studio light, reflections and a contact shadow, has no place here: only black lines on white are allowed, no grey tones and no solid black, so form and material must be explained by line, hatching and several views. The single staged view gives way to a sheet of separate front, side and section views, which also does away with one large object in the middle of the frame.",
+  "pitfalls": "Image generators readily drift into the nostalgic patent prints sold as wall decor: sepia or blue paper, an ornamental title, an invented patent number, date and signature. Reference numerals are often repeated, point at nothing or dissolve into illegible marks, and the views may disagree on the number or position of parts. On motifs without text the numerals and 'Fig.' labels disappear, so the style then rests entirely on line work, hatching and the separate views.",
+  "tip": "Name the views you want ('a perspective view, a front elevation and a vertical section') instead of just writing 'patent style'; the phrase alone can call up the sepia poster, while the list of views leads to the actual drawing sheet.",
+  "sensitivity": "Do not copy a real granted patent or add patent numbers, names or official stamps that could let the image pass as a genuine legal document."
+ },
+ "sources": [
+  {
+   "title": "Patent drawing – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Patent_drawing"
+  },
+  {
+   "title": "N. Hawkins: Self-Help Mechanical Drawing (Theo. Audel, 1902), chapter “Patent Office Drawing Rules” – Project Gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/67166"
+  },
+  {
+   "title": "37 CFR § 1.84 – Standards for drawings (Legal Information Institute, Cornell Law School)",
+   "url": "https://www.law.cornell.edu/cfr/text/37/1.84"
+  },
+  {
+   "title": "Patentverordnung (PatV), Anlage 2: Standards für die Einreichung von Zeichnungen – gesetze-im-internet.de",
+   "url": "https://www.gesetze-im-internet.de/patv/anlage_2.html"
+  }
+ ]
+}

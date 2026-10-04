@@ -1,0 +1,70 @@
+{
+ "slug": "wordless-assembly-instructions",
+ "style_block": "A wordless assembly-instruction sheet packed with flat-pack furniture and construction kits in late-twentieth-century Europe. Medium: thin black lines of one uniform weight on white uncoated paper, no shading, fills or colour; faint print grain. Composition: rules divide the page into step boxes of unequal size; one raised three-quarter view throughout; parts pulled apart along dashed guidelines; arrows mark motion within boxes, never between them; circular magnified insets; a faceless neutral line figure, often just hands, performs each action; ample white space. Lettering, where text is needed: small plain sans-serif, title small at top left; large bold step numerals; quantities like '2x'. Information, where a diagram, map or chart is shown: one action per box, order by numerals alone, materials as a counted parts inventory, values as leader-line tags. Avoid colour, gradients, rounded icons, equal tile grids, patent-drawing hatching, safety-card colour panels, furniture-retailer typography, mascot figures and logos.",
+ "de": {
+  "name": "Textlose Montageanleitung",
+  "aka": [
+   "Aufbauanleitung",
+   "Bildanleitung",
+   "sprachneutrale Montageanleitung",
+   "Bauanleitung"
+  ],
+  "era": "seit der zweiten Hälfte des 20. Jahrhunderts, Europa",
+  "summary": "Nummerierte Schrittfelder in dünner, gleichmäßiger Strichzeichnung, mit Pfeilen, Lupenkreisen und Stückzahlen statt Sätzen; im Katalog, weil die Montageanleitung einen Ablauf in einzelne Handgriffe zerlegt.",
+  "origin": "Möbel zerlegt zu verschicken ist älter als die Anleitung ohne Worte: Der ab 1859 gefertigte Bugholzstuhl Nr. 14 von Thonet war eigens so gebaut, dass er sich für den Transport platzsparend zerlegen ließ, und in Schweden wirkte Lena Larsson in den 1940er-Jahren an der Serie Triva des Kaufhauses Nordiska Kompaniet mit, einer der ersten schwedischen Möbelreihen zum Selbstaufbau. Der dänische Spielzeughersteller Lego legte seinen Baukästen 1964 erstmals Bauanleitungen bei. Die Regel des deutschen Kaufrechts, nach der eine fehlerhafte Montageanleitung einen Sachmangel darstellt (§ 434 BGB), ist im Volksmund nach einem schwedischen Einrichtungskonzern benannt, dessen Aufbauanleitungen bis auf Mengenangaben überwiegend aus Bildern bestehen. Eine 2003 auf der SIGGRAPH vorgestellte Arbeit aus Stanford leitete aus Versuchen, in denen Teilnehmer einen Fernsehtisch aufbauten und selbst Anleitungen dafür zeichneten, Gestaltungsregeln ab: eine Folge von Bildern statt eines Gesamtbilds, je Schritt nur ein wichtiges Teil, alle neuen Teile sichtbar und das neue Teil abgesetzt gezeichnet, mit Hilfslinien zu seinem Platz – bei Spielzeug wie Lego genüge dagegen oft das Bild des Zustands nach jedem Schritt, weil sich die meisten Teile auf dieselbe Weise verbinden.",
+  "markers": [
+   "Dünne schwarze Kontur in einheitlicher Strichstärke auf weißem Papier, ohne Schattierung, Flächenfüllung und Farbe",
+   "Seite durch dünne Linien in nummerierte Schrittfelder geteilt, die Schrittnummer groß und fett",
+   "Durchgehend dieselbe erhöhte Dreiviertelansicht; Teile wie in einer Explosionsdarstellung abgesetzt, mit gestrichelten Hilfslinien und Bewegungspfeilen",
+   "Kreisrunde Detailvergrößerungen, die einen Handgriff oder ein Verbindungselement herausheben",
+   "Gesichtslose, neutrale Strichfigur – oft nur zwei Hände –, die den Handgriff ausführt",
+   "Kaum Text: Stückzahlen wie „2x“, Schrittnummern und kleine Maßangaben statt erklärender Sätze"
+  ],
+  "escapes": "Die übliche KI-Infografik setzt bunte Symbole mit Farbverlauf und Schatten in runde Plaketten oder gleich große Kacheln, verbindet sie mit Pfeilen und stellt eine fette Schlagzeile darüber. Die Montageanleitung erlaubt nur Kontur, Pfeil und Zahl: Jedes Feld zeigt genau einen Handgriff aus derselben Blickrichtung, die Reihenfolge steckt in den Schrittnummern, Mengen erscheinen als Stückzahl, und die Schrift schrumpft auf Nummern und wenige Wörter.",
+  "pitfalls": "Oft schleichen sich Graustufen, Schlagschatten oder eine Akzentfarbe ein, die Blickrichtung springt von Feld zu Feld, mehrere Felder zeigen denselben Zustand, oder sechs Schritte landen doch in einem gleichmäßigen Kachelraster mit Verbindungspfeilen. Die Figur bekommt leicht ein freundliches Gesicht und erinnert dann an die Maskottchen bekannter Anleitungen, und leere Flächen füllen sich mit erfundenen Teilenummern oder Zeichensalat. Weiche, gewachsene Dinge wie Getreide oder Teig geraten gern zu runden Kinderbuchumrissen statt zu nüchterner Bauteilzeichnung.",
+  "tip": "Für jedes Feld genau einen Handgriff samt Pfeilrichtung nennen und ausdrücklich „in jedem Feld dieselbe Dreiviertelansicht, nur schwarze Linien gleicher Stärke“ verlangen; sonst wechselt das Modell Blickwinkel und Strichstärke.",
+  "sensitivity": "Die Bildsprache wird stark mit einem schwedischen Möbelhaus verbunden; dessen Name, Hausschrift, Logo und die bekannte Anleitungsfigur gehören nicht ins Bild."
+ },
+ "en": {
+  "name": "Wordless assembly instructions",
+  "aka": [
+   "flat-pack instructions",
+   "pictorial assembly instructions",
+   "building instructions",
+   "assembly manual line art"
+  ],
+  "era": "second half of the 20th century onward, Europe",
+  "summary": "Numbered step boxes in thin, even lines, with arrows, magnifier circles and part counts instead of sentences; in the catalog because assembly instructions break a process into single actions.",
+  "origin": "Shipping furniture in pieces predates wordless instructions: the Thonet No. 14 bentwood chair, first produced in 1859, was made to be taken apart to save space in transport, and in Sweden Lena Larsson helped create the Triva line for the Nordiska Kompaniet department store in the 1940s, one of the country's earliest ranges of ready-to-assemble furniture. The Danish toy maker Lego first included building instructions in its sets in 1964. The German sales-law rule that faulty assembly instructions make the goods defective (§ 434 BGB) is popularly named after a Swedish home-furnishing company whose assembly instructions consist mainly of pictures apart from quantities. A Stanford paper presented at SIGGRAPH 2003 derived design rules from experiments in which participants assembled a TV stand and drew their own instructions for it: a sequence of diagrams rather than one overall view, only one significant part per step, all new parts visible, and the new part drawn set apart with guidelines to where it attaches; for toys such as Lego, the authors note, a picture of the state after each step is often enough, because most of their parts fasten in the same way.",
+  "markers": [
+   "Thin black outlines of one uniform line weight on white paper, without shading, fills or colour",
+   "Page divided by thin rules into numbered step boxes, the step number large and bold",
+   "The same raised three-quarter view throughout; parts set apart as in an exploded view, with dashed guidelines and motion arrows",
+   "Circular magnified details that single out a hand movement or a fastener",
+   "A faceless, neutral line figure, often just a pair of hands, performing the action",
+   "Hardly any text: part counts like '2x', step numbers and small measurements instead of explanatory sentences"
+  ],
+  "escapes": "The usual AI infographic puts colourful icons with gradients and shadows into round badges or equal tiles, links them with arrows and sets a heavy headline on top. Assembly instructions allow only outline, arrow and number: each box shows exactly one action from the same viewpoint, the order lives in the step numbers, quantities appear as part counts, and the lettering shrinks to numbers and a few words.",
+  "pitfalls": "Grey tones, drop shadows or an accent colour often creep in, the viewpoint jumps from box to box, several boxes show the same state, or six steps end up in an even tile grid joined by arrows after all. The figure easily acquires a friendly face and then recalls the mascots of well-known instructions, and empty areas fill up with invented part numbers or garbled pseudo-lettering. Soft, organic things such as grain or dough tend to turn into rounded picture-book outlines instead of sober component drawing.",
+  "tip": "Name exactly one action and its arrow direction for each box and ask explicitly for 'the same three-quarter view in every box, black lines of one weight only'; otherwise the model changes angle and line weight.",
+  "sensitivity": "The look is strongly associated with a Swedish furniture retailer; its name, corporate typeface, logo and the well-known instruction figure do not belong in the image."
+ },
+ "sources": [
+  {
+   "title": "Agrawala et al.: Designing Effective Step-By-Step Assembly Instructions (SIGGRAPH 2003, Stanford University)",
+   "url": "https://graphics.stanford.edu/papers/assembly_instructions/"
+  },
+  {
+   "title": "Ready-to-assemble furniture – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ready-to-assemble_furniture"
+  },
+  {
+   "title": "History of Lego – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/History_of_Lego"
+  },
+  {
+   "title": "IKEA-Klausel – Wikipedia (de)",
+   "url": "https://de.wikipedia.org/wiki/IKEA-Klausel"
+  }
+ ]
+}

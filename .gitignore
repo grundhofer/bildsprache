@@ -1,0 +1,17 @@
+# Generierte Seite - wird von GitHub Actions gebaut
+/docs/
+/docs.tmp/
+
+# Originale (PNG mit C2PA-Metadaten) liegen als Release-Anhang, nicht im Git-Verlauf.
+# Die Website nutzt die WebP-Fassungen in images/.
+/originals/
+
+# Arbeitsmaterial der Recherche, nicht Teil der Veröffentlichung
+/research/
+
+# Zwischenschritt des Vorschaubilds; og.png liegt im Repo, weil der CI-Runner keinen Browser hat
+/og.html
+
+.DS_Store
+__pycache__/
+*.pyc

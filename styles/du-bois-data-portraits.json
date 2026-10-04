@@ -1,0 +1,68 @@
+{
+ "slug": "du-bois-data-portraits",
+ "style_block": "A hand-drawn statistical chart by a university team in Atlanta for the 1900 Paris World's Fair. Medium: ink outlines and flat watercolour on worn, chipped cream-buff board; crimson, golden yellow, royal blue, deep green, umber, black, pale pink, each mark one solid colour, brush-streaked; pencil guide lines. Composition: board seen flat; title centred at top, one large figure below amid wide bare board; no frames or panels. Lettering, where text is needed: title in heavy hand-drawn block capitals; labels in small thin capitals. Information, where a diagram, map or chart is shown: thick colour bands of strictly proportional length, bent back or coiled into a spiral only when too long for the board, or fan wedges; each value beside or inside its mark; no axes, gridlines or ticks. Avoid vector smoothness, gradients, shadows, 3D, tile grids, icons, pictogram rows, abstract colour-block posters, sepia filters, added captions or translations.",
+ "de": {
+  "name": "Du-Bois-Datenporträts",
+  "aka": [
+   "Statistische Schaubilder von W. E. B. Du Bois",
+   "The Georgia Negro: A Social Study",
+   "Schaubilder des „Exhibit of American Negroes“"
+  ],
+  "era": "1900, Atlanta und Paris",
+  "summary": "Handgezeichnete Schaubilder in Tusche und Aquarell, je Tafel eine große Figur aus Balken, Fächern oder Spiralen in Karminrot, Gelb und Grün; im Katalog als frühes Gegenmodell zum KI-Kachelraster.",
+  "origin": "Die Schaubilder entstanden für „The Exhibit of American Negroes“, eine Abteilung im Palast der Sozialökonomie auf der Pariser Weltausstellung 1900, die der afroamerikanische Jurist Thomas J. Calloway organisierte; für die Zusammenstellung gewann er den Bibliothekar Daniel Murray von der Library of Congress und den Soziologen W. E. B. Du Bois. Du Bois, seit 1897 Professor für Geschichte und Wirtschaftswissenschaften an der Atlanta University, schuf mit Studenten der Universität rund 60 Tafeln in zwei Reihen: „The Georgia Negro: A Social Study“ mit 32 Schaubildern zu Georgia und eine landesweite Reihe von etwa 30 Schaubildern mit englischen und französischen Titeln, die meisten mit dem Vermerk „Done by Atlanta University“. Laut Katalog der Library of Congress messen die Tafeln 71 × 56 cm und sind meist mit Tusche und Aquarell gezeichnet, einige zusätzlich mit Bleistift oder aufgeklebten Fotografien; sie zeigen Bevölkerung, Berufe, Bildung, Besitz und Einkommen der Afroamerikaner und sollten deren wirtschaftlichen und sozialen Fortschritt seit dem Ende der Sklaverei belegen. Du Bois erhielt für die Zusammenstellung eine Goldmedaille; die Tafeln liegen heute in der Library of Congress. 2018 veröffentlichten Whitney Battle-Baptiste und Britt Rusert sie im Band „W. E. B. Du Bois’s Data Portraits: Visualizing Black America“, nach dessen Titel der Stil in diesem Katalog benannt ist.",
+  "markers": [
+   "Konturen in Tusche und flächiges Aquarell auf abgegriffenem, cremefarbenem bis hellbraunem Karton mit bestoßenen Ecken; in den Farbflächen sind Pinselstriche zu sehen",
+   "Wenige kräftige Farben: Karminrot, Goldgelb, Königsblau, Grün, Umbra, Schwarz und blasses Rosa; jede Form in einer einzigen ungemischten Farbe",
+   "Titel zentriert am oberen Rand: in der Georgia-Reihe kräftige, von Hand gezeichnete Blockversalien, in der landesweiten Reihe oft eine schlichte Antiqua mit der französischen Übersetzung darunter",
+   "Meist eine einzige große Figur je Tafel, ringsum viel leerer Karton",
+   "Ungewöhnliche Formen: Balken, die am Rand umbiegen oder sich zur Spirale einrollen, Fächersegmente, Ringe, Kreise und Quadrate unterschiedlicher Größe",
+   "Meist ohne Achsen und Gitternetz; Zahlen und Beschriftungen in dünnen Versalien stehen neben oder in den Formen"
+  ],
+  "escapes": "Statt des Kachelrasters aus gleich großen Feldern mit Symbolbildchen, das KI-Infografiken zeigen, trägt fast jede Tafel eine einzige Aussage in einer großen Form. Die Farben sind wenige ungemischte Aquarelltöne mit sichtbaren Pinselstrichen statt glatter Verläufe, und die Schrift ist von Hand gezeichnet statt gesetzt.",
+  "pitfalls": "Modelle machen aus dem Stil gern eine abstrakte Farbflächenkomposition nach Art von Bauhaus oder De Stijl, in der Spiralen und Fächer nur noch schmücken und die Längen nicht mehr zu den Werten passen. Häufig kommen ein Sepia-Altpapierfilter, Achsen mit Teilstrichen, erfundene französische Untertitel, Fußnoten oder Archivnummern und verformte Buchstaben in den Versalien hinzu. Zu prüfen ist vor allem, ob Länge oder Winkel jeder Form ihrem Wert entspricht und ob nur der vorgegebene Text erscheint.",
+  "tip": "Für jede Form Farbe, Richtung und Länge ausdrücklich angeben, etwa „vier waagerechte Bänder, Längen im Verhältnis 12 : 30 : 24 : 6“; sonst geraten Spiralen und Knicke leicht zum Schmuck mit falschen Maßen.",
+  "sensitivity": "Die Tafeln dokumentieren afroamerikanisches Leben nach der Sklaverei und setzten den rassistischen Klischees ihrer Zeit ein eigenes Bild entgegen; wer den Stil verwendet, sollte Du Bois und sein Team von der Atlanta University nennen und ihn nicht für herabsetzende oder rassistische Inhalte einsetzen. Die historischen Originaltitel mit dem damaligen Wort „Negro“ gehören nicht in neue Bilder."
+ },
+ "en": {
+  "name": "Du Bois Data Portraits",
+  "aka": [
+   "W. E. B. Du Bois's data visualizations",
+   "The Georgia Negro: A Social Study",
+   "Exhibit of American Negroes charts"
+  ],
+  "era": "1900, Atlanta and Paris",
+  "summary": "Hand-drawn ink-and-watercolour charts, one large figure of bars, fans or spirals per board in crimson, yellow and green; in the catalog as an early counter-model to the AI tile grid.",
+  "origin": "The charts were made for 'The Exhibit of American Negroes', a section in the Palace of Social Economy at the 1900 Paris World's Fair run by the African American lawyer Thomas J. Calloway, who enlisted the librarian Daniel Murray of the Library of Congress and the sociologist W. E. B. Du Bois to assemble it. Du Bois, professor of history and economics at Atlanta University since 1897, produced about 60 boards with students of the university in two series: 'The Georgia Negro: A Social Study' with 32 charts on Georgia, and a national series of about 30 charts with English and French titles, most marked 'Done by Atlanta University'. According to the Library of Congress catalogue the boards measure 71 × 56 cm and are mostly drawn in ink and watercolour, some also with graphite or pasted-on photographs; they show the population, occupations, education, property and income of African Americans and were meant to document their economic and social progress since emancipation. Du Bois received a gold medal for compiling the material, and the boards are now in the Library of Congress. In 2018 Whitney Battle-Baptiste and Britt Rusert published them in the book 'W. E. B. Du Bois's Data Portraits: Visualizing Black America', whose title gives the style its name in this catalog.",
+  "markers": [
+   "Ink outlines and flat watercolour on worn, cream to light brown board with chipped corners; brush strokes visible in the colour fields",
+   "A few strong colours: crimson, golden yellow, royal blue, green, umber, black and pale pink; each shape in one unmixed colour",
+   "Title centred at the top: bold hand-drawn block capitals in the Georgia series, in the national series often a plain roman with the French translation beneath",
+   "Usually a single large figure per board, with plenty of bare board around it",
+   "Unusual forms: bars that bend back at the edge or coil into a spiral, fan wedges, rings, circles and squares of different sizes",
+   "Mostly without axes or grid; figures and labels in thin capitals sit beside or inside the shapes"
+  ],
+  "escapes": "Instead of the tile grid of equal panels with little icons seen in AI infographics, almost every board makes one point in one large shape. The colours are a few unmixed watercolours with visible brush strokes instead of smooth gradients, and the lettering is drawn by hand rather than typeset.",
+  "pitfalls": "Models tend to turn the style into an abstract colour-block composition in the manner of Bauhaus or De Stijl, where spirals and fans become decoration and the lengths no longer match the values. A sepia old-paper filter, axes with tick marks, invented French subtitles, footnotes or archive numbers and warped letters in the capitals are frequent additions. Check above all that the length or angle of each shape matches its value and that only the given text appears.",
+  "tip": "Give the colour, direction and length of every shape explicitly, for example 'four horizontal bands, lengths in the ratio 12 : 30 : 24 : 6'; otherwise spirals and bends easily turn into decoration with wrong proportions.",
+  "sensitivity": "The boards document African American life after slavery and countered the racist stereotypes of their time with a picture of their own; anyone using the style should credit Du Bois and his Atlanta University team and not use it for demeaning or racist content. The original titles with the period term 'Negro' do not belong in new images."
+ },
+ "sources": [
+  {
+   "title": "The Exhibit of American Negroes – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Exhibit_of_American_Negroes"
+  },
+  {
+   "title": "W. E. B. Du Bois – Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/W._E._B._Du_Bois"
+  },
+  {
+   "title": "Chart of the national series with Library of Congress catalogue data (ink and watercolor, 710 x 560 mm board, 'Done by Atlanta University', text in English and French) – Wikimedia Commons",
+   "url": "https://commons.wikimedia.org/wiki/File:A_series_of_statistical_charts_illustrating_the_condition_of_the_descendants_of_former_African_slaves_now_in_residence_in_the_United_States_of_America_LCCN2013650366.jpg"
+  },
+  {
+   "title": "W. E. B. Du Bois' Hand-Drawn Infographics of African-American Life (1900) – The Public Domain Review",
+   "url": "https://publicdomainreview.org/collection/w-e-b-du-bois-hand-drawn-infographics-of-african-american-life-1900/"
+  }
+ ]
+}
