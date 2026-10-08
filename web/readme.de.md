@@ -4,7 +4,7 @@
 
 **Ein Motiv, viele Bildsprachen: KI-Bilder müssen nicht gleich aussehen.**
 
-Bildstile nach Anwendung (Infografik, Diagramm, Icons, Porträt, Produkt, Plakat, Illustration, Karte, Stimmungsbild):
+Bildstile nach Anwendung (Infografik, Diagramm, Icons, Porträt, Produkt, Plakat, Folie, Thumbnail, Social-Media-Post, Illustration, Karte, Stimmungsbild):
 __N_IMAGES__ Bilder in __N_LEAD__ Leitstilen, jedes mit dem Prompt, der es erzeugt hat, dem Stilblock allein und einer
 Vorlage für eigene Inhalte. Dazu ein Lexikon mit __N_LEX__ ausgewählten Bildstilen und eine Übersicht, woran man KI-Bilder erkennt.
 
@@ -12,7 +12,7 @@ Vorlage für eigene Inhalte. Dazu ein Lexikon mit __N_LEX__ ausgewählten Bildst
 [Deutsch](https://grundhofer.github.io/bildsprache/de/) ·
 [English](https://grundhofer.github.io/bildsprache/en/)
 
-![Dieselbe Szene ohne Stilangabe und in vier Stilen, daneben der Prompt-Aufbau.](og.png)
+![Startseite „Was willst du erstellen?“ mit fünf Anwendungen, jede in einem anderen Stil.](og.png)
 
 ## Worum es geht
 
@@ -65,7 +65,7 @@ ein angemeldetes Codex. `cwebp` wandelt sie für die Website um.
 ```sh
 python3 tools/plan.py jobs.json          # Zellen ohne Bild mit aktuellem Prompt
 python3 tools/generate.py jobs.json      # erzeugt originals/<motiv>/<stil>-<n>.png
-python3 tools/manifest.py                # wählt pro Zelle die geprüfte Fassung (data/qa.json)
+python3 tools/manifest.py                # wählt pro Zelle die beste geprüfte Fassung; durchgefallene nie (data/qa.json)
 python3 tools/optimize.py                # WebP-Dateien in images/
 ```
 

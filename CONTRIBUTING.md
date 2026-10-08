@@ -31,7 +31,7 @@ bitte begründen.
    python3 tools/generate.py jobs.json     # braucht ein angemeldetes Codex CLI
    ```
    Jedes Bild bekommt in `data/qa.json` ein Prüfergebnis (`pass`, `flawed` oder `fail`) mit Notiz und Alt-Text auf
-   Deutsch und Englisch. Danach `python3 tools/manifest.py`, `python3 tools/optimize.py` und `python3 build.py`.
+   Deutsch und Englisch. Bilder mit `fail` werden nie veröffentlicht. Danach `python3 tools/manifest.py`, `python3 tools/optimize.py` und `python3 build.py`.
 
 Der Build prüft, dass jeder veröffentlichte Prompt genau aus dem aktuellen Motiv- und Stilblock besteht. Wer einen
 Stilblock ändert, muss dessen Bilder neu erzeugen; `tools/plan.py` findet sie automatisch.
@@ -69,7 +69,7 @@ disputed facts. Feasibility and "distance from the AI look" are editorial judgem
    python3 tools/generate.py jobs.json     # needs a logged-in Codex CLI
    ```
    Every image gets a review result in `data/qa.json` (`pass`, `flawed` or `fail`) with a note and alt text in German
-   and English. Then run `python3 tools/manifest.py`, `python3 tools/optimize.py` and `python3 build.py`.
+   and English. Images marked `fail` are never published. Then run `python3 tools/manifest.py`, `python3 tools/optimize.py` and `python3 build.py`.
 
 The build checks that every published prompt consists exactly of the current motif and style block. Changing a style
 block means regenerating its images; `tools/plan.py` finds them automatically.

@@ -4,7 +4,7 @@
 
 **One motif, many visual languages: AI images need not look alike.**
 
-Image styles by use case (infographic, chart, icons, portrait, product, poster, illustration, map, mood image):
+Image styles by use case (infographic, chart, icons, portrait, product, poster, slide, thumbnail, social media post, illustration, map, mood image):
 310 images in 115 lead styles, each with the prompt that made it, the style block on its own and a
 template for your own content. Plus a lexicon of 599 selected image styles and an overview of how to recognise AI images.
 
@@ -12,7 +12,7 @@ template for your own content. Plus a lexicon of 599 selected image styles and a
 [English](https://grundhofer.github.io/bildsprache/en/) ·
 [Deutsch](https://grundhofer.github.io/bildsprache/de/)
 
-![The same scene without a style and in four styles, next to the prompt structure.](og.png)
+![Home page “What do you want to make?” with five use cases, each in a different style.](og.png)
 
 ## What this is about
 
@@ -65,7 +65,7 @@ Images come from the built-in image tool of [Codex CLI](https://github.com/opena
 ```sh
 python3 tools/plan.py jobs.json          # cells without an image for the current prompt
 python3 tools/generate.py jobs.json      # writes originals/<motif>/<style>-<n>.png
-python3 tools/manifest.py                # picks the reviewed version per cell (data/qa.json)
+python3 tools/manifest.py                # picks the best reviewed version per cell, never a failed one (data/qa.json)
 python3 tools/optimize.py                # WebP files in images/
 ```
 
