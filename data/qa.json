@@ -9841,5 +9841,100 @@
   "note_en": "",
   "alt_de": "Rot-blau ausgeleuchtetes Filmplakat: die Wärterin mit Laterne und entsetztem Blick, oben links „NIGHT SHIFT“ in gelber Siebziger-Schrift, rechts der Leuchtturm über der Brandung.",
   "alt_en": "Red-and-blue-lit film poster: the horrified keeper with a lantern, 'NIGHT SHIFT' in yellow 1970s type top left, the lighthouse above the surf on the right."
+ },
+ "people/three-strip-technicolor-14": {
+  "key": "people/three-strip-technicolor-14",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Modern photorealistic outdoor photo: real sea, cliffs and sky instead of a 1940s sound stage with painted backdrop; no ruby-red accent"
+  ],
+  "note_de": "Wirkt wie ein modernes Außenfoto an echter Küste statt wie ein Technicolor-Studiostandbild der 1940er mit gemalter Kulisse.",
+  "note_en": "Looks like a modern outdoor photo on a real coast rather than a 1940s Technicolor studio still with a painted backdrop.",
+  "alt_de": "Fotorealistisch: Eine grauhaarige Frau drückt eine neue Planke an ein umgedrehtes Ruderboot am Kiesstrand, ein junger Mann mit Mütze nagelt sie fest.",
+  "alt_en": "Photorealistic: a grey-haired woman presses a new plank against an upturned rowing boat on a shingle beach while a young man in a knit cap nails it."
+ },
+ "people/three-strip-technicolor-15": {
+  "key": "people/three-strip-technicolor-15",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Modern photorealistic outdoor photo: real sea, cliffs and sky instead of a 1940s sound stage with painted backdrop; no ruby-red accent"
+  ],
+  "note_de": "Wirkt wie ein modernes Außenfoto an echter Küste statt wie ein Technicolor-Studiostandbild der 1940er mit gemalter Kulisse.",
+  "note_en": "Looks like a modern outdoor photo on a real coast rather than a 1940s Technicolor studio still with a painted backdrop.",
+  "alt_de": "Fotorealistisch: Eine grauhaarige Frau drückt eine neue Planke an ein umgedrehtes Ruderboot am Kiesstrand, ein junger Mann mit Mütze nagelt sie fest.",
+  "alt_en": "Photorealistic: a grey-haired woman presses a new plank against an upturned rowing boat on a shingle beach while a young man in a knit cap nails it."
+ },
+ "people/three-strip-technicolor-16": {
+  "key": "people/three-strip-technicolor-16",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Modern photorealistic outdoor photo: real sea, cliffs and sky instead of a 1940s sound stage with painted backdrop; no ruby-red accent"
+  ],
+  "note_de": "Wirkt wie ein modernes Außenfoto an echter Küste statt wie ein Technicolor-Studiostandbild der 1940er mit gemalter Kulisse.",
+  "note_en": "Looks like a modern outdoor photo on a real coast rather than a 1940s Technicolor studio still with a painted backdrop.",
+  "alt_de": "Fotorealistisch: Eine grauhaarige Frau drückt eine neue Planke an ein umgedrehtes Ruderboot am Kiesstrand, ein junger Mann mit Mütze nagelt sie fest.",
+  "alt_en": "Photorealistic: a grey-haired woman presses a new plank against an upturned rowing boat on a shingle beach while a young man in a knit cap nails it."
+ },
+ "thumbnail/ancient-egyptian-wall-painting-3": {
+  "key": "thumbnail/ancient-egyptian-wall-painting-3",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "convention",
+   "Face frontal instead of profile; woman red-brown instead of pale yellow; lantern and coat painted with modern shading"
+  ],
+  "note_de": "Gesicht frontal statt im Profil, Haut rotbraun statt blassgelb; Laterne und Mantel modern schattiert.",
+  "note_en": "Face frontal instead of in profile, skin red-brown instead of pale yellow; lantern and coat shaded in a modern way.",
+  "alt_de": "Wandmalerei im ägyptischen Stil mit Rasterlinien: Eine erschrockene Frau im gelben Ölzeug hält eine Laterne hoch, rechts ein Leuchtturm im Sturm, oben der Titel NIGHT SHIFT.",
+  "alt_en": "Egyptian-style wall painting over a grid: a startled woman in a yellow oilskin raises a lantern, a lighthouse in a storm on the right, the title NIGHT SHIFT at the top."
+ },
+ "thumbnail/ancient-egyptian-wall-painting-4": {
+  "key": "thumbnail/ancient-egyptian-wall-painting-4",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "convention",
+   "Profile head with frontal eye is now correct, but the woman is red-brown instead of pale yellow; lantern and hands shaded"
+  ],
+  "note_de": "Profil mit frontalem Auge stimmt jetzt, aber die Frau ist rotbraun statt blassgelb, und die Laterne ist plastisch schattiert.",
+  "note_en": "The profile with a frontal eye is now correct, but the woman is red-brown instead of pale yellow and the lantern is shaded in 3D.",
+  "alt_de": "Wandmalerei im ägyptischen Stil mit Rasterlinien: Eine Frau im gelben Ölzeug hält im Profil eine Laterne in den Sturm, dahinter ein Leuchtturm auf Zickzackwellen, oben links NIGHT SHIFT.",
+  "alt_en": "Egyptian-style wall painting over a grid: a woman in a yellow oilskin, in profile, holds a lantern into the storm, a lighthouse on zigzag waves behind, NIGHT SHIFT at top left."
+ },
+ "social/ancient-egyptian-wall-painting-2": {
+  "key": "social/ancient-egyptian-wall-painting-2",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "style",
+   "Bread, bun and bag rendered with 3D shading instead of flat colour; an added baker and ship (motif allows the style's choice of framing)"
+  ],
+  "note_de": "Brot, Schnecke und Tüte sind räumlich schattiert statt flach gemalt.",
+  "note_en": "The loaf, bun and bag are shaded in 3D instead of painted flat.",
+  "alt_de": "Wandmalerei im ägyptischen Stil: Ein Bäcker im Profil schiebt Brot in den Ofen, vorn ein dampfender Laib, eine Zimtschnecke und eine Papiertüte, oben NOW OPEN, unten HARBOUR BAKERY.",
+  "alt_en": "Egyptian-style wall painting: a baker in profile slides bread into an oven, in front a steaming loaf, a cinnamon bun and a paper bag, NOW OPEN above and HARBOUR BAKERY below."
+ },
+ "social/ancient-egyptian-wall-painting-3": {
+  "key": "social/ancient-egyptian-wall-painting-3",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "style",
+   "Coloured mosaic-tile border foreign to Egyptian wall painting; loaf, bun and board fully 3D-shaded; reads as a generic rustic poster"
+  ],
+  "note_de": "Wirkt eher wie ein rustikales Plakat mit Mosaikrahmen als wie ägyptische Wandmalerei; Brot und Brett sind plastisch gemalt.",
+  "note_en": "Looks more like a rustic poster with a mosaic border than Egyptian wall painting; bread and board are painted in 3D.",
+  "alt_de": "Plakat mit Mosaikrahmen: dampfender Brotlaib, Zimtschnecke und Papiertüte vor Hafen mit Segelschiff, oben NOW OPEN und HARBOUR BAKERY.",
+  "alt_en": "Poster with a mosaic border: a steaming loaf, a cinnamon bun and a paper bag before a harbour with a sailing ship, NOW OPEN and HARBOUR BAKERY at the top."
  }
 }

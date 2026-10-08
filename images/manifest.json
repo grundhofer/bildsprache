@@ -1,9 +1,9 @@
 {
  "stats": {
-  "calls": 657,
+  "calls": 664,
   "pilot_v1": 46,
   "superseded": 269,
-  "current": 342,
+  "current": 349,
   "rerolls": 26
  },
  "images": [
@@ -7836,8 +7836,8 @@
    "type": "thumbnail",
    "style": "ancient-egyptian-wall-painting",
    "lang": "en",
-   "file": "ancient-egyptian-wall-painting-2.png",
-   "attempt": 2,
+   "file": "ancient-egyptian-wall-painting-4.png",
+   "attempt": 4,
    "discarded": 0,
    "prompt": "Style: Tomb wall painting, Thebes, Egypt, about 1400 BC, painted over the painter's red squared grid. Medium: flat Egyptian blue, green, ochres and soot black on dry whitewashed plaster, faint grid lines showing through; red-brown outlines. Composition: everything stands on ruled ground lines, squared to the grid; water blue with black zigzags; ground a plain ochre strip with sparse red dots; bare whitewash above. People: profile head and legs, frontal eye and shoulders; kneeling figures upright, one knee raised; men red-brown, women pale yellow at every age. Lettering, where text is needed: brush-painted letters and numerals in one colour, in ruled boxes. Information, where a diagram, map or chart is shown: steps as successive bands; a chart alone on the wall: plain flat-colour bars on the bottom ground line, heights read off the grid in exact proportion, numeral just above each; maps as top-view plans. Avoid gold, deities and hieroglyphs.\n\nSubject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
    "parts": {
@@ -7846,17 +7846,17 @@
     "guards": "Constraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
    },
    "size": "1536x1024",
-   "generated_at": "2026-10-08T16:58:30+00:00",
+   "generated_at": "2026-10-08T19:03:53+00:00",
    "tool": "Codex CLI built-in image_gen",
    "codex_version": "codex-cli 0.160.0",
    "qa": {
     "verdict": "flawed",
-    "note_de": "Wie beim ersten Versuch: Gesicht halb zugewandt statt im Profil, Haut rotbraun statt blassgelb. Ein Thumbnail verlangt den Blick zum Betrachter, der Stil das Profil.",
-    "note_en": "As in the first attempt: face half turned instead of in profile, skin red-brown instead of pale yellow. A thumbnail asks for eye contact; the style asks for a profile.",
+    "note_de": "Profil mit frontalem Auge stimmt jetzt, aber die Frau ist rotbraun statt blassgelb, und die Laterne ist plastisch schattiert.",
+    "note_en": "The profile with a frontal eye is now correct, but the woman is red-brown instead of pale yellow and the lantern is shaded in 3D.",
     "text_exact": null
    },
-   "alt_de": "Wandmalerei: die Wärterin in gelbem Mantel mit Laterne, rechts der Leuchtturm unter Gewitterwolken, Zickzackwasser, oben „NIGHT SHIFT“ in Rot.",
-   "alt_en": "Wall painting: the keeper in a yellow coat with a lantern, the lighthouse under storm clouds to the right, zigzag water, 'NIGHT SHIFT' in red above.",
+   "alt_de": "Wandmalerei im ägyptischen Stil mit Rasterlinien: Eine Frau im gelben Ölzeug hält im Profil eine Laterne in den Sturm, dahinter ein Leuchtturm auf Zickzackwellen, oben links NIGHT SHIFT.",
+   "alt_en": "Egyptian-style wall painting over a grid: a woman in a yellow oilskin, in profile, holds a lantern into the storm, a lighthouse on zigzag waves behind, NIGHT SHIFT at top left.",
    "ai_default": false,
    "width": 1536,
    "height": 1024
@@ -8528,8 +8528,8 @@
    "type": "social",
    "style": "ancient-egyptian-wall-painting",
    "lang": "en",
-   "file": "ancient-egyptian-wall-painting-1.png",
-   "attempt": 1,
+   "file": "ancient-egyptian-wall-painting-2.png",
+   "attempt": 2,
    "discarded": 0,
    "prompt": "Style: Tomb wall painting, Thebes, Egypt, about 1400 BC, painted over the painter's red squared grid. Medium: flat Egyptian blue, green, ochres and soot black on dry whitewashed plaster, faint grid lines showing through; red-brown outlines. Composition: everything stands on ruled ground lines, squared to the grid; water blue with black zigzags; ground a plain ochre strip with sparse red dots; bare whitewash above. People: profile head and legs, frontal eye and shoulders; kneeling figures upright, one knee raised; men red-brown, women pale yellow at every age. Lettering, where text is needed: brush-painted letters and numerals in one colour, in ruled boxes. Information, where a diagram, map or chart is shown: steps as successive bands; a chart alone on the wall: plain flat-colour bars on the bottom ground line, heights read off the grid in exact proportion, numeral just above each; maps as top-view plans. Avoid gold, deities and hieroglyphs.\n\nSubject: A square social media post announcing that a small bakery at the harbour of a fictional island has opened. Headline 'NOW OPEN', name 'HARBOUR BAKERY'. Picture: a round crusty loaf fresh from the oven with steam rising, on a wooden board, beside it a cinnamon bun and a brown paper bag. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: square, 1:1. The only text in the image is exactly: 'NOW OPEN', 'HARBOUR BAKERY'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
    "parts": {
@@ -8538,17 +8538,17 @@
     "guards": "Constraints: Image format: square, 1:1. The only text in the image is exactly: 'NOW OPEN', 'HARBOUR BAKERY'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
    },
    "size": "1024x1024",
-   "generated_at": "2026-10-08T16:50:34+00:00",
+   "generated_at": "2026-10-08T19:04:09+00:00",
    "tool": "Codex CLI built-in image_gen",
    "codex_version": "codex-cli 0.160.0",
    "qa": {
     "verdict": "flawed",
     "note_de": "Brot, Schnecke und Tüte sind räumlich schattiert statt flach gemalt.",
-    "note_en": "Bread, bun and bag are modelled in 3D instead of painted flat.",
+    "note_en": "The loaf, bun and bag are shaded in 3D instead of painted flat.",
     "text_exact": null
    },
-   "alt_de": "Wandmalerei: „NOW OPEN“ in Rot und „HARBOUR BAKERY“ in Blau über einem Brett mit Brot und Zimtschnecke, dahinter Segelboote mit Männern im Profil und Palmen.",
-   "alt_en": "Wall painting: 'NOW OPEN' in red and 'HARBOUR BAKERY' in blue above a board with bread and a cinnamon bun, sailing boats with profile figures and palms behind.",
+   "alt_de": "Wandmalerei im ägyptischen Stil: Ein Bäcker im Profil schiebt Brot in den Ofen, vorn ein dampfender Laib, eine Zimtschnecke und eine Papiertüte, oben NOW OPEN, unten HARBOUR BAKERY.",
+   "alt_en": "Egyptian-style wall painting: a baker in profile slides bread into an oven, in front a steaming loaf, a cinnamon bun and a paper bag, NOW OPEN above and HARBOUR BAKERY below.",
    "ai_default": false,
    "width": 1254,
    "height": 1254

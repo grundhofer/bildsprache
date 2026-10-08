@@ -27,7 +27,7 @@ MOTIFS = {m["id"]: m for m in LM["motifs"]}
 QA_FILE = ROOT / "data" / "lexicon_qa.json"
 MANIFEST = ROOT / "images" / TYPE / "manifest.json"
 RANK = {"pass": 2, "flawed": 1, "fail": 0}
-# Erster Versuch plus ein Neuversuch; danach wird auch ein Fehlversuch gezeigt, sichtbar markiert.
+# Erster Versuch plus ein Neuversuch; danach steht auch ein Fehlversuch im Manifest, die Website zeigt ihn aber nicht.
 MAX_ATTEMPTS = 2
 SIZES = {"": (768, 76), ".thumb": (320, 70)}
 FEAS = {"high": 0, "medium": 1, "low": 2}

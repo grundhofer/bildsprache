@@ -10203,5 +10203,2781 @@
   "note_en": "The script only fills the lighthouse, rocks and boat as pattern, the woman and dog are drawn conventionally, and the lettering is pseudo-Arabic.",
   "alt_de": "Kalligrafie in Schwarz und Gold mit Ornamentrand: Eine grauhaarige Frau mit Besen und Hund steht in der Leuchtturmtür; Turm, Felsen und Boot bestehen aus Schriftzügen.",
   "alt_en": "Black-and-gold calligraphy with illuminated border: a grey-haired woman with broom and dog stands in a lighthouse doorway; tower, rocks and boat are built from script."
+ },
+ "lexicon/1970s-custom-van-mural-1": {
+  "key": "lexicon/1970s-custom-van-mural-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Slightly digital-looking airbrush, but all style markers and the exact text are present"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Airgebrushtes 70er-Jahre-Wandbild auf einer Van-Seitenwand mit Bullauge und Streifen in Braun, Orange und Gold: Unter dem Schriftzug LORNHOLM führt ein leuchtender Pfad von einer Fähre über einen Leuchtturm zu einem Marktstand mit gestreifter Markise.",
+  "alt_en": "Airbrushed 1970s mural on a van side panel with a porthole window and brown, orange and gold stripes: below the title LORNHOLM a glowing path leads from a ferry past a lighthouse to a market stall with a striped awning."
+ },
+ "lexicon/amate-bark-painting-1": {
+  "key": "lexicon/amate-bark-painting-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Lighthouse and figure have some perspective and shading, but bark texture and dense bird-and-flower border are convincing"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Bunte Malerei auf faserigem braunem Amate-Rindenpapier, umrahmt von stilisierten Vögeln und Blumen: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines weißen Leuchtturms, neben ihr sitzt ein schwarz-weißer Hund, davor liegt ein Ruderboot, darüber fliegen zwei Möwen.",
+  "alt_en": "Colourful painting on fibrous brown amate bark paper, framed by stylised birds and flowers: a grey-haired woman in a blue sweater stands with a broom in the door of a white lighthouse, a black-and-white dog sits beside her, a rowing boat lies in front and two gulls fly overhead."
+ },
+ "lexicon/atompunk-1": {
+  "key": "lexicon/atompunk-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Foreground is a realistic painterly scene; atompunk elements (domes, rockets, atom motif) appear only in the background",
+   "Pastel turquoise/coral palette and chrome only weakly present"
+  ],
+  "note_de": "Wirkt eher wie eine realistische Küstenmalerei mit Zukunftsstadt im Hintergrund als wie durchgehender Atompunk.",
+  "note_en": "Reads more like a realistic coastal painting with a future city in the background than like full atompunk.",
+  "alt_de": "Sonnige Gouache-Illustration im Retro-Futurismus der 1950er: Eine grauhaarige Frau im blauen Pullover steht mit Besen und Hund in der Tür eines weißen Leuchtturms, im Hintergrund glänzen Kuppelstadt, Atommodell und Chromraketen über dem Meer.",
+  "alt_en": "Sunny gouache illustration in 1950s retro-futurism: a grey-haired woman in a blue sweater stands with a broom and her dog in the door of a white lighthouse, while a domed city, an atom model and chrome rockets gleam over the sea behind."
+ },
+ "lexicon/blurred-photo-painting-1": {
+  "key": "lexicon/blurred-photo-painting-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Horizontal smear only applied to the lighthouse and sky; woman, dog, boat and rocks stay nearly photo-sharp",
+   "Small pseudo-lettering on the boat bow"
+  ],
+  "note_de": "Wirkt eher wie ein teilweise verwischtes Foto als wie ein durchgehend verwischtes Ölgemälde.",
+  "note_en": "Reads more like a partly smeared photo than like a consistently dragged oil painting.",
+  "alt_de": "Graues, horizontal verwischtes Ölgemälde nach Fotovorlage: Eine grauhaarige Frau im dunkelblauen Pullover steht mit Besen und schwarz-weißem Hund in der Tür eines Leuchtturms, rechts liegt ein Ruderboot auf den Felsen, zwei Möwen fliegen über dem Meer.",
+  "alt_en": "Grey oil painting after a photo, dragged horizontally: a grey-haired woman in a dark blue sweater stands with a broom and a black-and-white dog in a lighthouse door, a rowing boat lies on the rocks to the right and two gulls fly over the sea."
+ },
+ "lexicon/carved-cinnabar-lacquer-1": {
+  "key": "lexicon/carved-cinnabar-lacquer-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Woman and dog rendered in natural colours (blue sweater, skin tones), breaking the monochrome vermilion lacquer",
+   "Overall look is closer to a glossy 3D render than to carved lacquer layers"
+  ],
+  "note_de": "Wirkt eher wie ein rotes 3D-Rendering mit farbiger Figur als wie geschnitzter Lack.",
+  "note_en": "Reads more like a red 3D render with a coloured figure than like carved lacquer.",
+  "alt_de": "Rotes Relief im Stil geschnitzten Zinnoberlacks mit Wolken- und Wellenornamenten: Eine Frau im blauen Pullover steht mit Besen und Hund in der Tür eines Leuchtturms, davor ein Ruderboot auf Felsen, darüber zwei Möwen vor einer tiefstehenden Sonne.",
+  "alt_en": "Red relief in the manner of carved cinnabar lacquer with cloud and wave ornaments: a woman in a blue sweater stands with a broom and dog in a lighthouse door, a rowing boat lies on the rocks and two gulls fly before a low sun."
+ },
+ "lexicon/city-pop-illustration-1": {
+  "key": "lexicon/city-pop-illustration-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Cobalt sky and crisp light fit, but rocks, water and figures are detailed painterly rendering rather than flat silkscreen-like areas",
+   "Reads close to an anime background painting"
+  ],
+  "note_de": "Wirkt eher wie ein detailliertes Anime-Hintergrundbild als wie flache City-Pop-Illustration.",
+  "note_en": "Reads more like a detailed anime background painting than like flat city pop illustration.",
+  "alt_de": "Sonnige Illustration unter tiefblauem Himmel: Eine grauhaarige Frau im blauen Strickpullover steht mit Besen in der Tür eines weißen Leuchtturms, neben ihr ein schwarz-weißer Hund, rechts ein Ruderboot auf hellen Felsen und zwei Möwen über dem glitzernden Meer.",
+  "alt_en": "Sunny illustration under a deep cobalt sky: a grey-haired woman in a blue knit sweater stands with a broom in the door of a white lighthouse, a black-and-white dog beside her, a rowing boat on pale rocks and two gulls over the glittering sea."
+ },
+ "lexicon/couleur-directe-1": {
+  "key": "lexicon/couleur-directe-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "No comic panel, gutters or framing at all",
+   "Smooth digital painting with glowing sunset rim light, exactly what the avoid note forbids"
+  ],
+  "note_de": "Wirkt eher wie ein glattes Digitalgemälde als wie ein direkt kolorierter Comic.",
+  "note_en": "Reads more like a smooth digital painting than like a painted comic panel.",
+  "alt_de": "Digital gemalte Abendszene: Eine grauhaarige Frau im dunkelblauen Pullover lehnt mit Besen in der Tür eines Leuchtturms, neben ihr ein schwarz-weißer Hund, links liegt ein Ruderboot auf Felsen, zwei Möwen fliegen in den Sonnenuntergang.",
+  "alt_en": "Digitally painted evening scene: a grey-haired woman in a dark blue sweater leans with a broom in a lighthouse door, a black-and-white dog beside her, a rowing boat on the rocks to the left and two gulls flying into the sunset."
+ },
+ "lexicon/de-stijl-1": {
+  "key": "lexicon/de-stijl-1",
+  "verdict": "flawed",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Strong Mondrian grid and primaries, but rocks and boat introduce diagonals the style forbids",
+   "Figurative elements remain fairly literal"
+  ],
+  "note_de": "Wirkt eher wie eine figürliche Szene im Mondrian-Raster als wie strenger De Stijl, Diagonalen inklusive.",
+  "note_en": "Reads more like a figurative scene on a Mondrian grid than like strict De Stijl, diagonals included.",
+  "alt_de": "Gemälde im De-Stijl-Raster aus schwarzen Linien und roten, gelben und blauen Flächen: Eine stilisierte grauhaarige Frau im blauen Oberteil steht mit Besen und schwarz-weißem Hund in der Tür eines Leuchtturms, daneben zwei geometrische Möwen und ein rot-weißes Boot.",
+  "alt_en": "Painting on a De Stijl grid of black lines and red, yellow and blue fields: a stylised grey-haired woman in a blue top stands with a broom and a black-and-white dog in a lighthouse door, beside two geometric gulls and a red-and-white boat."
+ },
+ "lexicon/early-modern-engraved-diagram-1": {
+  "key": "lexicon/early-modern-engraved-diagram-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Reads more as an engraved title page/map than a geometric diagram, but hatching, cartouches, allegorical figures and exact text are convincing"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Kupferstich in schwarzer Linie auf cremefarbenem Papier mit Meeresgott, Allegorie und Seeungeheuern: Unter einem Spruchband mit LORNHOLM und einer Inselansicht zeigen drei Medaillons eine Dampffähre, einen Leuchtturm und einen Marktstand mit gestreifter Markise.",
+  "alt_en": "Black-line copperplate engraving on cream paper with a sea god, an allegorical figure and sea monsters: below a LORNHOLM ribbon and an island view, three medallions show a steam ferry, a lighthouse and a market stall with a striped awning."
+ },
+ "lexicon/fashion-illustration-1": {
+  "key": "lexicon/fashion-illustration-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "No elongated croquis proportions or runway stance; figure is normally proportioned",
+   "Fully rendered background instead of generous empty page"
+  ],
+  "note_de": "Wirkt eher wie eine Aquarell-Landschaftsskizze als wie eine Modeillustration.",
+  "note_en": "Reads more like a watercolour landscape sketch than like a fashion illustration.",
+  "alt_de": "Aquarell mit lockerer Tuschezeichnung: Eine grauhaarige Frau im blauen Strickpullover steht mit Besen in der Tür eines weißen Leuchtturms, neben ihr ein schwarz-weißer Hund, rechts ein Ruderboot auf Felsen, zwei Möwen am Abendhimmel.",
+  "alt_en": "Watercolour with loose ink lines: a grey-haired woman in a blue knit sweater stands with a broom in the door of a white lighthouse, a black-and-white dog beside her, a rowing boat on the rocks and two gulls in the evening sky."
+ },
+ "lexicon/fruit-crate-label-1": {
+  "key": "lexicon/fruit-crate-label-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Square rather than horizontal label and more painterly than flat litho, but colours, idealised landscape, oversized oranges and bold lettering read clearly; text exact"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Vintage-Kistenetikett in Orange, Kobaltblau und Grün: Über großen glänzenden Orangen steht der Schriftzug LORNHOLM, drei ovale Bildfelder zeigen eine Fähre, einen Leuchtturm und einen Marktstand vor einer idealisierten Küstenlandschaft.",
+  "alt_en": "Vintage crate label in orange, cobalt and green: above large glossy oranges stands the title LORNHOLM, and three oval vignettes show a ferry, a lighthouse and a market stall against an idealised coastal landscape."
+ },
+ "lexicon/golden-age-fairy-tale-illustration-1": {
+  "key": "lexicon/golden-age-fairy-tale-illustration-1",
+  "verdict": "flawed",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Small pseudo-signature scribble in the bottom-right corner and faint pseudo-text bottom-left"
+  ],
+  "note_de": "Wirkt wie ein stimmiges Märchenbuchbild, trägt aber eine kleine Pseudo-Signatur.",
+  "note_en": "Reads as a convincing fairy-tale plate but carries a small pseudo-signature.",
+  "alt_de": "Feine Feder- und Aquarellzeichnung in gedämpften Braun- und Blautönen: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines verwitterten Leuchtturms, neben ihr ein schwarz-weißer Hund, vorne ein altes Ruderboot, zwei Möwen am Abendhimmel.",
+  "alt_en": "Fine pen-and-watercolour drawing in muted browns and blues: a grey-haired woman in a blue sweater stands with a broom in the door of a weathered lighthouse, a black-and-white dog beside her, an old rowing boat in front and two gulls in the evening sky."
+ },
+ "lexicon/hand-plotted-graph-paper-chart-1": {
+  "key": "lexicon/hand-plotted-graph-paper-chart-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Drawn as an illustrated island map on graph paper, not a plotted chart: no ruled axes, tick numbers or plotted data line",
+   "Graph paper, coloured pencil and side light are convincing"
+  ],
+  "note_de": "Wirkt eher wie eine Schatzkarte auf Millimeterpapier als wie ein handgeplottetes Diagramm.",
+  "note_en": "Reads more like a treasure map on graph paper than like a hand-plotted chart.",
+  "alt_de": "Buntstiftzeichnung auf orangem Millimeterpapier: Unter dem Titel LORNHOLM verbindet eine gestrichelte Linie mit roten Kreuzen eine Fähre, einen rot-weißen Leuchtturm und einen Marktstand mit gestreifter Markise auf einer gezeichneten Inselkarte.",
+  "alt_en": "Coloured-pencil drawing on orange graph paper: below the title LORNHOLM a dashed line with red crosses links a ferry, a red-and-white lighthouse and a market stall with a striped awning on a hand-drawn island map."
+ },
+ "lexicon/italian-popular-fumetti-1": {
+  "key": "lexicon/italian-popular-fumetti-1",
+  "verdict": "flawed",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Six-panel grid and dip-pen hatching fit, but uses grey wash tones and a slight blue tint where the style demands pure black ink",
+   "Small pseudo-lettering on the boat"
+  ],
+  "note_de": "Wirkt eher wie eine grau lavierte Grafik-Novel-Seite als wie reine Schwarzweiß-Fumetti.",
+  "note_en": "Reads more like a grey-washed graphic novel page than like pure black-ink fumetti.",
+  "alt_de": "Schwarzweiße Comicseite mit sechs Panels in Federschraffur: Leuchtturm auf Felsen, eine grauhaarige Frau im Strickpullover mit Besen und Hund in der Tür, ihr Gesicht in Nahaufnahme, ein Ruderboot am Ufer, sie von hinten mit dem Hund am Meer und Brandung.",
+  "alt_en": "Black-and-white six-panel comic page in pen hatching: a lighthouse on rocks, a grey-haired woman in a knit sweater with a broom and dog in the door, a close-up of her face, a rowing boat on shore, her seen from behind with the dog by the sea, and breaking surf."
+ },
+ "lexicon/late-1960s-1970s-sterile-sci-fi-2": {
+  "key": "lexicon/late-1960s-1970s-sterile-sci-fi-2",
+  "verdict": "fail",
+  "style_score": 1,
+  "motif_missing": [],
+  "problems": [
+   "No white glowing set, panels, symmetry or space-age furniture at all",
+   "Reads as a generic modern photo of the lighthouse scene"
+  ],
+  "note_de": "Wirkt eher wie ein gewöhnliches Küstenfoto als wie ein steriles Science-Fiction-Filmbild.",
+  "note_en": "Reads more like an ordinary coastal photo than like a sterile sci-fi film frame.",
+  "alt_de": "Fotografie in klarem Morgenlicht: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der roten Tür eines weißen Leuchtturms, neben ihr ein schwarz-weißer Hund, rechts ein Ruderboot auf Felsen, zwei Möwen über dem Meer.",
+  "alt_en": "Photograph in clear morning light: a grey-haired woman in a blue sweater stands with a broom in the red door of a white lighthouse, a black-and-white dog beside her, a rowing boat on the rocks and two gulls over the sea."
+ },
+ "lexicon/maki-e-lacquer-1": {
+  "key": "lexicon/maki-e-lacquer-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Gold powder clouds and mother-of-pearl fit, but woman, dog and boat are rendered photorealistically in natural colours",
+   "Overall reads close to a glossy digital render"
+  ],
+  "note_de": "Wirkt eher wie ein Digitalrendering mit Goldglitzer als wie echte Maki-e-Lackarbeit.",
+  "note_en": "Reads more like a digital render with gold glitter than like real maki-e lacquerwork.",
+  "alt_de": "Schwarz glänzende Lackarbeit mit Goldstaub und Perlmutt: Eine grauhaarige Frau im blauen Pullover steht mit Besen und schwarz-weißem Hund in der Tür eines perlmuttweißen Leuchtturms, davor ein Ruderboot, Perlmuttmöwen über einem goldenen Sonnenuntergang.",
+  "alt_en": "Glossy black lacquerwork with gold powder and mother-of-pearl: a grey-haired woman in a blue sweater stands with a broom and black-and-white dog in the door of a pearly lighthouse, a rowing boat in front and mother-of-pearl gulls over a golden sunset."
+ },
+ "lexicon/mid-century-couture-fashion-photography-1": {
+  "key": "lexicon/mid-century-couture-fashion-photography-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Plain contemporary black-and-white documentary photo; no couture pose, sculptural silhouette or studio key light",
+   "Hair and pose casual, which the avoid note forbids"
+  ],
+  "note_de": "Wirkt eher wie ein modernes Schwarzweiß-Reportagefoto als wie Haute-Couture-Fotografie der 1950er.",
+  "note_en": "Reads more like a modern black-and-white documentary photo than like 1950s couture photography.",
+  "alt_de": "Schwarzweißfoto: Eine grauhaarige Frau im Strickpullover hält in der Tür eines weißen Leuchtturms eine brennende Laterne hoch, neben ihr sitzt ein schwarz-weißer Hund, rechts liegt ein Ruderboot auf Felsen, zwei Möwen unter Wolken.",
+  "alt_en": "Black-and-white photograph: a grey-haired woman in a knit sweater holds up a lit lantern in the door of a white lighthouse, a black-and-white dog sits beside her, a rowing boat lies on the rocks and two gulls fly under clouds."
+ },
+ "lexicon/napkin-sketch-1": {
+  "key": "lexicon/napkin-sketch-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Drawings are rather neat and detailed for a quick napkin sketch; tiny illegible scribble on the market sign board"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Blaue Kugelschreiberskizze auf einer zerknitterten Papierserviette mit Kaffeerand: Unter LORNHOLM verbinden gestrichelte Pfeile eine Fähre, einen Leuchtturm und einen Marktstand mit gestreifter Markise.",
+  "alt_en": "Blue ballpoint sketch on a crumpled paper napkin with a coffee ring: below LORNHOLM dashed arrows link a ferry, a lighthouse and a market stall with a striped awning."
+ },
+ "lexicon/noir-chiaroscuro-comic-1": {
+  "key": "lexicon/noir-chiaroscuro-comic-1",
+  "verdict": "fail",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Extensive grey tones and a gradient light beam, which the style explicitly forbids",
+   "Lighthouse tower appears doubled/inconsistent (two tower bodies)"
+  ],
+  "note_de": "Wirkt eher wie eine graustufige Digitalillustration als wie ein reiner Schwarzweiß-Noir-Comic.",
+  "note_en": "Reads more like a greyscale digital illustration than like a pure black-and-white noir comic.",
+  "alt_de": "Dunkle Comicillustration in Schwarz, Weiß und Grau mit blauem Akzent: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines Leuchtturms, neben ihr ein Hund, links ein Ruderboot, Regen und Brandung, zwei Möwen im Lichtkegel.",
+  "alt_en": "Dark comic illustration in black, white and grey with a blue accent: a grey-haired woman in a blue sweater stands with a broom in a lighthouse door, a dog beside her, a rowing boat to the left, rain and surf, two gulls in the light beam."
+ },
+ "lexicon/paper-doll-with-tab-clothes-1": {
+  "key": "lexicon/paper-doll-with-tab-clothes-1",
+  "verdict": "fail",
+  "style_score": 1,
+  "motif_missing": [],
+  "problems": [
+   "No paper doll sheet at all: no central doll, outfits, fold tabs or cut lines",
+   "Reads as a generic painted illustration of the lighthouse scene"
+  ],
+  "note_de": "Wirkt eher wie eine gemalte Küstenillustration als wie ein Anziehpuppenbogen.",
+  "note_en": "Reads more like a painted coastal illustration than like a paper doll sheet.",
+  "alt_de": "Gemalte Illustration mit Drucktextur: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der grünen Tür eines weißen Leuchtturms, neben ihr ein schwarz-weißer Hund, rechts ein Ruderboot auf Felsen, zwei Möwen am blauen Himmel.",
+  "alt_en": "Painted illustration with print texture: a grey-haired woman in a blue sweater stands with a broom in the green door of a white lighthouse, a black-and-white dog beside her, a rowing boat on the rocks and two gulls in a blue sky."
+ },
+ "lexicon/photographic-cut-out-reference-spread-1": {
+  "key": "lexicon/photographic-cut-out-reference-spread-1",
+  "verdict": "flawed",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Small invented hull marking (pseudo numbers) on the ferry",
+   "Ferry not fully cut out (sits in a patch of sea)"
+  ],
+  "note_de": "Wirkt wie eine stimmige Sachbuch-Doppelseite, trägt aber eine kleine erfundene Rumpfnummer.",
+  "note_en": "Reads as a convincing reference spread but carries a small invented hull number.",
+  "alt_de": "Aufgeschlagene Buchdoppelseite mit freigestellten Fotos auf Weiß: Unter der Serifenzeile LORNHOLM verbinden gestrichelte Linien eine Fähre, einen Leuchtturm auf Felsen und einen Marktstand mit rot-weiß gestreifter Markise.",
+  "alt_en": "Open book spread with cut-out photos on white: below the serif headline LORNHOLM dashed lines link a ferry, a lighthouse on rocks and a market stall with a red-and-white striped awning."
+ },
+ "lexicon/post-punk-minimalist-sleeve-1": {
+  "key": "lexicon/post-punk-minimalist-sleeve-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Calm blue field and cool palette fit, but three images plus a route map read as a minimalist travel poster rather than a single recontextualised found image",
+   "No emboss or uncoated card texture visible"
+  ],
+  "note_de": "Wirkt eher wie ein minimalistisches Reiseplakat als wie ein Post-Punk-Plattencover.",
+  "note_en": "Reads more like a minimalist travel poster than like a post-punk record sleeve.",
+  "alt_de": "Kühle Grafik auf flacher graublauer Fläche: Unter dem schmalen Schriftzug LORNHOLM verbindet eine dünne Linie drei monochrome Fotos von Fähre, Leuchtturm und Marktstand innerhalb eines Inselumrisses.",
+  "alt_en": "Cool graphic on a flat grey-blue field: below the thin title LORNHOLM a fine line links three monochrome photos of a ferry, a lighthouse and a market stall inside an island outline."
+ },
+ "lexicon/pyrography-1": {
+  "key": "lexicon/pyrography-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Slight bluish tint on the sweater, otherwise convincing burned lines on a bark-rimmed wood slice"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Brandmalerei auf einer runden Holzscheibe mit Rinde: Eine grauhaarige Frau im Pullover steht mit Besen in der Tür eines Leuchtturms, neben ihr ein Hund, links ein Ruderboot auf Felsen, zwei Möwen über dem Meer bei Sonnenuntergang.",
+  "alt_en": "Pyrography on a round wood slice with bark rim: a grey-haired woman in a sweater stands with a broom in a lighthouse door, a dog beside her, a rowing boat on the rocks and two gulls over the sea at sunset."
+ },
+ "lexicon/retro-game-box-art-1": {
+  "key": "lexicon/retro-game-box-art-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "No title logo (text forbidden by prompt); grid border, diagonal stripes, shelf wear and airbrushed drama read clearly"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Abgegriffenes 80er-Jahre-Spielecover mit Rasterrand und Farbstreifen: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines Leuchtturms, neben ihr ein schwarz-weißer Hund, rechts ein Ruderboot vor dramatischem Sonnenuntergang und zwei Möwen.",
+  "alt_en": "Worn 1980s video game box cover with grid border and colour stripes: a grey-haired woman in a blue sweater stands with a broom in a lighthouse door, a black-and-white dog beside her, a rowing boat and two gulls against a dramatic sunset."
+ },
+ "lexicon/shojo-manga-1": {
+  "key": "lexicon/shojo-manga-1",
+  "verdict": "fail",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Woman's face duplicated twice as large insets",
+   "Faces drawn realistically without large starry manga eyes; sepia tone instead of black and white"
+  ],
+  "note_de": "Wirkt eher wie eine realistische Bleistiftillustration mit doppelten Porträts als wie Shōjo-Manga.",
+  "note_en": "Reads more like a realistic pencil illustration with duplicated portraits than like shojo manga.",
+  "alt_de": "Feine sepiafarbene Federzeichnung mit Blumen und Glitzer: Eine grauhaarige Frau im Strickpullover steht mit Besen und Hund in der Tür eines Leuchtturms, links schweben zwei große Porträts von ihr über Ruderboot und Meer.",
+  "alt_en": "Fine sepia pen drawing with flowers and sparkles: a grey-haired woman in a knit sweater stands with a broom and dog in a lighthouse door, while two large portraits of her float above a rowing boat and the sea."
+ },
+ "lexicon/soviet-space-race-poster-1": {
+  "key": "lexicon/soviet-space-race-poster-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "No rockets or exhaust trails, but navy cosmos, stars, planet curve, flat red/white/blue shapes and condensed lettering read clearly; text exact"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Flaches Weltraumplakat der 1960er in Marineblau, Rot und Weiß: Über einer Insel unter der Erdkrümmung steht der schräge Schriftzug LORNHOLM, drei runde Bildfelder zeigen eine Fähre, einen Leuchtturm und einen Marktstand.",
+  "alt_en": "Flat 1960s space-age poster in navy, red and white: the slanted title LORNHOLM sits above an island under a curving planet limb, and three round vignettes show a ferry, a lighthouse and a market stall."
+ },
+ "lexicon/suprematism-1": {
+  "key": "lexicon/suprematism-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Suprematistische Komposition aus schwebenden roten, blauen, gelben und schwarzen Balken und Kreisen auf rissigem Weiß: Eine stilisierte grauhaarige Frau im blauen Oberteil steht mit Besen und Hund in der Tür eines geometrischen Leuchtturms, daneben ein rotes Boot und zwei Möwen.",
+  "alt_en": "Suprematist composition of floating red, blue, yellow and black bars and circles on cracked white: a stylised grey-haired woman in a blue top stands with a broom and dog in the door of a geometric lighthouse, beside a red boat and two gulls."
+ },
+ "lexicon/tooled-leatherwork-1": {
+  "key": "lexicon/tooled-leatherwork-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "No swivel-knife cuts, floral scroll or stamped background; scene is painted in full colour (blue sweater, white lighthouse)",
+   "Reads as a digital painting with a leather texture overlay"
+  ],
+  "note_de": "Wirkt eher wie ein Digitalgemälde mit Ledertextur als wie punziertes Leder.",
+  "note_en": "Reads more like a digital painting with a leather texture than like tooled leather.",
+  "alt_de": "Farbiges Bild mit Ledertextur und Steppnahtrand: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines weißen Leuchtturms, neben ihr ein schwarz-weißer Hund, rechts ein Holzboot auf Felsen, zwei Möwen am orangen Himmel.",
+  "alt_en": "Coloured image with leather texture and a stitched border: a grey-haired woman in a blue sweater stands with a broom in the door of a white lighthouse, a black-and-white dog beside her, a wooden boat on the rocks and two gulls in an orange sky."
+ },
+ "lexicon/vectorbloom-1": {
+  "key": "lexicon/vectorbloom-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Swirls, halftones and pink/teal/black palette fit, but central scene is a detailed painterly illustration rather than flat vector shapes"
+  ],
+  "note_de": "Wirkt eher wie ein gemaltes Küstenbild mit Vektor-Ornamenten als wie durchgehende Vektorgrafik.",
+  "note_en": "Reads more like a painted coastal scene with vector ornaments than like full vector illustration.",
+  "alt_de": "Illustration mit pinkfarbenen und türkisen Vektorschnörkeln, Blumen und Rasterpunkten: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines weißen Leuchtturms, neben ihr ein schwarz-weißer Hund, rechts ein Ruderboot, zwei Möwen im pinken Sonnenuntergang.",
+  "alt_en": "Illustration with pink and teal vector swirls, flowers and halftone dots: a grey-haired woman in a blue sweater stands with a broom in the door of a white lighthouse, a black-and-white dog beside her, a rowing boat and two gulls in a pink sunset."
+ },
+ "lexicon/whimsigoth-1": {
+  "key": "lexicon/whimsigoth-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "No velvet, brocade, celestial sun/moon/star motifs or jewel-tone styling; only a purple sunset and candlelit interior",
+   "Reads as a generic modern photo/render"
+  ],
+  "note_de": "Wirkt eher wie ein modernes Sonnenuntergangsfoto als wie 90er-Whimsigoth.",
+  "note_en": "Reads more like a modern sunset photo than like 1990s whimsigoth.",
+  "alt_de": "Fotorealistische Abendszene in Violett und Orange: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines Leuchtturms, neben ihr ein schwarz-weißer Hund, links ein Ruderboot auf Felsen, zwei Möwen am Abendhimmel.",
+  "alt_en": "Photorealistic evening scene in purple and orange: a grey-haired woman in a blue sweater stands with a broom in a lighthouse door, a black-and-white dog beside her, a rowing boat on the rocks and two gulls in the evening sky."
+ },
+ "lexicon/1970s-science-fiction-paperback-1": {
+  "key": "lexicon/1970s-science-fiction-paperback-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Reads as a modern digital travel poster; little airbrush/hard-edged gradient look",
+   "Text correct; paperback wear present"
+  ],
+  "note_de": "Wirkt eher wie ein digitales Reiseplakat als wie ein Airbrush-Taschenbuchcover der 70er.",
+  "note_en": "Looks more like a digital travel poster than a 1970s airbrushed paperback cover.",
+  "alt_de": "Abgegriffenes Science-Fiction-Taschenbuchcover in Orange, Türkis und Violett: Unter dem Titel LORNHOLM zeigen drei runde Bildfelder eine Fähre, einen rot-weißen Leuchtturm und einen Marktstand vor einer fremdartigen Felseninsel mit großem Planeten.",
+  "alt_en": "Worn science-fiction paperback cover in orange, teal and violet: below the title LORNHOLM, three round panels show a ferry, a red-and-white lighthouse and a market stall in front of an alien rocky island with a huge planet."
+ },
+ "lexicon/american-folk-portrait-1": {
+  "key": "lexicon/american-folk-portrait-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Modelled, textured modern realist oil painting rather than flat naive limner portrait",
+   "No flattening, lace or patterned fabric; deep landscape"
+  ],
+  "note_de": "Wirkt eher wie ein modernes realistisches Ölgemälde als wie ein naives Limner-Porträt.",
+  "note_en": "Looks more like a modern realist oil painting than a naive limner portrait.",
+  "alt_de": "Pastos gemaltes Ölbild: Eine grauhaarige Frau im blauen Pullover steht frontal mit Besen in der Tür eines weißen Leuchtturms, neben ihr sitzt ein schwarz-weißer Hund, rechts liegt ein Ruderboot auf den Felsen und zwei Möwen fliegen über das Meer.",
+  "alt_en": "Thickly textured oil painting: a grey-haired woman in a blue sweater stands frontally with a broom in the doorway of a white lighthouse, a black-and-white dog sits beside her, a rowing boat lies on the rocks and two gulls fly over the sea."
+ },
+ "lexicon/babylonian-glazed-brick-relief-1": {
+  "key": "lexicon/babylonian-glazed-brick-relief-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Brick grid, cobalt glaze, rosette borders and crackle all visible"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Relief aus glasierten Ziegeln mit kobaltblauem Grund und Rosettenborten: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr ein schwarz-weißer Hund, davor ein Ruderboot auf Felsen und zwei Möwen am Himmel.",
+  "alt_en": "Glazed-brick relief on a cobalt ground with rosette borders: a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway, a black-and-white dog beside her, a rowing boat on the rocks and two gulls in the sky."
+ },
+ "lexicon/bogolan-mud-cloth-1": {
+  "key": "lexicon/bogolan-mud-cloth-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Strip seams, cream-on-brown motifs and border symbols visible; slightly woodcut-like drawing"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Dunkelbraunes Schlammtuch mit cremefarbenen Punkten, Kreuzen und Zickzack-Borten: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr ein Hund, rechts ein Ruderboot am Ufer und zwei Möwen über dem Meer.",
+  "alt_en": "Dark brown mud cloth with cream dots, crosses and zigzag borders: a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway, a dog beside her, a rowing boat on the shore and two gulls over the sea."
+ },
+ "lexicon/cassette-futurism-1": {
+  "key": "lexicon/cassette-futurism-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Generic modern photo; cassette-futurist hardware only visible as small interior detail",
+   "No beige plastic, CRT or fluorescent look dominating the image"
+  ],
+  "note_de": "Wirkt eher wie ein modernes Landschaftsfoto als wie Cassette Futurism.",
+  "note_en": "Looks more like a modern landscape photo than cassette futurism.",
+  "alt_de": "Fotorealistische Abendszene: Eine grauhaarige Frau im blauen Pullover lehnt mit Besen in der Tür eines rostigen Leuchtturms, hinter ihr Röhrenmonitor und Tonbandgeräte, neben ihr ein Hund, links ein Ruderboot und zwei Möwen vor dem Sonnenuntergang.",
+  "alt_en": "Photorealistic evening scene: a grey-haired woman in a blue sweater leans with a broom in the door of a rusty lighthouse, a CRT monitor and tape decks behind her, a dog beside her, a rowing boat and two gulls against the sunset."
+ },
+ "lexicon/coin-and-medal-relief-1": {
+  "key": "lexicon/coin-and-medal-relief-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Reads more like a detailed painting in a round bronze frame than a low struck relief",
+   "Full colour in sweater and sea; deep perspective"
+  ],
+  "note_de": "Wirkt eher wie ein Gemälde im runden Metallrahmen als wie ein geprägtes Medaillenrelief.",
+  "note_en": "Looks more like a painting in a round metal frame than a struck medal relief.",
+  "alt_de": "Rundes, bronzefarbenes Medaillon mit plastischer Oberfläche: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr ein Hund, vorn ein Ruderboot auf Felsen und zwei Möwen über dem Meer im Sonnenuntergang.",
+  "alt_en": "Round bronze-toned medallion with a sculpted surface: a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway, a dog beside her, a rowing boat on the rocks and two gulls over the sea at sunset."
+ },
+ "lexicon/crt-scanline-display-1": {
+  "key": "lexicon/crt-scanline-display-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Scanlines, curved screen edge, bloom and vignette visible across the image"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Bild auf einem gewölbten Röhrenbildschirm mit sichtbaren Zeilen: Eine grauhaarige Frau im blauen Pullover steht mit Besen vor einem Leuchtturm, neben ihr ein Hund, rechts ein Ruderboot am Ufer und zwei Möwen im Abendrot.",
+  "alt_en": "Image on a curved CRT screen with visible scanlines: a grey-haired woman in a blue sweater stands with a broom by a lighthouse, a dog beside her, a rowing boat on the shore and two gulls in the sunset sky."
+ },
+ "lexicon/decollage-1": {
+  "key": "lexicon/decollage-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Central scene is a clean photo seen through a torn-poster frame; tearing only at the edges"
+  ],
+  "note_de": "Wirkt eher wie ein Foto in einem Rahmen aus Plakatfetzen als wie eine abgerissene Plakatschichtung.",
+  "note_en": "Looks more like a photo framed by poster scraps than ripped-back poster layers.",
+  "alt_de": "Abgerissene Plakatschichten mit Rastergesicht und Papierfasern rahmen ein Foto: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr ein Hund, rechts ein Ruderboot und zwei Möwen über dem Meer.",
+  "alt_en": "Ripped poster layers with a halftone face and fibrous edges frame a photo: a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway, a dog beside her, a rowing boat and two gulls over the sea."
+ },
+ "lexicon/early-netherlandish-painting-2": {
+  "key": "lexicon/early-netherlandish-painting-2",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Reads like 19th-century realist painting; lacks enamel-smooth jewel glazes and angular drapery",
+   "Woman looks closer to 70 than 60"
+  ],
+  "note_de": "Wirkt eher wie ein realistisches Gemälde des 19. Jahrhunderts als wie altniederländische Feinmalerei.",
+  "note_en": "Looks more like a 19th-century realist painting than Early Netherlandish fine painting.",
+  "alt_de": "Detailreiches Ölgemälde mit feinem Craquelé: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr ein schwarz-weißer Hund, rechts ein Ruderboot auf Felsen vor einer Inselkette und zwei Möwen.",
+  "alt_en": "Finely detailed oil painting with craquelure: a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway, a black-and-white dog beside her, a rowing boat on the rocks before a chain of islets and two gulls."
+ },
+ "lexicon/fdm-3d-print-1": {
+  "key": "lexicon/fdm-3d-print-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Printed objects show layer lines and stringing, but sea and sky are photoreal; no print-bed setting",
+   "Reads as photo composite"
+  ],
+  "note_de": "Wirkt eher wie eine Fotomontage vor echtem Meer als wie ein 3D-gedrucktes Modell.",
+  "note_en": "Looks more like a photo composite in front of a real sea than an FDM-printed model.",
+  "alt_de": "Figuren mit sichtbaren 3D-Druckschichten vor fotorealistischem Sonnenuntergang: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr ein Hund, rechts ein Ruderboot und zwei Möwen.",
+  "alt_en": "Figures with visible 3D-print layer lines against a photoreal sunset: a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway, a dog beside her, a rowing boat and two gulls."
+ },
+ "lexicon/futurism-1": {
+  "key": "lexicon/futurism-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [
+   "Repeated overlapping positions, force lines and fragmented planes; repetition of the woman is intended motion"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Futuristisches Gemälde aus splitternden Farbflächen und Kraftlinien: Eine grauhaarige Frau im blauen Pullover mit Besen erscheint in mehreren versetzten Bewegungsphasen in der Leuchtturmtür, neben ihr ein Hund, links ein Ruderboot und Möwen über tosender See.",
+  "alt_en": "Futurist painting of splintered colour planes and force lines: a grey-haired woman in a blue sweater with a broom appears in several offset motion phases in the lighthouse doorway, a dog beside her, a rowing boat and gulls over a churning sea."
+ },
+ "lexicon/gond-painting-1": {
+  "key": "lexicon/gond-painting-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Dot-filled outlined shapes on cream ground; fills are uniform dots rather than directional line patterns"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Gond-Malerei mit punktgefüllten Umrissformen auf cremefarbenem Grund: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr ein Hund, vorn ein rotes Ruderboot, zwei Möwen und eine orange Sonne.",
+  "alt_en": "Gond painting with dot-filled outlined shapes on a cream ground: a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway, a dog beside her, a red rowing boat, two gulls and an orange sun."
+ },
+ "lexicon/hand-wood-carving-1": {
+  "key": "lexicon/hand-wood-carving-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Faceted carved figures, but realistic sea and sky make it read as a rendered diorama",
+   "No workbench or shavings"
+  ],
+  "note_de": "Wirkt eher wie eine gerenderte Diorama-Szene als wie eine handgeschnitzte Holzarbeit.",
+  "note_en": "Looks more like a rendered diorama than a hand wood carving.",
+  "alt_de": "Geschnitzte Figuren mit Messerfacetten vor Abendhimmel: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr ein Hund, rechts ein Ruderboot auf Felsen und zwei Möwen.",
+  "alt_en": "Carved figures with knife facets against an evening sky: a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway, a dog beside her, a rowing boat on the rocks and two gulls."
+ },
+ "lexicon/iznik-ceramic-1": {
+  "key": "lexicon/iznik-ceramic-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Tile grid, tulips, carnations, saz leaves and raised red border; central scene slightly Mediterranean"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Iznik-Fliesenbild mit Tulpen- und Nelkenborte in Kobalt, Türkis und Tomatenrot: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr ein Hund, rechts ein Ruderboot und zwei Möwen über dem Meer.",
+  "alt_en": "Iznik tile panel with a tulip and carnation border in cobalt, turquoise and tomato red: a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway, a dog beside her, a rowing boat and two gulls over the sea."
+ },
+ "lexicon/light-and-space-1": {
+  "key": "lexicon/light-and-space-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Landscape photo with a pasted glowing colour field; lighthouse lamp and door are visible light sources"
+  ],
+  "note_de": "Wirkt eher wie ein Landschaftsfoto mit eingefügtem Farbfeld als wie ein lichtdurchfluteter Raum.",
+  "note_en": "Looks more like a landscape photo with an inserted colour field than a light-flooded room.",
+  "alt_de": "Blau getöntes Foto mit einem leuchtend orangen Farbrechteck über dem Meer: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der erleuchteten Leuchtturmtür, neben ihr ein Hund, rechts ein Ruderboot und zwei Möwen.",
+  "alt_en": "Blue-tinted photo with a glowing orange rectangle over the sea: a grey-haired woman in a blue sweater stands with a broom in the lit lighthouse doorway, a dog beside her, a rowing boat and two gulls."
+ },
+ "lexicon/mall-glamour-portrait-1": {
+  "key": "lexicon/mall-glamour-portrait-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Soft-focus haze and star sparkles present, but outdoor sunset scene without studio backdrop or glamour pose"
+  ],
+  "note_de": "Wirkt eher wie ein weichgezeichnetes Sonnenuntergangsfoto als wie ein Studio-Glamourporträt.",
+  "note_en": "Looks more like a soft-focus sunset photo than a studio glamour portrait.",
+  "alt_de": "Weichgezeichnetes Foto in Pastell mit Sternfilter-Glitzern: Eine grauhaarige Frau im blauen Pullover hält in der Leuchtturmtür eine leuchtende Laterne hoch, neben ihr sitzt ein Hund, rechts ein Ruderboot und zwei Möwen im rosa Abendhimmel.",
+  "alt_en": "Soft-focus pastel photo with star-filter sparkles: a grey-haired woman in a blue sweater holds up a glowing lantern in the lighthouse doorway, a dog sits beside her, a rowing boat and two gulls in a pink evening sky."
+ },
+ "lexicon/mid-century-cut-paper-modernism-1": {
+  "key": "lexicon/mid-century-cut-paper-modernism-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [
+   "Rough-cut shapes in black, red-orange and cream; text exactly correct"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Scherenschnitt-Plakat in Schwarz, Rotorange und Creme: Unter dem gerissenen Titel LORNHOLM führt ein Weg zu einer Fähre, einem gestreiften Leuchtturm und einem Marktstand, jeweils mit Nummer und Wort.",
+  "alt_en": "Cut-paper poster in black, red-orange and cream: below the torn title LORNHOLM a path leads to a ferry, a striped lighthouse and a market stall, each with a number and word."
+ },
+ "lexicon/naturalist-field-journal-1": {
+  "key": "lexicon/naturalist-field-journal-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Watercolour on textured paper with taped labels; text correct; slightly polished"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Aquarellierte Skizzenbuchseite auf rauem Papier: Unter dem aufgeklebten Titel LORNHOLM zeigen Studien eine Fähre, einen Leuchtturm und einen Marktstand, mit Pfeilen und gestrichelter Route auf einer Inselkarte verbunden.",
+  "alt_en": "Watercolour sketchbook page on rough paper: below the taped-on title LORNHOLM, studies of a ferry, a lighthouse and a market stall are linked by arrows and a dotted route on an island map."
+ },
+ "lexicon/nollywood-video-film-1": {
+  "key": "lexicon/nollywood-video-film-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Reads as a sharp HDR digital photo, not low-fi consumer video",
+   "No video softness, interlacing or harsh on-camera light look"
+  ],
+  "note_de": "Wirkt eher wie ein überschärftes HDR-Foto als wie ein Nollywood-Videostandbild.",
+  "note_en": "Looks more like an oversharpened HDR photo than a Nollywood video still.",
+  "alt_de": "Grell gesättigtes Foto im Abendlicht: Eine grauhaarige Frau im blauen Pullover und geblümten Rock steht mit Besen in der Leuchtturmtür, neben ihr ein schwarz-weißer Hund, rechts ein Ruderboot auf Felsen und zwei Möwen.",
+  "alt_en": "Harshly saturated photo in evening light: a grey-haired woman in a blue sweater and floral skirt stands with a broom in the lighthouse doorway, a black-and-white dog beside her, a rowing boat on the rocks and two gulls."
+ },
+ "lexicon/pattern-and-decoration-1": {
+  "key": "lexicon/pattern-and-decoration-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Quilt, lace, chintz and gold-leaf patches throughout; figure rendered somewhat realistically"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Überbordende Collage aus Quiltmustern, Spitze, Blumenstoff und Blattgold: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr ein Hund, rechts ein Ruderboot und zwei Möwen im rosa Himmel.",
+  "alt_en": "Exuberant collage of quilt patterns, lace, floral fabric and gold leaf: a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway, a dog beside her, a rowing boat and two gulls in a pink sky."
+ },
+ "lexicon/pichwai-painting-1": {
+  "key": "lexicon/pichwai-painting-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [
+   "Symmetric temple-hanging layout with lotus, cows, mango trees and gold on indigo"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Symmetrische Pichwai-Malerei auf Indigo mit Lotosrahmen, Kuhprozessionen und Mangobäumen: In der Mitte steht eine grauhaarige Frau mit Besen in der Leuchtturmtür, neben ihr ein Hund, davor ein Ruderboot und zwei Möwen.",
+  "alt_en": "Symmetrical Pichwai painting on indigo with a lotus frame, cow processions and mango trees: in the centre a grey-haired woman with a broom stands in the lighthouse doorway, a dog beside her, a rowing boat and two gulls."
+ },
+ "lexicon/pre-code-horror-and-crime-comic-1": {
+  "key": "lexicon/pre-code-horror-and-crime-comic-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Inked hatching, lurid purple/red sky, newsprint texture, wide-eyed face"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Grell kolorierte Horrorcomic-Zeichnung auf vergilbtem Papier: Eine grauhaarige Frau im blauen Pullover blickt mit aufgerissenen Augen aus der Leuchtturmtür, hält einen Besen, neben ihr ein Hund, rechts ein Ruderboot und zwei Möwen unter Vollmond.",
+  "alt_en": "Luridly coloured horror-comic drawing on yellowed paper: a wide-eyed grey-haired woman in a blue sweater looks out of the lighthouse doorway holding a broom, a dog beside her, a rowing boat and two gulls under a full moon."
+ },
+ "lexicon/raku-ceramic-1": {
+  "key": "lexicon/raku-ceramic-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Crackle and lustre applied as texture over a photoreal scene; woman and sea look photographic"
+  ],
+  "note_de": "Wirkt eher wie ein Foto mit Craquelé-Filter als wie ein Raku-Keramikobjekt.",
+  "note_en": "Looks more like a photo with a crackle filter than a raku ceramic piece.",
+  "alt_de": "Szene mit Craquelé-Glasur und schillerndem Metallglanz: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr ein Hund, rechts ein Ruderboot auf Felsen und zwei Möwen im Abendrot.",
+  "alt_en": "Scene with crackle glaze and iridescent metallic lustre: a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway, a dog beside her, a rowing boat on the rocks and two gulls at sunset."
+ },
+ "lexicon/russian-lubok-1": {
+  "key": "lexicon/russian-lubok-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [
+   "Crude woodcut outlines, streaky hand colour in red, mustard, green and lilac on stained paper"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Handkolorierter Holzschnitt auf fleckigem Papier: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr ein Hund, links ein rotes Ruderboot und zwei Möwen über welliger See.",
+  "alt_en": "Hand-coloured woodcut on stained paper: a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway, a dog beside her, a red rowing boat and two gulls over a choppy sea."
+ },
+ "lexicon/silhouette-platformer-1": {
+  "key": "lexicon/silhouette-platformer-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Figures are silhouettes but lighthouse and boat show textured interior detail",
+   "Reads more like a moody black-and-white photo"
+  ],
+  "note_de": "Wirkt eher wie ein stimmungsvolles Schwarzweißfoto als wie ein Silhouetten-Plattformspiel.",
+  "note_en": "Looks more like a moody black-and-white photo than a silhouette platformer.",
+  "alt_de": "Körniges Schwarzweißbild im Nebel: Die Silhouette einer Frau mit Besen steht in der hellen Leuchtturmtür, neben ihr ein Hund, rechts ein Ruderboot auf Felsen und zwei Möwen vor fahler Sonne.",
+  "alt_en": "Grainy black-and-white image in fog: the silhouette of a woman with a broom stands in the bright lighthouse doorway, a dog beside her, a rowing boat on the rocks and two gulls before a pale sun."
+ },
+ "lexicon/space-mission-photograph-1": {
+  "key": "lexicon/space-mission-photograph-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Réseau cross grid, square format, harsh sun and near-black sky; sky navy rather than fully black"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Quadratisches Archivfoto mit Gitter aus kleinen Fadenkreuzen und tiefdunklem Himmel: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr ein Hund, rechts ein Ruderboot und zwei Möwen im harten Sonnenlicht.",
+  "alt_en": "Square archive photo with a grid of small crosshairs and a very dark sky: a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway, a dog beside her, a rowing boat and two gulls in hard sunlight."
+ },
+ "lexicon/swiss-magic-realist-object-poster-1": {
+  "key": "lexicon/swiss-magic-realist-object-poster-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Generic isometric island-map illustration; no single enlarged painted object, no surreal twist"
+  ],
+  "note_de": "Wirkt eher wie eine generische Inselkarten-Illustration als wie ein Schweizer Objektplakat.",
+  "note_en": "Looks more like a generic island map illustration than a Swiss magic-realist object poster.",
+  "alt_de": "Glatte Illustration einer Insel auf hellblauem Grund: Unter dem Titel LORNHOLM verbindet eine Linie eine Fähre, einen rot-weißen Leuchtturm und einen Marktstand mit gestreiftem Dach.",
+  "alt_en": "Smooth illustration of an island on a light blue ground: below the title LORNHOLM a line connects a ferry, a red-and-white lighthouse and a market stall with a striped awning."
+ },
+ "lexicon/transfer-printed-ceramic-1": {
+  "key": "lexicon/transfer-printed-ceramic-1",
+  "verdict": "fail",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [
+   "Second person visible inside the lantern room (extra figure)"
+  ],
+  "note_de": "Im Laternenraum steht eine zweite Figur, obwohl nur eine Wärterin vorgesehen ist.",
+  "note_en": "A second figure stands in the lantern room although only one keeper is intended.",
+  "alt_de": "Blau bedruckter Porzellanteller mit Blumenborte und feinen Glasurrissen: Eine grauhaarige Frau steht mit Besen in der Tür eines Leuchtturms, neben ihr ein Hund, links ein Ruderboot auf Felsen und zwei Möwen.",
+  "alt_en": "Blue transfer-printed plate with a floral border and fine glaze crazing: a grey-haired woman stands with a broom in a lighthouse doorway, a dog beside her, a rowing boat on the rocks and two gulls."
+ },
+ "lexicon/vhs-rental-box-art-1": {
+  "key": "lexicon/vhs-rental-box-art-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Chrome-gradient title and sleeve wear present, but reads like a worn travel brochure; no rating box or stickers"
+  ],
+  "note_de": "Wirkt eher wie ein abgenutzter Reiseprospekt als wie eine VHS-Leihhülle.",
+  "note_en": "Looks more like a worn travel brochure than a VHS rental sleeve.",
+  "alt_de": "Abgegriffene Hülle mit Regenbogen-Chromtitel LORNHOLM über einer Inselansicht: Drei eingeklebte Fotos zeigen eine Fähre, einen Leuchtturm und einen Marktstand, nummeriert und mit Pfeilen verbunden.",
+  "alt_en": "Worn sleeve with a rainbow-chrome title LORNHOLM above an island view: three pasted-in photos show a ferry, a lighthouse and a market stall, numbered and linked by arrows."
+ },
+ "lexicon/windows-9x-ui-collage-1": {
+  "key": "lexicon/windows-9x-ui-collage-1",
+  "verdict": "fail",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [
+   "Start button shows a red/green/blue/yellow four-square Microsoft/Windows logo"
+  ],
+  "note_de": "Wirkt eher wie ein Markenscreenshot mit Windows-Logo als wie eine neutrale UI-Collage.",
+  "note_en": "Looks more like a branded screenshot with the Windows logo than a neutral UI collage.",
+  "alt_de": "Retro-Desktop mit grauen Fenstern, Fehlermeldungen und Pixelsymbolen auf Petrolgrund: Im Hauptfenster steht eine grauhaarige Frau im blauen Pullover mit Besen in der Leuchtturmtür, neben ihr ein Hund, ein Ruderboot und zwei Möwen.",
+  "alt_en": "Retro desktop with grey windows, alert dialogs and pixel icons on a teal background: in the main window a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway, beside a dog, a rowing boat and two gulls."
+ },
+ "lexicon/19th-century-survey-photography-1": {
+  "key": "lexicon/19th-century-survey-photography-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "figures are mid-size, not tiny for scale",
+   "looks like a sepia-toned modern photo rather than a wet-collodion plate; little plate silvering"
+  ],
+  "note_de": "Wirkt eher wie ein sepiagetöntes modernes Foto als wie eine Mammutplatte, und die Figuren sind nicht winzig.",
+  "note_en": "Looks more like a sepia-toned modern photo than a mammoth plate, and the figures are not tiny for scale.",
+  "alt_de": "Sepiafarbene Landschaftsfotografie mit hellem, leerem Himmel: Vor einem weißen Leuchtturm auf Felsen steht eine grauhaarige Frau mit Besen in der Tür, neben ihr ein Hund, rechts liegt ein altes Ruderboot, zwei Möwen fliegen über dem Meer.",
+  "alt_en": "Sepia landscape photograph with a pale blank sky: a grey-haired woman with a broom stands in the doorway of a white lighthouse on rocks, a dog beside her, an old rowing boat on the right and two gulls over the sea."
+ },
+ "lexicon/american-regionalism-1": {
+  "key": "lexicon/american-regionalism-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "reads as generic sunny realist illustration",
+   "no rolling rounded hills, patterned crop rows, lollipop trees or sinuous stylized figures"
+  ],
+  "note_de": "Wirkt eher wie eine sonnige realistische Illustration als wie Regionalismus mit rhythmisch gerundeten Formen.",
+  "note_en": "Looks more like a sunny realist illustration than Regionalism with rhythmic, rounded stylized forms.",
+  "alt_de": "Sonnige, realistisch gemalte Küstenszene: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines weißen Leuchtturms mit rotem Laternenhaus, neben ihr ein schwarz-weißer Hund, rechts ein Ruderboot auf Granitfelsen, zwei Möwen am blauen Himmel.",
+  "alt_en": "Sunny, realistically painted coastal scene: a grey-haired woman in a blue sweater stands with a broom in the door of a white lighthouse with a red lantern room, a black-and-white dog beside her, a rowing boat on granite rocks and two gulls in the blue sky."
+ },
+ "lexicon/balloon-twisting-1": {
+  "key": "lexicon/balloon-twisting-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "woman's face and hands are smooth vinyl/clay, not balloon",
+   "rocks are glossy pebbles, not balloons",
+   "sunset seascape instead of plain backdrop",
+   "woman looks ~75 and cutesy"
+  ],
+  "note_de": "Wirkt eher wie eine Puppen-Rendering-Szene im Sonnenuntergang als wie eine reine Ballonfigur vor schlichtem Hintergrund.",
+  "note_en": "Looks more like a doll-like render in a sunset scene than a pure balloon sculpture on a plain backdrop.",
+  "alt_de": "Glänzende Ballonskulptur bei Sonnenuntergang: Ein Leuchtturm aus weißen Modellierballons, in der Tür eine grauhaarige Figur im blauen Ballonpullover mit Besen, daneben ein schwarz-weißer Ballonhund, rechts ein Ruderboot und zwei Ballonmöwen am Himmel.",
+  "alt_en": "Glossy balloon sculpture at sunset: a lighthouse twisted from white modelling balloons, a grey-haired figure in a blue balloon sweater with a broom in the door, a black-and-white balloon dog beside her, a rowing boat and two balloon gulls."
+ },
+ "lexicon/bootleg-rap-tee-1": {
+  "key": "lexicon/bootleg-rap-tee-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "no repeated portraits; extra arrows, otherwise text exact"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Bootleg-Shirtdruck auf schwarzem Stoff mit Chromschrift ‚LORNHOLM‘, Blitzen und rissigem Druck: Collage aus Fähre im Sturm, rot-weißem Leuchtturm und Marktstand mit gestreifter Markise, beschriftet ‚1 Ferry‘, ‚2 Lighthouse‘, ‚3 Market‘.",
+  "alt_en": "Bootleg tee print on black fabric with chrome 'LORNHOLM' lettering, lightning and cracked ink: a collage of a ferry in a storm, a red-and-white lighthouse and a striped market stall, labelled '1 Ferry', '2 Lighthouse', '3 Market'."
+ },
+ "lexicon/chicano-black-and-grey-tattoo-1": {
+  "key": "lexicon/chicano-black-and-grey-tattoo-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "reads largely as a sepia-toned photo composite with ornamental frame",
+   "no single-needle linework feel",
+   "woman looks ~70"
+  ],
+  "note_de": "Wirkt eher wie eine sepiagetönte Fotomontage mit Rankenrahmen als wie eine Black-and-Grey-Tattoovorlage.",
+  "note_en": "Looks more like a sepia photo montage with a scroll frame than a black-and-grey tattoo design.",
+  "alt_de": "Graustufige Tattoo-Vorlage mit Rosen, Filigranranken und Sonnenstrahlen: Eine grauhaarige Frau im Strickpullover steht mit Besen in der Leuchtturmtür, neben ihr ein Hund, links ein Ruderboot, zwei Möwen am wolkigen Himmel.",
+  "alt_en": "Greyscale tattoo-style design with roses, filigree scrolls and sun rays: a grey-haired woman in a knit sweater stands with a broom in a lighthouse door, a dog beside her, a rowing boat on the left and two gulls in a cloudy sky."
+ },
+ "lexicon/company-painting-1": {
+  "key": "lexicon/company-painting-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "full scenic landscape instead of subject isolated on plain cream paper",
+   "no miniature-style precision or faint ground line",
+   "woman looks ~75"
+  ],
+  "note_de": "Wirkt eher wie ein ausführliches Aquarell-Landschaftsbild als wie ein freigestelltes Company-Painting auf leerem Papier.",
+  "note_en": "Looks more like a full watercolour landscape than a Company painting with the subject isolated on blank paper.",
+  "alt_de": "Detailliertes Aquarell auf cremefarbenem Grund: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines verwitterten weißen Leuchtturms, neben ihr ein schwarz-weißer Hund, links ein Ruderboot auf Felsen, zwei Möwen über dem Meer.",
+  "alt_en": "Detailed watercolour on a cream ground: a grey-haired woman in a blue sweater stands with a broom in the door of a weathered white lighthouse, a black-and-white dog beside her, a rowing boat on the rocks and two gulls over the sea."
+ },
+ "lexicon/cusco-school-1": {
+  "key": "lexicon/cusco-school-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "figure's garment lacks gold brocade; gold mostly on tower and frame"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Kolonial anmutendes Ölgemälde mit Blattgoldornamenten, roten Vorhängen und Blumengirlanden: Eine grauhaarige Frau im blauen Pullover steht frontal mit Besen in der Tür eines goldverzierten Leuchtturms, neben ihr ein Hund, rechts ein Ruderboot, zwei Möwen am dunklen Himmel.",
+  "alt_en": "Colonial-style oil painting with gold-leaf ornament, crimson curtains and flower garlands: a grey-haired woman in a blue sweater stands frontally with a broom in the door of a gilded lighthouse, a dog beside her, a rowing boat and two gulls in a dark sky."
+ },
+ "lexicon/dine-weaving-1": {
+  "key": "lexicon/dine-weaving-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "lazy lines not visible; borders lean toward generic kilim"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Gewebter Wollteppich in Rot, Schwarz, Grau und Weiß mit gestuften Rauten und Zickzackbändern: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines Leuchtturms, neben ihr ein Hund, rechts ein rotes Ruderboot, zwei Möwen am gestreiften Himmel.",
+  "alt_en": "Handwoven wool tapestry in red, black, grey and white with stepped diamonds and zigzag bands: a grey-haired woman in a blue sweater stands with a broom in a lighthouse door, a dog beside her, a red rowing boat and two gulls in a banded sky."
+ },
+ "lexicon/eastern-bloc-fairy-tale-film-1": {
+  "key": "lexicon/eastern-bloc-fairy-tale-film-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "reads as a modern HDR photo",
+   "no folk costumes, painted backdrops or faded film stock",
+   "woman looks ~70"
+  ],
+  "note_de": "Wirkt eher wie ein modernes HDR-Foto als wie ein Standbild aus einem osteuropäischen Märchenfilm.",
+  "note_en": "Looks more like a modern HDR photo than a still from an Eastern Bloc fairy-tale film.",
+  "alt_de": "Fotorealistische Winterszene in kühlem Licht: Eine grauhaarige Frau im blauen Strickpullover steht mit Besen in der Tür eines verschneiten Leuchtturms, neben ihr ein Hund, rechts ein Ruderboot, im Hintergrund eine Burg auf einer Insel und zwei Möwen.",
+  "alt_en": "Photorealistic winter scene in cool light: a grey-haired woman in a blue knit sweater stands with a broom in the door of a snowy lighthouse, a dog beside her, a rowing boat, a castle on an island and two gulls in the background."
+ },
+ "lexicon/felt-and-fabric-stop-motion-1": {
+  "key": "lexicon/felt-and-fabric-stop-motion-1",
+  "verdict": "flawed",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "woman looks ~75-80 and cutesy",
+   "golden sunset light rather than soft diffuse"
+  ],
+  "note_de": "Wirkt eher wie eine Großmutter um 80 als wie eine Frau um 60.",
+  "note_en": "The woman reads closer to 80 than to about 60.",
+  "alt_de": "Filz-Stop-Motion-Szene im Abendlicht: Eine kleine gefilzte Frau mit grauen Locken und dickem blauem Strickpullover steht mit Besen vor einem Woll-Leuchtturm, neben ihr ein Filzhund, links ein Ruderboot mit Tauen, zwei Möwen am Himmel.",
+  "alt_en": "Felt stop-motion scene at sunset: a small needle-felted woman with grey curls and a chunky blue knit sweater stands with a broom at a woollen lighthouse, a felt dog beside her, a rowing boat with ropes and two gulls."
+ },
+ "lexicon/generative-flow-field-1": {
+  "key": "lexicon/generative-flow-field-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "figurative painted illustration dominates (explicitly avoided)",
+   "swirling Van-Gogh-like brushwork, not crisp non-crossing vector strokes",
+   "no limited five-colour palette on paper ground"
+  ],
+  "note_de": "Wirkt eher wie ein wirbelndes Van-Gogh-Gemälde als wie ein algorithmisches Flow Field.",
+  "note_en": "Looks more like a swirling Van Gogh-style painting than an algorithmic flow field.",
+  "alt_de": "Gemälde aus wirbelnden Linienstrichen bei Sonnenuntergang: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines weißen Leuchtturms, neben ihr ein Hund, rechts ein Ruderboot auf Felsen, zwei Möwen am Himmel.",
+  "alt_en": "Painting made of swirling line strokes at sunset: a grey-haired woman in a blue sweater stands with a broom in a white lighthouse door, a dog beside her, a rowing boat on rocks and two gulls in the sky."
+ },
+ "lexicon/gongbi-1": {
+  "key": "lexicon/gongbi-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Western realist rendering, no hair-fine iron-wire outlines",
+   "composition not sparse"
+  ],
+  "note_de": "Wirkt eher wie ein realistisches Gemälde auf Seidentextur als wie Gongbi mit feinen Konturlinien.",
+  "note_en": "Looks more like a realist painting on silk texture than gongbi with fine contour lines.",
+  "alt_de": "Gedämpfte Malerei auf bräunlicher Seide: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines verwitterten Leuchtturms, neben ihr ein Hund, links ein Ruderboot auf Felsen, zwei Möwen über dem Meer bei Sonnenuntergang.",
+  "alt_en": "Muted painting on tan silk: a grey-haired woman in a blue sweater stands with a broom in the door of a weathered lighthouse, a dog beside her, a rowing boat on rocks and two gulls over the sea at sunset."
+ },
+ "lexicon/hard-edge-painting-1": {
+  "key": "lexicon/hard-edge-painting-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "reads as flat-vector travel-poster illustration (avoided)",
+   "many colours and details, no radical reduction"
+  ],
+  "note_de": "Wirkt eher wie ein flaches Reiseplakat in Vektorgrafik als wie radikal reduzierte Hard-Edge-Malerei.",
+  "note_en": "Looks more like a flat vector travel poster than radically reduced Hard-Edge painting.",
+  "alt_de": "Flache Vektorillustration mit klaren Kanten: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines weißen Leuchtturms, neben ihr ein Hund, rechts ein rot-weißes Ruderboot auf kantigen Felsen, zwei Möwen am blauen Himmel.",
+  "alt_en": "Flat vector-style illustration with crisp edges: a grey-haired woman in a blue sweater stands with a broom in a white lighthouse door, a dog beside her, a red-and-white rowing boat on angular rocks and two gulls in a blue sky."
+ },
+ "lexicon/japanese-irezumi-tattoo-style-1": {
+  "key": "lexicon/japanese-irezumi-tattoo-style-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "woman rendered more realistically than the rest"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Irezumi-Tattoomotiv mit kräftigen Konturen, Wellen, Windwolken, Ahornblättern und Kirschblüten: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr ein Hund, links ein Ruderboot, zwei Möwen vor rotem Sonnenuntergang.",
+  "alt_en": "Irezumi tattoo design with bold outlines, waves, wind clouds, maple leaves and cherry blossoms: a grey-haired woman in a blue sweater stands with a broom in a lighthouse door, a dog beside her, a rowing boat and two gulls against a red sunset."
+ },
+ "lexicon/lime-lowercase-minimal-1": {
+  "key": "lexicon/lime-lowercase-minimal-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "inset larger than tiny; no word (text forbidden by constraints)"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Flache knallgrüne Fläche mit einem unscharfen, niedrig aufgelösten Foto in der Mitte: Eine grauhaarige Frau im blauen Pullover steht mit Besen in einer Leuchtturmtür, neben ihr ein Hund, links ein Ruderboot, zwei Möwen am Abendhimmel.",
+  "alt_en": "Flat chartreuse field with a blurry low-res photo inset in the centre: a grey-haired woman in a blue sweater stands with a broom in a lighthouse door, a dog beside her, a rowing boat and two gulls in the evening sky."
+ },
+ "lexicon/matchbox-label-1": {
+  "key": "lexicon/matchbox-label-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "looks like a vintage tin sign/map rather than a tiny matchbox label",
+   "more than three inks; no wooden box or striking strips",
+   "fairly detailed rendering"
+  ],
+  "note_de": "Wirkt eher wie ein altes Blechschild mit Inselkarte als wie ein kleines Streichholzschachtel-Etikett.",
+  "note_en": "Looks more like an old tin sign with an island map than a tiny matchbox label.",
+  "alt_de": "Gealtertes Druck-Etikett in Rot, Blau und Creme mit dem Titel ‚LORNHOLM‘ über einer Inselkarte: drei nummerierte Kreise mit Fähre, rot-weißem Leuchtturm und Marktstand, beschriftet ‚Ferry‘, ‚Lighthouse‘, ‚Market‘, verbunden durch einen gestrichelten Weg.",
+  "alt_en": "Aged printed label in red, blue and cream titled 'LORNHOLM' above an island map: three numbered circles with a ferry, a red-and-white lighthouse and a market stall, labelled 'Ferry', 'Lighthouse', 'Market', joined by a dashed path."
+ },
+ "lexicon/mixed-media-collage-comic-1": {
+  "key": "lexicon/mixed-media-collage-comic-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "central image is a clean photoreal scene; collage only at edges",
+   "no scratchy ink drawing or painterly layering"
+  ],
+  "note_de": "Wirkt eher wie ein Foto mit digitalem Papierrand als wie ein physisch geschichteter Collage-Comic.",
+  "note_en": "Looks more like a photo with a digital paper border than a physically layered collage comic.",
+  "alt_de": "Collage aus zerrissenen Papierschnipseln und alten Fotos um ein fotorealistisches Bild: Eine grauhaarige Frau im Strickpullover steht mit Besen in einer abblätternden Leuchtturmtür, neben ihr ein Hund, links ein Ruderboot, zwei Möwen vor Sonnenuntergang.",
+  "alt_en": "Collage of torn paper scraps and old photos around a photoreal image: a grey-haired woman in a knit sweater stands with a broom in a peeling lighthouse door, a dog beside her, a rowing boat and two gulls at sunset."
+ },
+ "lexicon/ndebele-house-painting-1": {
+  "key": "lexicon/ndebele-house-painting-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "figure painted more naturalistically than the geometry"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Wandmalerei im Ndebele-Stil mit schwarzen Konturbändern und gestuften Mustern in Blau, Gelb, Rot, Grün und Rosa: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines bemalten Leuchtturms, neben ihr ein Hund, rechts ein Ruderboot, zwei Möwen am Himmel.",
+  "alt_en": "Ndebele-style mural with black outline bands and stepped patterns in blue, yellow, red, green and pink: a grey-haired woman in a blue sweater stands with a broom in a painted lighthouse door, a dog beside her, a rowing boat and two gulls."
+ },
+ "lexicon/ornamental-scientific-plate-1": {
+  "key": "lexicon/ornamental-scientific-plate-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "central realist colour painting dominates; not specimen variants in strict symmetry",
+   "more like an Art Nouveau framed illustration than a lithographic plate"
+  ],
+  "note_de": "Wirkt eher wie eine Jugendstil-Rahmenillustration als wie eine symmetrische Naturkundetafel.",
+  "note_en": "Looks more like an Art Nouveau framed illustration than a symmetrical natural-history plate.",
+  "alt_de": "Jugendstil-Tafel mit Muscheln, Algen und Möwen im Rahmen und runden Eckvignetten: In der Mitte steht eine grauhaarige Frau im blauen Pullover mit Besen in der Leuchtturmtür, neben ihr ein Hund, rechts ein Ruderboot, zwei Möwen im Abendhimmel.",
+  "alt_en": "Art Nouveau plate framed with shells, seaweed and gulls and round corner vignettes: in the centre a grey-haired woman in a blue sweater stands with a broom in a lighthouse door, a dog beside her, a rowing boat and two gulls in the evening sky."
+ },
+ "lexicon/patterned-paper-cover-with-title-label-1": {
+  "key": "lexicon/patterned-paper-cover-with-title-label-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "second illustrated panel goes beyond pure repeating pattern"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Abgegriffener Bucheinband mit sich wiederholendem Inselmuster in Blau und Grün: oben ein aufgeklebtes Titelschild ‚LORNHOLM‘, darunter ein Feld mit ‚1 Ferry‘, ‚2 Lighthouse‘, ‚3 Market‘ und kleinen Bildern von Fähre, Leuchtturm und Marktstand.",
+  "alt_en": "Worn hardcover in a repeating blue-and-green island pattern: a pasted-on title label 'LORNHOLM' at top and below it a panel with '1 Ferry', '2 Lighthouse', '3 Market' and small pictures of a ferry, a lighthouse and a market stall."
+ },
+ "lexicon/pixel-sorting-1": {
+  "key": "lexicon/pixel-sorting-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "some streaks read slightly like drips"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Pixelsortiertes Foto bei Sonnenuntergang mit senkrecht herabfließenden Farbstreifen: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines weißen Leuchtturms, neben ihr ein Hund, links ein Ruderboot, zwei Möwen am Himmel.",
+  "alt_en": "Pixel-sorted photograph at sunset with vertical cascading colour streaks: a grey-haired woman in a blue sweater stands with a broom in a white lighthouse door, a dog beside her, a rowing boat and two gulls in the sky."
+ },
+ "lexicon/precisionism-1": {
+  "key": "lexicon/precisionism-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "rock surfaces show some texture"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Klar geometrische Malerei mit glatten Flächen und transparenten Lichtstrahlen am blauen Himmel: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines weißen Leuchtturms, neben ihr ein Hund, rechts ein Ruderboot auf kantigen Felsen, zwei Möwen.",
+  "alt_en": "Crisp geometric painting with smooth planes and transparent light rays in a blue sky: a grey-haired woman in a blue sweater stands with a broom in a white lighthouse door, a dog beside her, a rowing boat on faceted rocks and two gulls."
+ },
+ "lexicon/realism-1": {
+  "key": "lexicon/realism-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Pastos gemaltes Ölbild unter grauem Himmel: Eine kräftige grauhaarige Frau in dunklem Pullover und Schürze steht mit Besen in der Tür eines abblätternden Leuchtturms, neben ihr ein Hund, rechts ein altes Ruderboot, zwei Möwen über der rauen See.",
+  "alt_en": "Thickly painted oil under an overcast sky: a sturdy grey-haired woman in a dark sweater and apron stands with a broom in the door of a peeling lighthouse, a dog beside her, an old rowing boat and two gulls over the rough sea."
+ },
+ "lexicon/sachplakat-1": {
+  "key": "lexicon/sachplakat-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "map scenery and many colours instead of radical reduction",
+   "mixed lettering styles"
+  ],
+  "note_de": "Wirkt eher wie eine flache Retro-Inselkarte als wie ein reduziertes Sachplakat.",
+  "note_en": "Looks more like a flat retro island map than a reduced Sachplakat.",
+  "alt_de": "Flaches Plakat in Blau, Gelb und Rot mit großer Schrift ‚LORNHOLM‘ über einer Insel: Fähre am Steg, rot-weißer Leuchtturm und Marktstand, beschriftet ‚1 Ferry‘, ‚2 Lighthouse‘, ‚3 Market‘, verbunden durch einen Weg.",
+  "alt_en": "Flat poster in blue, yellow and red with large 'LORNHOLM' lettering above an island: a ferry at a jetty, a red-and-white lighthouse and a market stall, labelled '1 Ferry', '2 Lighthouse', '3 Market', joined by a path."
+ },
+ "lexicon/skateboard-deck-graphic-1": {
+  "key": "lexicon/skateboard-deck-graphic-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "quaint tourist imagery, not irreverent cartoon/gothic",
+   "maple plies barely visible"
+  ],
+  "note_de": "Wirkt eher wie ein nostalgisches Touristenschild als wie eine freche Skateboard-Grafik.",
+  "note_en": "Looks more like a nostalgic tourist sign than an irreverent skateboard graphic.",
+  "alt_de": "Abgenutztes Skateboard-Deck mit Druckgrafik: oben ‚LORNHOLM‘ in gelber Schrift, darunter entlang eines gestrichelten Wegs ‚1 Ferry‘ mit Fähre, ‚2 Lighthouse‘ mit Leuchtturm und ‚3 Market‘ mit gestreiftem Marktstand.",
+  "alt_en": "Scuffed skateboard deck graphic: 'LORNHOLM' in yellow at the top, then along a dashed path '1 Ferry' with a ferry, '2 Lighthouse' with a lighthouse and '3 Market' with a striped market stall."
+ },
+ "lexicon/splashed-ink-and-colour-1": {
+  "key": "lexicon/splashed-ink-and-colour-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "reads partly as digital watercolour-splatter print",
+   "lighthouse and figures rendered in detail rather than tiny brushed accents"
+  ],
+  "note_de": "Wirkt eher wie ein digitaler Aquarell-Spritzdruck als wie chinesische Pomo-Malerei.",
+  "note_en": "Looks more like a digital watercolour-splatter print than Chinese splashed-ink painting.",
+  "alt_de": "Malerei aus verlaufenen Tuscheflecken in Schwarz, Azurblau und Malachitgrün mit Goldsprenkeln: Eine grauhaarige Frau mit Besen steht in der Tür eines kleinen Leuchtturms, neben ihr ein Hund, links ein Ruderboot, zwei Möwen über der Brandung.",
+  "alt_en": "Painting of bleeding ink pools in black, azure and malachite with gold flecks: a grey-haired woman with a broom stands in a small lighthouse door, a dog beside her, a rowing boat and two gulls above the surf."
+ },
+ "lexicon/synthetism-cloisonnism-1": {
+  "key": "lexicon/synthetism-cloisonnism-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "fields somewhat smooth"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Flächige Malerei mit dunklen Konturen in Orange, Gelb, Blau und Grün: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines weißen Leuchtturms, neben ihr ein Hund, links ein Ruderboot, zwei Möwen vor gelber Abendsonne.",
+  "alt_en": "Flat-field painting with dark contours in orange, yellow, blue and green: a grey-haired woman in a blue sweater stands with a broom in a white lighthouse door, a dog beside her, a rowing boat and two gulls against a yellow setting sun."
+ },
+ "lexicon/translucent-candy-plastic-1": {
+  "key": "lexicon/translucent-candy-plastic-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "woman is a photoreal human, not plastic",
+   "rocks look like crystal glass gems (avoided)",
+   "sunset scene, no white catalog backdrop"
+  ],
+  "note_de": "Wirkt eher wie ein glänzendes 3D-Rendering mit Glassteinen als wie bunter Transparentplastik der späten 90er.",
+  "note_en": "Looks more like a glossy 3D render with glass gems than late-90s candy-coloured plastic.",
+  "alt_de": "Glänzendes Rendering bei Sonnenuntergang: Ein Leuchtturm aus durchscheinendem Kunststoff mit orangefarbener Tür, darin eine grauhaarige Frau im blauen Pullover mit Besen, neben ihr ein Hund, rechts ein orange-transparentes Ruderboot auf bunten Glassteinen, zwei Möwen.",
+  "alt_en": "Glossy render at sunset: a translucent plastic lighthouse with an orange door, a grey-haired woman in a blue sweater with a broom inside it, a dog beside her, a translucent orange rowing boat on coloured glassy rocks and two gulls."
+ },
+ "lexicon/vintage-horror-paperback-1": {
+  "key": "lexicon/vintage-horror-paperback-1",
+  "verdict": "flawed",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "no sinister focal figure; reads more fantasy-adventure",
+   "tiny illegible pseudo-text on ferry hull"
+  ],
+  "note_de": "Wirkt eher wie ein Abenteuer-Cover als wie ein Horror-Taschenbuch, und am Fährrumpf steht kleine Scheinschrift.",
+  "note_en": "Looks more like an adventure cover than a horror paperback, with small pseudo-text on the ferry hull.",
+  "alt_de": "Abgegriffenes Taschenbuch-Cover mit goldener Tropfschrift ‚LORNHOLM‘ vor rotem Himmel und Burgruine: drei ausgerissene Bildfenster mit ‚1 Ferry‘ und Fähre, ‚2 Lighthouse‘ und Leuchtturm, ‚3 Market‘ und Marktstand.",
+  "alt_en": "Worn paperback cover with dripping gold 'LORNHOLM' lettering against a red sky and castle ruin: three torn-edge vignettes with '1 Ferry' and a ferry, '2 Lighthouse' and a lighthouse, '3 Market' and a market stall."
+ },
+ "lexicon/wooden-puppet-film-1": {
+  "key": "lexicon/wooden-puppet-film-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "looks like CG/clay stop-motion, not carved wooden puppets",
+   "no visible joints, no painted backdrop or film grain",
+   "photoreal golden sunset"
+  ],
+  "note_de": "Wirkt eher wie ein glattes Animationsrendering als wie ein alter Holzpuppenfilm.",
+  "note_en": "Looks more like a smooth animated render than a vintage wooden puppet film.",
+  "alt_de": "Puppenfilmszene im Abendlicht: Eine kleine Figur mit grauen Locken, blauem Strickpullover und Besen steht in der Tür eines weißen Leuchtturms, neben ihr ein schwarz-weißer Hund, rechts ein Ruderboot, zwei Möwen vor der untergehenden Sonne.",
+  "alt_en": "Puppet film scene at sunset: a small figure with grey curls, a blue knit sweater and a broom stands in a white lighthouse door, a black-and-white dog beside her, a rowing boat and two gulls before the setting sun."
+ },
+ "lexicon/2000s-photoshop-photomanip-1": {
+  "key": "lexicon/2000s-photoshop-photomanip-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "glossier HDR finish than typical mid-2000s amateur work, but flares, shards, swirls and splatter are all present"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Überladene Fotomontage im Stil der 2000er mit Lens Flares, Lichtstrahlen, Farbspritzern und schwebenden 3D-Splittern: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines weißen Leuchtturms, neben ihr sitzt ein schwarz-weißer Hund, links liegt ein Ruderboot auf den Felsen.",
+  "alt_en": "Overloaded 2000s-style photomanipulation with lens flares, light rays, ink splatter and floating 3D shards: a grey-haired woman in a blue sweater stands with a broom in the doorway of a white lighthouse, a black-and-white dog sits beside her and a rowing boat lies on the rocks."
+ },
+ "lexicon/angkorian-bas-relief-1": {
+  "key": "lexicon/angkorian-bas-relief-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "carved stone relief but no Khmer traits: no pointed crowns, serene smiles, processions or floral diaper ground",
+   "looks like a generic Western sandstone relief, beige rather than grey-pink"
+  ],
+  "note_de": "Wirkt eher wie ein allgemeines westliches Steinrelief als wie ein Khmer-Relief aus Angkor.",
+  "note_en": "Reads more like a generic Western stone relief than a Khmer Angkorian bas-relief.",
+  "alt_de": "Flaches Sandsteinrelief mit Flechtenflecken: Eine Frau im Strickpullover steht mit Besen in der Leuchtturmtür, neben ihr sitzt ein Hund, rechts liegen ein Ruderboot und das Meer, darüber fliegen zwei Möwen.",
+  "alt_en": "Weathered sandstone relief with lichen patches: a woman in a knitted sweater stands with a broom in the lighthouse doorway beside a seated dog, with a rowing boat, the sea and two gulls to the right."
+ },
+ "lexicon/biedermeier-1": {
+  "key": "lexicon/biedermeier-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "sunny precise outdoor scene but reads as a modern realist painting",
+   "no Biedermeier domestic intimacy, fruitwood interior or lace; only a potted plant hints at it"
+  ],
+  "note_de": "Wirkt eher wie moderne realistische Landschaftsmalerei als wie ein Biedermeier-Bild.",
+  "note_en": "Reads more like modern realist landscape painting than a Biedermeier picture.",
+  "alt_de": "Sonnig klares Gemälde in kräftigem Blau und Grün: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines weißen Leuchtturms, davor ein Blumentopf und ein schwarz-weißer Hund, rechts ein Ruderboot auf den Schären.",
+  "alt_en": "Sunny, crisp painting in clear blues and greens: a grey-haired woman in a blue sweater stands with a broom in the door of a white lighthouse, with a flower pot and a black-and-white dog beside her and a rowing boat on the rocks."
+ },
+ "lexicon/calavera-broadside-print-1": {
+  "key": "lexicon/calavera-broadside-print-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Grober Reliefdruck in Schwarz auf rosa Zeitungspapier: Eine Skelett-Frau mit grauem Haar und blauem Strickpullover steht mit Besen in der Leuchtturmtür, neben ihr sitzt ein Skelett-Hund, darüber fliegen zwei Skelett-Möwen.",
+  "alt_en": "Rough black relief print on pink newsprint: a skeleton woman with grey hair and a blue knitted sweater stands with a broom in the lighthouse doorway beside a skeleton dog, while two skeleton gulls fly overhead."
+ },
+ "lexicon/chinese-fifth-generation-cinema-1": {
+  "key": "lexicon/chinese-fifth-generation-cinema-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "generic sunset photo; no crimson fabrics or lanterns, ochre earth, symmetric courtyard or flat colour fields",
+   "reads as modern stock photography"
+  ],
+  "note_de": "Wirkt eher wie ein gewöhnliches Sonnenuntergangsfoto als wie ein Filmbild der chinesischen Fünften Generation.",
+  "note_en": "Reads more like an ordinary sunset photo than a Chinese Fifth Generation film still.",
+  "alt_de": "Fotografie im glühenden Sonnenuntergang: Eine grauhaarige Frau im dunkelblauen Pullover steht mit Besen in der Tür eines weißen Leuchtturms, neben ihr sitzt ein schwarz-weißer Hund, links liegt ein Ruderboot am Ufer.",
+  "alt_en": "Photograph in a glowing orange sunset: a grey-haired woman in a dark blue sweater stands with a broom in a white lighthouse doorway beside a black-and-white dog, with a rowing boat on the shore to the left."
+ },
+ "lexicon/constructivist-statistical-poster-1": {
+  "key": "lexicon/constructivist-statistical-poster-1",
+  "verdict": "flawed",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [
+   "title rendered as 'LØRNHOLM' with a slashed O instead of 'LORNHOLM'"
+  ],
+  "note_de": "Der Titel ist als „LØRNHOLM“ mit durchgestrichenem O geschrieben statt „LORNHOLM“.",
+  "note_en": "The title is spelled 'LØRNHOLM' with a slashed O instead of 'LORNHOLM'.",
+  "alt_de": "Konstruktivistisches Plakat in Rot, Schwarz und Creme mit Fotomontage und steil ansteigendem Pfeil: Unter dem Titel LORNHOLM führen Stufen von 1 Ferry mit einer Fähre über 2 Lighthouse mit einem Leuchtturm zu 3 Market mit einem gestreiften Marktstand.",
+  "alt_en": "Constructivist poster in red, black and cream with photomontage and a steep rising arrow: below the title LORNHOLM, steps lead from 1 Ferry with a ferry to 2 Lighthouse with a lighthouse and 3 Market with a striped market stall."
+ },
+ "lexicon/cut-out-animation-1": {
+  "key": "lexicon/cut-out-animation-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Legetrickbild aus Papier mit rauen Schnittkanten und sichtbaren Gelenkklammern: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines weißen Leuchtturms, neben ihr sitzt ein schwarz-weißer Hund, rechts liegt ein Ruderboot auf den Felsen.",
+  "alt_en": "Cut-out animation frame of textured paper with rough scissor edges and visible joint pins: a grey-haired woman in a blue sweater stands with a broom in a white lighthouse doorway beside a black-and-white dog, with a rowing boat on the rocks."
+ },
+ "lexicon/dogme-95-early-dv-2": {
+  "key": "lexicon/dogme-95-early-dv-2",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "reads as a polished modern HDR photo with dramatic backlit sky",
+   "no consumer DV look: no clipped highlights, muddy noise, SD softness or restless handheld framing"
+  ],
+  "note_de": "Wirkt eher wie ein modernes HDR-Foto als wie ein Dogme-95-Videobild.",
+  "note_en": "Reads more like a modern HDR photo than a Dogme 95 video frame.",
+  "alt_de": "Fotografie im Gegenlicht bei bewölktem Himmel: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, vor ihr sitzt ein schwarz-weißer Hund, rechts liegt ein altes Ruderboot auf den Felsen.",
+  "alt_en": "Backlit photograph under a cloudy sky: a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway, a black-and-white dog sits in front of her and an old rowing boat lies on the rocks."
+ },
+ "lexicon/ecole-marcinelle-1": {
+  "key": "lexicon/ecole-marcinelle-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "few motion lines or dust puffs"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Franko-belgischer Humorcomic mit schwungvoller Tuschelinie und flachen Farben: Eine knollennasige grauhaarige Frau im blauen Rollkragenpullover steht mit Besen in der Leuchtturmtür, neben ihr sitzt ein schwarz-weißer Hund, rechts liegt ein Ruderboot.",
+  "alt_en": "Franco-Belgian humour comic with lively ink line and flat colours: a big-nosed grey-haired woman in a blue turtleneck stands with a broom in the lighthouse doorway beside a black-and-white dog, with a rowing boat on the right."
+ },
+ "lexicon/field-guide-plate-1": {
+  "key": "lexicon/field-guide-plate-1",
+  "verdict": "fail",
+  "style_score": 1,
+  "motif_missing": [],
+  "problems": [
+   "no specimen plate at all: a full realistic scene with sky and sea",
+   "no side-profile variants, comparison rows or pointer lines"
+  ],
+  "note_de": "Wirkt eher wie ein realistisches Landschaftsgemälde als wie eine Bestimmungstafel.",
+  "note_en": "Reads more like a realistic landscape painting than a field-guide plate.",
+  "alt_de": "Realistisches Gemälde in hellem Tageslicht: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines weißen Leuchtturms, neben ihr sitzt ein schwarz-weißer Hund, rechts liegt ein Ruderboot auf den Felsen.",
+  "alt_en": "Realistic painting in bright daylight: a grey-haired woman in a blue sweater stands with a broom in a white lighthouse doorway beside a black-and-white dog, with a rowing boat on the rocks."
+ },
+ "lexicon/generic-no-name-packaging-1": {
+  "key": "lexicon/generic-no-name-packaging-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "pictograms are needed for the motif although the style avoids imagery; reads more like a printed card than a package"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Billig wirkender Druck in einer schwarzen Farbe auf blassgelbem Karton: Unter dem Titel LORNHOLM stehen 1 Ferry, 2 Lighthouse und 3 Market, jeweils mit schlichtem Piktogramm von Fähre, Leuchtturm und Marktstand.",
+  "alt_en": "Cheap single black ink print on pale yellow board: below the title LORNHOLM are 1 Ferry, 2 Lighthouse and 3 Market, each with a plain pictogram of a ferry, a lighthouse and a market stall."
+ },
+ "lexicon/googie-1": {
+  "key": "lexicon/googie-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Googie-Grafik in Türkis, Koralle und Senf mit Sternen, Atombahnen und Bumerangformen: Ein Schild mit dem Titel LORNHOLM führt zu 1 Ferry mit Fähre, 2 Lighthouse mit Leuchtturm und 3 Market mit gestreiftem Marktstand.",
+  "alt_en": "Googie graphic in turquoise, coral and mustard with starbursts, atom orbits and boomerang shapes: a sign titled LORNHOLM leads to 1 Ferry with a ferry, 2 Lighthouse with a lighthouse and 3 Market with a striped market stall."
+ },
+ "lexicon/heraldic-art-1": {
+  "key": "lexicon/heraldic-art-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "shield, helm and mantling are right, but the shield holds a painterly landscape rather than a flat stylised charge",
+   "shading and perspective break the flat tinctures"
+  ],
+  "note_de": "Wirkt eher wie ein Landschaftsbild in einem Wappenrahmen als wie ein heraldisches Wappenbild.",
+  "note_en": "Reads more like a landscape picture in a heraldic frame than a heraldic charge.",
+  "alt_de": "Wappenmalerei mit Helm und rot-blau-goldener Helmdecke auf Pergament: Im goldenen Schild steht eine grauhaarige Frau im blauen Pullover mit Besen in der Leuchtturmtür, neben ihr ein Hund, davor ein Ruderboot und zwei Möwen.",
+  "alt_en": "Heraldic painting with helm and red, blue and gold mantling on parchment: inside a gold shield a grey-haired woman in a blue sweater stands with a broom in a lighthouse doorway beside a dog, with a rowing boat and two gulls."
+ },
+ "lexicon/javanese-batik-1": {
+  "key": "lexicon/javanese-batik-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Javanische Batik in Sogan-Braun, Indigo und Creme mit Wachsbruch-Adern und Punktfüllungen: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr sitzt ein Hund, links liegt ein Ruderboot vor dem Meer.",
+  "alt_en": "Javanese batik in sogan brown, indigo and cream with wax crackle veins and dotted fills: a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway beside a dog, with a rowing boat by the sea."
+ },
+ "lexicon/liminal-space-1": {
+  "key": "lexicon/liminal-space-1",
+  "verdict": "fail",
+  "style_score": 1,
+  "motif_missing": [],
+  "problems": [
+   "ordinary documentary photo of the scene",
+   "none of the liminal-space traits: no empty interior, fluorescent light or repeating tiles"
+  ],
+  "note_de": "Wirkt eher wie ein gewöhnliches Küstenfoto als wie ein Liminal-Space-Bild.",
+  "note_en": "Reads more like an ordinary coastal photo than a liminal-space image.",
+  "alt_de": "Fotografie in grauem Abendlicht: Eine grauhaarige Frau im Norwegerpullover steht mit Besen in der Tür eines weißen Leuchtturms, neben ihr sitzt ein schwarz-weißer Hund, rechts liegt ein Ruderboot auf nassen Felsen.",
+  "alt_en": "Photograph in grey dusk light: a grey-haired woman in a Nordic sweater stands with a broom in a white lighthouse doorway beside a black-and-white dog, with a rowing boat on wet rocks."
+ },
+ "lexicon/may-68-protest-silkscreen-1": {
+  "key": "lexicon/may-68-protest-silkscreen-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Grober Siebdruck in einer roten Farbe auf dünnem weißem Papier: Unter dem Titel LORNHOLM verbindet eine gestrichelte Linie 1 Ferry mit Fähre, 2 Lighthouse mit Leuchtturm und 3 Market mit Marktstand.",
+  "alt_en": "Rough single-colour red silkscreen on thin white paper: below the title LORNHOLM a dashed line connects 1 Ferry with a ferry, 2 Lighthouse with a lighthouse and 3 Market with a market stall."
+ },
+ "lexicon/modular-pictogram-system-1": {
+  "key": "lexicon/modular-pictogram-system-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "icons are rounded-friendly rather than strictly grid-built from bars"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Piktogrammsystem in flachem Blau, Orange und Grün auf Weiß: Unter dem Titel LORNHOLM stehen drei Farbfelder 1 Ferry, 2 Lighthouse und 3 Market mit weißen Zeichen für Fähre, Leuchtturm und Marktstand.",
+  "alt_en": "Pictogram system in flat blue, orange and green on white: below the title LORNHOLM three colour panels read 1 Ferry, 2 Lighthouse and 3 Market with white signs for a ferry, a lighthouse and a market stall."
+ },
+ "lexicon/neo-traditional-tattoo-1": {
+  "key": "lexicon/neo-traditional-tattoo-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "rendering leans toward painted illustration rather than tattoo flash"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Neo-traditionelle Tattoo-Vorlage in Bordeaux, Petrol und Gold mit Jugendstilrahmen, Juwelen und Blüten: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr sitzt ein Hund, links liegt ein Ruderboot im Sonnenuntergang.",
+  "alt_en": "Neo-traditional tattoo design in burgundy, teal and gold with an Art Nouveau frame, jewels and flowers: a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway beside a dog, with a rowing boat at sunset."
+ },
+ "lexicon/painted-paper-collage-1": {
+  "key": "lexicon/painted-paper-collage-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "torn-paper texture present but forms are detailed and realistic, not chunky simplified shapes on white"
+  ],
+  "note_de": "Wirkt eher wie ein detailliertes Papiermosaik als wie eine Collage aus einfachen bemalten Papierformen.",
+  "note_en": "Reads more like a detailed paper mosaic than a collage of simple painted-paper shapes.",
+  "alt_de": "Collage aus gerissenem, bemaltem Papier in kräftigen Farben: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr sitzt ein schwarz-weißer Hund, rechts liegt ein Ruderboot vor dem Meer.",
+  "alt_en": "Collage of torn painted paper in bold colours: a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway beside a black-and-white dog, with a rowing boat by the sea."
+ },
+ "lexicon/persian-carpet-1": {
+  "key": "lexicon/persian-carpet-1",
+  "verdict": "flawed",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "woman stands in the door of an attached cottage, not the lighthouse"
+  ],
+  "note_de": "Die Frau steht in der Tür eines angebauten Hauses statt in der Leuchtturmtür.",
+  "note_en": "The woman stands in the door of an attached cottage instead of the lighthouse doorway.",
+  "alt_de": "Geknüpfter Teppich mit Knotenraster, Fransen und roten und indigofarbenen Bordüren: Im Mittelfeld steht eine grauhaarige Frau im blauen Pullover mit Besen in einer Tür neben einem Leuchtturm, neben ihr ein Hund, davor ein Ruderboot.",
+  "alt_en": "Hand-knotted carpet with visible knot grid, fringe and red and indigo borders: in the central field a grey-haired woman in a blue sweater stands with a broom in a doorway next to a lighthouse beside a dog, with a rowing boat in front."
+ },
+ "lexicon/polish-wycinanki-papercut-1": {
+  "key": "lexicon/polish-wycinanki-papercut-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "central scene is not symmetrical and leans toward 3D paper craft; frame is strongly wycinanki"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Geschichteter Scherenschnitt aus Glanzpapier in Magenta, Grün, Gelb und Blau mit symmetrischem Blütenrahmen: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr sitzt ein Hund, rechts liegt ein Ruderboot.",
+  "alt_en": "Layered glossy papercut in magenta, emerald, yellow and blue with a symmetrical floral frame: a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway beside a dog, with a rowing boat to the right."
+ },
+ "lexicon/procedural-morphogenesis-1": {
+  "key": "lexicon/procedural-morphogenesis-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Weiße, wie 3D-gedruckte Oberflächen mit Reaktions-Diffusions-Mustern: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr sitzt ein Hund, rechts liegt ein Ruderboot vor dem Meer.",
+  "alt_en": "White, 3D-printed-looking surfaces covered in reaction-diffusion patterns: a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway beside a dog, with a rowing boat by the sea."
+ },
+ "lexicon/realistic-adventure-strip-1": {
+  "key": "lexicon/realistic-adventure-strip-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "reads as a painterly oil illustration",
+   "no sable-brush ink line, spotted blacks or newsprint colour",
+   "woman looks about 75 rather than 60"
+  ],
+  "note_de": "Wirkt eher wie ein Ölgemälde als wie ein realistischer Abenteuer-Zeitungscomic.",
+  "note_en": "Reads more like an oil painting than a realistic adventure newspaper strip.",
+  "alt_de": "Malerische Illustration im Abendlicht: Eine ältere grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr sitzt ein schwarz-weißer Hund, rechts liegt ein Ruderboot auf den Felsen.",
+  "alt_en": "Painterly illustration in evening light: an older grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway beside a black-and-white dog, with a rowing boat on the rocks."
+ },
+ "lexicon/scanning-electron-micrograph-2": {
+  "key": "lexicon/scanning-electron-micrograph-2",
+  "verdict": "fail",
+  "style_score": 1,
+  "motif_missing": [],
+  "problems": [
+   "ordinary black-and-white landscape photo",
+   "no SEM edge glow, microscopic topography or black surroundings"
+  ],
+  "note_de": "Wirkt eher wie ein Schwarzweißfoto als wie eine Rasterelektronenmikroskop-Aufnahme.",
+  "note_en": "Reads more like a black-and-white photo than a scanning electron micrograph.",
+  "alt_de": "Schwarzweißfotografie mit Gegenlicht: Eine grauhaarige Frau im Strickpullover steht mit Besen in der Leuchtturmtür, neben ihr sitzt ein Hund, vorne liegt ein Ruderboot auf den Felsen.",
+  "alt_en": "Backlit black-and-white photograph: a grey-haired woman in a knitted sweater stands with a broom in the lighthouse doorway beside a dog, with a rowing boat on the rocks in the foreground."
+ },
+ "lexicon/sketchy-watercolor-animation-1": {
+  "key": "lexicon/sketchy-watercolor-animation-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "sketchy line and washes present, but the scene is fully painted with little bare paper",
+   "reads as a finished urban-sketch watercolour"
+  ],
+  "note_de": "Wirkt eher wie ein fertiges Aquarell als wie lockere Skizzen-Animation.",
+  "note_en": "Reads more like a finished watercolour than loose sketchy animation.",
+  "alt_de": "Aquarell mit lockerer Kohlelinie: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr sitzt ein schwarz-weißer Hund, rechts liegt ein Ruderboot auf den Felsen.",
+  "alt_en": "Watercolour with loose charcoal line: a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway beside a black-and-white dog, with a rowing boat on the rocks."
+ },
+ "lexicon/stick-figure-webcomic-1": {
+  "key": "lexicon/stick-figure-webcomic-1",
+  "verdict": "fail",
+  "style_score": 1,
+  "motif_missing": [],
+  "problems": [
+   "detailed coloring-book line art, not circle-headed stick figures",
+   "full background and blue colour on the sweater",
+   "woman looks young, not about 60"
+  ],
+  "note_de": "Wirkt eher wie eine detaillierte Ausmalbild-Zeichnung als wie ein Strichmännchen-Webcomic.",
+  "note_en": "Reads more like a detailed colouring-book drawing than a stick-figure webcomic.",
+  "alt_de": "Detaillierte Schwarzweiß-Linienzeichnung mit blauem Akzent: Eine Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr sitzt ein Hund, rechts liegt ein Ruderboot am Ufer.",
+  "alt_en": "Detailed black-and-white line drawing with a blue accent: a woman in a blue sweater stands with a broom in the lighthouse doorway beside a dog, with a rowing boat on the shore."
+ },
+ "lexicon/technical-illustration-1": {
+  "key": "lexicon/technical-illustration-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "full scenic background with sea and islands",
+   "no axonometric view or callouts; reads as a detailed shaded ink illustration",
+   "woman stands in an annex door rather than the lighthouse door"
+  ],
+  "note_de": "Wirkt eher wie eine detaillierte Tuschillustration als wie eine technische Zeichnung.",
+  "note_en": "Reads more like a detailed ink illustration than a technical illustration.",
+  "alt_de": "Feine Tuschezeichnung in Graustufen mit blauem Akzent: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines Anbaus am Leuchtturm, neben ihr sitzt ein Hund, links liegt ein Ruderboot.",
+  "alt_en": "Fine greyscale ink drawing with a blue accent: a grey-haired woman in a blue sweater stands with a broom in the door of an annex to the lighthouse beside a dog, with a rowing boat to the left."
+ },
+ "lexicon/trash-polka-1": {
+  "key": "lexicon/trash-polka-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Trash-Polka-Collage aus fotorealistischem Schwarzweiß mit roten und schwarzen Pinselhieben und Spritzern: Eine grauhaarige Frau im Strickpullover steht mit Besen in der Leuchtturmtür, neben ihr sitzt ein Hund, rechts liegt ein Ruderboot.",
+  "alt_en": "Trash Polka collage of photoreal black-and-grey with aggressive red and black brush strokes and splatters: a grey-haired woman in a knitted sweater stands with a broom in the lighthouse doorway beside a dog, with a rowing boat to the right."
+ },
+ "lexicon/vintage-sports-trading-card-1": {
+  "key": "lexicon/vintage-sports-trading-card-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Abgegriffene Sammelkarte mit Rasterpunkten und runden Ecken: Unter dem Titel LORNHOLM verbindet eine gestrichelte Linie Medaillons mit 1 Ferry, 2 Lighthouse und 3 Market, die Fähre, Leuchtturm und Marktstand zeigen.",
+  "alt_en": "Worn trading card with coarse halftone dots and rounded corners: below the title LORNHOLM a dashed line links medallions labelled 1 Ferry, 2 Lighthouse and 3 Market showing a ferry, a lighthouse and a market stall."
+ },
+ "lexicon/wpa-silkscreen-poster-1": {
+  "key": "lexicon/wpa-silkscreen-poster-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "more colours and texture detail than three to five flat inks"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Siebdruckplakat im Stil der 1930er in Rost, Petrol, Senf und Creme: Unter dem Titel LORNHOLM zeigen 1 Ferry eine Fähre, 2 Lighthouse einen Leuchtturm auf der Klippe und 3 Market einen gestreiften Marktstand.",
+  "alt_en": "1930s-style silkscreen poster in rust, teal, mustard and cream: below the title LORNHOLM, 1 Ferry shows a ferry, 2 Lighthouse a lighthouse on a cliff and 3 Market a striped market stall."
+ },
+ "lexicon/action-painting-1": {
+  "key": "lexicon/action-painting-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Fully legible figurative scene with splatter overlay; subject not merely hinted at",
+   "Clear focal point instead of all-over composition",
+   "Reads as decorative splatter illustration"
+  ],
+  "note_de": "Wirkt eher wie eine gegenständliche Illustration mit Farbspritzern als wie Action Painting.",
+  "note_en": "Looks more like a figurative illustration with paint splatters than like action painting.",
+  "alt_de": "Gegenständliches Gemälde auf rohem Leinen, übersät mit Farbspritzern und Tropfspuren: Eine grauhaarige Frau im blauen Pullover steht mit Besen und Hund in der Tür eines weißen Leuchtturms, davor ein Ruderboot, darüber zwei Möwen.",
+  "alt_en": "Figurative painting on raw canvas covered in paint splatters and drips: a grey-haired woman in a blue sweater stands with a broom and a dog in the doorway of a white lighthouse, with a rowing boat below and two gulls above."
+ },
+ "lexicon/art-deco-painting-1": {
+  "key": "lexicon/art-deco-painting-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Facetted rocks and sunburst rays are Deco-like, but the woman and dog are rendered realistically, not as sleek tubular forms",
+   "No skyscrapers or machines; little metallic sheen on figures"
+  ],
+  "note_de": "Wirkt eher wie eine realistische Illustration mit geometrischen Felsen als wie ein Art-déco-Gemälde.",
+  "note_en": "Looks more like a realistic illustration with geometric rocks than like an Art Deco painting.",
+  "alt_de": "Glatt gemaltes Bild mit facettierten Felsen und Sonnenstrahlenfächer: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der roten Leuchtturmtür, neben ihr sitzt ein schwarz-weißer Hund, rechts liegen ein Ruderboot und das Meer unter zwei Möwen.",
+  "alt_en": "Smoothly painted image with faceted rocks and a fan of sun rays: a grey-haired woman in a blue sweater stands with a broom in the red lighthouse doorway, a black-and-white dog sits beside her, and a rowing boat and the sea lie to the right under two gulls."
+ },
+ "lexicon/black-metal-sleeve-1": {
+  "key": "lexicon/black-metal-sleeve-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Körniges Schwarz-Weiß-Cover im Black-Metal-Stil: Über einer nächtlichen Insel steht der Titel LORNHOLM in dornigen Wurzelbuchstaben, drei runde Bildfelder zeigen eine Fähre, einen Leuchtturm und einen Marktstand mit gestreifter Markise.",
+  "alt_en": "Grainy black-and-white black metal cover: the title LORNHOLM in thorny root-like letters hangs over a nocturnal island, and three round vignettes show a ferry, a lighthouse and a market stall with a striped awning."
+ },
+ "lexicon/candlelit-period-cinematography-1": {
+  "key": "lexicon/candlelit-period-cinematography-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Exterior sunset scene lit by the sun, not by candle flames",
+   "No deep surrounding darkness or razor-thin focus",
+   "Reads as a modern golden-hour photo"
+  ],
+  "note_de": "Wirkt eher wie ein modernes Sonnenuntergangsfoto als wie ein kerzenbeleuchtetes Historienfilmbild.",
+  "note_en": "Looks more like a modern sunset photo than like candlelit period cinematography.",
+  "alt_de": "Fotorealistisches Bild im Abendrot: Eine grauhaarige Frau im dunkelblauen Pullover steht mit Besen und Hund in der Tür eines weißen Leuchtturms, davor liegt ein Ruderboot auf den Felsen, zwei Möwen fliegen über dem Meer.",
+  "alt_en": "Photorealistic image at sunset: a grey-haired woman in a dark blue sweater stands with a broom and a dog in the doorway of a white lighthouse, a rowing boat lies on the rocks, and two gulls fly over the sea."
+ },
+ "lexicon/chinese-paper-cutting-1": {
+  "key": "lexicon/chinese-paper-cutting-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Runder roter Scherenschnitt mit Wolkenranken und Blütenrand: Eine Frau mit Strickpullover und Besen steht in der Tür eines Leuchtturms, neben ihr sitzt ein Hund, links liegt ein Ruderboot, darüber fliegen zwei Möwen.",
+  "alt_en": "Round red paper cut with scrolling clouds and a floral border: a woman in a knitted sweater with a broom stands in a lighthouse doorway, a dog sits beside her, a rowing boat lies to the left and two gulls fly above."
+ },
+ "lexicon/contemporary-figurative-painting-1": {
+  "key": "lexicon/contemporary-figurative-painting-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Traditional plein-air palette-knife realism rather than flattened matte planes",
+   "Natural skin tones; no unexpected skin colour, underdrawing or raw edges"
+  ],
+  "note_de": "Wirkt eher wie klassische Spachtelmalerei als wie zeitgenössische figurative Malerei.",
+  "note_en": "Looks more like traditional palette-knife painting than like contemporary figurative painting.",
+  "alt_de": "Pastos gemaltes Ölbild in kühlen Farben: Eine grauhaarige Frau im blauen Pullover lehnt mit Besen in der Leuchtturmtür, vor ihr sitzt ein schwarz-weißer Hund, links liegt ein Ruderboot vor dem Abendmeer mit zwei Möwen.",
+  "alt_en": "Thickly painted oil picture in cool colours: a grey-haired woman in a blue sweater leans with a broom in the lighthouse doorway, a black-and-white dog sits in front of her, and a rowing boat lies to the left by the evening sea with two gulls."
+ },
+ "lexicon/cybersigilism-1": {
+  "key": "lexicon/cybersigilism-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Realistic pen illustration with thorn ornaments layered on top; the sigil linework is decoration, not the image itself",
+   "Little negative space; dense rendered rocks and water"
+  ],
+  "note_de": "Wirkt eher wie eine realistische Federzeichnung mit Dornenornamenten als wie Cybersigilism.",
+  "note_en": "Looks more like a realistic pen drawing with thorn ornaments than like cybersigilism.",
+  "alt_de": "Feine Tuschezeichnung, überzogen von dornigen, symmetrischen Linienornamenten: Eine grauhaarige Frau im blauen Pullover steht mit Besen und Hund in der Leuchtturmtür, links liegt ein Ruderboot am stillen Wasser unter zwei Möwen.",
+  "alt_en": "Fine ink drawing overlaid with thorny symmetric line ornaments: a grey-haired woman in a blue sweater stands with a broom and a dog in the lighthouse doorway, and a rowing boat lies on calm water to the left under two gulls."
+ },
+ "lexicon/dreamcore-1": {
+  "key": "lexicon/dreamcore-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Somewhat polished; little low-res compression"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Verträumtes Bild in Pastelltönen mit Lichtschleier: Eine grauhaarige Frau im blauen Pullover steht mit Besen und Hund in der Leuchtturmtür, im rosa Himmel führt eine Treppe zu einer schwebenden Tür, unten liegt ein Ruderboot zwischen Felsen und Strandnelken.",
+  "alt_en": "Dreamy pastel image with a soft glow: a grey-haired woman in a blue sweater stands with a broom and a dog in the lighthouse doorway, a staircase in the pink sky leads to a floating door, and a rowing boat lies among rocks and sea thrift."
+ },
+ "lexicon/editorial-cartoon-1": {
+  "key": "lexicon/editorial-cartoon-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Neutral coloured ink illustration; no visual metaphor, caricature or labels",
+   "Reads as a graphic-novel illustration, not a newspaper cartoon"
+  ],
+  "note_de": "Wirkt eher wie eine kolorierte Comic-Illustration als wie eine Zeitungskarikatur.",
+  "note_en": "Looks more like a coloured comic illustration than like an editorial cartoon.",
+  "alt_de": "Kolorierte Federzeichnung mit kräftigen Konturen: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines weißen Leuchtturms, neben ihr sitzt ein Hund, rechts liegt ein Ruderboot vor stürmischem Meer im Abendlicht mit zwei Möwen.",
+  "alt_en": "Coloured pen drawing with bold outlines: a grey-haired woman in a blue sweater stands with a broom in the doorway of a white lighthouse, a dog sits beside her, and a rowing boat lies to the right by a stormy evening sea with two gulls."
+ },
+ "lexicon/fine-line-tattoo-1": {
+  "key": "lexicon/fine-line-tattoo-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Full detailed scene with landscape hatching; reads as fine pen illustration on paper rather than a small tattoo design",
+   "Coloured sweater and sunset tint"
+  ],
+  "note_de": "Wirkt eher wie eine feine Federillustration als wie ein Fine-Line-Tattoo.",
+  "note_en": "Looks more like a fine pen illustration than like a fine-line tattoo.",
+  "alt_de": "Zarte Feinlinienzeichnung auf hellem Papier mit kleinen Punkten und einem Stern: Eine grauhaarige Frau im blauen Pullover steht mit Besen und Hund in der Leuchtturmtür, davor liegt ein Ruderboot, zwei Möwen fliegen über dem Meer.",
+  "alt_en": "Delicate fine-line drawing on pale paper with tiny dots and a star: a grey-haired woman in a blue sweater stands with a broom and a dog in the lighthouse doorway, a rowing boat lies in front and two gulls fly over the sea."
+ },
+ "lexicon/german-expressionism-1": {
+  "key": "lexicon/german-expressionism-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Expressionistisches Gemälde mit kantigen Formen in Grün, Magenta und Orange: Eine hagere grauhaarige Frau im blauen Pullover steht mit Besen in der schiefen Leuchtturmtür, vor ihr sitzt ein schwarz-weißer Hund, links liegt ein rotes Boot unter zwei Möwen.",
+  "alt_en": "Expressionist painting with jagged forms in green, magenta and orange: a gaunt grey-haired woman in a blue sweater stands with a broom in the tilted lighthouse doorway, a black-and-white dog sits in front of her, and a red boat lies to the left under two gulls."
+ },
+ "lexicon/haitian-cut-metal-art-1": {
+  "key": "lexicon/haitian-cut-metal-art-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Woman and dog partly painted in naturalistic detail"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Runde, gehämmerte Blechplatte mit ausgeschnittenen und gelochten Formen vor heller Wand: Eine Frau mit Besen steht in der Tür eines Leuchtturms, neben ihr sitzt ein Hund, rechts liegt ein Ruderboot, darüber fliegen zwei Möwen vor der Sonne.",
+  "alt_en": "Round hammered metal sheet with cut-out and punched shapes against a pale wall: a woman with a broom stands in a lighthouse doorway, a dog sits beside her, a rowing boat lies to the right and two gulls fly above near the sun."
+ },
+ "lexicon/indian-calendar-art-1": {
+  "key": "lexicon/indian-calendar-art-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Only the marigold-and-lotus border is calendar-art; the scene is a generic saturated digital painting",
+   "No frontal idealised figure, halo or glitter highlights"
+  ],
+  "note_de": "Wirkt eher wie ein buntes Digitalgemälde mit Blumenrahmen als wie indische Kalenderkunst.",
+  "note_en": "Looks more like a colourful digital painting with a floral frame than like Indian calendar art.",
+  "alt_de": "Leuchtend buntes Bild mit Rahmen aus Ringelblumen und Lotosblüten: Eine grauhaarige Frau im blauen Pullover steht mit Besen und Hund in der grünen Leuchtturmtür, rechts liegt ein Ruderboot vor einem Sonnenuntergang mit zwei Möwen.",
+  "alt_en": "Vividly coloured image framed by marigolds and lotus flowers: a grey-haired woman in a blue sweater stands with a broom and a dog in the green lighthouse doorway, and a rowing boat lies to the right before a sunset with two gulls."
+ },
+ "lexicon/khokhloma-1": {
+  "key": "lexicon/khokhloma-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Painted panel rather than lacquered tableware; blue and white break the gold-red-black palette"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Goldgrundiges Lackbild mit roten und schwarzen Ranken, Beeren und Erdbeeren: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines bemalten Leuchtturms, vor ihr sitzt ein Hund, links liegt ein verziertes Ruderboot unter zwei Möwen.",
+  "alt_en": "Gold-ground lacquer picture with red and black scrolls, berries and strawberries: a grey-haired woman in a blue sweater stands with a broom in the doorway of a painted lighthouse, a dog sits in front of her, and an ornamented rowing boat lies to the left under two gulls."
+ },
+ "lexicon/magazine-gag-cartoon-1": {
+  "key": "lexicon/magazine-gag-cartoon-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Realistic detailed watercolour illustration; no loose dip-pen line, deadpan cartoon figures or gray wash",
+   "Reads as a sketchbook watercolour, not a gag cartoon"
+  ],
+  "note_de": "Wirkt eher wie ein realistisches Aquarell als wie ein Magazin-Cartoon.",
+  "note_en": "Looks more like a realistic watercolour than like a magazine gag cartoon.",
+  "alt_de": "Detailliertes Aquarell mit feinen Tuschlinien auf cremefarbenem Papier: Eine grauhaarige Frau im blauen Pullover steht mit Besen und Hund in der Leuchtturmtür, rechts liegt ein Ruderboot auf flachen Felsen vor grauem Meer mit zwei Möwen.",
+  "alt_en": "Detailed watercolour with fine ink lines on cream paper: a grey-haired woman in a blue sweater stands with a broom and a dog in the lighthouse doorway, and a rowing boat lies on flat rocks to the right by a grey sea with two gulls."
+ },
+ "lexicon/mcbling-1": {
+  "key": "lexicon/mcbling-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Photo with pink filter and sparkle overlay; no rhinestones, velour, sunglasses, chunky jewellery or cursive type",
+   "Reads as an edited modern photo"
+  ],
+  "note_de": "Wirkt eher wie ein Foto mit Pinkfilter und Glitzereffekt als wie McBling.",
+  "note_en": "Looks more like a photo with a pink filter and sparkle effect than like McBling.",
+  "alt_de": "Fotografie in knalligem Pink mit Glitzerfunken: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr sitzt ein schwarz-weißer Hund, rechts liegt ein Ruderboot vor einem pinken Sonnenuntergang mit zwei Möwen.",
+  "alt_en": "Photograph in hot pink with sparkle flares: a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway, a black-and-white dog sits beside her, and a rowing boat lies to the right before a pink sunset with two gulls."
+ },
+ "lexicon/motivational-demotivational-poster-1": {
+  "key": "lexicon/motivational-demotivational-poster-1",
+  "verdict": "flawed",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [
+   "Contains invented legible text (\"PERSEVERANCE\" and a sentence) although the prompt forbids any text; the style itself calls for it, so the prompt is self-contradictory"
+  ],
+  "note_de": "Enthält entgegen der Vorgabe erfundenen Text: ein Schlagwort und einen Satz unter dem Foto.",
+  "note_en": "Contains invented text against the brief: a headline word and a sentence below the photo.",
+  "alt_de": "Motivationsposter mit schwarzem Rand und weißer Haarlinie um ein Foto: Eine grauhaarige Frau im blauen Pullover steht mit Besen und Hund in der Leuchtturmtür, rechts liegt ein Ruderboot vor dem Sonnenuntergang, darunter steht das Wort PERSEVERANCE.",
+  "alt_en": "Motivational poster with a black border and thin white keyline around a photo: a grey-haired woman in a blue sweater stands with a broom and a dog in the lighthouse doorway, a rowing boat lies to the right before the sunset, and the word PERSEVERANCE sits below."
+ },
+ "lexicon/neoclassical-outline-engraving-1": {
+  "key": "lexicon/neoclassical-outline-engraving-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Grey shading and hatching on doorway, sweater and dog, which the style forbids",
+   "Modern coloring-book line art; no frieze composition, idealised antique proportions or plate caption"
+  ],
+  "note_de": "Wirkt eher wie eine Malbuchvorlage als wie ein klassizistischer Umrissstich.",
+  "note_en": "Looks more like a colouring-book page than like a neoclassical outline engraving.",
+  "alt_de": "Schwarz-weiße Strichzeichnung mit leichten Grauschattierungen: Eine grauhaarige Frau im Strickpullover steht mit Besen und Hund in der Leuchtturmtür, rechts liegt ein Ruderboot auf den Felsen, darüber fliegen zwei Möwen.",
+  "alt_en": "Black-and-white line drawing with light grey shading: a grey-haired woman in a knitted sweater stands with a broom and a dog in the lighthouse doorway, a rowing boat lies on the rocks to the right and two gulls fly above."
+ },
+ "lexicon/painted-tabletop-miniature-1": {
+  "key": "lexicon/painted-tabletop-miniature-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Base edge visible, but surfaces look like a photoreal diorama with a real seascape behind; edge highlights and washes barely visible",
+   "No painting desk"
+  ],
+  "note_de": "Wirkt eher wie ein fotorealistisches Diorama als wie eine bemalte Tabletop-Miniatur.",
+  "note_en": "Looks more like a photorealistic diorama than like a painted tabletop miniature.",
+  "alt_de": "Makrofoto eines Dioramas auf runder Basis: Eine kleine grauhaarige Figur im blauen Pullover steht mit Besen in der Tür eines weißen Leuchtturms, neben ihr sitzt ein Hund, links liegt ein Ruderboot, im Hintergrund leuchten Meer und Abendsonne.",
+  "alt_en": "Macro photo of a diorama on a round base: a small grey-haired figure in a blue sweater stands with a broom in the doorway of a white lighthouse, a dog sits beside her, a rowing boat lies to the left, and the sea glows in the evening sun behind."
+ },
+ "lexicon/petroglyph-1": {
+  "key": "lexicon/petroglyph-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Pecked technique on desert varnish is convincing, but the figures are far too detailed and illustrative (lantern windows, sweater texture) instead of simple stick or silhouette figures"
+  ],
+  "note_de": "Wirkt eher wie eine detaillierte Illustration auf Fels als wie eine echte Felsritzung.",
+  "note_en": "Looks more like a detailed illustration on rock than like a genuine petroglyph.",
+  "alt_de": "In dunklen Wüstenlack gepickte helle Felszeichnung: Eine Frau mit Besen steht in der Tür eines Leuchtturms, neben ihr sitzt ein Hund, rechts liegen Meer und ein Ruderboot, darüber fliegen zwei Möwen neben einer Spiralsonne.",
+  "alt_en": "Pale image pecked into dark desert varnish: a woman with a broom stands in a lighthouse doorway, a dog sits beside her, the sea and a rowing boat lie to the right, and two gulls fly near a spiral sun."
+ },
+ "lexicon/polychrome-wood-sculpture-1": {
+  "key": "lexicon/polychrome-wood-sculpture-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Painterly scene with gold-leaf flecks; no carved wood, glass eyes or sculptural form",
+   "Reads as a gilded digital painting, not a sculpture"
+  ],
+  "note_de": "Wirkt eher wie ein vergoldetes Gemälde als wie eine farbig gefasste Holzskulptur.",
+  "note_en": "Looks more like a gilded painting than like a polychrome wood sculpture.",
+  "alt_de": "Gemälde mit Blattgoldflecken im warmen Abendlicht: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr sitzt ein schwarz-weißer Hund, rechts liegt ein Ruderboot vor der Brandung mit zwei Möwen.",
+  "alt_en": "Painting with gold-leaf flecks in warm evening light: a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway, a black-and-white dog sits beside her, and a rowing boat lies to the right by the surf with two gulls."
+ },
+ "lexicon/prog-rock-fantasy-album-cover-1": {
+  "key": "lexicon/prog-rock-fantasy-album-cover-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Gemaltes Fantasy-Albumcover in Pastell- und Blautönen: Über schwebenden Felsinseln und Steinbögen steht der Titel LORNHOLM in geschwungenen Blasenbuchstaben, drei gerundete Bildfelder zeigen eine Fähre, einen Leuchtturm und einen Marktstand mit gestreifter Markise.",
+  "alt_en": "Painted fantasy album cover in pastels and blues: the title LORNHOLM in flowing bubble letters rises above floating rock islands and stone arches, and three rounded panels show a ferry, a lighthouse and a market stall with a striped awning."
+ },
+ "lexicon/realistic-franco-belgian-adventure-album-1": {
+  "key": "lexicon/realistic-franco-belgian-adventure-album-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Single image without panel framing; dot screen barely visible"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Realistisch gezeichnetes, schraffiertes Comicbild in erdigen Farben: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr sitzt ein Hund, rechts liegt ein Ruderboot auf den Felsen vor dem Meer mit zwei Möwen.",
+  "alt_en": "Realistically drawn, hatched comic image in earthy colours: a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway, a dog sits beside her, and a rowing boat lies on the rocks to the right by the sea with two gulls."
+ },
+ "lexicon/scene-myspace-emo-1": {
+  "key": "lexicon/scene-myspace-emo-1",
+  "verdict": "flawed",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "High-angle fisheye framing, zebra/leopard and star doodles fit, but the photo is sharp HDR quality instead of low-res webcam look (avoid list)"
+  ],
+  "note_de": "Wirkt eher wie ein scharfes modernes Foto mit Emo-Rahmen als wie ein unscharfer MySpace-Schnappschuss.",
+  "note_en": "Looks more like a sharp modern photo with an emo frame than like a low-res MySpace snapshot.",
+  "alt_de": "Von oben fotografiertes Fischaugenbild mit pinken Leopardenflecken, Zebrastreifen, Sternen und Herzen am Rand: Eine grauhaarige Frau im blauen Norwegerpullover steht mit Besen in der Leuchtturmtür, vor ihr sitzt ein Hund, rechts liegt ein Ruderboot.",
+  "alt_en": "High-angle fisheye photo with pink leopard spots, zebra stripes, stars and hearts around the edge: a grey-haired woman in a blue patterned sweater stands with a broom in the lighthouse doorway, a dog sits in front of her and a rowing boat lies to the right."
+ },
+ "lexicon/social-realism-1": {
+  "key": "lexicon/social-realism-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Monumental figure and muted palette fit, but rendered as academic realist oil painting; no strong outlines, flattened space or matte mural surface"
+  ],
+  "note_de": "Wirkt eher wie ein realistisches Ölgemälde als wie ein Wandbild des Sozialen Realismus.",
+  "note_en": "Looks more like a realist oil painting than like a Social Realism mural.",
+  "alt_de": "Realistisches Gemälde in gedämpften Farben: Eine kräftige grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr sitzt ein schwarz-weißer Hund, rechts liegt ein Ruderboot vor dem Meer, darüber fliegen zwei Möwen.",
+  "alt_en": "Realist painting in muted colours: a sturdy grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway, a black-and-white dog sits beside her, and a rowing boat lies to the right by the sea under two gulls."
+ },
+ "lexicon/sticker-bombing-1": {
+  "key": "lexicon/sticker-bombing-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Torn-paper collage / décollage texture instead of overlapping die-cut stickers in mixed styles",
+   "No recognisable individual stickers"
+  ],
+  "note_de": "Wirkt eher wie eine Collage aus abgerissenem Papier als wie Sticker Bombing.",
+  "note_en": "Looks more like a torn-paper collage than like sticker bombing.",
+  "alt_de": "Bild aus bunten, abblätternden Papierfetzen: Eine grauhaarige Frau im blauen Pullover steht mit Besen und Hund in der Leuchtturmtür, rechts liegt ein Ruderboot vor einem farbigen Sonnenuntergang über dem Meer mit zwei Möwen.",
+  "alt_en": "Image built from colourful peeling paper scraps: a grey-haired woman in a blue sweater stands with a broom and a dog in the lighthouse doorway, and a rowing boat lies to the right before a colourful sunset over the sea with two gulls."
+ },
+ "lexicon/tiki-polynesian-pop-1": {
+  "key": "lexicon/tiki-polynesian-pop-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Bunte Tiki-Bar-Grafik mit Bambusrahmen, Tiki-Figuren, Fackeln und Hibiskusblüten: Über einer Inselkarte steht LORNHOLM in geschnitzten Buchstaben, eine gestrichelte Route verbindet Fähre, Leuchtturm und Marktstand.",
+  "alt_en": "Colourful tiki bar graphic with a bamboo frame, tiki carvings, torches and hibiscus flowers: LORNHOLM in carved letters tops an island map, and a dashed route links a ferry, a lighthouse and a market stall."
+ },
+ "lexicon/trencadis-1": {
+  "key": "lexicon/trencadis-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Mosaik aus glasierten Fliesenscherben mit breiten weißen Fugen: Eine grauhaarige Frau im blauen Pullover steht mit Besen und Hund in der Tür eines gefliesten Leuchtturms, rechts liegt ein Mosaik-Ruderboot, im Himmel fliegen zwei Möwen.",
+  "alt_en": "Mosaic of glazed tile shards with wide white grout: a grey-haired woman in a blue sweater stands with a broom and a dog in the doorway of a tiled lighthouse, a mosaic rowing boat lies to the right and two gulls fly in the sky."
+ },
+ "lexicon/vitreous-enamel-sign-1": {
+  "key": "lexicon/vitreous-enamel-sign-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Vignette pictures look a bit like printed illustrations rather than flat enamel layers"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Altes Emailschild mit Rostrand, Abplatzern und Schraublöchern: Unter dem Titel LORNHOLM zeigt es eine Inselkarte, gestrichelte Linien führen zu drei runden Bildern von Fähre, Leuchtturm und Marktstand.",
+  "alt_en": "Old enamel sign with rusty edges, chips and screw holes: below the title LORNHOLM it shows an island map, with dashed lines leading to three round pictures of a ferry, a lighthouse and a market stall."
+ },
+ "lexicon/yonkoma-1": {
+  "key": "lexicon/yonkoma-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Backgrounds more detailed than typical yonkoma; panels wide due to square format"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Vierteiliger Manga-Streifen in Schwarz-Weiß mit Rasterton: Eine grauhaarige Frau im blauen Pullover steht mit Besen und Hund am Leuchtturm, fegt die Stufe, trinkt mit dem Hund Tee und sitzt nachts unter dem Leuchtfeuer am Meer.",
+  "alt_en": "Four-panel black-and-white manga strip with screentone: a grey-haired woman in a blue sweater stands with a broom and a dog at the lighthouse, sweeps the step, drinks tea beside the dog and sits by the sea at night under the beam."
+ },
+ "lexicon/alebrije-folk-sculpture-1": {
+  "key": "lexicon/alebrije-folk-sculpture-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Reads as a smooth digitally rendered painted diorama rather than a hand-carved object; sky and sea are painted dot patterns, not a displayed sculpture",
+   "Woman looks closer to 70-75"
+  ],
+  "note_de": "Wirkt eher wie ein glatt gerendertes, bunt bemaltes Diorama als wie eine handgeschnitzte Alebrije-Figur.",
+  "note_en": "Looks more like a smoothly rendered painted diorama than a hand-carved alebrije figure.",
+  "alt_de": "Bunt bepunktete Szene im Stil einer bemalten Holzfigur: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines gemusterten Leuchtturms, neben ihr sitzt ein schwarz-weißer Hund, rechts liegt ein bemaltes Ruderboot unter zwei gepunkteten Möwen.",
+  "alt_en": "Colourful dotted scene in the manner of a painted wood carving: a grey-haired woman in a blue sweater stands with a broom in the doorway of a patterned lighthouse, a black-and-white dog sits beside her, and a painted rowing boat lies below two dotted gulls."
+ },
+ "lexicon/art-nouveau-black-and-white-book-illustration-1": {
+  "key": "lexicon/art-nouveau-black-and-white-book-illustration-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Rock and boat rendered with fine engraving-like texture rather than flat black masses, but whiplash border and clouds read clearly as Art Nouveau"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Schwarz-weiße Jugendstil-Buchillustration mit geschwungenem Ornamentrahmen: Eine grauhaarige Frau im Strickpullover steht mit Besen in der Leuchtturmtür, neben ihr sitzt ein Hund, vorn liegt ein Ruderboot auf Felsen, zwei Möwen fliegen über das Meer.",
+  "alt_en": "Black-and-white Art Nouveau book illustration with a sinuous ornamental frame: a grey-haired woman in a knitted sweater stands with a broom in the lighthouse doorway, a dog sits beside her, a rowing boat lies on the rocks and two gulls fly over the sea."
+ },
+ "lexicon/black-page-photo-album-1": {
+  "key": "lexicon/black-page-photo-album-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "A single large print fills the page instead of several small deckle-edged prints; no handwritten captions, sparse album-page layout missing",
+   "Photo itself looks like a modern sepia-filtered image"
+  ],
+  "note_de": "Wirkt eher wie ein einzelnes, modern getöntes Foto als wie eine Albumseite mit mehreren kleinen Abzügen.",
+  "note_en": "Looks more like a single modern toned photo than an album page with several small prints.",
+  "alt_de": "Fotoalbumseite aus schwarzem Karton mit Fotoecken: Ein Schwarz-Weiß-Abzug mit Büttenrand zeigt eine grauhaarige Frau mit Besen in der Tür eines kleinen Leuchtturms, neben ihr einen Hund, rechts ein Ruderboot auf Felsen und zwei Möwen.",
+  "alt_en": "Black card photo-album page with photo corners: a deckle-edged black-and-white print shows a grey-haired woman with a broom in the doorway of a small lighthouse, a dog beside her, a rowing boat on the rocks and two gulls."
+ },
+ "lexicon/cardboard-model-1": {
+  "key": "lexicon/cardboard-model-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Woman, dog, sea and sky look photographic rather than built from cardboard; only rocks, boat and lighthouse show corrugation",
+   "Not a warm brown monochrome; no masking tape or pencil lines visible"
+  ],
+  "note_de": "Wirkt eher wie eine Fotomontage mit echten Figuren und echtem Meer als wie ein durchgehend gebautes Pappmodell.",
+  "note_en": "Looks more like a photo composite with real figures and real sea than a model built entirely from cardboard.",
+  "alt_de": "Modell aus Wellpappe im warmen Abendlicht: Vor einem Pappleuchtturm steht eine grauhaarige Frau im blauen Pullover mit Besen, neben ihr sitzt ein schwarz-weißer Hund, vorn liegt ein Pappruderboot auf kantigen Pappfelsen, zwei Möwen fliegen am Himmel.",
+  "alt_en": "Corrugated-cardboard model in warm evening light: a grey-haired woman in a blue sweater stands with a broom at a cardboard lighthouse, a black-and-white dog sits beside her, a cardboard rowing boat lies on angular cardboard rocks and two gulls fly overhead."
+ },
+ "lexicon/chinoiserie-1": {
+  "key": "lexicon/chinoiserie-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Handgemalte Chinoiserie-Tapete auf blassgrünem Grund mit Blütenzweigen, Vögeln und Pfingstrosen: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines weißen Leuchtturms, daneben ein Hund, unten ein Ruderboot und zwei Möwen über dem Meer.",
+  "alt_en": "Hand-painted chinoiserie wallpaper on a pale celadon ground with blossoming branches, birds and peonies: a grey-haired woman in a blue sweater stands with a broom in a white lighthouse doorway, a dog beside her, a rowing boat below and two gulls over the sea."
+ },
+ "lexicon/cordel-woodcut-1": {
+  "key": "lexicon/cordel-woodcut-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Figures are more naturalistic than typical naive cordel faces, no cacti; otherwise convincing relief print with gouged sun rays and thick border"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Schwarz-weißer Holzschnitt mit dickem Rahmen und gestochenen Sonnenstrahlen: Eine grauhaarige Frau im Strickpullover steht mit Besen in der Leuchtturmtür, neben ihr sitzt ein Hund, rechts liegt ein Ruderboot auf Felsen, zwei Möwen fliegen über das Meer.",
+  "alt_en": "Black-and-white woodcut with a thick border and gouged sun rays: a grey-haired woman in a knitted sweater stands with a broom in the lighthouse doorway, a dog sits beside her, a rowing boat lies on the rocks and two gulls fly over the sea."
+ },
+ "lexicon/dada-1": {
+  "key": "lexicon/dada-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Coherent photorealistic scene with a torn-paper backdrop; no absurd juxtapositions, no machine-part montage chaos beyond a single gear",
+   "Reads as a tidy modern collage, which the avoid explicitly rules out"
+  ],
+  "note_de": "Wirkt eher wie eine ordentliche moderne Fotocollage einer stimmigen Szene als wie eine chaotische Dada-Montage.",
+  "note_en": "Looks more like a tidy modern photo collage of a coherent scene than a chaotic Dada montage.",
+  "alt_de": "Collage aus gerissenen Papierstücken und Fotos: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines weißen Leuchtturms, neben ihr ein schwarz-weißer Hund, vorn liegt ein altes Ruderboot auf Felsen, zwei Möwen fliegen vor Papierfetzen-Himmel.",
+  "alt_en": "Collage of torn paper scraps and photographs: a grey-haired woman in a blue sweater stands with a broom in a white lighthouse doorway, a black-and-white dog beside her, an old rowing boat on the rocks in front and two gulls against a torn-paper sky."
+ },
+ "lexicon/dunhuang-cave-mural-1": {
+  "key": "lexicon/dunhuang-cave-mural-1",
+  "verdict": "flawed",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Woman looks about 75-80 with white hair rather than about 60",
+   "Paint texture reads partly like mosaic tesserae"
+  ],
+  "note_de": "Wirkt eher wie eine Frau um die 80 als wie eine etwa 60-Jährige.",
+  "note_en": "The woman looks closer to 80 than about 60.",
+  "alt_de": "Verwittertes Höhlenwandbild in Ocker, Malachitgrün und Lapisblau mit abgeplatztem Putz und Wolkenspiralen: Eine weißhaarige Frau im blauen Gewand steht mit Besen in der Leuchtturmtür, neben ihr ein Hund, links ein Ruderboot und zwei Möwen.",
+  "alt_en": "Weathered cave mural in ochre, malachite green and lapis blue with flaking plaster and scrolling clouds: a white-haired woman in a blue garment stands with a broom in the lighthouse doorway, a dog beside her, a rowing boat to the left and two gulls."
+ },
+ "lexicon/exotica-hi-fi-lp-cover-1": {
+  "key": "lexicon/exotica-hi-fi-lp-cover-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Abgenutztes Schallplattencover im Stil der 1950er mit Farbfoto: Eine lächelnde Frau mit Lockenfrisur zeigt auf ein Banner mit „LORNHOLM“ und drei runde Bilder mit „1 Ferry“, „2 Lighthouse“ und „3 Market“ vor einer blauen Schärenküste.",
+  "alt_en": "Worn 1950s-style LP cover with a colour photograph: a smiling woman with curled hair gestures towards a 'LORNHOLM' banner and three round pictures labelled '1 Ferry', '2 Lighthouse' and '3 Market' against a blue island coast."
+ },
+ "lexicon/folk-horror-1": {
+  "key": "lexicon/folk-horror-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "No villagers, ritual, standing stones, flower crowns or straw masks; only the faded film colour remains",
+   "Reads as a pleasant 1970s-style coastal film still with no menace"
+  ],
+  "note_de": "Wirkt eher wie ein freundliches Küstenfoto mit 70er-Jahre-Farben als wie ein unheimliches Folk-Horror-Standbild.",
+  "note_en": "Looks more like a pleasant coastal photo with 1970s colours than an unsettling folk-horror film still.",
+  "alt_de": "Verblasstes Filmstandbild in hellem Tageslicht: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines weißen Leuchtturms, neben ihr sitzt ein schwarz-weißer Hund, vorn liegt ein altes Ruderboot auf Felsen, zwei Möwen fliegen über das glitzernde Meer.",
+  "alt_en": "Faded film still in bright daylight: a grey-haired woman in a blue sweater stands with a broom in a white lighthouse doorway, a black-and-white dog sits beside her, an old rowing boat lies on the rocks and two gulls fly over the glittering sea."
+ },
+ "lexicon/ghost-sign-1": {
+  "key": "lexicon/ghost-sign-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Sign is fully legible and vividly coloured, more a tidy retro mural than a partly lost ghost sign; no older text layers bleeding through"
+  ],
+  "note_de": "Wirkt eher wie ein gealtert gestaltetes Retro-Wandbild als wie eine halb verschwundene Geisterreklame.",
+  "note_en": "Looks more like a distressed retro mural than a half-vanished ghost sign.",
+  "alt_de": "Verwitterte, auf Backstein gemalte Wandreklame: Groß steht „LORNHOLM“ oben, darunter „1 Ferry“, „2 Lighthouse“ und „3 Market“ neben gemalten Bildern einer Fähre, eines Leuchtturms und eines Marktstands mit gestreifter Markise.",
+  "alt_en": "Weathered painted advertisement on a brick wall: 'LORNHOLM' in large letters at the top, with '1 Ferry', '2 Lighthouse' and '3 Market' beside painted pictures of a ferry, a lighthouse and a market stall with a striped awning."
+ },
+ "lexicon/haitian-naive-painting-1": {
+  "key": "lexicon/haitian-naive-painting-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Brushwork leans impressionist and perspective is fairly naturalistic, but dense tropical foliage and saturated colour read as Haitian naive"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Farbenprächtiges naives Gemälde voller Palmen, Hibiskus und Hügel mit Häusern: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines weißen Leuchtturms, neben ihr ein schwarz-weißer Hund, vorn ein rot-weiß-blaues Ruderboot und zwei Möwen am Himmel.",
+  "alt_en": "Vividly coloured naive painting full of palms, hibiscus and hills dotted with houses: a grey-haired woman in a blue sweater stands with a broom in a white lighthouse doorway, a black-and-white dog beside her, a red, white and blue rowing boat in front and two gulls in the sky."
+ },
+ "lexicon/indie-sleaze-1": {
+  "key": "lexicon/indie-sleaze-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Background is a dusky sunset rather than pitch black, but harsh on-camera flash, tilt and glowing dog eyes read as a flash snapshot"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Schiefer Schnappschuss mit hartem Direktblitz in der Dämmerung: Eine grauhaarige Frau im blauen Norwegerpullover steht mit Besen in der Leuchtturmtür, vor ihr ein schwarz-weißer Hund mit leuchtenden Augen, links ein Ruderboot auf Felsen und zwei Möwen.",
+  "alt_en": "Tilted snapshot with harsh direct flash at dusk: a grey-haired woman in a blue Nordic sweater stands with a broom in the lighthouse doorway, a black-and-white dog with glowing eyes in front of her, a rowing boat on the rocks and two gulls to the left."
+ },
+ "lexicon/lace-paper-valentine-1": {
+  "key": "lexicon/lace-paper-valentine-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Viktorianische Spitzenpapierkarte mit Goldrand, blauer Seidenschleife und Stoffblumen: Im herzförmigen Ausschnitt steht eine grauhaarige Frau im blauen Pullover mit Besen in der Leuchtturmtür, neben ihr ein Hund, darunter ein Ruderboot und zwei Möwen.",
+  "alt_en": "Victorian lace-paper card with gilt edges, a blue silk ribbon and fabric flowers: in the heart-shaped opening a grey-haired woman in a blue sweater stands with a broom in a lighthouse doorway, a dog beside her, a rowing boat and two gulls."
+ },
+ "lexicon/magic-realism-1": {
+  "key": "lexicon/magic-realism-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Rocks and water carry photographic texture; reads close to a photoreal digital painting rather than smooth enamel-like paint",
+   "Uncanny displacement is barely present"
+  ],
+  "note_de": "Wirkt eher wie fotorealistische Digitalmalerei als wie ein glatt gemaltes, still-unheimliches Bild des Magischen Realismus.",
+  "note_en": "Looks more like photoreal digital painting than a smooth, quietly uncanny Magic Realist painting.",
+  "alt_de": "Kühles, gestochen scharfes Gemälde in stillem Abendlicht: Eine grauhaarige Frau im blauen Rollkragenpullover steht mit Besen in der Tür eines weißen Leuchtturms, neben ihr ein schwarz-weißer Hund, rechts ein Ruderboot auf Felsen und zwei Möwen über ruhigem Meer.",
+  "alt_en": "Cool, razor-sharp painting in still evening light: a grey-haired woman in a blue turtleneck stands with a broom in a white lighthouse doorway, a black-and-white dog beside her, a rowing boat on the rocks and two gulls over a calm sea."
+ },
+ "lexicon/metaphysical-painting-1": {
+  "key": "lexicon/metaphysical-painting-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "No arcades or mannequins, but green twilight sky, long raking shadows and flat silent geometry read as metaphysical painting"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Stilles, flächig gemaltes Bild unter tiefgrünem Dämmerhimmel mit langen Schatten: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines kantigen Leuchtturms, neben ihr sitzt ein Hund, vorn liegt ein Ruderboot, zwei Möwen fliegen über das Meer.",
+  "alt_en": "Silent, flatly painted scene under a deep green twilight sky with long shadows: a grey-haired woman in a blue sweater stands with a broom in the doorway of an angular lighthouse, a dog sits beside her, a rowing boat lies in front and two gulls fly over the sea."
+ },
+ "lexicon/mugshot-1": {
+  "key": "lexicon/mugshot-1",
+  "verdict": "fail",
+  "style_score": 1,
+  "motif_missing": [],
+  "problems": [
+   "No height-chart wall, no front/side views, no institutional flash; it is a generic atmospheric outdoor portrait photo"
+  ],
+  "note_de": "Wirkt eher wie ein gewöhnliches stimmungsvolles Porträtfoto als wie ein Polizeifoto.",
+  "note_en": "Looks more like an ordinary atmospheric portrait photo than a police booking photograph.",
+  "alt_de": "Stimmungsvolles Farbfoto in der Abenddämmerung: Eine grauhaarige Frau im blauen Pullover hält in der Tür eines verwitterten Leuchtturms eine brennende Laterne hoch, vor ihr sitzt ein nasser schwarz-weißer Hund, rechts liegt ein Ruderboot auf Felsen, zwei Möwen fliegen.",
+  "alt_en": "Atmospheric colour photo at dusk: a grey-haired woman in a blue sweater holds up a lit lantern in the doorway of a weathered lighthouse, a wet black-and-white dog sits in front of her, a rowing boat lies on the rocks and two gulls fly."
+ },
+ "lexicon/new-topographics-1": {
+  "key": "lexicon/new-topographics-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "No tract housing, lots, fences or industrial sheds; a picturesque untouched coastline, which the avoid rules out",
+   "Reads as a generic overcast landscape photo"
+  ],
+  "note_de": "Wirkt eher wie ein malerisches Küstenfoto als wie eine nüchterne Aufnahme einer vom Menschen geprägten Landschaft.",
+  "note_en": "Looks more like a picturesque coastal photo than a detached view of a human-altered landscape.",
+  "alt_de": "Nüchternes Farbfoto unter grauem Himmel: Eine grauhaarige Frau im blauen Pullover hält in der Tür eines kleinen weißen Leuchtturms eine Laterne hoch, neben ihr sitzt ein Hund, links liegt ein verwittertes Ruderboot auf Felsen, zwei Möwen fliegen über Schären.",
+  "alt_en": "Plain colour photo under a grey sky: a grey-haired woman in a blue sweater holds up a lantern in the doorway of a small white lighthouse, a dog sits beside her, a weathered rowing boat lies on the rocks and two gulls fly over skerries."
+ },
+ "lexicon/paparazzi-flash-photography-1": {
+  "key": "lexicon/paparazzi-flash-photography-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "No other flashes visible in frame, but blasting flash, startled mid-step pose and near-black night read as paparazzi"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Nächtliches Blitzlichtfoto mit überstrahltem Vordergrund: Eine grauhaarige Frau im blauen Norwegerpullover tritt erschrocken aus der Leuchtturmtür und hält eine Laterne hoch, neben ihr ein nasser Hund, rechts ein Ruderboot, zwei Möwen vor schwarzem Himmel.",
+  "alt_en": "Night-time flash photo with an overexposed foreground: a grey-haired woman in a blue Nordic sweater steps startled out of the lighthouse door holding up a lantern, a wet dog beside her, a rowing boat to the right and two gulls against a black sky."
+ },
+ "lexicon/phonk-cover-art-1": {
+  "key": "lexicon/phonk-cover-art-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Reads as a dark gothic black-and-white photo; no headlight glare, smoke, VHS noise or photocopy texture beyond scratched edges"
+  ],
+  "note_de": "Wirkt eher wie ein düsteres Schwarz-Weiß-Stimmungsfoto als wie rohes Phonk-Cover-Artwork.",
+  "note_en": "Looks more like a moody black-and-white photo than rough phonk cover art.",
+  "alt_de": "Körniges, düsteres Schwarz-Weiß-Foto mit zerkratztem Rand: Eine grauhaarige Frau im Strickpullover steht mit Besen in der Tür eines Leuchtturms, dessen Strahl die Nacht durchschneidet, neben ihr ein Hund, rechts ein Ruderboot in der Brandung und zwei Möwen.",
+  "alt_en": "Grainy, dark black-and-white photo with scratched edges: a grey-haired woman in a knitted sweater stands with a broom in the doorway of a lighthouse whose beam cuts through the night, a dog beside her, a rowing boat in the surf and two gulls."
+ },
+ "lexicon/portrait-miniature-1": {
+  "key": "lexicon/portrait-miniature-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Reads as an impressionist landscape painting in a round gold frame; no oval locket proportions, little stippled miniature technique or jewel-like smallness"
+  ],
+  "note_de": "Wirkt eher wie ein impressionistisches Landschaftsbild im Goldrahmen als wie eine winzige Porträtminiatur.",
+  "note_en": "Looks more like an impressionist landscape in a gold frame than a tiny portrait miniature.",
+  "alt_de": "Gemälde in rundem, perlbesetztem Goldrahmen vor schwarzem Grund mit leuchtend ultramarinblauem Himmel: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr ein Hund, rechts ein Ruderboot und zwei Möwen.",
+  "alt_en": "Painting in a round beaded gold frame on a black ground with a vivid ultramarine sky: a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway, a dog beside her, a rowing boat to the right and two gulls."
+ },
+ "lexicon/punch-needle-tufted-rug-1": {
+  "key": "lexicon/punch-needle-tufted-rug-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Far too much fine detail and shading (sunset gradients, facial features, waves) for a tufted rug; reads like yarn embroidery or a yarn render"
+  ],
+  "note_de": "Wirkt eher wie eine detailreiche Garnstickerei als wie ein grob getufteter Teppich.",
+  "note_en": "Looks more like detailed yarn embroidery than a chunky tufted rug.",
+  "alt_de": "Flauschiger Teppich aus bunter Wolle in unregelmäßiger Form: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines weißen Leuchtturms mit rotem Dach, neben ihr ein schwarz-weißer Hund, rechts ein Ruderboot und zwei Möwen im Sonnenuntergang.",
+  "alt_en": "Fluffy rug of colourful wool in an irregular shape: a grey-haired woman in a blue sweater stands with a broom in a white lighthouse with a red top, a black-and-white dog beside her, a rowing boat to the right and two gulls at sunset."
+ },
+ "lexicon/renaissance-codex-study-sheet-1": {
+  "key": "lexicon/renaissance-codex-study-sheet-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Reads as a fantasy treasure-map parchment with compass rose and island map, which the avoid explicitly rules out",
+   "No scattered mechanism studies or proportion studies; little Renaissance notebook character"
+  ],
+  "note_de": "Wirkt eher wie eine Fantasy-Schatzkarte auf Pergament als wie ein Studienblatt aus einem Renaissance-Notizbuch.",
+  "note_en": "Looks more like a fantasy treasure map on parchment than a Renaissance notebook study sheet.",
+  "alt_de": "Fleckiges, gefaltetes Papier mit brauner Tinte und Rötel: Unter dem Titel „LORNHOLM“ ist eine Insel gezeichnet, verbunden mit drei Skizzen „1 Ferry“ (Fähre), „2 Lighthouse“ (Leuchtturm) und „3 Market“ (Marktstand mit gestreifter Markise), links unten eine Windrose.",
+  "alt_en": "Stained, folded paper in brown ink and red chalk: below the title 'LORNHOLM' an island is drawn, linked to three sketches labelled '1 Ferry', '2 Lighthouse' and '3 Market' (a stall with a striped awning), with a compass rose at lower left."
+ },
+ "lexicon/screenprinted-gig-poster-1": {
+  "key": "lexicon/screenprinted-gig-poster-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Reads somewhat like a retro travel print and lacks a split-fountain fade, but halftones, misregistration and kraft paper are clear"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Siebdruckplakat mit grobem Raster und leicht versetzten Farben auf Packpapier: Unter dem großen Titel „LORNHOLM“ verbinden sich über einer Inselküste drei runde Bilder mit „1 Ferry“, „2 Lighthouse“ und „3 Market“.",
+  "alt_en": "Screenprinted poster with coarse halftones and slightly offset colours on kraft paper: below the large title 'LORNHOLM', three round pictures labelled '1 Ferry', '2 Lighthouse' and '3 Market' are linked across an island coast."
+ },
+ "lexicon/socialist-modernist-mosaic-1": {
+  "key": "lexicon/socialist-modernist-mosaic-1",
+  "verdict": "flawed",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [
+   "Small illegible pseudo-signature of dark tesserae in the bottom-right corner"
+  ],
+  "note_de": "Wirkt bis auf ein kleines, unleserliches Signaturkürzel unten rechts wie ein echtes Fassadenmosaik.",
+  "note_en": "Apart from a small illegible pseudo-signature at bottom right, it reads as a genuine facade mosaic.",
+  "alt_de": "Verwittertes Wandmosaik aus kantigen Steinchen in Ziegelrot, Kobaltblau, Ocker und Gold: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr ein Hund, rechts ein Ruderboot, am Himmel zwei Möwen und eine stilisierte Sonne mit Umlaufbahnen.",
+  "alt_en": "Weathered wall mosaic of angular tesserae in brick red, cobalt, ochre and gold: a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway, a dog beside her, a rowing boat to the right, and two gulls and a stylised sun with orbits in the sky."
+ },
+ "lexicon/sticky-note-affinity-wall-1": {
+  "key": "lexicon/sticky-note-affinity-wall-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Only four notes on a taped paper sheet, no dot-vote stickers; still clearly a handwritten sticky-note workshop wall"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Foto eines Papierbogens an einer Glaswand mit bunten Haftnotizen: Auf einem gelben Zettel steht „LORNHOLM“, darunter Zettel mit „1 Ferry“, „2 Lighthouse“ und „3 Market“ samt gezeichneter Fähre, Leuchtturm und Marktstand, mit Kreisen und Pfeilen verbunden.",
+  "alt_en": "Photo of a paper sheet on a glass wall with coloured sticky notes: a yellow note reads 'LORNHOLM', and notes below read '1 Ferry', '2 Lighthouse' and '3 Market' with drawings of a ferry, a lighthouse and a market stall, linked by circles and arrows."
+ },
+ "lexicon/tingatinga-painting-1": {
+  "key": "lexicon/tingatinga-painting-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Glänzendes Tingatinga-Gemälde in flachen Farben mit schwarzen Umrissen und Punktmustern vor orangem Himmel: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr ein schwarz-weißer Hund, rechts ein Ruderboot und zwei gepunktete Möwen.",
+  "alt_en": "Glossy Tingatinga painting in flat colours with black outlines and dotted patterns against an orange sky: a grey-haired woman in a blue sweater stands with a broom in the lighthouse doorway, a black-and-white dog beside her, a rowing boat and two dotted gulls."
+ },
+ "lexicon/trompe-l-oeil-quodlibet-1": {
+  "key": "lexicon/trompe-l-oeil-quodlibet-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Central pinned picture has deep landscape perspective, but straps, nails, curling cards and cast shadows sell the quodlibet illusion"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Trompe-l'œil-Gemälde eines Holzbretts mit Lederriemen, Nägeln, Feder, Muschel und eingesteckten Karten: Auf dem größten Blatt steht eine grauhaarige Frau im blauen Pullover mit Besen in der Leuchtturmtür, neben ihr ein Hund, rechts ein Ruderboot und zwei Möwen.",
+  "alt_en": "Trompe-l'oeil painting of a wooden board with leather straps, nails, a feather, a shell and tucked-in cards: on the largest sheet a grey-haired woman in a blue sweater stands with a broom in a lighthouse doorway, a dog beside her, a rowing boat and two gulls."
+ },
+ "lexicon/weirdcore-1": {
+  "key": "lexicon/weirdcore-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Pasted eyes and red face-sun fit, but the base is a clean high-quality photo with no low-quality amateur look, compression artefacts or crude paint edits"
+  ],
+  "note_de": "Wirkt eher wie eine saubere surreale Fotomontage als wie ein billig-verstörendes Weirdcore-Bild.",
+  "note_en": "Looks more like a clean surreal photo composite than a cheap, unsettling weirdcore image.",
+  "alt_de": "Fotomontage mit aufgeklebten Augen am Himmel und einer roten Sonne mit Gesicht: Eine grauhaarige Frau im blauen Norwegerpullover steht mit Besen in der Tür eines verwitterten Leuchtturms, neben ihr ein schwarz-weißer Hund, rechts ein altes Ruderboot und zwei Möwen.",
+  "alt_en": "Photo montage with pasted eyes in the sky and a red sun with a face: a grey-haired woman in a blue Nordic sweater stands with a broom in a weathered lighthouse doorway, a black-and-white dog beside her, an old rowing boat and two gulls."
+ },
+ "lexicon/zenga-1": {
+  "key": "lexicon/zenga-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Detailed ink-and-wash illustration with coloured accents; no abbreviated humorous strokes, calligraphic inscription, seal stamps or hanging-scroll format"
+  ],
+  "note_de": "Wirkt eher wie eine detaillierte Tusche-Aquarell-Illustration als wie ein spontanes Zenga-Bild.",
+  "note_en": "Looks more like a detailed ink-and-watercolour illustration than a spontaneous zenga painting.",
+  "alt_de": "Tuschezeichnung mit grauen Lavierungen und wenigen Farbtupfern: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Tür eines Leuchtturms, neben ihr sitzt ein Hund, links liegt ein Ruderboot auf Felsen, zwei Möwen fliegen über das Meer.",
+  "alt_en": "Ink drawing with grey washes and a few touches of colour: a grey-haired woman in a blue sweater stands with a broom in a lighthouse doorway, a dog sits beside her, a rowing boat lies on the rocks and two gulls fly over the sea."
+ },
+ "lexicon/alpine-bauernmalerei-1": {
+  "key": "lexicon/alpine-bauernmalerei-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "only the frame is Bauernmalerei; central scene is an impressionist oil landscape, not one-stroke folk painting"
+  ],
+  "note_de": "Wirkt eher wie ein impressionistisches Ölbild in einem bemalten Rahmen als wie durchgehende Bauernmalerei.",
+  "note_en": "Reads more like an impressionist oil painting inside a painted frame than like Bauernmalerei throughout.",
+  "alt_de": "Bemalte Bauerntruhe mit Tulpen-, Nelken- und Herzornamenten auf Blaugrün: Im Mittelfeld steht eine grauhaarige Frau im blauen Pullover mit Besen in der Tür eines weißen Leuchtturms, neben ihr ein schwarz-weißer Hund, vorn ein Ruderboot.",
+  "alt_en": "Painted farmhouse chest panel with tulip, carnation and heart ornaments on blue-green: in the centre a grey-haired woman in a blue sweater holds a broom in the door of a white lighthouse, a black-and-white dog beside her and a rowing boat in front."
+ },
+ "lexicon/arts-and-crafts-block-printed-wallpaper-1": {
+  "key": "lexicon/arts-and-crafts-block-printed-wallpaper-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "no seamless repeat; reads as a framed scene illustration with Morris-style foliage border"
+  ],
+  "note_de": "Wirkt eher wie eine Buchillustration mit Rankenrahmen als wie eine Tapete mit Rapport.",
+  "note_en": "Reads more like a book illustration with a foliage frame than like a repeating wallpaper.",
+  "alt_de": "Handdruck im Stil einer Arts-and-Crafts-Tapete mit Akanthusranken in Indigo, Krapprot und Oliv: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr ein Hund, rechts ein Ruderboot und zwei Möwen.",
+  "alt_en": "Block-printed Arts and Crafts wallpaper look with acanthus scrolls in indigo, madder and olive: a grey-haired woman in a blue sweater stands with a broom in the lighthouse door, a dog beside her, a rowing boat and two gulls to the right."
+ },
+ "lexicon/blackwork-tattoo-1": {
+  "key": "lexicon/blackwork-tattoo-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Blackwork-Tattoo-Motiv in reinem Schwarz: Eine Frau im Strickpullover lehnt mit Besen in der Tür eines Leuchtturmanbaus, neben ihr sitzt ein Hund, unten ein Ruderboot auf Felsen und zwei Möwen am Himmel.",
+  "alt_en": "Blackwork tattoo design in solid black: a woman in a knitted sweater leans on a broom in the doorway of a lighthouse annex, a dog sits beside her, a rowing boat lies on the rocks and two gulls fly overhead."
+ },
+ "lexicon/cartoon-modern-limited-animation-1": {
+  "key": "lexicon/cartoon-modern-limited-animation-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "figures rounded and softly modelled, not angular geometric; no offset colour fields; reads as modern retro editorial illustration"
+  ],
+  "note_de": "Wirkt eher wie eine moderne Retro-Illustration als wie ein kantiges Cartoon-Modern-Standbild der 1950er.",
+  "note_en": "Reads more like a modern retro illustration than like an angular 1950s cartoon-modern frame.",
+  "alt_de": "Flache Retro-Illustration in Senf, Koralle und Petrol mit Schwammtexturen: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der roten Leuchtturmtür, daneben ein Hund, vorn ein Ruderboot, Möwen vor dem Sonnenuntergang.",
+  "alt_en": "Flat retro illustration in mustard, coral and teal with sponge textures: a grey-haired woman in a blue sweater stands with a broom in the red lighthouse door, a dog beside her, a rowing boat in front and gulls against the sunset."
+ },
+ "lexicon/cinema-novo-1": {
+  "key": "lexicon/cinema-novo-1",
+  "verdict": "flawed",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "woman reads closer to 70-75 than 60",
+   "fairly crisp modern B&W photo look, glare less burned-out than marker"
+  ],
+  "note_de": "Die Frau wirkt eher wie Mitte 70 als wie etwa 60.",
+  "note_en": "The woman looks closer to her mid-seventies than about 60.",
+  "alt_de": "Grelles, körniges Schwarzweißbild in harter Sonne: Eine grauhaarige Frau im dunklen Pullover hält in der Tür eines weißen Leuchtturms einen Besen, vor ihr sitzt ein Hund, rechts liegt ein Ruderboot auf den Felsen.",
+  "alt_en": "Harsh, grainy black-and-white still in blinding sun: a grey-haired woman in a dark sweater holds a broom in the door of a white lighthouse, a dog sits in front of her and a rowing boat lies on the rocks."
+ },
+ "lexicon/corkboard-string-diagram-1": {
+  "key": "lexicon/corkboard-string-diagram-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Ermittlungs-Pinnwand aus Kork im warmen Lampenlicht: Ein Blatt mit dem Titel LORNHOLM zeigt nummeriert Fähre, Leuchtturm und Marktstand, verbunden durch roten Faden zwischen Messingnadeln, ringsum Fotos und Karten.",
+  "alt_en": "Investigation corkboard in warm lamp light: a sheet titled LORNHOLM lists a numbered ferry, lighthouse and market stall linked by red string between brass pins, surrounded by photos and maps."
+ },
+ "lexicon/data-physicalization-1": {
+  "key": "lexicon/data-physicalization-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "no data encoded; reads as a craft diorama rather than a data sculpture",
+   "somewhat CG-clean"
+  ],
+  "note_de": "Wirkt eher wie ein Bastel-Diorama als wie eine physische Datenskulptur.",
+  "note_en": "Reads more like a craft diorama than like a physical data sculpture.",
+  "alt_de": "Foto eines gebastelten Infoblatts auf einem Holztisch: Unter einem Holzschild LORNHOLM stehen nummerierte Papieretiketten mit kleinen Modellen von Fähre, rot-weißem Leuchtturm und Marktstand, verbunden durch eine Kordel mit Holzperlen.",
+  "alt_en": "Photo of a handmade info sheet on a wooden table: below a wooden LORNHOLM sign, numbered paper tags sit next to small models of a ferry, a red-and-white lighthouse and a market stall, linked by a cord with wooden beads."
+ },
+ "lexicon/early-colour-television-1": {
+  "key": "lexicon/early-colour-television-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "reads as a sharp modern sunset photo with CRT frame overlay",
+   "no soft low-res video detail or comet tails"
+  ],
+  "note_de": "Wirkt eher wie ein scharfes modernes Sonnenuntergangsfoto mit Röhrenrahmen als wie frühes Farbfernsehen.",
+  "note_en": "Reads more like a sharp modern sunset photo with a CRT frame than like early colour television.",
+  "alt_de": "Übersättigtes Fernsehbild mit gerundeten Röhrenecken: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der roten Tür eines Leuchtturms, davor sitzt ein Hund, links liegt ein Ruderboot im orangeroten Abendlicht.",
+  "alt_en": "Oversaturated TV image with rounded CRT corners: a grey-haired woman in a blue sweater stands with a broom in the red door of a lighthouse, a dog sits in front, a rowing boat lies to the left in orange-red evening light."
+ },
+ "lexicon/expressionist-woodcut-1": {
+  "key": "lexicon/expressionist-woodcut-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Expressionistischer Holzschnitt in Schwarz mit Rostrot auf gelblichem Papier: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr ein Hund, rechts ein Ruderboot und zwei Möwen über der See.",
+  "alt_en": "Expressionist woodcut in black with rust red on yellowish paper: a grey-haired woman in a blue sweater stands with a broom in the lighthouse door, a dog beside her, a rowing boat and two gulls over the sea."
+ },
+ "lexicon/fractal-terrain-landscape-render-1": {
+  "key": "lexicon/fractal-terrain-landscape-render-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "reads as a modern photoreal HDR image; foreground rocks and figures photographic",
+   "no floating metallic spheres, little procedural kitsch"
+  ],
+  "note_de": "Wirkt eher wie ein modernes HDR-Foto als wie ein Fraktal-Landschaftsrender der 1990er.",
+  "note_en": "Reads more like a modern HDR photo than like a 1990s fractal landscape render.",
+  "alt_de": "Hochglänzende Landschaftsszene mit spiegelglattem Meer und zackigen Bergen im violetten Sonnenuntergang: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr ein Hund, vorn ein Ruderboot.",
+  "alt_en": "Glossy landscape scene with a mirror-flat sea and jagged mountains in a purple sunset: a grey-haired woman in a blue sweater stands with a broom in the lighthouse door, a dog beside her, a rowing boat in front."
+ },
+ "lexicon/glitch-art-1": {
+  "key": "lexicon/glitch-art-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Glitch-Bild mit verschobenen RGB-Kanälen und Pixelblöcken: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr ein Hund, rechts ein Ruderboot, darüber zwei Möwen im Abendhimmel.",
+  "alt_en": "Glitch image with split RGB channels and corrupted pixel blocks: a grey-haired woman in a blue sweater stands with a broom in the lighthouse door, a dog beside her, a rowing boat and two gulls in the evening sky."
+ },
+ "lexicon/hand-embroidery-1": {
+  "key": "lexicon/hand-embroidery-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Handstickerei auf Leinen im Holzstickrahmen: Eine grauhaarige Frau im blauen Zopfpullover steht mit Besen in der Tür eines weißen Leuchtturms, neben ihr ein Hund, links ein Ruderboot und zwei Möwen über dem Meer.",
+  "alt_en": "Hand embroidery on linen in a wooden hoop: a grey-haired woman in a blue cable sweater stands with a broom in the door of a white lighthouse, a dog beside her, a rowing boat and two gulls over the sea."
+ },
+ "lexicon/ink-wash-animation-1": {
+  "key": "lexicon/ink-wash-animation-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "reads as a watercolour-filtered photo: hard outlines, filled detailed background, no vast empty space",
+   "no red seal; not animation-like"
+  ],
+  "note_de": "Wirkt eher wie ein aquarellgefiltertes Foto als wie eine Tuschanimation.",
+  "note_en": "Reads more like a watercolour-filtered photo than like ink-wash animation.",
+  "alt_de": "Aquarellartiges Bild in Grau mit zartem Pfirsichton: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr ein Hund, links ein Ruderboot auf Felsen, Nebel über der See.",
+  "alt_en": "Watercolour-like image in greys with a soft peach tone: a grey-haired woman in a blue sweater stands with a broom in the lighthouse door, a dog beside her, a rowing boat on the rocks and mist over the sea."
+ },
+ "lexicon/laser-cut-plywood-1": {
+  "key": "lexicon/laser-cut-plywood-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "woman and dog look like sculpted figurines, not laser-cut plywood",
+   "distant sea and islands look photographic"
+  ],
+  "note_de": "Wirkt eher wie ein Modellbau-Diorama mit Figuren als wie durchgehend lasergeschnittenes Sperrholz.",
+  "note_en": "Reads more like a model diorama with figurines than like laser-cut plywood throughout.",
+  "alt_de": "Modell aus geschichtetem Birkensperrholz mit dunklen Brandkanten: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, daneben ein Hund, links ein Holz-Ruderboot und zwei Möwen.",
+  "alt_en": "Model of layered birch plywood with dark scorched edges: a grey-haired woman in a blue sweater stands with a broom in the lighthouse door, a dog beside her, a wooden rowing boat and two gulls to the left."
+ },
+ "lexicon/mail-order-catalogue-photography-1": {
+  "key": "lexicon/mail-order-catalogue-photography-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "outdoor golden-hour photo, no studio flash or paper backdrop, no catalogue staging",
+   "reads as a generic modern photo with slight print texture"
+  ],
+  "note_de": "Wirkt eher wie ein modernes Außenfoto im Abendlicht als wie ein Versandhauskatalog-Bild.",
+  "note_en": "Reads more like a modern outdoor golden-hour photo than like a mail-order catalogue shot.",
+  "alt_de": "Warmes Foto mit leichtem Druckraster: Eine grauhaarige Frau im blauen Pullover hält in der Tür eines weißen Leuchtturms eine brennende Laterne hoch, neben ihr sitzt ein Hund, links liegt ein Ruderboot auf den Felsen.",
+  "alt_en": "Warm photo with a slight print screen: a grey-haired woman in a blue sweater holds up a lit lantern in the door of a white lighthouse, a dog sits beside her and a rowing boat lies on the rocks."
+ },
+ "lexicon/mid-century-animation-concept-art-1": {
+  "key": "lexicon/mid-century-animation-concept-art-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "palette fits but forms are naturalistic and detailed, not naive flat shapes; no decorative pattern areas"
+  ],
+  "note_de": "Wirkt eher wie ein naturalistisches Gouachebild in Pink und Türkis als wie naive 1950er-Konzeptkunst.",
+  "note_en": "Reads more like a naturalistic gouache in pink and turquoise than like naive 1950s concept art.",
+  "alt_de": "Gouachebild in Pink, Türkis und Limette: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr ein Hund, vorn ein Ruderboot auf Felsen, zwei Möwen vor pinkem Himmel.",
+  "alt_en": "Gouache painting in pink, turquoise and lime: a grey-haired woman in a blue sweater stands with a broom in the lighthouse door, a dog beside her, a rowing boat on the rocks and two gulls against a pink sky."
+ },
+ "lexicon/multi-camera-sitcom-2": {
+  "key": "lexicon/multi-camera-sitcom-2",
+  "verdict": "fail",
+  "style_score": 1,
+  "motif_missing": [],
+  "problems": [
+   "generic modern outdoor photo; no three-walled studio set, no high-key studio light, no wide master shot"
+  ],
+  "note_de": "Wirkt eher wie ein modernes Urlaubsfoto als wie ein Sitcom-Studiobild.",
+  "note_en": "Reads more like a modern holiday photo than like a studio sitcom frame.",
+  "alt_de": "Helles, scharfes Foto unter blauem Himmel: Eine grauhaarige Frau im blauen Pullover steht mit Besen vor der roten Tür eines weißen Leuchtturms, neben ihr ein Hund, links ein Ruderboot und zwei Möwen.",
+  "alt_en": "Bright, sharp photo under a blue sky: a grey-haired woman in a blue sweater stands with a broom at the red door of a white lighthouse, a dog beside her, a rowing boat and two gulls to the left."
+ },
+ "lexicon/night-vision-1": {
+  "key": "lexicon/night-vision-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Grünes, verrauschtes Nachtsichtbild im runden Okular: Eine grauhaarige Frau hält in der Leuchtturmtür eine Laterne hoch, neben ihr sitzt ein Hund mit leuchtenden Augen, links ein Ruderboot unter dem Mond.",
+  "alt_en": "Green, noisy night-vision view in a round eyepiece: a grey-haired woman holds up a lantern in the lighthouse door, a dog with glowing eyes sits beside her and a rowing boat lies under the moon."
+ },
+ "lexicon/papel-picado-1": {
+  "key": "lexicon/papel-picado-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "single large sheet with printed-looking colour areas (yellow sky, sun) rather than one-colour chisel-cut silhouettes",
+   "reads partly like a screenprint on tissue"
+  ],
+  "note_de": "Wirkt eher wie ein bedrucktes Seidenpapierbanner als wie ausgestanzter Papel picado.",
+  "note_en": "Reads more like a printed tissue banner than like chisel-cut papel picado.",
+  "alt_de": "Türkisfarbenes Seidenpapierbanner mit Lochmusterrand im Gegenlicht: Ausgeschnitten steht eine Frau mit Besen in der Leuchtturmtür, neben ihr ein Hund, links ein Ruderboot und zwei Möwen, an den Seiten pinke und orange Fahnen.",
+  "alt_en": "Turquoise tissue-paper banner with a lacy cut border, backlit: cut out is a woman with a broom in the lighthouse door, a dog beside her, a rowing boat and two gulls, with pink and orange flags at the sides."
+ },
+ "lexicon/photo-comic-1": {
+  "key": "lexicon/photo-comic-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "polished cinematic photo grid; no speech balloons or caption boxes, no flash or halftone print",
+   "does not read as a fotoromanzo"
+  ],
+  "note_de": "Wirkt eher wie eine Collage hochwertiger Fotos als wie ein Fotoroman.",
+  "note_en": "Reads more like a grid of polished photos than like a photo comic.",
+  "alt_de": "Raster aus acht Fotos im Abendlicht: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, fegt, blickt aufs Meer, dazwischen Nahaufnahmen ihres Hundes, ein Ruderboot und zwei Möwen.",
+  "alt_en": "Grid of eight photos in evening light: a grey-haired woman in a blue sweater stands with a broom in the lighthouse door, sweeps and looks out to sea, with close-ups of her dog, a rowing boat and two gulls."
+ },
+ "lexicon/post-digital-architectural-collage-1": {
+  "key": "lexicon/post-digital-architectural-collage-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "only the sky is flat pastel; lighthouse and rocks are realistically shaded, not orthographic",
+   "figures not visibly cut-out"
+  ],
+  "note_de": "Wirkt eher wie ein realistisches Bild mit Papierhimmel als wie eine flache postdigitale Collage.",
+  "note_en": "Reads more like a realistic image with a paper sky than like a flat post-digital collage.",
+  "alt_de": "Collage mit flachem Pastellhimmel und Papiertexturen: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür, neben ihr ein Hund, rechts ein Ruderboot auf Felsen und zwei Möwen.",
+  "alt_en": "Collage with a flat pastel sky and paper textures: a grey-haired woman in a blue sweater stands with a broom in the lighthouse door, a dog beside her, a rowing boat on the rocks and two gulls to the right."
+ },
+ "lexicon/punk-diy-zine-1": {
+  "key": "lexicon/punk-diy-zine-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Schwarzweiß kopierte Punk-Fanzine-Seite mit ausgeschnittenen Buchstaben, Klebeband und Heftklammern: Unter LORNHOLM zeigen nummerierte Fotoschnipsel eine Fähre, einen Leuchtturm und einen gestreiften Marktstand, verbunden durch gestrichelte Pfeile.",
+  "alt_en": "Black-and-white photocopied punk zine page with ransom-note letters, tape and staples: below LORNHOLM, numbered photo fragments show a ferry, a lighthouse and a striped market stall linked by dashed arrows."
+ },
+ "lexicon/repousse-and-chasing-1": {
+  "key": "lexicon/repousse-and-chasing-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "reads partly as a CGI metallic render; detail too photographic for hammered thin sheet"
+  ],
+  "note_de": "Wirkt eher wie ein metallisch gerendertes Digitalbild als wie getriebenes Blech.",
+  "note_en": "Reads more like a metallic digital render than like hammered sheet metal.",
+  "alt_de": "Getriebenes Metallrelief mit Hammerspuren und punziertem Himmel: Eine Frau mit Besen steht in der Leuchtturmtür, neben ihr sitzt ein Hund, rechts liegt ein Ruderboot auf den Felsen, zwei Möwen fliegen.",
+  "alt_en": "Repoussé metal relief with hammer marks and a punched sky: a woman with a broom stands in the lighthouse door, a dog sits beside her, a rowing boat lies on the rocks and two gulls fly."
+ },
+ "lexicon/seinen-manga-1": {
+  "key": "lexicon/seinen-manga-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "reads as a filtered black-and-white photo; no panel border, screentones or clear nib hatching"
+  ],
+  "note_de": "Wirkt eher wie ein gefiltertes Schwarzweißfoto als wie ein Seinen-Manga-Panel.",
+  "note_en": "Reads more like a filtered black-and-white photo than like a seinen manga panel.",
+  "alt_de": "Detailreiches Schwarzweißbild mit leichter Schraffur: Eine grauhaarige Frau im Strickpullover steht mit Besen in der Leuchtturmtür, neben ihr ein Hund, rechts ein Ruderboot an der felsigen Küste.",
+  "alt_en": "Detailed black-and-white image with light hatching: a grey-haired woman in a knitted sweater stands with a broom in the lighthouse door, a dog beside her and a rowing boat on the rocky shore."
+ },
+ "lexicon/socialist-realism-1": {
+  "key": "lexicon/socialist-realism-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Sonniges Ölgemälde aus niedriger Perspektive: Eine grauhaarige Frau im blauen Pullover steht mit Besen in der Leuchtturmtür und blickt hoffnungsvoll aufwärts, neben ihr ein Hund, rechts ein Ruderboot und zwei Möwen.",
+  "alt_en": "Sunny oil painting from a low viewpoint: a grey-haired woman in a blue sweater stands with a broom in the lighthouse door looking hopefully upward, a dog beside her, a rowing boat and two gulls to the right."
+ },
+ "lexicon/storyboard-1": {
+  "key": "lexicon/storyboard-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "finished full-colour illustrated panels, not quick grey marker sketches (explicitly avoided)",
+   "no shot notes or camera-move annotations beyond a few arrows"
+  ],
+  "note_de": "Wirkt eher wie fertig kolorierte Comicpanels als wie ein skizziertes Storyboard.",
+  "note_en": "Reads more like finished full-colour comic panels than like a sketched storyboard.",
+  "alt_de": "Raster aus acht farbigen Zeichnungen: Ein Leuchtturm in der Totale, eine grauhaarige Frau im blauen Pullover mit Besen in der Tür, dann Möwen, Ruderboot, ihr Hund und ihr Gesicht in Nahaufnahme.",
+  "alt_en": "Grid of eight coloured drawings: a lighthouse in a wide shot, a grey-haired woman in a blue sweater with a broom in the door, then gulls, the rowing boat, her dog and her face in close-up."
+ },
+ "lexicon/tonalism-1": {
+  "key": "lexicon/tonalism-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Gedämpftes tonalistisches Gemälde in Graubraun bei Dämmerung: Eine Frau im dunkelblauen Pullover steht mit Besen in der Tür am Leuchtturm, neben ihr ein Hund, vorn ein altes Ruderboot, zwei Möwen über der See.",
+  "alt_en": "Muted Tonalist painting in grey-brown at dusk: a woman in a dark blue sweater stands with a broom in the door by the lighthouse, a dog beside her, an old rowing boat in front and two gulls over the sea."
+ },
+ "lexicon/underground-comix-1": {
+  "key": "lexicon/underground-comix-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Underground-Comic mit dichter Schraffur und Punktierung: Eine rundliche, grinsende grauhaarige Frau im blauen Pullover lehnt mit Besen in der Leuchtturmtür, neben ihr ein Hund, rechts ein Ruderboot und Möwen im roten Abendhimmel.",
+  "alt_en": "Underground comix drawing with dense cross-hatching and stipple: a stout, grinning grey-haired woman in a blue sweater leans on a broom in the lighthouse door, a dog beside her, a rowing boat and gulls in a red evening sky."
+ },
+ "lexicon/wheatpaste-street-poster-1": {
+  "key": "lexicon/wheatpaste-street-poster-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Zerknittertes, eingerissenes Schwarzweißplakat auf einer Backsteinmauer: Eine Frau im Strickpullover steht mit Besen in der Leuchtturmtür, neben ihr ein Hund, rechts ein Ruderboot auf Felsen und zwei Möwen.",
+  "alt_en": "Wrinkled, torn black-and-white poster pasted on a brick wall: a woman in a knitted sweater stands with a broom in the lighthouse door, a dog beside her, a rowing boat on the rocks and two gulls."
+ },
+ "lexicon/zhostovo-tray-painting-1": {
+  "key": "lexicon/zhostovo-tray-painting-1",
+  "verdict": "flawed",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "small white illegible pseudo-signature scribble on the lower right rim",
+   "central scene is a modern painterly sunset rather than tray-style brushwork"
+  ],
+  "note_de": "Am rechten unteren Rand steht eine kleine unleserliche Pseudo-Signatur.",
+  "note_en": "A small illegible pseudo-signature appears on the lower right rim.",
+  "alt_de": "Schwarz lackiertes Tablett mit roten und weißen Rosen, Beeren und Goldrand: Im runden Mittelfeld steht eine grauhaarige Frau im blauen Pullover mit Besen in der Leuchtturmtür, daneben ein Hund, links ein Ruderboot im Abendlicht.",
+  "alt_en": "Black lacquered tray with red and white roses, berries and a gilded rim: in the round centre a grey-haired woman in a blue sweater stands with a broom in the lighthouse door, a dog beside her and a rowing boat in evening light."
  }
 }
