@@ -178,7 +178,7 @@ UI = {
   "license": "Code MIT · Texte CC BY 4.0 · Bilder CC0",
   "sibling": "Schwesterprojekt: Designsprache",
   "feas_high": "hoch", "feas_medium": "mittel", "feas_low": "niedrig",
-  "flawed": "Abweichung", "ai_default": "KI-Standard",
+  "ai_default": "KI-Standard",
  },
  "en": {
   "brand_tag": "One motif, many visual languages",
@@ -202,7 +202,7 @@ UI = {
   "license": "Code MIT · texts CC BY 4.0 · images CC0",
   "sibling": "Sibling project: Designsprache",
   "feas_high": "high", "feas_medium": "medium", "feas_low": "low",
-  "flawed": "Deviation", "ai_default": "AI default",
+  "ai_default": "AI default",
  },
 }
 JS_TEXT = {
@@ -309,8 +309,6 @@ def cell_data(e, lang, page):
         "styleBlock": e["parts"].get("style", "").removeprefix("Style: ") or None,
         "tpl": None if is_base else tpl_prompt(MOTIF_UC[e["type"]], e["parts"]["style"].removeprefix("Style: ")),
         "meta": meta,
-        "note": UI[lang]["flawed"] + ": " + qa[f"note_{lang}"]
-                if qa.get(f"note_{lang}") and qa.get("verdict") == "flawed" else "",
         "base": img_src(base, page) if base else None, "baseAlt": alt(base, lang) if base else "",
     }
 
@@ -403,7 +401,6 @@ def lightbox(lang):
 <button type="button" class="btn" data-lb-copy-tpl>{ui['copy_tpl']}</button>
 <button type="button" class="btn" data-lb-compare aria-pressed="false">{ui['compare']}</button>
 <a class="btn" data-lb-download href="#" target="_blank" rel="noopener">{ui['download']}</a></div>
-<p class="note lb-note" hidden></p>
 <div class="anat"></div>
 <dl class="lb-meta"></dl>
 </div></div>
@@ -830,8 +827,6 @@ def lex_example(slug, lang, page):
         "alt": e.get(f"alt_{lang}", ""), "sub": ui["lex_example"],
         "meta": [[ui["tool"], "Codex CLI · image_gen (OpenAI)"], [ui["date"], e["generated_at"][:10]],
                  [ui["format"], f"{e.get('width')}×{e.get('height')}"], [ui["attempt"], att_txt]],
-        "note": ui["flawed"] + ": " + qa[f"note_{lang}"]
-                if qa.get(f"note_{lang}") and qa.get("verdict") == "flawed" else "",
     }
 
 

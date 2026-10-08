@@ -9936,5 +9936,83 @@
   "note_en": "Looks more like a rustic poster with a mosaic border than Egyptian wall painting; bread and board are painted in 3D.",
   "alt_de": "Plakat mit Mosaikrahmen: dampfender Brotlaib, Zimtschnecke und Papiertüte vor Hafen mit Segelschiff, oben NOW OPEN und HARBOUR BAKERY.",
   "alt_en": "Poster with a mosaic border: a steaming loaf, a cinnamon bun and a paper bag before a harbour with a sailing ship, NOW OPEN and HARBOUR BAKERY at the top."
+ },
+ "thumbnail/film-noir-1": {
+  "key": "thumbnail/film-noir-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Title is overlaid rather than painted into the scene, which the thumbnail motif requires; face fairly evenly lit for noir"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Schwarzweißes Filmstandbild bei Nacht: Eine erschrockene Frau im nassen Ölzeug hält eine Laterne hoch, hinter ihr ein Leuchtturm im Sturm, rechts der Titel NIGHT SHIFT.",
+  "alt_en": "Black-and-white night film still: a startled woman in a wet oilskin raises a lantern, a lighthouse in a storm behind her, the title NIGHT SHIFT on the right."
+ },
+ "thumbnail/film-noir-2": {
+  "key": "thumbnail/film-noir-2",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Sepia tint instead of pure black and white; brush-script title instead of condensed bold capitals"
+  ],
+  "note_de": "Sepia getönt statt schwarzweiß, Titel in Pinselschrift statt in schmalen Versalien.",
+  "note_en": "Sepia-toned instead of black and white, title in brush script instead of condensed capitals.",
+  "alt_de": "Sepiagetöntes Filmstandbild bei Nacht: Eine erschrockene Frau im nassen Ölzeug hält eine Laterne, hinter ihr ein Leuchtturm über Brandung, oben links NIGHT SHIFT.",
+  "alt_en": "Sepia-toned night film still: a startled woman in a wet oilskin holds a lantern, a lighthouse above surf behind her, NIGHT SHIFT at top left."
+ },
+ "thumbnail/polish-poster-school-1": {
+  "key": "thumbnail/polish-poster-school-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Painterly pulp paperback illustration with a full scene, horizon and centred figure instead of one visual metaphor on a plain ground"
+  ],
+  "note_de": "Wirkt eher wie ein gemaltes Groschenromancover als wie ein polnisches Plakat mit einer einzigen Bildidee.",
+  "note_en": "Looks more like a painted pulp paperback cover than a Polish poster built on a single visual idea.",
+  "alt_de": "Gemaltes Plakat: Eine erschrockene Frau im gelben Ölzeug hält eine Laterne hoch, rechts ein Leuchtturm in der Brandung, oben rot NIGHT SHIFT.",
+  "alt_en": "Painted poster: a startled woman in a yellow oilskin raises a lantern, a lighthouse in the surf on the right, NIGHT SHIFT in red above."
+ },
+ "thumbnail/polish-poster-school-2": {
+  "key": "thumbnail/polish-poster-school-2",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Painterly pulp paperback illustration with a full scene, horizon and centred figure instead of one visual metaphor on a plain ground"
+  ],
+  "note_de": "Wirkt eher wie ein gemaltes Groschenromancover als wie ein polnisches Plakat mit einer einzigen Bildidee.",
+  "note_en": "Looks more like a painted pulp paperback cover than a Polish poster built on a single visual idea.",
+  "alt_de": "Gemaltes Plakat: Eine erschrockene Frau im gelben Ölzeug hält eine Laterne hoch, rechts ein Leuchtturm in der Brandung, oben rot NIGHT SHIFT.",
+  "alt_en": "Painted poster: a startled woman in a yellow oilskin raises a lantern, a lighthouse in the surf on the right, NIGHT SHIFT in red above."
+ },
+ "thumbnail/cuban-silkscreen-film-poster-1": {
+  "key": "thumbnail/cuban-silkscreen-film-poster-1",
+  "verdict": "fail",
+  "style_score": 2,
+  "motif_missing": [],
+  "problems": [
+   "Reads as a detailed comic/pulp illustration with digital grunge, blue sky scene and depth; no flat stencil shapes or graphic idea"
+  ],
+  "note_de": "Wirkt eher wie eine Comic-Illustration mit Digitalgrunge als wie ein flächiger kubanischer Siebdruck.",
+  "note_en": "Looks more like a comic illustration with digital grunge than a flat Cuban screen print.",
+  "alt_de": "Plakat in Gelb, Blau und Pink: Eine erschrockene Frau im gelben Ölzeug hält eine Laterne hoch, rechts ein Leuchtturm im Sturm, oben NIGHT SHIFT.",
+  "alt_en": "Poster in yellow, blue and pink: a startled woman in a yellow oilskin raises a lantern, a lighthouse in a storm on the right, NIGHT SHIFT above."
+ },
+ "thumbnail/cuban-silkscreen-film-poster-2": {
+  "key": "thumbnail/cuban-silkscreen-film-poster-2",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Few opaque inks on a hot magenta ground fit the style, but the scene with depth and engraved texture is more illustration than one graphic idea"
+  ],
+  "note_de": "Farben und Druckwirkung passen, aber es ist eher eine Szene als eine einzige grafische Idee.",
+  "note_en": "Inks and print look fit, but it is more a scene than a single graphic idea.",
+  "alt_de": "Siebdruckplakat in Magenta, Gelb und Schwarz: Eine erschrockene Frau im gelben Ölzeug hält eine Laterne hoch, dahinter ein Leuchtturm über Brandung, unten links NIGHT SHIFT.",
+  "alt_en": "Screen-print poster in magenta, yellow and black: a startled woman in a yellow oilskin raises a lantern, a lighthouse above surf behind her, NIGHT SHIFT at bottom left."
  }
 }

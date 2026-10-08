@@ -183,7 +183,6 @@
         var dd = document.createElement('dd'); dd.textContent = m[1];
         meta.appendChild(dt); meta.appendChild(dd);
       });
-      var note = $('.lb-note'); note.hidden = !c.note; note.textContent = c.note || '';
       $('[data-lb-download]').href = c.src;
       var vis = visibleIndexes(), pos = vis.indexOf(i);
       var prev = $('[data-lb-prev]'), next = $('[data-lb-next]'), close = $('[data-lb-close]');
@@ -299,7 +298,7 @@
         src: s.ex.src, alt: s.ex.alt, w: s.ex.w, h: s.ex.h, ar: s.ex.ar, title: s.name, href: s.page,
         eyebrow: s.cat + ' · ' + s.fam, sub: s.ex.sub, parts: parts,
         prompt: parts.map(function (p) { return p[1]; }).join('\n\n'), styleBlock: s.frag,
-        meta: s.ex.meta, note: s.ex.note, base: null
+        meta: s.ex.meta, base: null
       };
     }
     var params = new URLSearchParams(location.search);

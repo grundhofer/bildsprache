@@ -1,10 +1,10 @@
 {
  "stats": {
-  "calls": 664,
+  "calls": 670,
   "pilot_v1": 46,
-  "superseded": 269,
-  "current": 349,
-  "rerolls": 26
+  "superseded": 273,
+  "current": 351,
+  "rerolls": 27
  },
  "images": [
   {
@@ -8037,19 +8037,19 @@
   },
   {
    "type": "thumbnail",
-   "style": "four-color-newsprint-comic",
+   "style": "film-noir",
    "lang": "en",
-   "file": "four-color-newsprint-comic-1.png",
+   "file": "film-noir-1.png",
    "attempt": 1,
    "discarded": 0,
-   "prompt": "Style: A 1950s American four-colour comic book page on newsprint. Medium: pen and brush in India ink, bold swelling contours, solid black shadows; flat cyan, magenta and yellow tints; skin, sky and other pale areas in fine, even dot screens; slightly off-register colour, unprinted slivers beside black lines; yellowed paper, spread ink, fibre specks. Composition: wide opening panel on top, then two or three tiers of black-bordered panels of unequal width, unprinted gutters, read left to right; close, foreshortened views, flat backgrounds. Lettering, where text is needed: even hand-inked capitals in yellow caption boxes; title in bold, outlined, slanted display letters with drop shadow. Information, where a diagram, map or chart is shown: one step per panel, number and word in its corner caption box. Avoid gradients, airbrush, white paper, uniform icon-tile grids and oversized pop-art dots; no invented balloons, sound effects or words; no superhero costumes or emblems.\n\nSubject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "prompt": "Style: A black-and-white frame from a low-budget 1940s Hollywood crime picture, lit for darkness rather than visibility. Medium: 35mm nitrate negative; inky blacks, bright highlights, fine grain, halation around bare lamps; studio camera, 25–35mm wide-angle lens stopped down for deep focus. One hard key light from a source within the scene, low or raking, almost no fill: crisp cast shadows, faces half lost in black; night exteriors with wet, light-catching surfaces. Composition: low or tilted camera; deep staging: one figure near the lens, another small in depth, both sharp; figures off-centre, hemmed in by dark foreground shapes; large areas of solid black. Lettering, where text is needed: only inside the scene, a painted sign or headline in condensed bold capitals under the same lamp. Avoid centred rim-lit hero shots, desaturated digital monochrome, soft fill, bokeh, teal-orange or neon neo-noir colour and flat ink-comic black-and-white; no venetian-blind shadows without a slatted window.\n\nSubject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
    "parts": {
-    "style": "Style: A 1950s American four-colour comic book page on newsprint. Medium: pen and brush in India ink, bold swelling contours, solid black shadows; flat cyan, magenta and yellow tints; skin, sky and other pale areas in fine, even dot screens; slightly off-register colour, unprinted slivers beside black lines; yellowed paper, spread ink, fibre specks. Composition: wide opening panel on top, then two or three tiers of black-bordered panels of unequal width, unprinted gutters, read left to right; close, foreshortened views, flat backgrounds. Lettering, where text is needed: even hand-inked capitals in yellow caption boxes; title in bold, outlined, slanted display letters with drop shadow. Information, where a diagram, map or chart is shown: one step per panel, number and word in its corner caption box. Avoid gradients, airbrush, white paper, uniform icon-tile grids and oversized pop-art dots; no invented balloons, sound effects or words; no superhero costumes or emblems.",
+    "style": "Style: A black-and-white frame from a low-budget 1940s Hollywood crime picture, lit for darkness rather than visibility. Medium: 35mm nitrate negative; inky blacks, bright highlights, fine grain, halation around bare lamps; studio camera, 25–35mm wide-angle lens stopped down for deep focus. One hard key light from a source within the scene, low or raking, almost no fill: crisp cast shadows, faces half lost in black; night exteriors with wet, light-catching surfaces. Composition: low or tilted camera; deep staging: one figure near the lens, another small in depth, both sharp; figures off-centre, hemmed in by dark foreground shapes; large areas of solid black. Lettering, where text is needed: only inside the scene, a painted sign or headline in condensed bold capitals under the same lamp. Avoid centred rim-lit hero shots, desaturated digital monochrome, soft fill, bokeh, teal-orange or neon neo-noir colour and flat ink-comic black-and-white; no venetian-blind shadows without a slatted window.",
     "motif": "Subject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.",
     "guards": "Constraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
    },
    "size": "1536x1024",
-   "generated_at": "2026-10-08T16:46:48+00:00",
+   "generated_at": "2026-10-08T19:44:14+00:00",
    "tool": "Codex CLI built-in image_gen",
    "codex_version": "codex-cli 0.160.0",
    "qa": {
@@ -8058,8 +8058,8 @@
     "note_en": "",
     "text_exact": null
    },
-   "alt_de": "Comic im Vierfarbdruck mit Rasterpunkten: links schräg „NIGHT SHIFT“, darunter der Leuchtturm in der Gischt, rechts die Wärterin mit Laterne.",
-   "alt_en": "Four-colour newsprint comic with halftone dots: slanted 'NIGHT SHIFT' at left, the lighthouse in spray below, the keeper with a lantern at right.",
+   "alt_de": "Schwarzweißes Filmstandbild bei Nacht: Eine erschrockene Frau im nassen Ölzeug hält eine Laterne hoch, hinter ihr ein Leuchtturm im Sturm, rechts der Titel NIGHT SHIFT.",
+   "alt_en": "Black-and-white night film still: a startled woman in a wet oilskin raises a lantern, a lighthouse in a storm behind her, the title NIGHT SHIFT on the right.",
    "ai_default": false,
    "width": 1536,
    "height": 1024
@@ -8095,29 +8095,29 @@
   },
   {
    "type": "thumbnail",
-   "style": "pop-art-silkscreen",
+   "style": "cuban-silkscreen-film-poster",
    "lang": "en",
-   "file": "pop-art-silkscreen-1.png",
-   "attempt": 1,
-   "discarded": 0,
-   "prompt": "Style: A New York Pop Art silkscreen painting of the early 1960s: an enlarged press photo screened in black over hand-painted colour on canvas. Medium: photo reduced to hard black, mid-tones dropped or coarsely screened; flat acrylic fields in unnatural hot pink, turquoise, orange and lemon yellow, black printed millimetres off-register; clogged, flooded blacks beside pale squeegee skips, canvas weave showing. Composition: tight crop pressed flat against a single-colour ground, no scenery or depth; often the same stencil repeated edge to edge, identical in drawing, differing in colour and ink load. Lettering, where text is needed: found headline or label capitals screened in the same blotchy black. Information, where a diagram, map or chart is shown: quantities as one printed image repeated in rows, like stock on a shelf. Avoid airbrushed skin, gradients, glow, posterize filters and clean vector edges; no comic-strip dot fields, speech balloons or celebrity likeness.\n\nSubject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "file": "cuban-silkscreen-film-poster-2.png",
+   "attempt": 2,
+   "discarded": 1,
+   "prompt": "Style: A screen-printed film poster for Cuba's national film institute, Havana, late 1960s. Medium: three to five opaque inks on matte paper, hard stencil edges, no halftone; hot magenta, orange or acid-green ground with black and one clashing ink; slight misregistration, hairline gaps, squeegee streaks. Composition: one graphic idea fills the tall sheet: a big silhouette on flat colour, repeated in pop-art rows or ringed by vibrating concentric stripes running off the edges; figure-ground reversal; wide empty ground. Lettering, where text is needed: hand-drawn for this sheet, one flat ink, stacked or bent into the shape; secondary text small, at the bottom. Information, where a diagram, map or chart is shown: one pictogram repeated in rows, hand-lettered numbers, no boxes. Avoid a centred scene with sun disc over the horizon, gradients, vector-perfect edges, digital grunge, photo montage, billing blocks, painterly Polish-school posters, letter-filled psychedelic sheets, tropical clichés, flags, political portraits.\n\nSubject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
    "parts": {
-    "style": "Style: A New York Pop Art silkscreen painting of the early 1960s: an enlarged press photo screened in black over hand-painted colour on canvas. Medium: photo reduced to hard black, mid-tones dropped or coarsely screened; flat acrylic fields in unnatural hot pink, turquoise, orange and lemon yellow, black printed millimetres off-register; clogged, flooded blacks beside pale squeegee skips, canvas weave showing. Composition: tight crop pressed flat against a single-colour ground, no scenery or depth; often the same stencil repeated edge to edge, identical in drawing, differing in colour and ink load. Lettering, where text is needed: found headline or label capitals screened in the same blotchy black. Information, where a diagram, map or chart is shown: quantities as one printed image repeated in rows, like stock on a shelf. Avoid airbrushed skin, gradients, glow, posterize filters and clean vector edges; no comic-strip dot fields, speech balloons or celebrity likeness.",
+    "style": "Style: A screen-printed film poster for Cuba's national film institute, Havana, late 1960s. Medium: three to five opaque inks on matte paper, hard stencil edges, no halftone; hot magenta, orange or acid-green ground with black and one clashing ink; slight misregistration, hairline gaps, squeegee streaks. Composition: one graphic idea fills the tall sheet: a big silhouette on flat colour, repeated in pop-art rows or ringed by vibrating concentric stripes running off the edges; figure-ground reversal; wide empty ground. Lettering, where text is needed: hand-drawn for this sheet, one flat ink, stacked or bent into the shape; secondary text small, at the bottom. Information, where a diagram, map or chart is shown: one pictogram repeated in rows, hand-lettered numbers, no boxes. Avoid a centred scene with sun disc over the horizon, gradients, vector-perfect edges, digital grunge, photo montage, billing blocks, painterly Polish-school posters, letter-filled psychedelic sheets, tropical clichés, flags, political portraits.",
     "motif": "Subject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.",
     "guards": "Constraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
    },
    "size": "1536x1024",
-   "generated_at": "2026-10-08T16:47:08+00:00",
+   "generated_at": "2026-10-08T19:45:36+00:00",
    "tool": "Codex CLI built-in image_gen",
    "codex_version": "codex-cli 0.160.0",
    "qa": {
-    "verdict": "pass",
-    "note_de": "",
-    "note_en": "",
+    "verdict": "flawed",
+    "note_de": "Farben und Druckwirkung passen, aber es ist eher eine Szene als eine einzige grafische Idee.",
+    "note_en": "Inks and print look fit, but it is more a scene than a single graphic idea.",
     "text_exact": null
    },
-   "alt_de": "Pop-Art-Siebdruck in Gelb, Pink und Türkis: die Wärterin mit Laterne, „NIGHT SHIFT“ schwarz auf pinkem Balken, rechts der Leuchtturm.",
-   "alt_en": "Pop-art silkscreen in yellow, pink and turquoise: the keeper with a lantern, 'NIGHT SHIFT' black on a pink band, the lighthouse to the right.",
+   "alt_de": "Siebdruckplakat in Magenta, Gelb und Schwarz: Eine erschrockene Frau im gelben Ölzeug hält eine Laterne hoch, dahinter ein Leuchtturm über Brandung, unten links NIGHT SHIFT.",
+   "alt_en": "Screen-print poster in magenta, yellow and black: a startled woman in a yellow oilskin raises a lantern, a lighthouse above surf behind her, NIGHT SHIFT at bottom left.",
    "ai_default": false,
    "width": 1536,
    "height": 1024

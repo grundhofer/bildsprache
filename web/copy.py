@@ -132,10 +132,10 @@ Bild.</p>
 <p>Jedes Bild hat ein Prüfagent angesehen: Ist der Stil erkennbar? Sind die festen Motivteile da? Ist die Anatomie stimmig? Ein zweiter Agent hat jeden Text Buchstabe für Buchstabe gegengelesen. Bei groben Fehlern wurde
 neu erzeugt, mit höchstens drei Versuchen je Zelle. Insgesamt gab es {calls} Bildaufrufe: {v1} im ersten Pilotlauf,
 {superseded} mit älteren Fassungen von Stilblöcken, die danach überarbeitet wurden, und {rerolls} Neuversuche nach
-durchgefallener Prüfung. Veröffentlicht sind {images} Bilder. {passed} Bilder haben die Prüfung ohne Einwand bestanden, bei {flawed} ist eine Abweichung
-dokumentiert. Bilder, die durchgefallen sind, werden nicht veröffentlicht. Die Abweichung steht in der Bildansicht, zusammen mit Datum,
-Format und Versuchsnummer. Die Prüfer waren streng: Ein Pflaster am falschen Finger oder vier statt zwei Kochstellen zählen
-schon als Abweichung.</p>
+durchgefallener Prüfung. Veröffentlicht sind {images} Bilder. {passed} Bilder haben die Prüfung ohne Einwand bestanden, bei {flawed} fand die Prüfung
+kleinere Abweichungen. Die Prüfer waren streng: Ein Pflaster am falschen Finger oder vier statt zwei Kochstellen zählen
+schon als Abweichung. Bilder, die durchgefallen sind, werden nicht veröffentlicht. Datum, Format und Versuchsnummer
+stehen in der Bildansicht.</p>
 <h2>Lexikon</h2>
 <p>Das Lexikon mit {lex} Einträgen entstand in einer Recherche mit 32 KI-Agenten: 14 Fachgebiete von Fotografie bis
 Internetästhetik, danach Zusammenführung von Dubletten und drei Runden Lückensuche aus vier Blickwinkeln. Die Einträge
@@ -146,8 +146,8 @@ Repository (data/lexicon.json).</p>
 <p>Zu {lex_images} der übrigen Stile gibt es ein kleines Beispielbild. Es entsteht aus dem Prompt-Baustein des Eintrags
 und einem von zwei einfachen Motiven: einer Leuchtturmwärterin mit Besen oder, bei Grafikdesign und Infografik, einem
 Infoblatt mit drei Punkten. Ein Prüfagent hat jedes Bild kurz angesehen: Ist der Stil erkennbar, ist das Motiv da, gibt
-es Logos oder erfundenen Text? Fiel ein Bild durch, gab es einen Neuversuch. {lex_flawed} Bilder zeigen eine dokumentierte
-Abweichung, {lex_failed} sind durchgefallen und werden nicht gezeigt; insgesamt waren es {lex_calls} Bildaufrufe. Auf der Website
+es Logos oder erfundenen Text? Fiel ein Bild durch, gab es einen Neuversuch. Bei {lex_flawed} Bildern fand die Prüfung
+kleinere Abweichungen, {lex_failed} sind durchgefallen und werden nicht gezeigt; insgesamt waren es {lex_calls} Bildaufrufe. Auf der Website
 zu sehen sind {lex_images_pub}. Die {lex_restricted}
 Einträge zu gemeinschaftsgebundenen Traditionen zeigen auf der Website weder Prompt-Baustein noch Bild.</p>
 <h2>Grenzen</h2>
@@ -293,9 +293,9 @@ plausible? A second agent proofread every text letter by letter. Images with maj
 with at most three attempts per cell. In total there were {calls} image calls: {v1} in the first pilot run,
 {superseded} with older versions of style blocks that were revised afterwards, and {rerolls} retries after a failed
 review. {images} images are published.
-{passed} images passed without objection, {flawed} have a documented deviation. Images that failed are not published.
-The deviation is named in the image view, together with the date, format and attempt number. The reviewers were strict:
-a plaster on the wrong finger or four burners instead of two already count as a deviation.</p>
+{passed} images passed without objection, the review found minor deviations in {flawed}.
+The reviewers were strict: a plaster on the wrong finger or four burners instead of two already count as a deviation.
+Images that failed are not published. The date, format and attempt number are given in the image view.</p>
 <h2>Lexicon</h2>
 <p>The lexicon of {lex} entries comes from research with 32 AI agents: 14 fields from photography to internet
 aesthetics, followed by merging duplicates and three rounds of gap-finding from four perspectives. The entries were then
@@ -306,7 +306,7 @@ the repository (data/lexicon.json).</p>
 <p>{lex_images} of the other styles have a small example image. It is made from the entry's prompt fragment and one of
 two simple motifs: a lighthouse keeper with a broom or, for graphic design and infographics, an information sheet with
 three items. A review agent looked at each image briefly: is the style recognisable, is the motif there, are there logos
-or invented text? If an image failed, it got one retry. {lex_flawed} images show a documented deviation, {lex_failed}
+or invented text? If an image failed, it got one retry. the review found minor deviations in {lex_flawed} images, {lex_failed}
 failed and are not shown; there were {lex_calls} image calls in total. {lex_images_pub} of these images
 appear on the site. The {lex_restricted} entries on
 community-bound traditions show neither a prompt fragment nor an image on the site.</p>
