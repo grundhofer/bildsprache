@@ -5,8 +5,7 @@
 
 Pro Zelle wird die neueste Fassung mit aktuellem Prompt gewählt, die die Prüfung bestanden hat
 (verdict "pass"); gibt es keine, die neueste mit kleineren Abweichungen ("flawed", wird markiert).
-Ein Fehlversuch ("fail") erscheint nur, wenn nach drei Versuchen nichts Besseres vorliegt, und ist
-dann als Fehlversuch markiert. data/qa.json enthält das Prüfergebnis jeder Fassung, auch der
+Ein Fehlversuch ("fail") wird nie veröffentlicht; die Zelle bleibt dann leer. data/qa.json enthält das Prüfergebnis jeder Fassung, auch der
 verworfenen: {"<type>/<datei-stem>": {verdict, note_de, note_en, alt_de, alt_en, ...}}.
 """
 import json, pathlib, sys
@@ -17,8 +16,6 @@ from tools.plan import cells, attempts  # noqa: E402
 from tools.prompts import compose  # noqa: E402
 
 RANK = {"pass": 2, "flawed": 1, "fail": 0}
-# Nach so vielen Versuchen wird auch ein Fehlversuch veröffentlicht, sichtbar markiert, statt die Zelle leer zu lassen.
-MAX_ATTEMPTS = 3
 
 
 def build(qa):
@@ -27,17 +24,16 @@ def build(qa):
     images, missing = [], []
     for t, s, lang, block in cells():
         prompt, parts = compose(t, block, lang)
-        best, tries = None, 0
+        best = None
         for n, meta, png in attempts(t, s, lang):
             if meta["prompt"] != prompt or not png.exists():
                 continue
             q = qa.get(f"{t}/{png.stem}")
             if not q or q.get("verdict") not in RANK:
                 continue
-            tries += 1
             if best is None or (RANK[q["verdict"]], n) >= (RANK[best[2]["verdict"]], best[0]):
                 best = (n, meta, q, png)
-        if not best or (best[2]["verdict"] == "fail" and tries < MAX_ATTEMPTS):
+        if not best or best[2]["verdict"] == "fail":
             missing.append(f"{t}/{s}{'.de' if lang == 'de' else ''}")
             continue
         n, meta, q, png = best

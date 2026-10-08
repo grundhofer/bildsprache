@@ -98,7 +98,8 @@ IMG = {(e["type"], e["style"], e.get("lang", "en")): e for e in MANIFEST}
 # Lexikon-Beispielbilder (tools/lexicon.py); fehlt das Manifest, zeigt das Lexikon keine Bilder.
 _LEXMAN = jload("images/lexicon/manifest.json") if (ROOT / "images" / "lexicon" / "manifest.json").exists() else {"images": []}
 LEXIMG_ALL = {e["slug"]: e for e in _LEXMAN["images"]}
-LEXIMG = {k: e for k, e in LEXIMG_ALL.items() if k in LEX_PUBLIC_SLUGS}   # nur Bilder der gezeigten Einträge
+# nur Bilder der gezeigten Einträge; Fehlversuche werden nicht veröffentlicht
+LEXIMG = {k: e for k, e in LEXIMG_ALL.items() if k in LEX_PUBLIC_SLUGS and e["qa"]["verdict"] != "fail"}
 LEXMOTIFS = {m["id"]: m for m in jload("data/lexicon_motifs.json")["motifs"]}
 TELLS = jload("data/tells.json")["tells"]
 LEVERS = jload("data/levers.json")["levers"]
@@ -177,7 +178,7 @@ UI = {
   "license": "Code MIT · Texte CC BY 4.0 · Bilder CC0",
   "sibling": "Schwesterprojekt: Designsprache",
   "feas_high": "hoch", "feas_medium": "mittel", "feas_low": "niedrig",
-  "flawed": "Abweichung", "failed": "Fehlversuch", "ai_default": "KI-Standard",
+  "flawed": "Abweichung", "ai_default": "KI-Standard",
  },
  "en": {
   "brand_tag": "One motif, many visual languages",
@@ -201,7 +202,7 @@ UI = {
   "license": "Code MIT · texts CC BY 4.0 · images CC0",
   "sibling": "Sibling project: Designsprache",
   "feas_high": "high", "feas_medium": "medium", "feas_low": "low",
-  "flawed": "Deviation", "failed": "Failed attempt", "ai_default": "AI default",
+  "flawed": "Deviation", "ai_default": "AI default",
  },
 }
 JS_TEXT = {
@@ -308,8 +309,8 @@ def cell_data(e, lang, page):
         "styleBlock": e["parts"].get("style", "").removeprefix("Style: ") or None,
         "tpl": None if is_base else tpl_prompt(MOTIF_UC[e["type"]], e["parts"]["style"].removeprefix("Style: ")),
         "meta": meta,
-        "note": (UI[lang]["failed" if qa.get("verdict") == "fail" else "flawed"] + ": " + qa[f"note_{lang}"])
-                if qa.get(f"note_{lang}") and qa.get("verdict") in ("fail", "flawed") else "",
+        "note": UI[lang]["flawed"] + ": " + qa[f"note_{lang}"]
+                if qa.get(f"note_{lang}") and qa.get("verdict") == "flawed" else "",
         "base": img_src(base, page) if base else None, "baseAlt": alt(base, lang) if base else "",
     }
 
@@ -438,8 +439,6 @@ def card(e, idx, lang, page, show="style", link=True, actions=False):
     flag = ""
     if e.get("ai_default"):
         flag = f'<span class="flag warn">{UI[lang]["ai_default"]}</span>'
-    elif (e.get("qa") or {}).get("verdict") == "fail":
-        flag = f'<span class="flag warn">{UI[lang]["failed"]}</span>'
 
     cat = LEX[e["style"]]["category_id"] if e["style"] in LEX else "baseline"
     acts = ""
@@ -817,11 +816,10 @@ def lex_example(slug, lang, page):
         "src": rel(page, f"images/lexicon/{slug}.webp"), "thumb": rel(page, f"images/lexicon/{slug}.thumb.webp"),
         "w": e.get("width"), "h": e.get("height"), "ar": AR[e["size"]], "m": e["motif"],
         "alt": e.get(f"alt_{lang}", ""), "sub": ui["lex_example"],
-        "flag": ui["failed"] if qa.get("verdict") == "fail" else "",
         "meta": [[ui["tool"], "Codex CLI · image_gen (OpenAI)"], [ui["date"], e["generated_at"][:10]],
                  [ui["format"], f"{e.get('width')}×{e.get('height')}"], [ui["attempt"], att_txt]],
-        "note": (ui["failed" if qa.get("verdict") == "fail" else "flawed"] + ": " + qa[f"note_{lang}"])
-                if qa.get(f"note_{lang}") and qa.get("verdict") in ("fail", "flawed") else "",
+        "note": ui["flawed"] + ": " + qa[f"note_{lang}"]
+                if qa.get(f"note_{lang}") and qa.get("verdict") == "flawed" else "",
     }
 
 
@@ -919,14 +917,6 @@ def page_method(lang):
     body = c["body"]
     for k, v in stats.items():
         body = body.replace("{" + k + "}", num(v, lang) if isinstance(v, int) else str(v))
-    cells, idx, extra = [], 0, ""
-    flawed = [e for e in MANIFEST if (e.get("qa") or {}).get("verdict") == "fail"]
-    if flawed:
-        items = []
-        for e in flawed:
-            cells.append(cell_data(e, lang, page)); items.append(card(e, idx, lang, page)); idx += 1
-        extra = (f'<section class="sec"><div class="wrap"><div class="sec-head"><h2>{c["flawed_h"]}</h2><p>{c["flawed_p"]}</p></div>'
-                 f'<div class="grid mixed">{"".join(items)}</div></div></section>')
     pilot = ""
     pics = sorted((ROOT / "images" / "method").glob("v*.webp"))
     if pics:
@@ -943,8 +933,7 @@ def page_method(lang):
     out = [head(lang, page, c["title"], c["desc"], "method"),
            f'<section class="mast"><div class="wrap mast-in"><div><p class="eyebrow">{c["eyebrow"]}</p><h1>{c["h1"]}</h1>'
            f'<p class="lede">{c["lede"]}</p></div></div></section>',
-           f'<section class="sec"><div class="wrap prose">{body}</div></section>', pilot, extra,
-           lightbox(lang) + jscript(cells, "cells-data") if cells else "",
+           f'<section class="sec"><div class="wrap prose">{body}</div></section>', pilot,
            foot(lang, page)]
     return write(page, "".join(out))
 
@@ -964,7 +953,6 @@ def method_stats():
         "images": N_IMAGES, "calls": STATS.get("calls", N_IMAGES), "v1": STATS.get("pilot_v1", 0),
         "superseded": STATS.get("superseded", 0), "rerolls": STATS.get("rerolls", 0),
         "flawed": sum(1 for e in MANIFEST if (e.get("qa") or {}).get("verdict") == "flawed"),
-        "failed": sum(1 for e in MANIFEST if (e.get("qa") or {}).get("verdict") == "fail"),
         "passed": sum(1 for e in MANIFEST if (e.get("qa") or {}).get("verdict") == "pass"),
         "lead": N_LEAD, "lex": len(LEX_ALL), "lex_pub": N_LEX, "motifs": len(MOTIFS), "usecases": len(USECASES),
         "lex_images": len(LEXIMG_ALL), "lex_images_pub": len(LEXIMG),

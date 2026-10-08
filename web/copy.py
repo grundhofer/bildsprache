@@ -107,9 +107,6 @@ COPY = {
               "beschreibt der Motivblock nur noch den Inhalt, der Stilblock auch Komposition und Schrift.",
    "pilot_v1": "Fassung 1: Stil als Oberfläche", "pilot_v2": "Fassung 2: Stil als Bildordnung",
    "pilot_alt": "Festivalplakat aus Fassung {v}, Stil: {style}",
-   "flawed_h": "Fehlversuche",
-   "flawed_p": "Bei diesen Zellen hat auch der dritte Versuch die Prüfung nicht bestanden. Sie bleiben sichtbar, weil sie zeigen, "
-               "wo ein Stil-Prompt an Grenzen stößt. Der Grund steht jeweils in der Bildansicht.",
    "body": """
 <h2>Motive</h2>
 <p>{motifs} Motive, jedes als fester englischer Text. Ein Motiv legt den Inhalt fest: Personen, Handlung, Ort,
@@ -136,7 +133,7 @@ Bild.</p>
 neu erzeugt, mit höchstens drei Versuchen je Zelle. Insgesamt gab es {calls} Bildaufrufe: {v1} im ersten Pilotlauf,
 {superseded} mit älteren Fassungen von Stilblöcken, die danach überarbeitet wurden, und {rerolls} Neuversuche nach
 durchgefallener Prüfung. Veröffentlicht sind {images} Bilder. {passed} Bilder haben die Prüfung ohne Einwand bestanden, bei {flawed} ist eine Abweichung
-dokumentiert, {failed} sind als Fehlversuch markiert. Die Abweichung steht in der Bildansicht, zusammen mit Datum,
+dokumentiert. Bilder, die durchgefallen sind, werden nicht veröffentlicht. Die Abweichung steht in der Bildansicht, zusammen mit Datum,
 Format und Versuchsnummer. Die Prüfer waren streng: Ein Pflaster am falschen Finger oder vier statt zwei Kochstellen zählen
 schon als Abweichung.</p>
 <h2>Lexikon</h2>
@@ -150,8 +147,8 @@ Repository (data/lexicon.json).</p>
 und einem von zwei einfachen Motiven: einer Leuchtturmwärterin mit Besen oder, bei Grafikdesign und Infografik, einem
 Infoblatt mit drei Punkten. Ein Prüfagent hat jedes Bild kurz angesehen: Ist der Stil erkennbar, ist das Motiv da, gibt
 es Logos oder erfundenen Text? Fiel ein Bild durch, gab es einen Neuversuch. {lex_flawed} Bilder zeigen eine dokumentierte
-Abweichung, {lex_failed} sind als Fehlversuch markiert; insgesamt waren es {lex_calls} Bildaufrufe. Davon gehören
-{lex_images_pub} zu Stilen, die auf der Website stehen. Die {lex_restricted}
+Abweichung, {lex_failed} sind durchgefallen und werden nicht gezeigt; insgesamt waren es {lex_calls} Bildaufrufe. Auf der Website
+zu sehen sind {lex_images_pub}. Die {lex_restricted}
 Einträge zu gemeinschaftsgebundenen Traditionen zeigen auf der Website weder Prompt-Baustein noch Bild.</p>
 <h2>Grenzen</h2>
 <ul>
@@ -271,9 +268,6 @@ dasselbe für Benutzeroberflächen.</p>
               "motif block only describes the content, and the style block also covers composition and lettering.",
    "pilot_v1": "Version 1: style as surface", "pilot_v2": "Version 2: style as structure",
    "pilot_alt": "Festival poster from version {v}, style: {style}",
-   "flawed_h": "Failed attempts",
-   "flawed_p": "For these cells even the third attempt did not pass the review. They stay visible because they show where a "
-               "style prompt hits its limits. The reason is given in the image view.",
    "body": """
 <h2>Motifs</h2>
 <p>{motifs} motifs, each a fixed English text. A motif fixes the content: people, action, place, objects and, for the
@@ -299,7 +293,7 @@ plausible? A second agent proofread every text letter by letter. Images with maj
 with at most three attempts per cell. In total there were {calls} image calls: {v1} in the first pilot run,
 {superseded} with older versions of style blocks that were revised afterwards, and {rerolls} retries after a failed
 review. {images} images are published.
-{passed} images passed without objection, {flawed} have a documented deviation, {failed} are marked as failed attempts.
+{passed} images passed without objection, {flawed} have a documented deviation. Images that failed are not published.
 The deviation is named in the image view, together with the date, format and attempt number. The reviewers were strict:
 a plaster on the wrong finger or four burners instead of two already count as a deviation.</p>
 <h2>Lexicon</h2>
@@ -313,8 +307,8 @@ the repository (data/lexicon.json).</p>
 two simple motifs: a lighthouse keeper with a broom or, for graphic design and infographics, an information sheet with
 three items. A review agent looked at each image briefly: is the style recognisable, is the motif there, are there logos
 or invented text? If an image failed, it got one retry. {lex_flawed} images show a documented deviation, {lex_failed}
-are marked as failed attempts; there were {lex_calls} image calls in total. {lex_images_pub} of these images belong
-to styles shown on the site. The {lex_restricted} entries on
+failed and are not shown; there were {lex_calls} image calls in total. {lex_images_pub} of these images
+appear on the site. The {lex_restricted} entries on
 community-bound traditions show neither a prompt fragment nor an image on the site.</p>
 <h2>Limits</h2>
 <ul>

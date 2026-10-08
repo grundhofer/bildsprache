@@ -326,10 +326,6 @@
         var im = el('img'); im.src = s.ex.thumb; im.alt = s.ex.alt; im.loading = 'lazy'; im.decoding = 'async';
         im.width = 320; im.height = 320;
         ex.appendChild(im);
-        if (s.ex.flag) {
-          ex.appendChild(el('span', 'flag warn', s.ex.flag));
-          ex.setAttribute('aria-label', t('showExample') + ': ' + s.name + ' (' + s.ex.flag + ')');
-        }
         a.appendChild(ex);
       }
       var b = el('div');

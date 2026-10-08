@@ -4,7 +4,7 @@
   "pilot_v1": 46,
   "superseded": 269,
   "current": 342,
-  "rerolls": 28
+  "rerolls": 26
  },
  "images": [
   {
@@ -581,35 +581,6 @@
    },
    "alt_de": "Schwarzweißfoto steil von oben, schräg angeschnitten: Eine alte Frau drückt eine helle neue Planke auf den Bootsrumpf, ein junger Mann mit Mütze nagelt sie fest; harte Sonne, Steg, Möwen.",
    "alt_en": "Steep overhead black-and-white photo on a diagonal: an old woman presses a pale new plank onto the hull, a young man in a beanie nails it; hard sun, jetty, gulls.",
-   "ai_default": false,
-   "width": 1536,
-   "height": 1024
-  },
-  {
-   "type": "people",
-   "style": "three-strip-technicolor",
-   "lang": "en",
-   "file": "three-strip-technicolor-13.png",
-   "attempt": 13,
-   "discarded": 2,
-   "prompt": "Style: An indoor Hollywood sound stage of the 1940s, filmed with a three-strip colour camera and printed in dye: whatever appears was built, painted, costumed or made up. Medium: smooth dye colour, muted creams, greys and browns, one costume piece or prop in ruby red; even light from beside the camera. Composition: camera at eye level several metres from any figures, framing only a set a few paces deep: studio floor under clean, even-sized dressing; wood as painted plywood; animals as stiff props; objects as satin-finished props; behind, a canvas backdrop meeting the floor in a straight line, water as flat painted bands, sky a smooth gradient with soft painted clouds. Any figures are actors in fresh costume, age lines drawn in make-up; whole, side by side, turned toward the camera, eyes on their work. Lettering, where text is needed: painted signs in shadowed serif capitals. Avoid film borders, faded colour.\n\nSubject: Two people repair an upturned wooden rowing boat on a pebble beach. An older woman, about 70, sturdy build, short grey hair, weathered face, sleeves rolled up, kneels at the hull and presses a new plank into place with both hands. A young man of about 20, lanky, wearing a knitted cap and a jacket one size too big, crouches beside her and drives a nail into the plank with a small hammer, frowning in concentration. Between them on the stones: an open wooden toolbox, a coil of rope, a tin of nails. Behind them the sea, the end of a wooden jetty and two gulls. Both are absorbed in the work; neither looks at the viewer. Viewpoint and framing are the style's choice.\n\nConstraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. No text, letters or numbers anywhere in the image. No logos, brand names, signatures or watermarks.",
-   "parts": {
-    "style": "Style: An indoor Hollywood sound stage of the 1940s, filmed with a three-strip colour camera and printed in dye: whatever appears was built, painted, costumed or made up. Medium: smooth dye colour, muted creams, greys and browns, one costume piece or prop in ruby red; even light from beside the camera. Composition: camera at eye level several metres from any figures, framing only a set a few paces deep: studio floor under clean, even-sized dressing; wood as painted plywood; animals as stiff props; objects as satin-finished props; behind, a canvas backdrop meeting the floor in a straight line, water as flat painted bands, sky a smooth gradient with soft painted clouds. Any figures are actors in fresh costume, age lines drawn in make-up; whole, side by side, turned toward the camera, eyes on their work. Lettering, where text is needed: painted signs in shadowed serif capitals. Avoid film borders, faded colour.",
-    "motif": "Subject: Two people repair an upturned wooden rowing boat on a pebble beach. An older woman, about 70, sturdy build, short grey hair, weathered face, sleeves rolled up, kneels at the hull and presses a new plank into place with both hands. A young man of about 20, lanky, wearing a knitted cap and a jacket one size too big, crouches beside her and drives a nail into the plank with a small hammer, frowning in concentration. Between them on the stones: an open wooden toolbox, a coil of rope, a tin of nails. Behind them the sea, the end of a wooden jetty and two gulls. Both are absorbed in the work; neither looks at the viewer. Viewpoint and framing are the style's choice.",
-    "guards": "Constraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. No text, letters or numbers anywhere in the image. No logos, brand names, signatures or watermarks."
-   },
-   "size": "1536x1024",
-   "generated_at": "2026-10-04T09:32:27+00:00",
-   "tool": "Codex CLI built-in image_gen",
-   "codex_version": "codex-cli 0.160.0",
-   "qa": {
-    "verdict": "fail",
-    "note_de": "Wirkt wie ein körniges, fotorealistisches Digitalbild an echter Küste statt wie eine gemalte Technicolor-Studiokulisse.",
-    "note_en": "Looks like a gritty photorealistic digital image of a real coast rather than a painted Technicolor studio set.",
-    "text_exact": null
-   },
-   "alt_de": "Fotorealistisch und detailreich, mit gemaltem Himmel: Ein junger Mann mit Strickmütze nagelt eine Planke an ein umgedrehtes Boot, eine alte Frau in roter Weste drückt sie an; Steg, Möwen.",
-   "alt_en": "Gritty photorealism, painted sky: a young man in a knitted cap nails a plank to an upturned boat; an older woman in a red vest holds it. Jetty, gulls behind.",
    "ai_default": false,
    "width": 1536,
    "height": 1024

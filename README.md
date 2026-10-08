@@ -5,7 +5,7 @@
 **One motif, many visual languages: AI images need not look alike.**
 
 Image styles by use case (infographic, chart, icons, portrait, product, poster, illustration, map, mood image):
-311 images in 115 lead styles, each with the prompt that made it, the style block on its own and a
+310 images in 115 lead styles, each with the prompt that made it, the style block on its own and a
 template for your own content. Plus a lexicon of 599 selected image styles and an overview of how to recognise AI images.
 
 **[Open the catalogue](https://grundhofer.github.io/bildsprache/)** ·
