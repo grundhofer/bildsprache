@@ -37,10 +37,10 @@ def build(qa):
             missing.append(f"{t}/{s}{'.de' if lang == 'de' else ''}")
             continue
         n, meta, q, png = best
-        # Verworfen heißt: frühere Fassung mit demselben Prompt, die die Prüfung nicht bestanden hat.
+        # Verworfen heißt: frühere geprüfte Fassung mit demselben Prompt, durchgefallen oder durch eine bessere ersetzt.
         # Bilder älterer Blockfassungen zählen nicht dazu (siehe stats.superseded).
         discarded = sum(1 for k, mm, pp in attempts(t, s, lang)
-                        if k < n and mm["prompt"] == prompt and qa.get(f"{t}/{pp.stem}", {}).get("verdict") == "fail")
+                        if k < n and mm["prompt"] == prompt and f"{t}/{pp.stem}" in qa)
         images.append({
             "type": t, "style": s, "lang": lang, "file": png.name, "attempt": n, "discarded": discarded,
             "prompt": prompt, "parts": {k: v for k, v in parts},
