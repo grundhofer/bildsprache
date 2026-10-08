@@ -574,15 +574,18 @@ def usecase_cards(lang, page, current=None):
         pools = [[e for e in pub_images(mid) if not e.get("ai_default")] for mid in u["motifs"]]
         pools = [p[i * 2 % len(p):] + p[:i * 2 % len(p)] for p in pools if p]
         pools = [sorted(p, key=lambda e: e["qa"]["verdict"] != "pass") for p in pools]
+        # Nur Querformate: vier Bilder im 2×2-Raster, das füllt die 3:2-Kachel ohne Beschnitt
+        wide = all(e["size"] == "1536x1024" for e in imgs)
+        n = 4 if wide else 3
         pics = []
         for fresh in (True, False):
             for k in range(max(map(len, pools), default=0)):
                 for p in pools:
-                    if len(pics) < 3 and k < len(p) and p[k] not in pics and (not fresh or p[k]["style"] not in used):
+                    if len(pics) < n and k < len(p) and p[k] not in pics and (not fresh or p[k]["style"] not in used):
                         pics.append(p[k])
         used.update(p["style"] for p in pics)
-        mos = "".join(f'<img src="{img_src(p, page, True)}" alt="" loading="lazy" width="{thumb_dims(p)[0]}" height="{thumb_dims(p)[1]}">' for p in pics[:3])
-        out.append(f'<a class="mcard" href="{rel(page, path(lang, "usecase", u["id"]))}"><div class="mos">{mos}</div>'
+        mos = "".join(f'<img src="{img_src(p, page, True)}" alt="" loading="lazy" width="{thumb_dims(p)[0]}" height="{thumb_dims(p)[1]}">' for p in pics)
+        out.append(f'<a class="mcard" href="{rel(page, path(lang, "usecase", u["id"]))}"><div class="mos{" wide" if wide else ""}">{mos}</div>'
                    f'<div class="mt"><span class="tier">{len(uc_styles(u))} {ui["styles_n"]} · {len(imgs)} {ui["images"]}</span>'
                    f'<h3>{h(u["name_" + lang])}</h3><p>{h(u["summary_" + lang])}</p></div></a>')
     return f'<div class="motifs">{"".join(out)}</div>'
