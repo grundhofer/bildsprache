@@ -4,8 +4,9 @@
 
 **Ein Motiv, viele Bildsprachen: KI-Bilder müssen nicht gleich aussehen.**
 
-__N_MOTIFS__ feste Motive, __N_LEAD__ Leitstile, __N_IMAGES__ Bilder, jedes mit dem Prompt, der es erzeugt hat.
-Dazu ein Lexikon mit __N_LEX__ Bildstilen und eine Übersicht, woran man KI-Bilder erkennt.
+Bildstile nach Anwendung (Infografik, Diagramm, Icons, Porträt, Produkt, Plakat, Illustration, Karte, Stimmungsbild):
+__N_IMAGES__ Bilder in __N_LEAD__ Leitstilen, jedes mit dem Prompt, der es erzeugt hat, dem Stilblock allein und einer
+Vorlage für eigene Inhalte. Dazu ein Lexikon mit __N_LEX__ ausgewählten Bildstilen und eine Übersicht, woran man KI-Bilder erkennt.
 
 **[Katalog öffnen](https://grundhofer.github.io/bildsprache/)** ·
 [Deutsch](https://grundhofer.github.io/bildsprache/de/) ·
@@ -40,9 +41,9 @@ veröffentlichte Bild, dass sein Prompt genau so zusammengesetzt ist.
 
 ## Inhalt
 
-- **[Motive](https://grundhofer.github.io/bildsprache/de/motive/):** __N_MOTIFS__ Grafiktypen, jeweils mit Basislinie und Stilraster, filterbar nach Kategorie.
+- **[Anwendungen](https://grundhofer.github.io/bildsprache/de/):** der Einstieg. Jede Anwendung fasst eines oder mehrere der __N_MOTIFS__ Motive zusammen, zeigt sie in allen Stilen mit Kopierknöpfen (ganzer Prompt, nur Stil) und hat eine Vorlage zum Ausfüllen mit eigenen Inhalten.
 - **[Leitstile](https://grundhofer.github.io/bildsprache/de/stile/):** __N_LEAD__ Faktenblätter mit Herkunft, Merkmalen, Stilblock zum Kopieren und Quellen.
-- **[Lexikon](https://grundhofer.github.io/bildsprache/de/lexikon/):** __N_LEX__ Stile in 14 Kategorien, jeweils mit Prompt-Baustein und, außer bei Leitstilen und gemeinschaftsgebundenen Traditionen, kleinem Beispielbild.
+- **[Lexikon](https://grundhofer.github.io/bildsprache/de/lexikon/):** __N_LEX__ ausgewählte Stile in 14 Kategorien (Leitstile und alle Einträge mit großem Abstand zum KI-Look und hoher Machbarkeit), jeweils mit Prompt-Baustein, manche mit kleinem Beispielbild. `data/lexicon.json` enthält alle recherchierten Einträge.
 - **[KI-Look & Hebel](https://grundhofer.github.io/bildsprache/de/hebel/):** typische Merkmale von KI-Bildern, jeweils mit Gegenhebel, und Stilhebel zu Licht, Optik, Komposition, Farbe und Schrift.
 - **[Methode](https://grundhofer.github.io/bildsprache/de/methode/):** wie Bilder und Texte entstanden, wie geprüft wurde und wo die Grenzen liegen.
 
@@ -81,6 +82,7 @@ python3 tools/lexicon.py optimize        # WebP-Dateien in images/lexicon/
 
 | Pfad | Inhalt |
 | --- | --- |
+| `data/usecases.json` | Die Anwendungen: zugehörige Motive, Vorlage mit Platzhaltern |
 | `data/motifs.json` | Die Motive mit Motivblock, Format und erlaubtem Text |
 | `data/matrix.json` | Welcher Stil auf welchem Motiv erscheint |
 | `data/lexicon.json` | Alle Stile mit Kategorie, Merkmalen und Prompt-Baustein |

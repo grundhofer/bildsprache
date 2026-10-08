@@ -4,8 +4,9 @@
 
 **One motif, many visual languages: AI images need not look alike.**
 
-__N_MOTIFS__ fixed motifs, __N_LEAD__ lead styles, __N_IMAGES__ images, each with the prompt that made it.
-Plus a lexicon of __N_LEX__ image styles and an overview of how to recognise AI images.
+Image styles by use case (infographic, chart, icons, portrait, product, poster, illustration, map, mood image):
+__N_IMAGES__ images in __N_LEAD__ lead styles, each with the prompt that made it, the style block on its own and a
+template for your own content. Plus a lexicon of __N_LEX__ selected image styles and an overview of how to recognise AI images.
 
 **[Open the catalogue](https://grundhofer.github.io/bildsprache/)** ·
 [English](https://grundhofer.github.io/bildsprache/en/) ·
@@ -40,9 +41,9 @@ published image that its prompt is assembled exactly this way.
 
 ## Contents
 
-- **[Motifs](https://grundhofer.github.io/bildsprache/en/motifs/):** __N_MOTIFS__ graphic types, each with a baseline and a style grid, filterable by category.
+- **[Use cases](https://grundhofer.github.io/bildsprache/en/):** the entry point. Each use case groups one or more of the __N_MOTIFS__ motifs, shows them in every style with copy buttons (full prompt, style only) and has a template builder for your own content.
 - **[Lead styles](https://grundhofer.github.io/bildsprache/en/styles/):** __N_LEAD__ fact sheets with origin, markers, a copyable style block and sources.
-- **[Lexicon](https://grundhofer.github.io/bildsprache/en/lexicon/):** __N_LEX__ styles in 14 categories, each with a prompt fragment and, apart from the lead styles and community-bound traditions, a small example image.
+- **[Lexicon](https://grundhofer.github.io/bildsprache/en/lexicon/):** __N_LEX__ selected styles in 14 categories (lead styles plus every entry with high distance from the AI look and high feasibility), each with a prompt fragment, some with a small example image. `data/lexicon.json` holds all researched entries.
 - **[AI look & levers](https://grundhofer.github.io/bildsprache/en/levers/):** typical markers of AI images, each with a counter-lever, and style levers for light, optics, composition, colour and lettering.
 - **[Method](https://grundhofer.github.io/bildsprache/en/method/):** how images and texts were made, how they were checked and where the limits are.
 
@@ -81,6 +82,7 @@ python3 tools/lexicon.py optimize        # WebP files in images/lexicon/
 
 | Path | Contents |
 | --- | --- |
+| `data/usecases.json` | The use cases: which motifs belong to them, template with placeholders |
 | `data/motifs.json` | The motifs with motif block, format and allowed text |
 | `data/matrix.json` | Which style appears on which motif |
 | `data/lexicon.json` | All styles with category, markers and prompt fragment |

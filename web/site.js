@@ -88,11 +88,23 @@
       var value = chip.dataset.filter;
       group.querySelectorAll('[data-filter]').forEach(function (c) { c.setAttribute('aria-pressed', String(c === chip)); });
       var shown = 0;
+      // data-cat kann mehrere Werte tragen (Stilübersicht: alle Anwendungen eines Stils)
       grid.querySelectorAll('[data-cat]').forEach(function (card) {
-        var on = value === '*' || card.dataset.cat === value;
+        var on = value === '*' || card.dataset.cat.split(' ').indexOf(value) >= 0;
         card.hidden = !on; if (on) shown++;
+        if (on && card.dataset.srcs) {
+          var srcs = JSON.parse(card.dataset.srcs), img = card.querySelector('img');
+          if (!img.dataset.src0) { img.dataset.src0 = img.getAttribute('src'); img.dataset.alt0 = img.alt; }
+          var pick = srcs[value] || [img.dataset.src0, img.dataset.alt0];
+          img.src = pick[0]; img.alt = pick[1];
+        }
       });
-      if (tally) tally.textContent = shown + ' ' + t(shown === 1 ? 'image' : 'images');
+      // Abschnitte ohne sichtbare Karte ausblenden
+      grid.querySelectorAll('[data-group]').forEach(function (sec) {
+        sec.hidden = !sec.querySelector('[data-cat]:not([hidden])');
+      });
+      var unit = group.dataset.unit || 'image';
+      if (tally) tally.textContent = shown + ' ' + t(shown === 1 ? unit : unit + 's');
     });
   });
 
@@ -163,6 +175,8 @@
       $('[data-lb-copy-all]').dataset.text = c.prompt;
       var cs = $('[data-lb-copy-style]');
       cs.hidden = !c.styleBlock; cs.dataset.text = c.styleBlock || '';
+      var ct = $('[data-lb-copy-tpl]');
+      ct.hidden = !c.tpl; ct.dataset.text = c.tpl || '';
       var meta = $('.lb-meta'); meta.innerHTML = '';
       c.meta.forEach(function (m) {
         var dt = document.createElement('dt'); dt.textContent = m[0];
@@ -178,6 +192,8 @@
       keepFocus(prev, next.disabled ? close : next, had);
       keepFocus(next, prev.disabled ? close : prev, had);
       keepFocus(cmpBtn, close, had);
+      keepFocus(cs, close, had);
+      keepFocus(ct, close, had);
       var side = $('.lb-side'); if (side) side.scrollTop = 0;
       dlg.scrollTop = 0;
       if (announceIt && live) live.textContent = c.title + ' – ' + (pos + 1) + ' / ' + vis.length;
@@ -209,6 +225,7 @@
     });
     $('[data-lb-copy-all]').addEventListener('click', function (ev) { copyText(ev.currentTarget.dataset.text, ev.currentTarget); });
     $('[data-lb-copy-style]').addEventListener('click', function (ev) { copyText(ev.currentTarget.dataset.text, ev.currentTarget); });
+    $('[data-lb-copy-tpl]').addEventListener('click', function (ev) { copyText(ev.currentTarget.dataset.text, ev.currentTarget); });
     document.addEventListener('keydown', function (ev) {
       if (!dlg.open || ev.target.matches('input[type="range"]')) return;
       if (ev.key === 'ArrowRight') { step(1); ev.preventDefault(); }
@@ -218,6 +235,48 @@
     dlg.addEventListener('pointerdown', function (ev) { downOnBackdrop = ev.target === dlg; });
     dlg.addEventListener('click', function (ev) { if (ev.target === dlg && downOnBackdrop) dlg.close(); });
     dlg.addEventListener('close', function () { if (opener) opener.focus(); });
+  }
+
+  /* ---------- Vorlage (Anwendungsseite) ---------- */
+  var bData = document.getElementById('builder-data');
+  if (bData) {
+    var B = JSON.parse(bData.textContent);
+    var bStyle = document.getElementById('b-style'), bSubject = document.getElementById('b-subject');
+    var bText = document.getElementById('b-text'), bFormat = document.getElementById('b-format');
+    var bOut = document.getElementById('b-out');
+    function quoteLines(text) {
+      return text.split('\n').map(function (l) { return l.trim(); }).filter(Boolean)
+        .map(function (l) { return "'" + l.replace(/'/g, '’') + "'"; }).join(', ');
+    }
+    function buildPrompt() {
+      var style = B.styles[bStyle.value] || '';
+      var subject = bSubject.value.trim() || B.subject;
+      var guards = B.guards[bFormat.value] || '';
+      if (bText && bText.value.trim()) guards = guards.replace(B.slot, quoteLines(bText.value));
+      var parts = [['style', 'Style: ' + style.trim()], ['motif', 'Subject: ' + subject], ['guards', 'Constraints: ' + guards]];
+      bOut.innerHTML = '';
+      parts.forEach(function (p) {
+        var d = document.createElement('div'); d.className = 'seg seg-' + p[0];
+        var i = document.createElement('i'); i.textContent = t('part_' + p[0]); d.appendChild(i);
+        var sp = document.createElement('span'); sp.lang = 'en'; sp.textContent = p[1]; d.appendChild(sp);
+        bOut.appendChild(d);
+      });
+      document.getElementById('b-text-all').textContent = parts.map(function (p) { return p[1]; }).join('\n\n');
+      document.getElementById('b-style-only').textContent = style;
+    }
+    [bStyle, bSubject, bText, bFormat].forEach(function (x) { if (x) x.addEventListener('input', buildPrompt); });
+    bStyle.addEventListener('change', buildPrompt);
+    bFormat.addEventListener('change', buildPrompt);
+    // „Vorlage ↓“ unter einem Bild: Stil übernehmen und zur Vorlage springen
+    document.addEventListener('click', function (ev) {
+      var b = ev.target.closest('[data-use-style]');
+      if (!b || !B.styles[b.dataset.useStyle]) return;
+      bStyle.value = b.dataset.useStyle;
+      buildPrompt();
+      document.getElementById('vorlage').scrollIntoView();
+      bSubject.focus({ preventScroll: true });
+    });
+    buildPrompt();
   }
 
   /* ---------- Lexikon ---------- */

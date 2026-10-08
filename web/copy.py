@@ -6,59 +6,56 @@ Redaktionelle Texte stehen unter CC BY 4.0 (siehe LICENSE-CONTENT.md).
 COPY = {
  "de": {
   "home": {
-   "title": "Bildsprache – Ein Motiv, viele Bildsprachen",
-   "desc": "16 feste Motive in vielen Bildstilen, jedes Bild mit kopierbarem Prompt. Gegen den austauschbaren KI-Look: "
-           "Fotografie, Malerei, Druckgrafik, Infografik, Plakat, Pixel-Art und mehr.",
-   "eyebrow": "Stilkatalog für KI-Bildgenerierung",
-   "h1": "Ein Motiv,<br><em>viele Bildsprachen.</em>",
-   "lede": "KI-Bilder sehen oft gleich aus: warmes Gegenlicht, glatte Haut, Bildmitte, Infografiken aus denselben "
-           "bunten Kacheln. Das liegt oft weniger am Modell als am Prompt. Hier läuft <strong>dasselbe Motiv durch "
-           "viele Stile</strong>, und jedes Bild zeigt den Prompt, der es erzeugt hat.",
+   "title": "Bildsprache – Bildstile für Infografik, Porträt, Icons und mehr",
+   "desc": "Bildstile für KI-Bilder nach Anwendung: Infografik, Diagramm, Icons, Porträt, Produkt, Plakat, Illustration, "
+           "Karte und Stimmungsbild. Jedes Bild mit kopierbarem Prompt, Stilblock und Vorlage für eigene Inhalte.",
+   "eyebrow": "Bildstile für KI-Bilder",
+   "h1": "Was willst du<br><em>erstellen?</em>",
+   "lede": "Wähl eine Anwendung, such dir einen Look aus und kopier, was du brauchst: <strong>den ganzen Prompt, nur den "
+           "Stil oder eine Vorlage</strong>, in die du deine eigenen Inhalte einsetzt. Jedes Bild hier ist mit genau dem "
+           "Prompt entstanden, der daneben steht.",
+   "uc_h": "Anwendungen",
+   "uc_p": "Jede Anwendung zeigt dieselbe Aufgabe in vielen Stilen, dazu das Bild ohne Stilangabe zum Vergleich und eine "
+           "Vorlage zum Ausfüllen.",
+   "how_h": "So benutzt du einen Stil",
+   "how_p": "Jeder Prompt hat drei Teile: Stil, Inhalt und Leitplanken. Der Stil ist austauschbar, der Inhalt ist deiner.",
+   "how_steps": [
+    ["Ganzer Prompt:", "genau dieses Bild noch einmal erzeugen, als Ausgangspunkt."],
+    ["Nur Stil:", "den Stilblock vor deine eigene Beschreibung oder deine Daten setzen, etwa „Mach daraus eine Infografik in diesem Stil“."],
+    ["Vorlage:", "Stil, Inhalt mit Platzhaltern in [ECKIGEN KLAMMERN] und passende Leitplanken. Platzhalter ersetzen, fertig."],
+   ],
+   "why_h": "Warum überhaupt einen Stil angeben?",
+   "why_p": "Ohne Stilangabe liefert das Modell seinen Standardlook: warmes Gegenlicht, glatte Haut, Bildmitte, bunte Kacheln.",
+   "base_link": "Woran man ihn erkennt →",
    "hero_slider": "Regler: links der Stil, rechts dasselbe Motiv ohne Stilangabe",
    "hero_h": "Gleicher Inhalt, anderer Prompt",
    "hero_p": "Beide Bilder beschreiben dieselbe Szene Wort für Wort. Rechts fehlt nur der Stilblock. Zieh den Regler "
              "und wähle einen Stil.",
    "hero_pick": "Stil wählen",
    "hero_more": "Zum Faktenblatt:",
-   "base_h": "Ohne Stilangabe sieht vieles gleich aus",
-   "base_p": "Diese 16 Bilder entstanden aus vollständigen, genauen Motivbeschreibungen, nur ohne Angabe zu Medium, "
-             "Epoche, Licht oder Technik. Was dabei herauskommt, ist der Standardlook des Modells.",
-   "base_link": "Woran man ihn erkennt →",
-   "motifs_h": "16 Motive",
-   "motifs_p": "Jedes Motiv legt den Inhalt fest, nicht die Anordnung. Alle spielen auf der erfundenen Insel Lornholm. "
-               "Menschen, Infografik, Plakat, Karte, Datendiagramm und weitere Grafiktypen prüfen jeweils etwas anderes.",
-   "flag_h": "Leitstile über alle Motive",
-   "flag_p": "Ein Stil ist kein Filter, sondern ein System aus Entscheidungen zu Linie, Fläche, Schrift und Aufbau. "
-             "Diese Stile laufen durch alle 16 Motive.",
-   "anat_h": "So ist jeder Prompt gebaut",
-   "anat_p": "Drei Teile, immer in derselben Reihenfolge. Der Motivblock ist für alle Bilder eines Motivs wortgleich, "
-             "der Stilblock für alle Bilder eines Stils. Was sich zwischen zwei Bildern unterscheidet, steht also nur im "
-             "Stilblock.",
-   "anat_side": "<p>Der <b>Stilblock</b> beschreibt Medium und Technik, aber auch Komposition, Schrift und Aufbau von "
-                "Informationen. Ohne diese Angaben übernimmt das Modell seine Standardkomposition und legt den Stil nur "
-                "wie einen Filter darüber.</p><p>Die <b>Leitplanken</b> nennen Format, erlaubten Text und was nicht "
-                "geschönt werden darf.</p>",
-   "cats_h": "{n} Stile in 14 Kategorien",
-   "cats_p": "Das Lexikon enthält jeden Stil mit Merkmalen und einem Prompt-Baustein, auch die ohne Beispielbild. "
-             "Vom Daguerreotypie-Porträt bis zum Frutiger-Aero-Wallpaper.",
+   "more_h": "Weiter stöbern",
+   "more_p": "Für alle, die einen Stil genauer kennenlernen oder nach etwas Bestimmtem suchen.",
+   "more_styles": ["Stile mit Faktenblatt", "Herkunft, Erkennungsmerkmale, Stolperfallen und der Stilblock zum Kopieren, mit Bildern aus allen Anwendungen."],
+   "more_lexicon": ["Lexikon", "Ausgewählte Stile mit Prompt-Baustein, durchsuchbar, vom Daguerreotypie-Porträt bis zum Frutiger-Aero-Wallpaper."],
+   "more_levers": ["KI-Look erkennen", "Woran man KI-Bilder erkennt und mit welchen Formulierungen man gegensteuert."],
   },
-  "motifs": {
-   "title": "16 Motive – Bildsprache", "desc": "Die 16 Referenzmotive von Bildsprache, jedes in vielen Stilen.",
-   "eyebrow": "Referenzmotive", "h1": "16 Motive",
-   "lede": "Jedes Motiv ist ein fester Text, der den Inhalt beschreibt: wer, was, wo, welche Gegenstände. Farbe, Licht, "
-           "Optik, Medium und Anordnung bleiben dem Stil überlassen. So lassen sich Stile vergleichen, ohne dass alle "
-           "Bilder gleich gebaut sind.",
+  "usecase": {
+   "lede_more": "Klick auf ein Bild zeigt den ganzen Prompt; unter jedem Bild kopierst du Prompt oder Stil direkt.",
+   "examples": "Beispielmotive", "format": "Format",
+   "grid_h": "In {n} Stilen",
+   "grid_p": "Am Ende steht dasselbe Motiv ohne Stilangabe.",
+   "motif_h": "Beispielmotiv: so ist der Inhalt beschrieben",
+   "b_h": "Deinen eigenen Prompt bauen",
+   "b_p": "Stil wählen, Inhalt eintragen, kopieren. Bleibt ein Feld leer, steht im Prompt ein Platzhalter in [ECKIGEN KLAMMERN]. "
+          "Prompts funktionieren auf Englisch am verlässlichsten; den Inhalt kannst du aber auch auf Deutsch schreiben.",
+   "b_style": "Stil", "b_subject": "Inhalt: was soll zu sehen sein?",
+   "b_subject_hint": "Der Platzhalter zeigt, was eine gute Beschreibung enthält. Anordnung und Gestaltung überlässt du dem Stil.",
+   "b_text": "Text im Bild, eine Zeile pro Textstück", "b_text_ph": "Vom Korn zum Brot\n1 Säen\n2 Ernten",
+   "b_format": "Format",
   },
   "motif": {
-   "format": "Format", "strings": "Texte im Bild", "tier": "Rang",
-   "block_h": "Motivblock", "block_p": "Dieser Text steht wortgleich in jedem Prompt dieses Motivs. Er ist englisch, "
-                                      "weil das Modell englische Prompts am verlässlichsten umsetzt.",
-   "tests_h": "Was das Motiv prüft", "text_h": "Exakter Text im Bild",
-   "base_h": "Ohne Stilangabe", "base_p": "Zweimal derselbe Prompt ohne Stilblock. Die Ähnlichkeit der beiden Läufe "
-                                         "zeigt, wie stabil der Standardlook ist.",
-   "grid_h": "In {n} Stilen", "grid_p": "Klick auf ein Bild öffnet den vollständigen Prompt, aufgeteilt in Stil, Motiv "
-                                        "und Leitplanken, und den Vergleich mit der Basislinie.",
-   "filter": "Nach Kategorie filtern",
+   "block_p": "Dieser Text steht wortgleich in jedem Prompt dieses Motivs. Er ist englisch, "
+              "weil das Modell englische Prompts am verlässlichsten umsetzt.",
    "de_h": "Mit deutschem Text im Bild", "de_p": "Dieselben Stile mit deutscher Beschriftung. Umlaute und das "
                                                 "Gradzeichen sind ein guter Härtetest für die Textdarstellung.",
   },
@@ -66,11 +63,13 @@ COPY = {
    "title": "Leitstile – Bildsprache", "desc": "Die Leitstile von Bildsprache mit Faktenblatt, Stilblock und Beispielbildern.",
    "eyebrow": "Leitstile", "h1": "Stile mit Bildern",
    "lede": "{n} Stile mit Faktenblatt, kopierbarem Stilblock und Beispielbildern. Weitere Stile ohne Bild stehen im Lexikon.",
+   "filter": "Nach Anwendung filtern",
   },
   "style": {
    "era": "Zeit", "category": "Kategorie", "feasibility": "Machbarkeit", "distinct": "Abstand zum KI-Look",
    "block_h": "Stilblock", "block_p": "Diesen Block vor deine Motivbeschreibung setzen. Er ist in allen Bildern dieses "
                                     "Stils wortgleich.",
+   "tpl_p": "Oder als Vorlage für eine Anwendung kopieren: Stilblock, Inhalt mit Platzhaltern und passende Leitplanken.",
    "origin_h": "Herkunft", "markers_h": "Erkennungsmerkmale", "aka": "Auch genannt", "family": "Einordnung",
    "escapes_h": "Warum er nicht nach KI aussieht", "escapes_ai_h": "Warum er nach KI aussieht", "pitfalls_h": "Wo es schiefgeht", "tip_h": "Tipp",
    "sens_h": "Zu beachten", "sources_h": "Quellen", "sheet_h": "Faktenblatt",
@@ -78,12 +77,12 @@ COPY = {
    "related_h": "Verwandte Stile im Lexikon", "related_p": "Weitere Stile derselben Familie im Lexikon, ohne eigenes Faktenblatt.",
   },
   "lexicon": {
-   "title": "Lexikon: {n} Bildstile – Bildsprache", "desc": "{n} Bildstile mit Merkmalen und Prompt-Baustein, durchsuchbar.",
+   "title": "Lexikon: {n} Bildstile – Bildsprache", "desc": "{n} ausgewählte Bildstile mit Merkmalen und Prompt-Baustein, durchsuchbar.",
    "eyebrow": "Lexikon", "h1": "{n} Bildstile",
-   "lede": "Jeder Eintrag nennt Herkunft, Merkmale und einen englischen Prompt-Baustein, den du an eine eigene "
-           "Motivbeschreibung anhängen kannst. Machbarkeit und Abstand zum KI-Look sind redaktionelle Einschätzungen. "
-           "Die Leitstile sind gründlich mit Bildern geprüft; zu {m} der übrigen Stile gibt es ein kleines Beispielbild, "
-           "kurz geprüft, bei Fehlschlag ein Neuversuch.",
+   "lede": "Eine Auswahl aus {all} recherchierten Stilen: die Leitstile und alle, die sich deutlich vom KI-Look abheben "
+           "und sich verlässlich erzeugen lassen. Jeder Eintrag nennt Herkunft, Merkmale und einen englischen "
+           "Prompt-Baustein, den du an eine eigene Beschreibung anhängen kannst. Zu {m} Stilen gibt es ein kleines "
+           "Beispielbild, kurz geprüft, bei Fehlschlag ein Neuversuch.",
    "search": "Stil, Epoche, Material …", "search_label": "Suchen", "entries_h": "Einträge", "only_lead": "nur Leitstile mit Bildern",
    "noscript": "Das Lexikon braucht JavaScript. Die Daten liegen auch als JSON im Repository (data/lexicon.json).",
   },
@@ -144,12 +143,15 @@ schon als Abweichung.</p>
 <p>Das Lexikon mit {lex} Einträgen entstand in einer Recherche mit 32 KI-Agenten: 14 Fachgebiete von Fotografie bis
 Internetästhetik, danach Zusammenführung von Dubletten und drei Runden Lückensuche aus vier Blickwinkeln. Die Einträge
 wurden anschließend einzeln auf Plausibilität geprüft, gründlich im Bild aber nur die {lead} Leitstile. Machbarkeit und
-Abstand zum KI-Look sind redaktionelle Einschätzungen, keine Messwerte.</p>
+Abstand zum KI-Look sind redaktionelle Einschätzungen, keine Messwerte. Auf der Website stehen davon {lex_pub}: die
+Leitstile und alle Einträge mit großem Abstand zum KI-Look (4 oder 5 von 5) und hoher Machbarkeit. Die übrigen bleiben im
+Repository (data/lexicon.json).</p>
 <p>Zu {lex_images} der übrigen Stile gibt es ein kleines Beispielbild. Es entsteht aus dem Prompt-Baustein des Eintrags
 und einem von zwei einfachen Motiven: einer Leuchtturmwärterin mit Besen oder, bei Grafikdesign und Infografik, einem
 Infoblatt mit drei Punkten. Ein Prüfagent hat jedes Bild kurz angesehen: Ist der Stil erkennbar, ist das Motiv da, gibt
 es Logos oder erfundenen Text? Fiel ein Bild durch, gab es einen Neuversuch. {lex_flawed} Bilder zeigen eine dokumentierte
-Abweichung, {lex_failed} sind als Fehlversuch markiert; insgesamt waren es {lex_calls} Bildaufrufe. Die {lex_restricted}
+Abweichung, {lex_failed} sind als Fehlversuch markiert; insgesamt waren es {lex_calls} Bildaufrufe. Davon gehören
+{lex_images_pub} zu Stilen, die auf der Website stehen. Die {lex_restricted}
 Einträge zu gemeinschaftsgebundenen Traditionen zeigen auf der Website weder Prompt-Baustein noch Bild.</p>
 <h2>Grenzen</h2>
 <ul>
@@ -174,57 +176,53 @@ dasselbe für Benutzeroberflächen.</p>
  },
  "en": {
   "home": {
-   "title": "Bildsprache – One motif, many visual languages",
-   "desc": "16 fixed motifs in many image styles, each image with a copyable prompt. Against the interchangeable AI look: "
-           "photography, painting, printmaking, infographics, posters, pixel art and more.",
-   "eyebrow": "Style catalogue for AI image generation",
-   "h1": "One motif,<br><em>many visual languages.</em>",
-   "lede": "AI images often look alike: warm backlight, smooth skin, centred subjects, infographics built from the same "
-           "colourful tiles. That is often less the model's doing than the prompt's. Here <strong>the same motif runs "
-           "through many styles</strong>, and every image shows the prompt that made it.",
+   "title": "Bildsprache – Image styles for infographics, portraits, icons and more",
+   "desc": "Image styles for AI images by use case: infographic, chart, icons, portrait, product, poster, illustration, "
+           "map and mood image. Every image with a copyable prompt, style block and a template for your own content.",
+   "eyebrow": "Image styles for AI images",
+   "h1": "What do you want<br><em>to make?</em>",
+   "lede": "Pick a use case, choose a look and copy what you need: <strong>the full prompt, the style only or a "
+           "template</strong> to fill with your own content. Every image here was made with exactly the prompt shown "
+           "next to it.",
+   "uc_h": "Use cases",
+   "uc_p": "Each use case shows the same task in many styles, the image without a style for comparison and a template to fill in.",
+   "how_h": "How to use a style",
+   "how_p": "Every prompt has three parts: style, content and constraints. The style is interchangeable, the content is yours.",
+   "how_steps": [
+    ["Full prompt:", "make exactly this image again, as a starting point."],
+    ["Style only:", "put the style block in front of your own description or data, e.g. 'Turn this into an infographic in this style'."],
+    ["Template:", "style, content with placeholders in [SQUARE BRACKETS] and matching constraints. Replace the placeholders and you are done."],
+   ],
+   "why_h": "Why give a style at all?",
+   "why_p": "Without a style the model delivers its default look: warm backlight, smooth skin, centred subjects, colourful tiles.",
+   "base_link": "How to recognise it →",
    "hero_slider": "Slider: the style on the left, the same motif without a style on the right",
    "hero_h": "Same content, different prompt",
    "hero_p": "Both images describe the same scene word for word. The right one only lacks the style block. Drag the "
              "slider and pick a style.",
    "hero_pick": "Pick a style",
    "hero_more": "Fact sheet:",
-   "base_h": "Without a style, much looks the same",
-   "base_p": "These 16 images come from complete, precise motif descriptions, only without any mention of medium, era, "
-             "light or technique. What comes out is the model's default look.",
-   "base_link": "How to recognise it →",
-   "motifs_h": "16 motifs",
-   "motifs_p": "Each motif fixes the content, not the arrangement. All of them are set on the fictional island of "
-               "Lornholm. People, infographic, poster, map, data chart and the other graphic types each test something else.",
-   "flag_h": "Lead styles across all motifs",
-   "flag_p": "A style is not a filter but a system of decisions about line, surface, lettering and structure. These "
-             "styles run through all 16 motifs.",
-   "anat_h": "How every prompt is built",
-   "anat_p": "Three parts, always in the same order. The motif block is identical for every image of a motif, the style "
-             "block for every image of a style. Whatever differs between two images therefore sits in the style block only.",
-   "anat_side": "<p>The <b>style block</b> covers medium and technique, and also composition, lettering and the way the "
-                "style organises information. Without that, the model keeps its default composition and lays the style "
-                "on top like a filter.</p><p>The <b>guards</b> state the format, the allowed text and what must not be "
-                "prettified.</p>",
-   "cats_h": "{n} styles in 14 categories",
-   "cats_p": "The lexicon lists every style with its markers and a prompt fragment, including those without an example "
-             "image. From the daguerreotype portrait to the Frutiger Aero wallpaper.",
+   "more_h": "Keep exploring",
+   "more_p": "For getting to know a style in depth or looking for something specific.",
+   "more_styles": ["Styles with fact sheets", "Origin, markers, pitfalls and the style block to copy, with images from every use case."],
+   "more_lexicon": ["Lexicon", "Selected styles with a prompt fragment, searchable, from the daguerreotype portrait to the Frutiger Aero wallpaper."],
+   "more_levers": ["Spotting the AI look", "How to recognise AI images and which phrases counter it."],
   },
-  "motifs": {
-   "title": "16 motifs – Bildsprache", "desc": "The 16 reference motifs of Bildsprache, each in many styles.",
-   "eyebrow": "Reference motifs", "h1": "16 motifs",
-   "lede": "Each motif is a fixed text that describes the content: who, what, where, which objects. Colour, light, optics, "
-           "medium and arrangement are left to the style. That keeps styles comparable without every image being built "
-           "the same way.",
+  "usecase": {
+   "lede_more": "Click an image for the full prompt; the buttons under each image copy the prompt or the style directly.",
+   "examples": "example motifs", "format": "Format",
+   "grid_h": "In {n} styles",
+   "grid_p": "The same motif without a style comes last.",
+   "motif_h": "Example motif: how the content is described",
+   "b_h": "Build your own prompt",
+   "b_p": "Pick a style, enter your content, copy. Any field left empty becomes a placeholder in [SQUARE BRACKETS].",
+   "b_style": "Style", "b_subject": "Content: what should the image show?",
+   "b_subject_hint": "The placeholder shows what a good description contains. Leave layout and design to the style.",
+   "b_text": "Text in the image, one line per string", "b_text_ph": "From Grain to Bread\n1 Sow\n2 Harvest",
+   "b_format": "Format",
   },
   "motif": {
-   "format": "Format", "strings": "Strings in image", "tier": "Rank",
-   "block_h": "Motif block", "block_p": "This text appears word for word in every prompt for this motif.",
-   "tests_h": "What the motif tests", "text_h": "Exact text in the image",
-   "base_h": "No style given", "base_p": "The same prompt twice, without a style block. How similar the two runs are "
-                                        "shows how stable the default look is.",
-   "grid_h": "In {n} styles", "grid_p": "Click an image to see the full prompt, split into style, motif and guards, "
-                                        "and to compare it with the baseline.",
-   "filter": "Filter by category",
+   "block_p": "This text appears word for word in every prompt for this motif.",
    "de_h": "With German text in the image", "de_p": "The same styles with German labels. Umlauts and the degree sign "
                                                    "are a good stress test for text rendering.",
   },
@@ -232,10 +230,12 @@ dasselbe für Benutzeroberflächen.</p>
    "title": "Lead styles – Bildsprache", "desc": "The lead styles of Bildsprache with fact sheet, style block and example images.",
    "eyebrow": "Lead styles", "h1": "Styles with images",
    "lede": "{n} styles with a fact sheet, a copyable style block and example images. More styles without images are in the lexicon.",
+   "filter": "Filter by use case",
   },
   "style": {
    "era": "Period", "category": "Category", "feasibility": "Feasibility", "distinct": "Distance from AI look",
    "block_h": "Style block", "block_p": "Put this block in front of your motif description. It is identical in every image of this style.",
+   "tpl_p": "Or copy it as a template for a use case: style block, content with placeholders and matching constraints.",
    "origin_h": "Origin", "markers_h": "Markers", "aka": "Also known as", "family": "Classification",
    "escapes_h": "Why it does not look like AI", "escapes_ai_h": "Why it looks like AI", "pitfalls_h": "Where it goes wrong", "tip_h": "Tip",
    "sens_h": "Keep in mind", "sources_h": "Sources", "sheet_h": "Fact sheet",
@@ -243,11 +243,11 @@ dasselbe für Benutzeroberflächen.</p>
    "related_h": "Related styles in the lexicon", "related_p": "More styles of the same family in the lexicon, without their own fact sheet.",
   },
   "lexicon": {
-   "title": "Lexicon: {n} image styles – Bildsprache", "desc": "{n} image styles with markers and a prompt fragment, searchable.",
+   "title": "Lexicon: {n} image styles – Bildsprache", "desc": "{n} selected image styles with markers and a prompt fragment, searchable.",
    "eyebrow": "Lexicon", "h1": "{n} image styles",
-   "lede": "Each entry gives the origin, the markers and an English prompt fragment you can append to your own motif "
-           "description. Feasibility and distance from the AI look are editorial judgements. The lead styles are tested "
-           "thoroughly with images; {m} of the other styles have a small example image, briefly reviewed, with one retry if it failed.",
+   "lede": "A selection from {all} researched styles: the lead styles and every style that stands clearly apart from the "
+           "AI look and renders reliably. Each entry gives the origin, the markers and an English prompt fragment you can "
+           "append to your own description. {m} styles have a small example image, briefly reviewed, with one retry if it failed.",
    "search": "Style, period, material …", "search_label": "Search", "entries_h": "Entries", "only_lead": "lead styles with images only",
    "noscript": "The lexicon needs JavaScript. The data is also in the repository as JSON (data/lexicon.json).",
   },
@@ -306,12 +306,15 @@ a plaster on the wrong finger or four burners instead of two already count as a 
 <p>The lexicon of {lex} entries comes from research with 32 AI agents: 14 fields from photography to internet
 aesthetics, followed by merging duplicates and three rounds of gap-finding from four perspectives. The entries were then
 checked one by one for plausibility, but only the {lead} lead styles were tested thoroughly with images. Feasibility and
-distance from the AI look are editorial judgements, not measurements.</p>
+distance from the AI look are editorial judgements, not measurements. The site shows {lex_pub} of them: the lead
+styles and every entry with a large distance from the AI look (4 or 5 out of 5) and high feasibility. The rest stay in
+the repository (data/lexicon.json).</p>
 <p>{lex_images} of the other styles have a small example image. It is made from the entry's prompt fragment and one of
 two simple motifs: a lighthouse keeper with a broom or, for graphic design and infographics, an information sheet with
 three items. A review agent looked at each image briefly: is the style recognisable, is the motif there, are there logos
 or invented text? If an image failed, it got one retry. {lex_flawed} images show a documented deviation, {lex_failed}
-are marked as failed attempts; there were {lex_calls} image calls in total. The {lex_restricted} entries on
+are marked as failed attempts; there were {lex_calls} image calls in total. {lex_images_pub} of these images belong
+to styles shown on the site. The {lex_restricted} entries on
 community-bound traditions show neither a prompt fragment nor an image on the site.</p>
 <h2>Limits</h2>
 <ul>

@@ -115,7 +115,7 @@ class TestSite(unittest.TestCase):
     def test_lexicon_json(self):
         for lang in ("de", "en"):
             rows = json.loads((DOCS / "data" / f"lexicon.{lang}.json").read_text(encoding="utf-8"))
-            self.assertGreater(len(rows), 1000)
+            self.assertGreater(len(rows), 400)   # Auswahl, nicht alle Einträge aus data/lexicon.json
             self.assertTrue(all(r["name"] and r["cat"] for r in rows))
 
 

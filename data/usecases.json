@@ -1,0 +1,113 @@
+{
+ "_comment": "Anwendungen: Einstieg der Website. Jede Anwendung fasst ein oder mehrere Referenzmotive zusammen (Reihenfolge = Anzeigereihenfolge) und bringt eine Vorlage mit: Motivblock mit Platzhaltern in [ECKIGEN KLAMMERN] und Angaben für die Leitplanken. Die Leitplanken der Vorlage setzt build.py mit derselben Formulierung zusammen wie tools/prompts.py.",
+ "usecases": [
+  {
+   "id": "infographic",
+   "motifs": ["infographic"],
+   "size": "1024x1536", "figurative": false, "text": true,
+   "name_de": "Infografik",
+   "name_en": "Infographic",
+   "summary_de": "Abläufe, Erklärungen und Kennzahlen auf einer Seite: für Präsentationen, Berichte, Intranet und Social Media.",
+   "summary_en": "Processes, explanations and key figures on one page: for slides, reports, intranets and social media.",
+   "tip_de": "Den Inhalt vollständig vorgeben (Titel, Punkte, Zahlen) und den Text im Bild wörtlich in den Leitplanken nennen. Der Stilblock regelt dann Aufbau, Schrift und Bildzeichen.",
+   "tip_en": "Give the full content (title, points, numbers) and repeat the exact text in the constraints. The style block then handles layout, lettering and pictograms.",
+   "subject_en": "An infographic titled '[TITLE]'. It explains [TOPIC] in [3 to 6] steps or points: [POINT 1], [POINT 2], [POINT 3]. Use only these facts and numbers: [YOUR DATA]. Layout, lettering, pictures and how the points are connected are the style's choice."
+  },
+  {
+   "id": "charts",
+   "motifs": ["chart"],
+   "size": "1536x1024", "figurative": false, "text": true,
+   "name_de": "Diagramm",
+   "name_en": "Chart",
+   "summary_de": "Balken, Linien und Kreise mit echten Werten, die nicht nach Tabellenkalkulation aussehen.",
+   "summary_en": "Bars, lines and pies with real values that do not look like a spreadsheet.",
+   "tip_de": "Jeden Wert mit Beschriftung angeben und verlangen, dass er maßstabsgetreu abgetragen wird. Bildmodelle zeichnen Diagramme frei; für exakte Zahlen bleibt ein Diagrammwerkzeug sicherer.",
+   "tip_en": "Give every value with its label and ask for it to be drawn to scale. Image models draw charts freehand; for exact figures a charting tool is still safer.",
+   "subject_en": "A [bar / line / pie] chart titled '[TITLE]' showing [WHAT IS MEASURED]. Values: [LABEL 1] [VALUE 1], [LABEL 2] [VALUE 2], [LABEL 3] [VALUE 3]. Every value is plotted to scale. Axes, decoration and layout are the style's choice."
+  },
+  {
+   "id": "icons",
+   "motifs": ["icons"],
+   "size": "1024x1024", "figurative": false, "text": false,
+   "name_de": "Icons",
+   "name_en": "Icons",
+   "summary_de": "Zusammengehörige Bildzeichen für Folien, Websites und Apps, im selben Strich und derselben Farbwelt.",
+   "summary_en": "Matching pictograms for slides, websites and apps, with the same line and palette.",
+   "tip_de": "Alle Icons in einem Bild anfordern, dann teilen sie Strichstärke, Farben und Detailgrad. Jedes Objekt einzeln und einfach benennen.",
+   "tip_en": "Ask for all icons in one image so they share line weight, colours and level of detail. Name each object on its own and keep it simple.",
+   "subject_en": "A set of [6] icons arranged in a grid on a plain background, each showing one simple object: [ICON 1], [ICON 2], [ICON 3], [ICON 4], [ICON 5], [ICON 6]. All icons share the same line weight, palette and level of detail."
+  },
+  {
+   "id": "people",
+   "motifs": ["portrait", "people"],
+   "size": "1536x1024", "figurative": true, "text": false,
+   "name_de": "Porträt & Menschen",
+   "name_en": "Portrait & people",
+   "summary_de": "Porträts, Teambilder und Szenen mit Menschen, ohne Hochglanzhaut und Stockfoto-Lächeln.",
+   "summary_en": "Portraits, team images and scenes with people, without glossy skin and stock-photo smiles.",
+   "tip_de": "Alter, Statur und Besonderheiten genau beschreiben und eine Tätigkeit vorgeben. Wer nur „eine Person“ schreibt, bekommt das Durchschnittsgesicht des Modells.",
+   "tip_en": "Describe age, build and particular features and give the person something to do. Write only 'a person' and you get the model's average face.",
+   "subject_en": "[WHO: age, build, hair, clothing, one distinctive feature] [DOING WHAT] in [WHERE]. [OBJECTS AROUND THEM]. Viewpoint and framing are the style's choice."
+  },
+  {
+   "id": "product",
+   "motifs": ["product", "food"],
+   "size": "1024x1024", "figurative": false, "text": false,
+   "name_de": "Produkt & Food",
+   "name_en": "Product & food",
+   "summary_de": "Produktbilder, Gerichte und Stillleben für Shop, Speisekarte oder Pressemappe.",
+   "summary_en": "Product shots, dishes and still lifes for a shop, a menu or a press kit.",
+   "tip_de": "Material, Farbe, Größe und Gebrauchsspuren nennen. Ein Stil mit eigener Lichtführung schlägt den weichen Standard-Studiolook.",
+   "tip_en": "Name material, colour, size and signs of use. A style with its own lighting beats the soft default studio look.",
+   "subject_en": "[PRODUCT OR DISH: material, colour, size, distinctive details] [ON OR IN WHAT SETTING], together with [PROPS]. Viewpoint, light and framing are the style's choice."
+  },
+  {
+   "id": "poster",
+   "motifs": ["poster"],
+   "size": "1024x1536", "figurative": false, "text": true,
+   "name_de": "Plakat & Titelbild",
+   "name_en": "Poster & cover",
+   "summary_de": "Plakate, Flyer und Titelbilder mit großer Schrift, bei denen Bild und Text zusammen gestaltet sind.",
+   "summary_en": "Posters, flyers and cover images with large lettering, where image and text are designed together.",
+   "tip_de": "Wenig Text, wörtlich vorgegeben. Ein Stil mit eigener Typografie verhindert, dass die Schrift nachträglich über ein Bild gelegt wirkt.",
+   "tip_en": "Little text, given word for word. A style with its own typography keeps the lettering from looking pasted onto a picture.",
+   "subject_en": "A poster for [EVENT OR TOPIC] with the headline '[HEADLINE]' and the line '[DATE · PLACE]'. Main image: [WHAT THE POSTER SHOWS]. Layout and lettering are the style's choice."
+  },
+  {
+   "id": "illustration",
+   "motifs": ["editorial", "character"],
+   "size": "1536x1024", "figurative": true, "text": false,
+   "name_de": "Illustration & Figur",
+   "name_en": "Illustration & character",
+   "summary_de": "Aufmacherbilder für Artikel, Blog und Newsletter, dazu Figuren und Maskottchen.",
+   "summary_en": "Lead images for articles, blogs and newsletters, plus characters and mascots.",
+   "tip_de": "Eine Szene oder ein Bild für das Thema beschreiben, nicht das Thema selbst. „Ein Leuchtturm im Nebel“ trägt weiter als „Unsicherheit im Markt“.",
+   "tip_en": "Describe a scene or a metaphor for the topic, not the topic itself. 'A lighthouse in fog' carries further than 'market uncertainty'.",
+   "subject_en": "An illustration for an article about [TOPIC]: [SCENE OR METAPHOR: who or what, doing what, where]. Viewpoint and framing are the style's choice."
+  },
+  {
+   "id": "map",
+   "motifs": ["map"],
+   "size": "1024x1024", "figurative": false, "text": true,
+   "name_de": "Karte",
+   "name_en": "Map",
+   "summary_de": "Lagepläne, Anfahrtsskizzen und Übersichtskarten mit wenigen, korrekt geschriebenen Namen.",
+   "summary_en": "Site plans, directions and overview maps with a few correctly spelled names.",
+   "tip_de": "Nur wenige Orte beschriften und jeden Namen wörtlich vorgeben. Für echte Orte ersetzt das Bild keine maßstäbliche Karte.",
+   "tip_en": "Label only a few places and give every name word for word. For real places the image does not replace a map drawn to scale.",
+   "subject_en": "A map of [PLACE] showing [FEATURES: coastline, roads, rivers, buildings] and these labelled places: '[PLACE 1]', '[PLACE 2]', '[PLACE 3]'. [ROUTE OR AREA TO HIGHLIGHT]. Orientation and level of detail are the style's choice."
+  },
+  {
+   "id": "mood",
+   "motifs": ["landscape", "street", "interior", "animal", "botanical"],
+   "size": "1536x1024", "figurative": false, "text": false,
+   "name_de": "Stimmungsbild & Hintergrund",
+   "name_en": "Mood & background",
+   "summary_de": "Landschaft, Stadt, Innenraum, Tier und Pflanze: Bilder für Folienhintergründe, Websites und Kapitelseiten.",
+   "summary_en": "Landscape, city, interior, animal and plant: images for slide backgrounds, websites and section pages.",
+   "tip_de": "Ort, Tageszeit und Wetter vorgeben und Platz für Text ausdrücklich verlangen, wenn das Bild als Hintergrund dient.",
+   "tip_en": "Give the place, time of day and weather, and ask for empty space for text if the image is meant as a background.",
+   "subject_en": "[PLACE OR SUBJECT] at [TIME OF DAY, WEATHER, SEASON]. [WHAT IS IN THE FOREGROUND AND BACKGROUND]. [WHERE TO LEAVE EMPTY SPACE FOR TEXT]. Viewpoint, light and framing are the style's choice."
+  }
+ ]
+}

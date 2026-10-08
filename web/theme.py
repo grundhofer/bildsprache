@@ -6,27 +6,27 @@ Kontraste prüft tests/test_theme.py.
 from pathlib import Path
 
 PALETTES = {
+    # Swiss / International Typographic Style: Schwarz und Weiß als System, Rot als einzige Signalfarbe
     'light': {
-        'ground':'#ECE9E2', 'surface':'#F7F5F0', 'surface-2':'#FDFCF9',
-        'ink':'#1B1A17', 'ink-2':'#524E47', 'ink-3':'#5A554D',
-        'rule':'#C9C3B7', 'rule-soft':'#DFDAD0',
-        'accent':'#8A3324', 'accent-ink':'#FDFCF9', 'accent-soft':'#F0DCD4', 'brass':'#7A5C22',
-        'tag-style':'#F3DED6', 'tag-motif':'#E4E1DA', 'tag-guard':'#EDE3C9',
+        'ground':'#FFFFFF', 'surface':'#FFFFFF', 'surface-2':'#F2F2F2',
+        'ink':'#0B0B0B', 'ink-2':'#3A3A3A', 'ink-3':'#5E5E5E',
+        'rule':'#B0B0B0', 'rule-soft':'#DADADA',
+        'accent':'#C8050F', 'accent-ink':'#FFFFFF', 'accent-soft':'#FCE6E7', 'brass':'#0B0B0B',
+        'tag-style':'#FCE6E7', 'tag-motif':'#EDEDED', 'tag-guard':'#E2E2E2',
     },
     'dark': {
-        'ground':'#1D1B18', 'surface':'#292622', 'surface-2':'#34302B',
-        'ink':'#F2EFE9', 'ink-2':'#C8C1B5', 'ink-3':'#B5AC9F',
-        'rule':'#6B6358', 'rule-soft':'#47413A',
-        'accent':'#F0A28C', 'accent-ink':'#2A130D', 'accent-soft':'#4B2B22', 'brass':'#D8BB82',
-        'tag-style':'#4B2B22', 'tag-motif':'#3A3631', 'tag-guard':'#463D27',
+        'ground':'#0B0B0B', 'surface':'#0B0B0B', 'surface-2':'#1A1A1A',
+        'ink':'#FFFFFF', 'ink-2':'#D0D0D0', 'ink-3':'#A6A6A6',
+        'rule':'#5C5C5C', 'rule-soft':'#2A2A2A',
+        'accent':'#FF4D52', 'accent-ink':'#0B0B0B', 'accent-soft':'#3A1214', 'brass':'#FFFFFF',
+        'tag-style':'#3A1214', 'tag-motif':'#232323', 'tag-guard':'#2C2C2C',
     },
 }
 
 
 def css():
     def values(mode):
-        shadow = ('0 1px 2px rgba(27,26,23,.06), 0 10px 28px -14px rgba(27,26,23,.22)'
-                  if mode == 'light' else '0 1px 2px rgba(0,0,0,.3), 0 12px 32px -14px rgba(0,0,0,.5)')
+        shadow = 'none'  # Swiss: keine Schatten, Trennung nur über Linien und Abstand
         return ''.join('--'+key+':'+value+';' for key, value in PALETTES[mode].items())+'--shadow:'+shadow+';color-scheme:'+mode+';'
     return (':root {'+values('light')+'}\n'
             '@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {'+values('dark')+'} }\n'
