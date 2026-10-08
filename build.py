@@ -566,12 +566,21 @@ def page_home(lang):
 
 def usecase_cards(lang, page, current=None):
     ui = UI[lang]
-    out = []
-    for u in USECASES:
+    out, used = [], set()
+    for i, u in enumerate(USECASES):
         imgs = [e for mid in u["motifs"] for e in pub_images(mid)]
-        # Mosaik: erstes Stilbild groß, daneben zwei weitere aus möglichst anderen Motiven
-        pics = imgs[:1] + [pub_images(mid)[0] for mid in u["motifs"][1:3] if pub_images(mid)]
-        pics += [e for e in imgs[1:] if e not in pics][:3 - len(pics)]
+        # Mosaik: drei Bilder reihum aus den Motiven, bestandene vor solchen mit Abweichung, mit je Kachel versetztem
+        # Einstieg und möglichst ohne Stil aus einer anderen Kachel, damit nicht überall dieselben Leitstile vorn sind
+        pools = [[e for e in pub_images(mid) if not e.get("ai_default")] for mid in u["motifs"]]
+        pools = [p[i * 2 % len(p):] + p[:i * 2 % len(p)] for p in pools if p]
+        pools = [sorted(p, key=lambda e: e["qa"]["verdict"] != "pass") for p in pools]
+        pics = []
+        for fresh in (True, False):
+            for k in range(max(map(len, pools), default=0)):
+                for p in pools:
+                    if len(pics) < 3 and k < len(p) and p[k] not in pics and (not fresh or p[k]["style"] not in used):
+                        pics.append(p[k])
+        used.update(p["style"] for p in pics)
         mos = "".join(f'<img src="{img_src(p, page, True)}" alt="" loading="lazy" width="{thumb_dims(p)[0]}" height="{thumb_dims(p)[1]}">' for p in pics[:3])
         out.append(f'<a class="mcard" href="{rel(page, path(lang, "usecase", u["id"]))}"><div class="mos">{mos}</div>'
                    f'<div class="mt"><span class="tier">{len(uc_styles(u))} {ui["styles_n"]} · {len(imgs)} {ui["images"]}</span>'
