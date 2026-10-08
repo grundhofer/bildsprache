@@ -5,7 +5,7 @@
 **Ein Motiv, viele Bildsprachen: KI-Bilder müssen nicht gleich aussehen.**
 
 Bildstile nach Anwendung (Infografik, Diagramm, Icons, Porträt, Produkt, Plakat, Folie, Thumbnail, Social-Media-Post, Illustration, Karte, Stimmungsbild):
-310 Bilder in 115 Leitstilen, jedes mit dem Prompt, der es erzeugt hat, dem Stilblock allein und einer
+311 Bilder in 115 Leitstilen, jedes mit dem Prompt, der es erzeugt hat, dem Stilblock allein und einer
 Vorlage für eigene Inhalte. Dazu ein Lexikon mit 599 ausgewählten Bildstilen und eine Übersicht, woran man KI-Bilder erkennt.
 
 **[Katalog öffnen](https://grundhofer.github.io/bildsprache/)** ·

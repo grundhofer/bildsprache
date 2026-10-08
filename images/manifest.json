@@ -1,9 +1,9 @@
 {
  "stats": {
-  "calls": 670,
+  "calls": 672,
   "pilot_v1": 46,
-  "superseded": 273,
-  "current": 351,
+  "superseded": 279,
+  "current": 347,
   "rerolls": 33
  },
  "images": [
@@ -581,6 +581,35 @@
    },
    "alt_de": "Schwarzweißfoto steil von oben, schräg angeschnitten: Eine alte Frau drückt eine helle neue Planke auf den Bootsrumpf, ein junger Mann mit Mütze nagelt sie fest; harte Sonne, Steg, Möwen.",
    "alt_en": "Steep overhead black-and-white photo on a diagonal: an old woman presses a pale new plank onto the hull, a young man in a beanie nails it; hard sun, jetty, gulls.",
+   "ai_default": false,
+   "width": 1536,
+   "height": 1024
+  },
+  {
+   "type": "people",
+   "style": "new-color-photography",
+   "lang": "en",
+   "file": "new-color-photography-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: A 1970s American dye-transfer colour print of an ordinary place, made from 8×10-inch view-camera film. Medium: deep focus, fine grain; bright high overcast: soft, nearly shadowless light, a plain white-grey sky, leaves and water matte; with no light effects, saturated local colour carries the picture: red paint, dark green leaves, brick and white-painted walls, tan earth, grey stone, water grey-green like the sky it reflects; far ridges pale and slightly grey. Composition: level and calm, from some distance; the nearest tree or building whole in the frame, a few metres off, white sky above it; a strip of plain ground along the bottom; people small, going about their business. Lettering, where text is needed: only on surfaces in the scene, small and straight. Avoid sunset light, blur and vignetting.\n\nSubject: Two people repair an upturned wooden rowing boat on a pebble beach. An older woman, about 70, sturdy build, short grey hair, weathered face, sleeves rolled up, kneels at the hull and presses a new plank into place with both hands. A young man of about 20, lanky, wearing a knitted cap and a jacket one size too big, crouches beside her and drives a nail into the plank with a small hammer, frowning in concentration. Between them on the stones: an open wooden toolbox, a coil of rope, a tin of nails. Behind them the sea, the end of a wooden jetty and two gulls. Both are absorbed in the work; neither looks at the viewer. Viewpoint and framing are the style's choice.\n\nConstraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. No text, letters or numbers anywhere in the image. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: A 1970s American dye-transfer colour print of an ordinary place, made from 8×10-inch view-camera film. Medium: deep focus, fine grain; bright high overcast: soft, nearly shadowless light, a plain white-grey sky, leaves and water matte; with no light effects, saturated local colour carries the picture: red paint, dark green leaves, brick and white-painted walls, tan earth, grey stone, water grey-green like the sky it reflects; far ridges pale and slightly grey. Composition: level and calm, from some distance; the nearest tree or building whole in the frame, a few metres off, white sky above it; a strip of plain ground along the bottom; people small, going about their business. Lettering, where text is needed: only on surfaces in the scene, small and straight. Avoid sunset light, blur and vignetting.",
+    "motif": "Subject: Two people repair an upturned wooden rowing boat on a pebble beach. An older woman, about 70, sturdy build, short grey hair, weathered face, sleeves rolled up, kneels at the hull and presses a new plank into place with both hands. A young man of about 20, lanky, wearing a knitted cap and a jacket one size too big, crouches beside her and drives a nail into the plank with a small hammer, frowning in concentration. Between them on the stones: an open wooden toolbox, a coil of rope, a tin of nails. Behind them the sea, the end of a wooden jetty and two gulls. Both are absorbed in the work; neither looks at the viewer. Viewpoint and framing are the style's choice.",
+    "guards": "Constraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. No text, letters or numbers anywhere in the image. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1536x1024",
+   "generated_at": "2026-10-08T21:23:00+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.162.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Farbfoto bei bedecktem Himmel: Eine grauhaarige Frau drückt eine neue Planke an ein umgedrehtes rotes Ruderboot am Kiesstrand, ein junger Mann mit Mütze nagelt sie fest, dahinter Steg und bewaldete Inseln.",
+   "alt_en": "Colour photograph under an overcast sky: a grey-haired woman presses a new plank against an upturned red rowing boat on a shingle beach while a young man in a knit cap nails it, a jetty and wooded islands behind.",
    "ai_default": false,
    "width": 1536,
    "height": 1024

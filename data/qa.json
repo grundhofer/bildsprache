@@ -10014,5 +10014,31 @@
   "note_en": "Inks and print look fit, but it is more a scene than a single graphic idea.",
   "alt_de": "Siebdruckplakat in Magenta, Gelb und Schwarz: Eine erschrockene Frau im gelben Ölzeug hält eine Laterne hoch, dahinter ein Leuchtturm über Brandung, unten links NIGHT SHIFT.",
   "alt_en": "Screen-print poster in magenta, yellow and black: a startled woman in a yellow oilskin raises a lantern, a lighthouse above surf behind her, NIGHT SHIFT at bottom left."
+ },
+ "people/new-color-photography-1": {
+  "key": "people/new-color-photography-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "Figures larger than the style's 'people small' because the motif centres them; surface slightly crisper than a dye-transfer print"
+  ],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Farbfoto bei bedecktem Himmel: Eine grauhaarige Frau drückt eine neue Planke an ein umgedrehtes rotes Ruderboot am Kiesstrand, ein junger Mann mit Mütze nagelt sie fest, dahinter Steg und bewaldete Inseln.",
+  "alt_en": "Colour photograph under an overcast sky: a grey-haired woman presses a new plank against an upturned red rowing boat on a shingle beach while a young man in a knit cap nails it, a jetty and wooded islands behind."
+ },
+ "people/new-color-photography-2": {
+  "key": "people/new-color-photography-2",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "Close, tight framing instead of a calm view from some distance; reads more like a modern digital photo"
+  ],
+  "note_de": "Eng und nah statt ruhig aus etwas Abstand; wirkt eher wie ein heutiges Digitalfoto.",
+  "note_en": "Tight and close instead of calm and from a distance; looks more like a present-day digital photo.",
+  "alt_de": "Farbfoto bei bedecktem Himmel: Eine grauhaarige Frau hält eine neue Planke an ein rotes Ruderboot, ein junger Mann mit Mütze nagelt sie fest, dahinter ein Steg mit Möwen.",
+  "alt_en": "Colour photograph under an overcast sky: a grey-haired woman holds a new plank to a red rowing boat while a young man in a knit cap nails it, a jetty with gulls behind."
  }
 }
