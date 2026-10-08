@@ -22,7 +22,7 @@ genau beschreibt, bekommt sehr unterschiedliche Bilder.
 
 Bildsprache zeigt das an __N_MOTIFS__ Grafiktypen, die alle auf der erfundenen Insel Lornholm spielen:
 Szene mit Menschen, Porträt, Infografik, Landschaft, Produkt, Plakat, Editorial, Straße, Essen, Tier, Figur,
-Karte, Icon-Set, Datendiagramm, Innenraum und Botanik. Jedes Motiv läuft durch viele Stile, von altägyptischer
+Karte, Icon-Set, Datendiagramm, Innenraum, Botanik, Video-Thumbnail, Titelfolie und Social-Media-Post. Jedes Motiv läuft durch viele Stile, von altägyptischer
 Wandmalerei über Cyanotypie und Polnische Plakatschule bis Pixel-Art.
 
 ## Wie ein Prompt gebaut ist

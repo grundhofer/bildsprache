@@ -270,6 +270,56 @@
       "figurative": false,
       "text": [],
       "motif_en": "A botanical study of a single quince branch, arranged like a natural-history plate. The branch carries four leaves (one curled, one with an insect bite), one open five-petalled blossom, one closed bud and one ripe, slightly lumpy fruit. Set apart from the branch, with generous spacing: the same fruit cut in half lengthwise showing the core and seeds, one single seed and one detached petal. All elements sit on an empty ground; no pot, no vase, no table, no landscape."
+    },
+    {
+      "id": "thumbnail",
+      "tier": 2,
+      "size": "1536x1024",
+      "name_de": "Video-Thumbnail",
+      "name_en": "Video thumbnail",
+      "summary_de": "Vorschaubild für das Video „NIGHT SHIFT“: die Leuchtturmwärterin mit Sturmlaterne, dahinter der Leuchtturm.",
+      "summary_en": "Thumbnail for the video “NIGHT SHIFT”: the lighthouse keeper with a storm lantern, the lighthouse behind her.",
+      "tests_de": "Lesbarkeit in Briefmarkengröße, ein klarer Blickfang, Gesichtsausdruck, Texttreue.",
+      "tests_en": "Legibility at stamp size, one clear focal point, facial expression, text accuracy.",
+      "figurative": true,
+      "text": [
+        "NIGHT SHIFT"
+      ],
+      "motif_en": "A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice."
+    },
+    {
+      "id": "slide",
+      "tier": 2,
+      "size": "1536x1024",
+      "name_de": "Titelfolie",
+      "name_en": "Title slide",
+      "summary_de": "Titelfolie „NEW FERRY ROUTE“: eine Autofähre auf dem Weg zur Insel, die neue Route als gepunktete Linie.",
+      "summary_en": "Title slide “NEW FERRY ROUTE”: a car ferry heading for the island, the new route as a dotted line.",
+      "tests_de": "Ruhe und Freiraum, Lesbarkeit aus der Distanz, Zusammenspiel von Titel und Bild.",
+      "tests_en": "Calm and empty space, legibility from a distance, how title and picture work together.",
+      "figurative": false,
+      "text": [
+        "NEW FERRY ROUTE",
+        "From April 2027"
+      ],
+      "motif_en": "A title slide for a presentation announcing a new ferry connection to a fictional island. Title 'NEW FERRY ROUTE' and subtitle 'From April 2027'. Picture: a small car ferry crossing open water between a mainland harbour and the island with its lighthouse; the new route is shown as a dotted line across the water. The slide is calm and uncluttered, with generous empty space around the title so it stays readable from the back of a room. Layout, lettering and how picture and title share the slide are the style's choice."
+    },
+    {
+      "id": "social",
+      "tier": 2,
+      "size": "1024x1024",
+      "name_de": "Social-Media-Post",
+      "name_en": "Social media post",
+      "summary_de": "Quadratischer Post „NOW OPEN – HARBOUR BAKERY“ mit dampfendem Brotlaib, Zimtschnecke und Papiertüte.",
+      "summary_en": "Square post “NOW OPEN – HARBOUR BAKERY” with a steaming loaf, a cinnamon bun and a paper bag.",
+      "tests_de": "Wirkung im schnellen Feed, eine Botschaft, Texttreue, Appetitlichkeit ohne Werbeglanz.",
+      "tests_en": "Impact in a fast feed, one message, text accuracy, appetite appeal without advertising gloss.",
+      "figurative": false,
+      "text": [
+        "NOW OPEN",
+        "HARBOUR BAKERY"
+      ],
+      "motif_en": "A square social media post announcing that a small bakery at the harbour of a fictional island has opened. Headline 'NOW OPEN', name 'HARBOUR BAKERY'. Picture: a round crusty loaf fresh from the oven with steam rising, on a wooden board, beside it a cinnamon bun and a brown paper bag. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice."
     }
   ],
   "motif_version": 2

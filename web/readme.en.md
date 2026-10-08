@@ -22,7 +22,7 @@ precisely and you get very different images.
 
 Bildsprache shows this on __N_MOTIFS__ graphic types, all set on the fictional island of Lornholm: people in a scene,
 portrait, infographic, landscape, product, poster, editorial, street, food, animal, character, map, icon set, data
-chart, interior and botanical study. Every motif runs through many styles, from ancient Egyptian wall painting via
+chart, interior, botanical study, video thumbnail, title slide and social media post. Every motif runs through many styles, from ancient Egyptian wall painting via
 cyanotype and the Polish School of Posters to pixel art.
 
 ## How a prompt is built

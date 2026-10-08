@@ -9389,5 +9389,457 @@
   "note_en": "Looks like a gritty photorealistic digital image of a real coast rather than a painted Technicolor studio set.",
   "alt_de": "Fotorealistisch und detailreich, mit gemaltem Himmel: Ein junger Mann mit Strickmütze nagelt eine Planke an ein umgedrehtes Boot, eine alte Frau in roter Weste drückt sie an; Steg, Möwen.",
   "alt_en": "Gritty photorealism, painted sky: a young man in a knitted cap nails a plank to an upturned boat; an older woman in a red vest holds it. Jetty, gulls behind."
+ },
+ "thumbnail/baseline-1": {
+  "key": "thumbnail/baseline-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Fotorealistisch, nachts im Sturm: Eine Frau in gelber Öljacke reißt erschrocken die Augen auf und hält eine brennende Laterne hoch; rechts groß „NIGHT SHIFT“ in Grunge-Schrift, dahinter der Leuchtturm.",
+  "alt_en": "Photorealistic, stormy night: a woman in a yellow oilskin, wide-eyed in shock, holds up a lit lantern; large grunge 'NIGHT SHIFT' on the right, the lighthouse behind."
+ },
+ "thumbnail/baseline-2-1": {
+  "key": "thumbnail/baseline-2-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Fotorealistisch: die Leuchtturmwärterin mit Laterne und erschrockenem Blick, oben links „NIGHT SHIFT“ in Weiß und Gelb, rechts der Leuchtturm in der Brandung.",
+  "alt_en": "Photorealistic: the keeper with a lantern and a startled look, 'NIGHT SHIFT' in white and yellow top left, the lighthouse in the surf on the right."
+ },
+ "thumbnail/ancient-egyptian-wall-painting-1": {
+  "key": "thumbnail/ancient-egyptian-wall-painting-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "convention"
+  ],
+  "note_de": "Das Gesicht ist halb zugewandt statt im Profil, und die Frau ist rotbraun statt blassgelb gemalt; beides widerspricht den Regeln des Stils.",
+  "note_en": "The face is turned half towards us instead of in profile, and the woman is red-brown rather than pale yellow; both break the style's conventions.",
+  "alt_de": "Wandmalerei auf Putz mit Rasterlinien: die Wärterin mit Laterne vor Gewitterwolken, blauer Zickzack-Wasserstreifen, rechts oben „NIGHT SHIFT“.",
+  "alt_en": "Wall painting on gridded plaster: the keeper with a lantern against storm clouds, blue zigzag water band, 'NIGHT SHIFT' top right."
+ },
+ "thumbnail/woodcut-1": {
+  "key": "thumbnail/woodcut-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Holzschnitt in Schwarz mit gelber Öljacke und Laternenlicht: die Wärterin mit offenem Mund, rechts der Leuchtturm, unten ein Schriftband „NIGHT SHIFT“.",
+  "alt_en": "Black woodcut with a yellow oilskin and lantern glow: the keeper open-mouthed, the lighthouse to the right, a 'NIGHT SHIFT' banner below."
+ },
+ "thumbnail/cyanotype-1": {
+  "key": "thumbnail/cyanotype-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Cyanotypie in Preußischblau mit Pinselrand: die Wärterin hält die Laterne hoch, rechts der Leuchtturm über der Brandung und „NIGHT SHIFT“ in hellen Lettern.",
+  "alt_en": "Prussian-blue cyanotype with brushed edges: the keeper lifts the lantern, the lighthouse above the surf to the right, 'NIGHT SHIFT' in pale letters."
+ },
+ "thumbnail/watercolor-wet-in-wet-1": {
+  "key": "thumbnail/watercolor-wet-in-wet-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Aquarell nass in nass: die Wärterin in gelber Jacke mit leuchtender Laterne, oben links „NIGHT SHIFT“ mit dem Pinsel geschrieben, dahinter der Leuchtturm im Sturm.",
+  "alt_en": "Wet-in-wet watercolour: the keeper in a yellow jacket with a glowing lantern, brush-lettered 'NIGHT SHIFT' top left, the lighthouse in the storm behind."
+ },
+ "thumbnail/clay-animation-1": {
+  "key": "thumbnail/clay-animation-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Knetfigur: die Wärterin mit Lockenkopf, aufgerissenen Augen und Laterne, rechts oben „NIGHT SHIFT“ aus gelber Knete, dahinter ein rot-weißer Leuchtturm.",
+  "alt_en": "Clay figure: the curly-haired keeper, eyes wide, lantern raised; 'NIGHT SHIFT' in yellow clay top right, a red-and-white lighthouse behind."
+ },
+ "thumbnail/16-bit-pixel-art-1": {
+  "key": "thumbnail/16-bit-pixel-art-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "16-Bit-Pixelgrafik: die Wärterin mit Laterne vor Regen und Brandung, oben „NIGHT SHIFT“ in Spieletitel-Lettern mit Farbverlauf, rechts der Leuchtturm.",
+  "alt_en": "16-bit pixel art: the keeper with a lantern in rain and surf, 'NIGHT SHIFT' above in gradient game-title letters, the lighthouse to the right."
+ },
+ "thumbnail/ghanaian-hand-painted-movie-poster-1": {
+  "key": "thumbnail/ghanaian-hand-painted-movie-poster-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Handgemaltes Filmplakat auf Leinwand: die Wärterin mit Laterne und entsetztem Blick, rechts „NIGHT SHIFT“ in gelben Blockbuchstaben mit rotem Schatten, dahinter der Leuchtturm.",
+  "alt_en": "Hand-painted movie poster on canvas: the horrified keeper with a lantern, 'NIGHT SHIFT' in yellow block letters with a red shadow, the lighthouse behind."
+ },
+ "thumbnail/four-color-newsprint-comic-1": {
+  "key": "thumbnail/four-color-newsprint-comic-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Comic im Vierfarbdruck mit Rasterpunkten: links schräg „NIGHT SHIFT“, darunter der Leuchtturm in der Gischt, rechts die Wärterin mit Laterne.",
+  "alt_en": "Four-colour newsprint comic with halftone dots: slanted 'NIGHT SHIFT' at left, the lighthouse in spray below, the keeper with a lantern at right."
+ },
+ "thumbnail/giallo-1": {
+  "key": "thumbnail/giallo-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "style"
+  ],
+  "note_de": "Bis auf das rote Licht sieht das Bild aus wie das Bild ohne Stilangabe; vom Filmkorn und der Plakatgestaltung der 70er ist wenig zu sehen.",
+  "note_en": "Apart from the red light it looks like the image without a style; little of the 1970s film grain and poster design shows.",
+  "alt_de": "Rot und blau ausgeleuchtet: die Wärterin mit Laterne und starrem Blick, rechts groß „NIGHT SHIFT“ in Gelb, dahinter der Leuchtturm.",
+  "alt_en": "Lit in red and blue: the staring keeper with a lantern, large yellow 'NIGHT SHIFT' to the right, the lighthouse behind."
+ },
+ "thumbnail/pop-art-silkscreen-1": {
+  "key": "thumbnail/pop-art-silkscreen-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Pop-Art-Siebdruck in Gelb, Pink und Türkis: die Wärterin mit Laterne, „NIGHT SHIFT“ schwarz auf pinkem Balken, rechts der Leuchtturm.",
+  "alt_en": "Pop-art silkscreen in yellow, pink and turquoise: the keeper with a lantern, 'NIGHT SHIFT' black on a pink band, the lighthouse to the right."
+ },
+ "slide/baseline-1": {
+  "key": "slide/baseline-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Fotorealistische Küste im Sonnenlicht: eine Autofähre fährt vom Hafen zur Insel mit Leuchtturm, die Route gestrichelt; oben „NEW FERRY ROUTE – From April 2027“.",
+  "alt_en": "Photorealistic sunlit coast: a car ferry heads from the harbour to the island with its lighthouse along a dashed route; 'NEW FERRY ROUTE – From April 2027' above."
+ },
+ "slide/baseline-2-1": {
+  "key": "slide/baseline-2-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Fotorealistisch: Fähre zwischen Hafen und Leuchtturminsel, gepunktete Route, blauer Himmel mit „NEW FERRY ROUTE“ und „From April 2027“.",
+  "alt_en": "Photorealistic: a ferry between harbour and lighthouse island, dotted route, blue sky with 'NEW FERRY ROUTE' and 'From April 2027'."
+ },
+ "slide/ancient-egyptian-wall-painting-1": {
+  "key": "slide/ancient-egyptian-wall-painting-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Wandmalerei auf Rasterputz: links Menschen im Profil am Kai, in der Mitte eine Autofähre auf Zickzackwasser, rechts der Leuchtturm; oben „NEW FERRY ROUTE – From April 2027“ in Rot.",
+  "alt_en": "Wall painting on gridded plaster: profile figures on the quay at left, a car ferry on zigzag water, the lighthouse at right; 'NEW FERRY ROUTE – From April 2027' in red above."
+ },
+ "slide/woodcut-1": {
+  "key": "slide/woodcut-1",
+  "verdict": "flawed",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "text"
+  ],
+  "note_de": "Im U von ROUTE steckt ein verirrter Strich.",
+  "note_en": "A stray stroke sits inside the U of ROUTE.",
+  "alt_de": "Holzschnitt: Schriftband „NEW FERRY ROUTE“, darunter „From April 2027“, die Fähre zieht eine gestrichelte Linie vom Hafen zur Leuchtturminsel.",
+  "alt_en": "Woodcut: a 'NEW FERRY ROUTE' banner over 'From April 2027', the ferry trailing a dashed line from the harbour to the lighthouse island."
+ },
+ "slide/cyanotype-1": {
+  "key": "slide/cyanotype-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Cyanotypie mit Pinselrand: Fähre zwischen Hafenstadt und Leuchtturminsel, weiß gestrichelte Route, oben „NEW FERRY ROUTE – From April 2027“.",
+  "alt_en": "Cyanotype with brushed edges: a ferry between harbour town and lighthouse island, white dashed route, 'NEW FERRY ROUTE – From April 2027' above."
+ },
+ "slide/watercolor-wet-in-wet-1": {
+  "key": "slide/watercolor-wet-in-wet-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Aquarell: Fähre in türkisem Wasser zwischen Hafen und Leuchtturm, gestrichelte Route, oben „NEW FERRY ROUTE“ in Blau und „From April 2027“ in Braun.",
+  "alt_en": "Watercolour: a ferry in turquoise water between harbour and lighthouse, dashed route, 'NEW FERRY ROUTE' in blue and 'From April 2027' in brown above."
+ },
+ "slide/clay-animation-1": {
+  "key": "slide/clay-animation-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Knetlandschaft: Fähre mit zwei Autos auf Knetwellen, Route aus weißen Knetstücken, Sonne und Wolken, „NEW FERRY ROUTE“ in Blau, „From April 2027“ in Orange.",
+  "alt_en": "Clay landscape: a ferry with two cars on clay waves, a route of white clay dashes, sun and clouds, 'NEW FERRY ROUTE' in blue and 'From April 2027' in orange."
+ },
+ "slide/16-bit-pixel-art-1": {
+  "key": "slide/16-bit-pixel-art-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "16-Bit-Pixelkarte von oben: Fähre zwischen Hafen und Leuchtturminsel mit gepunkteter Route, oben „NEW FERRY ROUTE“ in Spieletitel-Schrift.",
+  "alt_en": "16-bit pixel map from above: a ferry between harbour and lighthouse island with a dotted route, 'NEW FERRY ROUTE' in game-title lettering above."
+ },
+ "slide/swiss-international-typographic-style-1": {
+  "key": "slide/swiss-international-typographic-style-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Schwarzweißfoto mit Grotesk-Titel „NEW FERRY ROUTE“ linksbündig, „From April 2027“ in Blau, blaue gepunktete Linie von der Fähre zur Insel.",
+  "alt_en": "Black-and-white photo with a flush-left grotesque title 'NEW FERRY ROUTE', 'From April 2027' in blue, a blue dotted line from the ferry to the island."
+ },
+ "slide/bauhaus-new-typography-1": {
+  "key": "slide/bauhaus-new-typography-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Neue Typografie: schwarzer Balken, rotes Quadrat und Titel „NEW FERRY ROUTE“, „From April 2027“ in Rot, Schwarzweißfoto der Fähre mit roter Pfeilroute zur Insel.",
+  "alt_en": "New Typography: a black bar, a red square and the title 'NEW FERRY ROUTE', 'From April 2027' in red, a black-and-white ferry photo with a red arrowed route."
+ },
+ "slide/mid-century-modern-commercial-art-1": {
+  "key": "slide/mid-century-modern-commercial-art-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Werbegrafik der 50er: „NEW FERRY ROUTE“ in roter Pinselschrift, „From April 2027“ in Blau, darunter Fähre, Hafenhäuser und Leuchtturm in flachen Farben.",
+  "alt_en": "1950s commercial art: 'NEW FERRY ROUTE' in red brush lettering, 'From April 2027' in blue, the ferry, harbour houses and lighthouse in flat colours below."
+ },
+ "slide/ligne-claire-1": {
+  "key": "slide/ligne-claire-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Ligne claire: Fähre mit Autos vor Hafenstadt und Leuchtturm, weiße gestrichelte Route, „NEW FERRY ROUTE“ in Rot und „From April 2027“ in Schwarz.",
+  "alt_en": "Ligne claire: a ferry with cars before a harbour town and lighthouse, white dashed route, 'NEW FERRY ROUTE' in red and 'From April 2027' in black."
+ },
+ "social/baseline-1": {
+  "key": "social/baseline-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Fotorealistisch im Gegenlicht: dampfender Brotlaib, Zimtschnecke und Papiertüte am Hafen, oben „NOW OPEN“ und „HARBOUR BAKERY“ auf einem Holzschild.",
+  "alt_en": "Photorealistic, backlit: a steaming loaf, cinnamon bun and paper bag at the harbour, 'NOW OPEN' and 'HARBOUR BAKERY' on a wooden sign above."
+ },
+ "social/baseline-2-1": {
+  "key": "social/baseline-2-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Fotorealistisch bei Sonnenuntergang: Brotlaib, Zimtschnecke und Papiertüte auf einem Brett am Hafen, darüber das Holzschild „NOW OPEN – HARBOUR BAKERY“.",
+  "alt_en": "Photorealistic at sunset: loaf, cinnamon bun and paper bag on a board at the harbour, the wooden sign 'NOW OPEN – HARBOUR BAKERY' above."
+ },
+ "social/ancient-egyptian-wall-painting-1": {
+  "key": "social/ancient-egyptian-wall-painting-1",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "style"
+  ],
+  "note_de": "Brot, Schnecke und Tüte sind räumlich schattiert statt flach gemalt.",
+  "note_en": "Bread, bun and bag are modelled in 3D instead of painted flat.",
+  "alt_de": "Wandmalerei: „NOW OPEN“ in Rot und „HARBOUR BAKERY“ in Blau über einem Brett mit Brot und Zimtschnecke, dahinter Segelboote mit Männern im Profil und Palmen.",
+  "alt_en": "Wall painting: 'NOW OPEN' in red and 'HARBOUR BAKERY' in blue above a board with bread and a cinnamon bun, sailing boats with profile figures and palms behind."
+ },
+ "social/woodcut-1": {
+  "key": "social/woodcut-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Holzschnitt: Schriftband „NOW OPEN“, dampfendes Brot, Zimtschnecke und Tüte vor Hafen und Segelboot, unten „HARBOUR BAKERY“.",
+  "alt_en": "Woodcut: a 'NOW OPEN' banner, steaming bread, cinnamon bun and bag before the harbour and a sailing boat, 'HARBOUR BAKERY' below."
+ },
+ "social/cyanotype-1": {
+  "key": "social/cyanotype-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Cyanotypie: Brotlaib, Zimtschnecke und Papiertüte auf einem Brett am Hafen, oben „NOW OPEN“ und „HARBOUR BAKERY“ in hellen Lettern.",
+  "alt_en": "Cyanotype: loaf, cinnamon bun and paper bag on a board at the harbour, 'NOW OPEN' and 'HARBOUR BAKERY' in pale letters above."
+ },
+ "social/watercolor-wet-in-wet-1": {
+  "key": "social/watercolor-wet-in-wet-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Aquarell: Brot und glasierte Zimtschnecke vor Hafen mit roten Häusern, oben „NOW OPEN“ und „HARBOUR BAKERY“ in brauner Pinselschrift.",
+  "alt_en": "Watercolour: bread and an iced cinnamon bun before a harbour with red houses, 'NOW OPEN' and 'HARBOUR BAKERY' in brown brush lettering above."
+ },
+ "social/clay-animation-1": {
+  "key": "social/clay-animation-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Knetwelt: Schild „NOW OPEN – HARBOUR BAKERY“ aus Knete, darunter dampfendes Brot, Zimtschnecke und Tüte, dahinter Hafen und Leuchtturm.",
+  "alt_en": "Clay world: a clay sign 'NOW OPEN – HARBOUR BAKERY', steaming bread, cinnamon bun and bag below, harbour and lighthouse behind."
+ },
+ "social/16-bit-pixel-art-1": {
+  "key": "social/16-bit-pixel-art-1",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "16-Bit-Pixelgrafik: Schilder „NOW OPEN“ und „HARBOUR BAKERY“ über Brot, Zimtschnecke und Tüte, dahinter Hafen mit Segelschiff.",
+  "alt_en": "16-bit pixel art: signs 'NOW OPEN' and 'HARBOUR BAKERY' above bread, cinnamon bun and bag, a harbour with a sailing ship behind."
+ },
+ "social/risograph-1": {
+  "key": "social/risograph-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Risografie in Pink, Blau und Gelb mit Versatz: „NOW OPEN“ groß oben links, Brot und Zimtschnecke vor dem Hafen, unten „HARBOUR BAKERY“.",
+  "alt_en": "Risograph in pink, blue and yellow with misregistration: big 'NOW OPEN' top left, bread and bun before the harbour, 'HARBOUR BAKERY' below."
+ },
+ "social/memphis-design-1": {
+  "key": "social/memphis-design-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Memphis-Design: bunte Formen, Terrazzo-Muster und „NOW OPEN“ in Blockbuchstaben, Brot und Zimtschnecke auf rosa Fläche, unten „HARBOUR BAKERY“ in Farbbuchstaben.",
+  "alt_en": "Memphis design: colourful shapes, terrazzo pattern and blocky 'NOW OPEN', bread and bun on a pink surface, 'HARBOUR BAKERY' in multicoloured letters below."
+ },
+ "social/cut-paper-collage-1": {
+  "key": "social/cut-paper-collage-1",
+  "verdict": "fail",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [
+   "text"
+  ],
+  "note_de": "Der Name „HARBOUR BAKERY“ fehlt.",
+  "note_en": "The name 'HARBOUR BAKERY' is missing.",
+  "alt_de": "Papiercollage: „NOW OPEN“ in Blau auf Gelb, Brot, Zimtschnecke und Tüte auf rotem Grund, dahinter Hafen mit Segelbooten.",
+  "alt_en": "Cut-paper collage: 'NOW OPEN' in blue on yellow, bread, bun and bag on red, a harbour with sailing boats behind."
+ },
+ "social/art-deco-poster-1": {
+  "key": "social/art-deco-poster-1",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Art-déco-Plakat: „NOW OPEN“ in Creme und Rot, Brot und Zimtschnecke in Facetten-Licht vor der Hafenstadt, unten „HARBOUR BAKERY“ auf schwarzem Balken.",
+  "alt_en": "Art deco poster: 'NOW OPEN' in cream and red, faceted bread and bun before the harbour town, 'HARBOUR BAKERY' on a black band below."
+ },
+ "slide/woodcut-2": {
+  "key": "slide/woodcut-2",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Holzschnitt: Schriftband mit „NEW FERRY ROUTE“ und „From April 2027“, darunter die Fähre mit gepunkteter Route vom Hafen zur Leuchtturminsel, Möwen am Himmel.",
+  "alt_en": "Woodcut: a banner with 'NEW FERRY ROUTE' and 'From April 2027', below it the ferry on a dotted route from the harbour to the lighthouse island, gulls overhead."
+ },
+ "social/cut-paper-collage-2": {
+  "key": "social/cut-paper-collage-2",
+  "verdict": "pass",
+  "style_score": 5,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Papiercollage: „NOW OPEN“ auf gelbem und rotem Papier, Brot, Zimtschnecke und Tüte vor Hafen und Leuchtturm, unten „HARBOUR BAKERY“ auf grünem Streifen.",
+  "alt_en": "Cut-paper collage: 'NOW OPEN' on yellow and red paper, bread, bun and bag before the harbour and lighthouse, 'HARBOUR BAKERY' on a green strip below."
+ },
+ "thumbnail/ancient-egyptian-wall-painting-2": {
+  "key": "thumbnail/ancient-egyptian-wall-painting-2",
+  "verdict": "flawed",
+  "style_score": 3,
+  "motif_missing": [],
+  "problems": [
+   "convention"
+  ],
+  "note_de": "Wie beim ersten Versuch: Gesicht halb zugewandt statt im Profil, Haut rotbraun statt blassgelb. Ein Thumbnail verlangt den Blick zum Betrachter, der Stil das Profil.",
+  "note_en": "As in the first attempt: face half turned instead of in profile, skin red-brown instead of pale yellow. A thumbnail asks for eye contact; the style asks for a profile.",
+  "alt_de": "Wandmalerei: die Wärterin in gelbem Mantel mit Laterne, rechts der Leuchtturm unter Gewitterwolken, Zickzackwasser, oben „NIGHT SHIFT“ in Rot.",
+  "alt_en": "Wall painting: the keeper in a yellow coat with a lantern, the lighthouse under storm clouds to the right, zigzag water, 'NIGHT SHIFT' in red above."
+ },
+ "thumbnail/giallo-2": {
+  "key": "thumbnail/giallo-2",
+  "verdict": "pass",
+  "style_score": 4,
+  "motif_missing": [],
+  "problems": [],
+  "note_de": "",
+  "note_en": "",
+  "alt_de": "Rot-blau ausgeleuchtetes Filmplakat: die Wärterin mit Laterne und entsetztem Blick, oben links „NIGHT SHIFT“ in gelber Siebziger-Schrift, rechts der Leuchtturm über der Brandung.",
+  "alt_en": "Red-and-blue-lit film poster: the horrified keeper with a lantern, 'NIGHT SHIFT' in yellow 1970s type top left, the lighthouse above the surf on the right."
  }
 }

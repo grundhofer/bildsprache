@@ -5,7 +5,7 @@
 **One motif, many visual languages: AI images need not look alike.**
 
 Image styles by use case (infographic, chart, icons, portrait, product, poster, illustration, map, mood image):
-275 images in 115 lead styles, each with the prompt that made it, the style block on its own and a
+311 images in 115 lead styles, each with the prompt that made it, the style block on its own and a
 template for your own content. Plus a lexicon of 599 selected image styles and an overview of how to recognise AI images.
 
 **[Open the catalogue](https://grundhofer.github.io/bildsprache/)** ·
@@ -20,9 +20,9 @@ AI images often look alike: warm backlight, smooth skin, centred subjects, infog
 colourful tiles. That is usually the prompt's doing. Describe medium, technique, period, composition and lettering
 precisely and you get very different images.
 
-Bildsprache shows this on 16 graphic types, all set on the fictional island of Lornholm: people in a scene,
+Bildsprache shows this on 19 graphic types, all set on the fictional island of Lornholm: people in a scene,
 portrait, infographic, landscape, product, poster, editorial, street, food, animal, character, map, icon set, data
-chart, interior and botanical study. Every motif runs through many styles, from ancient Egyptian wall painting via
+chart, interior, botanical study, video thumbnail, title slide and social media post. Every motif runs through many styles, from ancient Egyptian wall painting via
 cyanotype and the Polish School of Posters to pixel art.
 
 ## How a prompt is built
@@ -41,7 +41,7 @@ published image that its prompt is assembled exactly this way.
 
 ## Contents
 
-- **[Use cases](https://grundhofer.github.io/bildsprache/en/):** the entry point. Each use case groups one or more of the 16 motifs, shows them in every style with copy buttons (full prompt, style only) and has a template builder for your own content.
+- **[Use cases](https://grundhofer.github.io/bildsprache/en/):** the entry point. Each use case groups one or more of the 19 motifs, shows them in every style with copy buttons (full prompt, style only) and has a template builder for your own content.
 - **[Lead styles](https://grundhofer.github.io/bildsprache/en/styles/):** 115 fact sheets with origin, markers, a copyable style block and sources.
 - **[Lexicon](https://grundhofer.github.io/bildsprache/en/lexicon/):** 599 selected styles in 14 categories (lead styles plus every entry with high distance from the AI look and high feasibility), each with a prompt fragment, some with a small example image. `data/lexicon.json` holds all researched entries.
 - **[AI look & levers](https://grundhofer.github.io/bildsprache/en/levers/):** typical markers of AI images, each with a counter-lever, and style levers for light, optics, composition, colour and lettering.

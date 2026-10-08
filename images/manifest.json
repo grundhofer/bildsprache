@@ -1,10 +1,10 @@
 {
  "stats": {
-  "calls": 617,
+  "calls": 657,
   "pilot_v1": 46,
   "superseded": 269,
-  "current": 302,
-  "rerolls": 27
+  "current": 342,
+  "rerolls": 28
  },
  "images": [
   {
@@ -7804,6 +7804,1044 @@
    "ai_default": false,
    "width": 1024,
    "height": 1536
+  },
+  {
+   "type": "thumbnail",
+   "style": "baseline",
+   "lang": "en",
+   "file": "baseline-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Subject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "motif": "Subject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.",
+    "guards": "Constraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1536x1024",
+   "generated_at": "2026-10-08T16:44:12+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Fotorealistisch, nachts im Sturm: Eine Frau in gelber Öljacke reißt erschrocken die Augen auf und hält eine brennende Laterne hoch; rechts groß „NIGHT SHIFT“ in Grunge-Schrift, dahinter der Leuchtturm.",
+   "alt_en": "Photorealistic, stormy night: a woman in a yellow oilskin, wide-eyed in shock, holds up a lit lantern; large grunge 'NIGHT SHIFT' on the right, the lighthouse behind.",
+   "ai_default": false,
+   "width": 1536,
+   "height": 1024
+  },
+  {
+   "type": "thumbnail",
+   "style": "baseline-2",
+   "lang": "en",
+   "file": "baseline-2-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Subject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "motif": "Subject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.",
+    "guards": "Constraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1536x1024",
+   "generated_at": "2026-10-08T16:44:54+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Fotorealistisch: die Leuchtturmwärterin mit Laterne und erschrockenem Blick, oben links „NIGHT SHIFT“ in Weiß und Gelb, rechts der Leuchtturm in der Brandung.",
+   "alt_en": "Photorealistic: the keeper with a lantern and a startled look, 'NIGHT SHIFT' in white and yellow top left, the lighthouse in the surf on the right.",
+   "ai_default": false,
+   "width": 1536,
+   "height": 1024
+  },
+  {
+   "type": "thumbnail",
+   "style": "ancient-egyptian-wall-painting",
+   "lang": "en",
+   "file": "ancient-egyptian-wall-painting-2.png",
+   "attempt": 2,
+   "discarded": 0,
+   "prompt": "Style: Tomb wall painting, Thebes, Egypt, about 1400 BC, painted over the painter's red squared grid. Medium: flat Egyptian blue, green, ochres and soot black on dry whitewashed plaster, faint grid lines showing through; red-brown outlines. Composition: everything stands on ruled ground lines, squared to the grid; water blue with black zigzags; ground a plain ochre strip with sparse red dots; bare whitewash above. People: profile head and legs, frontal eye and shoulders; kneeling figures upright, one knee raised; men red-brown, women pale yellow at every age. Lettering, where text is needed: brush-painted letters and numerals in one colour, in ruled boxes. Information, where a diagram, map or chart is shown: steps as successive bands; a chart alone on the wall: plain flat-colour bars on the bottom ground line, heights read off the grid in exact proportion, numeral just above each; maps as top-view plans. Avoid gold, deities and hieroglyphs.\n\nSubject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: Tomb wall painting, Thebes, Egypt, about 1400 BC, painted over the painter's red squared grid. Medium: flat Egyptian blue, green, ochres and soot black on dry whitewashed plaster, faint grid lines showing through; red-brown outlines. Composition: everything stands on ruled ground lines, squared to the grid; water blue with black zigzags; ground a plain ochre strip with sparse red dots; bare whitewash above. People: profile head and legs, frontal eye and shoulders; kneeling figures upright, one knee raised; men red-brown, women pale yellow at every age. Lettering, where text is needed: brush-painted letters and numerals in one colour, in ruled boxes. Information, where a diagram, map or chart is shown: steps as successive bands; a chart alone on the wall: plain flat-colour bars on the bottom ground line, heights read off the grid in exact proportion, numeral just above each; maps as top-view plans. Avoid gold, deities and hieroglyphs.",
+    "motif": "Subject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.",
+    "guards": "Constraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1536x1024",
+   "generated_at": "2026-10-08T16:58:30+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "flawed",
+    "note_de": "Wie beim ersten Versuch: Gesicht halb zugewandt statt im Profil, Haut rotbraun statt blassgelb. Ein Thumbnail verlangt den Blick zum Betrachter, der Stil das Profil.",
+    "note_en": "As in the first attempt: face half turned instead of in profile, skin red-brown instead of pale yellow. A thumbnail asks for eye contact; the style asks for a profile.",
+    "text_exact": null
+   },
+   "alt_de": "Wandmalerei: die Wärterin in gelbem Mantel mit Laterne, rechts der Leuchtturm unter Gewitterwolken, Zickzackwasser, oben „NIGHT SHIFT“ in Rot.",
+   "alt_en": "Wall painting: the keeper in a yellow coat with a lantern, the lighthouse under storm clouds to the right, zigzag water, 'NIGHT SHIFT' in red above.",
+   "ai_default": false,
+   "width": 1536,
+   "height": 1024
+  },
+  {
+   "type": "thumbnail",
+   "style": "woodcut",
+   "lang": "en",
+   "file": "woodcut-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: Bold black-line woodcut cut with knife and gouge into a plank of soft wood, in the manner of early 16th-century broadsheets and herbals. Medium: thick, coarse black lines and large solid black areas, only sparse parallel hatching, no cross-hatching and no fine detail; faces and hands reduced to a few confident cuts; wood-grain streaks and white flecks in the solids; uneven hand-burnished ink, black on warm off-white laid paper. Composition: flat, stage-like space with few overlapping planes, figures large and outlined, a heavy ruled border. Lettering, where text is needed: chunky carved roman capitals or blackletter in scroll banners or a framed title panel. Information is arranged like a broadsheet page of framed, numbered vignettes. Avoid fine wood engraving, scratchboard, photographic tonal modelling, smooth vector lines and grey tones.\n\nSubject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: Bold black-line woodcut cut with knife and gouge into a plank of soft wood, in the manner of early 16th-century broadsheets and herbals. Medium: thick, coarse black lines and large solid black areas, only sparse parallel hatching, no cross-hatching and no fine detail; faces and hands reduced to a few confident cuts; wood-grain streaks and white flecks in the solids; uneven hand-burnished ink, black on warm off-white laid paper. Composition: flat, stage-like space with few overlapping planes, figures large and outlined, a heavy ruled border. Lettering, where text is needed: chunky carved roman capitals or blackletter in scroll banners or a framed title panel. Information is arranged like a broadsheet page of framed, numbered vignettes. Avoid fine wood engraving, scratchboard, photographic tonal modelling, smooth vector lines and grey tones.",
+    "motif": "Subject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.",
+    "guards": "Constraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1536x1024",
+   "generated_at": "2026-10-08T16:45:17+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Holzschnitt in Schwarz mit gelber Öljacke und Laternenlicht: die Wärterin mit offenem Mund, rechts der Leuchtturm, unten ein Schriftband „NIGHT SHIFT“.",
+   "alt_en": "Black woodcut with a yellow oilskin and lantern glow: the keeper open-mouthed, the lighthouse to the right, a 'NIGHT SHIFT' banner below.",
+   "ai_default": false,
+   "width": 1536,
+   "height": 1024
+  },
+  {
+   "type": "thumbnail",
+   "style": "cyanotype",
+   "lang": "en",
+   "file": "cyanotype-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: A hand-coated cyanotype, the iron-based sun print of 19th-century England. Medium: Prussian blue and bare paper white only; watercolour paper hand-brushed with sensitiser, leaving ragged stroke edges, drips and thin patches; soft detail, blocked shadows. Composition: the blue field sits inside a wide unprinted margin. People and scenes print from a glass negative: still, eye level, plainly framed. Anything otherwise drawn becomes a photogram: cut paper, tissue and lace laid flat, no perspective, soft-edged white and pale-blue silhouettes. Lettering, where text is needed: white on blue, inked on tracing paper in a careful 19th-century hand or stencil capitals. Information, where a diagram, map or chart is shown: unboxed cut-paper shapes laid out like album specimens, a handwritten label beneath each; quantities as paper strips cut to length; lines in thin white ink. Avoid blue-filtered digital photos, glossy cyan, digital gradients, boxed tile grids and the gridded engineering blueprint.\n\nSubject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: A hand-coated cyanotype, the iron-based sun print of 19th-century England. Medium: Prussian blue and bare paper white only; watercolour paper hand-brushed with sensitiser, leaving ragged stroke edges, drips and thin patches; soft detail, blocked shadows. Composition: the blue field sits inside a wide unprinted margin. People and scenes print from a glass negative: still, eye level, plainly framed. Anything otherwise drawn becomes a photogram: cut paper, tissue and lace laid flat, no perspective, soft-edged white and pale-blue silhouettes. Lettering, where text is needed: white on blue, inked on tracing paper in a careful 19th-century hand or stencil capitals. Information, where a diagram, map or chart is shown: unboxed cut-paper shapes laid out like album specimens, a handwritten label beneath each; quantities as paper strips cut to length; lines in thin white ink. Avoid blue-filtered digital photos, glossy cyan, digital gradients, boxed tile grids and the gridded engineering blueprint.",
+    "motif": "Subject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.",
+    "guards": "Constraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1536x1024",
+   "generated_at": "2026-10-08T16:45:30+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Cyanotypie in Preußischblau mit Pinselrand: die Wärterin hält die Laterne hoch, rechts der Leuchtturm über der Brandung und „NIGHT SHIFT“ in hellen Lettern.",
+   "alt_en": "Prussian-blue cyanotype with brushed edges: the keeper lifts the lantern, the lighthouse above the surf to the right, 'NIGHT SHIFT' in pale letters.",
+   "ai_default": false,
+   "width": 1536,
+   "height": 1024
+  },
+  {
+   "type": "thumbnail",
+   "style": "watercolor-wet-in-wet",
+   "lang": "en",
+   "file": "watercolor-wet-in-wet-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: Loose wet-in-wet watercolour painted quickly on cold-press cotton paper. Medium: broad soft washes bleeding into damp paper with feathered edges, cauliflower blooms and backruns, granulating blues and earth tones, untouched white paper as highlights, dried tide-line edges, a few drips; forms are suggested by a few broad strokes, never rendered in photographic detail, faces and hands simplified to washes and a few dark accents. Composition: a vignette that dissolves into bare paper at the edges, no frame, the focal area most worked, the rest left as faint wash. Lettering, where text is needed: handwritten with a brush or dip pen in sepia ink on an uneven baseline. Information is laid out like a travel-sketchbook page, sketches and notes scattered organically and linked by hand-drawn arrows. Avoid photographic detail under a watercolour texture, a clean digital brush, black outlines and edge-to-edge painting.\n\nSubject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: Loose wet-in-wet watercolour painted quickly on cold-press cotton paper. Medium: broad soft washes bleeding into damp paper with feathered edges, cauliflower blooms and backruns, granulating blues and earth tones, untouched white paper as highlights, dried tide-line edges, a few drips; forms are suggested by a few broad strokes, never rendered in photographic detail, faces and hands simplified to washes and a few dark accents. Composition: a vignette that dissolves into bare paper at the edges, no frame, the focal area most worked, the rest left as faint wash. Lettering, where text is needed: handwritten with a brush or dip pen in sepia ink on an uneven baseline. Information is laid out like a travel-sketchbook page, sketches and notes scattered organically and linked by hand-drawn arrows. Avoid photographic detail under a watercolour texture, a clean digital brush, black outlines and edge-to-edge painting.",
+    "motif": "Subject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.",
+    "guards": "Constraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1536x1024",
+   "generated_at": "2026-10-08T16:46:12+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Aquarell nass in nass: die Wärterin in gelber Jacke mit leuchtender Laterne, oben links „NIGHT SHIFT“ mit dem Pinsel geschrieben, dahinter der Leuchtturm im Sturm.",
+   "alt_en": "Wet-in-wet watercolour: the keeper in a yellow jacket with a glowing lantern, brush-lettered 'NIGHT SHIFT' top left, the lighthouse in the storm behind.",
+   "ai_default": false,
+   "width": 1536,
+   "height": 1024
+  },
+  {
+   "type": "thumbnail",
+   "style": "clay-animation",
+   "lang": "en",
+   "file": "clay-animation-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: A frame from a clay-animation series for European children's television, 1970s–1990s, modelled in a dozen plain shop colours of modelling clay. Medium: red, orange, yellow, pink, green, two blues, brown, cream, white, grey, black, unmixed. Every part is one of them, even from edge to edge, marbled only where two were kneaded; food, cloth, wood and water too. The only texture: fingerprints, smears, tool scores, lint. Forms chunky, rounded, a little lopsided. Figures: ball heads, bead eyes, sausage limbs, mitten hands, caught mid-action. Composition: medium-wide where the subject allows, front edge showing, things side by side, painted card in flat colours close behind; white studio lamps, everything sharp. Lettering, where text is needed: clay snakes pressed flat into thick letters. Information, where a diagram, map or chart is shown: clay relief on a board, shot straight on; snake arrows, columns to scale, equal symbol tiles. Avoid gloss and known characters.\n\nSubject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: A frame from a clay-animation series for European children's television, 1970s–1990s, modelled in a dozen plain shop colours of modelling clay. Medium: red, orange, yellow, pink, green, two blues, brown, cream, white, grey, black, unmixed. Every part is one of them, even from edge to edge, marbled only where two were kneaded; food, cloth, wood and water too. The only texture: fingerprints, smears, tool scores, lint. Forms chunky, rounded, a little lopsided. Figures: ball heads, bead eyes, sausage limbs, mitten hands, caught mid-action. Composition: medium-wide where the subject allows, front edge showing, things side by side, painted card in flat colours close behind; white studio lamps, everything sharp. Lettering, where text is needed: clay snakes pressed flat into thick letters. Information, where a diagram, map or chart is shown: clay relief on a board, shot straight on; snake arrows, columns to scale, equal symbol tiles. Avoid gloss and known characters.",
+    "motif": "Subject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.",
+    "guards": "Constraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1536x1024",
+   "generated_at": "2026-10-08T16:46:00+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Knetfigur: die Wärterin mit Lockenkopf, aufgerissenen Augen und Laterne, rechts oben „NIGHT SHIFT“ aus gelber Knete, dahinter ein rot-weißer Leuchtturm.",
+   "alt_en": "Clay figure: the curly-haired keeper, eyes wide, lantern raised; 'NIGHT SHIFT' in yellow clay top right, a red-and-white lighthouse behind.",
+   "ai_default": false,
+   "width": 1536,
+   "height": 1024
+  },
+  {
+   "type": "thumbnail",
+   "style": "16-bit-pixel-art",
+   "lang": "en",
+   "file": "16-bit-pixel-art-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: A screen from a Japanese 16-bit console game, early 1990s. Medium: one coarse grid of identical square pixels, about 256 on the short side, text included; no anti-aliasing; limited flat palette, three-to-five-step colour ramps per material; dark coloured outlines, lighter on the lit side; checkerboard dithering in skies. Composition: full-frame side or high top-down view of repeating tiles, parallax background bands, compact sprites; close-ups as a framed dialogue portrait. Lettering, where text is needed: monospaced bitmap letters, one 8x8 cell each, white with dark shadow, in dark blue bordered windows; titles as blocky colour-banded logo letters across the upper third. Information, where a diagram, map or chart is shown: a menu screen of framed windows with list rows, square icon cells and segmented block meters; maps as top-down tile overworlds. Avoid painterly gradients, centred hero shots, mixed pixel sizes, hi-bit glow, sparse 8-bit sprites, TV bezels, scanlines, score counters.\n\nSubject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: A screen from a Japanese 16-bit console game, early 1990s. Medium: one coarse grid of identical square pixels, about 256 on the short side, text included; no anti-aliasing; limited flat palette, three-to-five-step colour ramps per material; dark coloured outlines, lighter on the lit side; checkerboard dithering in skies. Composition: full-frame side or high top-down view of repeating tiles, parallax background bands, compact sprites; close-ups as a framed dialogue portrait. Lettering, where text is needed: monospaced bitmap letters, one 8x8 cell each, white with dark shadow, in dark blue bordered windows; titles as blocky colour-banded logo letters across the upper third. Information, where a diagram, map or chart is shown: a menu screen of framed windows with list rows, square icon cells and segmented block meters; maps as top-down tile overworlds. Avoid painterly gradients, centred hero shots, mixed pixel sizes, hi-bit glow, sparse 8-bit sprites, TV bezels, scanlines, score counters.",
+    "motif": "Subject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.",
+    "guards": "Constraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1536x1024",
+   "generated_at": "2026-10-08T16:46:12+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "16-Bit-Pixelgrafik: die Wärterin mit Laterne vor Regen und Brandung, oben „NIGHT SHIFT“ in Spieletitel-Lettern mit Farbverlauf, rechts der Leuchtturm.",
+   "alt_en": "16-bit pixel art: the keeper with a lantern in rain and surf, 'NIGHT SHIFT' above in gradient game-title letters, the lighthouse to the right.",
+   "ai_default": false,
+   "width": 1536,
+   "height": 1024
+  },
+  {
+   "type": "thumbnail",
+   "style": "ghanaian-hand-painted-movie-poster",
+   "lang": "en",
+   "file": "ghanaian-hand-painted-movie-poster-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: A hand-painted Ghanaian video-club film poster, mid-1980s to late 1990s. Medium: opaque sign paint on two sewn flour sacks, seam and nail holes showing; every shape one flat hot colour inside a hard dark outline, no impasto. Composition: no perspective, horizon, depth or cast shadow; one flat red, yellow or sky-blue ground fills the cloth; main figures loom as giant stiff cut-outs, oversized hands, wide-open eyes, muscles as hard pale stripes, no modelling; the setting shrinks to small painted signs at clashing scales: ground a strip, water a band of white comma waves, structures frontal boxes, sun a flat disc. Lettering, where text is needed: big uneven painted capitals, outlined and drop-shadowed. Information, where a diagram, map or chart is shown: each fact on a painted banner. Avoid impressionist oil painting, naturalistic landscape, digital key art, vector art, Indian cinema hoardings, actor likenesses, weapons, gore, monsters, invented titles or signatures.\n\nSubject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: A hand-painted Ghanaian video-club film poster, mid-1980s to late 1990s. Medium: opaque sign paint on two sewn flour sacks, seam and nail holes showing; every shape one flat hot colour inside a hard dark outline, no impasto. Composition: no perspective, horizon, depth or cast shadow; one flat red, yellow or sky-blue ground fills the cloth; main figures loom as giant stiff cut-outs, oversized hands, wide-open eyes, muscles as hard pale stripes, no modelling; the setting shrinks to small painted signs at clashing scales: ground a strip, water a band of white comma waves, structures frontal boxes, sun a flat disc. Lettering, where text is needed: big uneven painted capitals, outlined and drop-shadowed. Information, where a diagram, map or chart is shown: each fact on a painted banner. Avoid impressionist oil painting, naturalistic landscape, digital key art, vector art, Indian cinema hoardings, actor likenesses, weapons, gore, monsters, invented titles or signatures.",
+    "motif": "Subject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.",
+    "guards": "Constraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1536x1024",
+   "generated_at": "2026-10-08T16:46:32+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Handgemaltes Filmplakat auf Leinwand: die Wärterin mit Laterne und entsetztem Blick, rechts „NIGHT SHIFT“ in gelben Blockbuchstaben mit rotem Schatten, dahinter der Leuchtturm.",
+   "alt_en": "Hand-painted movie poster on canvas: the horrified keeper with a lantern, 'NIGHT SHIFT' in yellow block letters with a red shadow, the lighthouse behind.",
+   "ai_default": false,
+   "width": 1536,
+   "height": 1024
+  },
+  {
+   "type": "thumbnail",
+   "style": "four-color-newsprint-comic",
+   "lang": "en",
+   "file": "four-color-newsprint-comic-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: A 1950s American four-colour comic book page on newsprint. Medium: pen and brush in India ink, bold swelling contours, solid black shadows; flat cyan, magenta and yellow tints; skin, sky and other pale areas in fine, even dot screens; slightly off-register colour, unprinted slivers beside black lines; yellowed paper, spread ink, fibre specks. Composition: wide opening panel on top, then two or three tiers of black-bordered panels of unequal width, unprinted gutters, read left to right; close, foreshortened views, flat backgrounds. Lettering, where text is needed: even hand-inked capitals in yellow caption boxes; title in bold, outlined, slanted display letters with drop shadow. Information, where a diagram, map or chart is shown: one step per panel, number and word in its corner caption box. Avoid gradients, airbrush, white paper, uniform icon-tile grids and oversized pop-art dots; no invented balloons, sound effects or words; no superhero costumes or emblems.\n\nSubject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: A 1950s American four-colour comic book page on newsprint. Medium: pen and brush in India ink, bold swelling contours, solid black shadows; flat cyan, magenta and yellow tints; skin, sky and other pale areas in fine, even dot screens; slightly off-register colour, unprinted slivers beside black lines; yellowed paper, spread ink, fibre specks. Composition: wide opening panel on top, then two or three tiers of black-bordered panels of unequal width, unprinted gutters, read left to right; close, foreshortened views, flat backgrounds. Lettering, where text is needed: even hand-inked capitals in yellow caption boxes; title in bold, outlined, slanted display letters with drop shadow. Information, where a diagram, map or chart is shown: one step per panel, number and word in its corner caption box. Avoid gradients, airbrush, white paper, uniform icon-tile grids and oversized pop-art dots; no invented balloons, sound effects or words; no superhero costumes or emblems.",
+    "motif": "Subject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.",
+    "guards": "Constraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1536x1024",
+   "generated_at": "2026-10-08T16:46:48+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Comic im Vierfarbdruck mit Rasterpunkten: links schräg „NIGHT SHIFT“, darunter der Leuchtturm in der Gischt, rechts die Wärterin mit Laterne.",
+   "alt_en": "Four-colour newsprint comic with halftone dots: slanted 'NIGHT SHIFT' at left, the lighthouse in spray below, the keeper with a lantern at right.",
+   "ai_default": false,
+   "width": 1536,
+   "height": 1024
+  },
+  {
+   "type": "thumbnail",
+   "style": "giallo",
+   "lang": "en",
+   "file": "giallo-2.png",
+   "attempt": 2,
+   "discarded": 0,
+   "prompt": "Style: A frame from a 1970s Italian giallo thriller, shot in a studio with a 35mm movie camera on colour negative. Medium: tungsten lamps behind theatrical gels throw saturated crimson, cobalt blue and acid green from separate sides, black shadows between, no neutral key light; skin takes the colours, its texture raked by hard light; long zoom lens, soft at the edges; coarse grain. Composition: tight, off-centre framing past a foreground object: patterned glass, a half-open door, a bead curtain or a mirror doubling the figure; a watcher's angle from slightly above; glossy décor of lacquer, glass and modern art. Lettering, where text is needed: only inside the scene, a typed note or headline in the same coloured light; no superimposed titles. Avoid centred beauty framing, soft wrap light, creamy bokeh, airbrushed skin, teal-orange grading and synthwave or cyberpunk neon; no black gloves, blood, weapons or violence; no film borders.\n\nSubject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: A frame from a 1970s Italian giallo thriller, shot in a studio with a 35mm movie camera on colour negative. Medium: tungsten lamps behind theatrical gels throw saturated crimson, cobalt blue and acid green from separate sides, black shadows between, no neutral key light; skin takes the colours, its texture raked by hard light; long zoom lens, soft at the edges; coarse grain. Composition: tight, off-centre framing past a foreground object: patterned glass, a half-open door, a bead curtain or a mirror doubling the figure; a watcher's angle from slightly above; glossy décor of lacquer, glass and modern art. Lettering, where text is needed: only inside the scene, a typed note or headline in the same coloured light; no superimposed titles. Avoid centred beauty framing, soft wrap light, creamy bokeh, airbrushed skin, teal-orange grading and synthwave or cyberpunk neon; no black gloves, blood, weapons or violence; no film borders.",
+    "motif": "Subject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.",
+    "guards": "Constraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1536x1024",
+   "generated_at": "2026-10-08T16:58:27+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Rot-blau ausgeleuchtetes Filmplakat: die Wärterin mit Laterne und entsetztem Blick, oben links „NIGHT SHIFT“ in gelber Siebziger-Schrift, rechts der Leuchtturm über der Brandung.",
+   "alt_en": "Red-and-blue-lit film poster: the horrified keeper with a lantern, 'NIGHT SHIFT' in yellow 1970s type top left, the lighthouse above the surf on the right.",
+   "ai_default": false,
+   "width": 1536,
+   "height": 1024
+  },
+  {
+   "type": "thumbnail",
+   "style": "pop-art-silkscreen",
+   "lang": "en",
+   "file": "pop-art-silkscreen-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: A New York Pop Art silkscreen painting of the early 1960s: an enlarged press photo screened in black over hand-painted colour on canvas. Medium: photo reduced to hard black, mid-tones dropped or coarsely screened; flat acrylic fields in unnatural hot pink, turquoise, orange and lemon yellow, black printed millimetres off-register; clogged, flooded blacks beside pale squeegee skips, canvas weave showing. Composition: tight crop pressed flat against a single-colour ground, no scenery or depth; often the same stencil repeated edge to edge, identical in drawing, differing in colour and ink load. Lettering, where text is needed: found headline or label capitals screened in the same blotchy black. Information, where a diagram, map or chart is shown: quantities as one printed image repeated in rows, like stock on a shelf. Avoid airbrushed skin, gradients, glow, posterize filters and clean vector edges; no comic-strip dot fields, speech balloons or celebrity likeness.\n\nSubject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: A New York Pop Art silkscreen painting of the early 1960s: an enlarged press photo screened in black over hand-painted colour on canvas. Medium: photo reduced to hard black, mid-tones dropped or coarsely screened; flat acrylic fields in unnatural hot pink, turquoise, orange and lemon yellow, black printed millimetres off-register; clogged, flooded blacks beside pale squeegee skips, canvas weave showing. Composition: tight crop pressed flat against a single-colour ground, no scenery or depth; often the same stencil repeated edge to edge, identical in drawing, differing in colour and ink load. Lettering, where text is needed: found headline or label capitals screened in the same blotchy black. Information, where a diagram, map or chart is shown: quantities as one printed image repeated in rows, like stock on a shelf. Avoid airbrushed skin, gradients, glow, posterize filters and clean vector edges; no comic-strip dot fields, speech balloons or celebrity likeness.",
+    "motif": "Subject: A thumbnail for an online video about one night with the lighthouse keeper of a fictional island. Large title 'NIGHT SHIFT', readable even at a very small size. One person dominates the frame: the keeper, a woman of about 45, broad-shouldered, dark curly hair tied back, a yellow oilskin jacket, holding up a lit storm lantern; eyebrows raised and mouth open in surprise, she looks straight at the viewer. Behind her, smaller, the lighthouse with its beam cutting through a stormy night sky. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice.",
+    "guards": "Constraints: Image format: landscape, 3:2. Keep every person's age, build and imperfections exactly as described; do not beautify, retouch or glamorize anyone. The only text in the image is exactly: 'NIGHT SHIFT'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1536x1024",
+   "generated_at": "2026-10-08T16:47:08+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Pop-Art-Siebdruck in Gelb, Pink und Türkis: die Wärterin mit Laterne, „NIGHT SHIFT“ schwarz auf pinkem Balken, rechts der Leuchtturm.",
+   "alt_en": "Pop-art silkscreen in yellow, pink and turquoise: the keeper with a lantern, 'NIGHT SHIFT' black on a pink band, the lighthouse to the right.",
+   "ai_default": false,
+   "width": 1536,
+   "height": 1024
+  },
+  {
+   "type": "slide",
+   "style": "baseline",
+   "lang": "en",
+   "file": "baseline-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Subject: A title slide for a presentation announcing a new ferry connection to a fictional island. Title 'NEW FERRY ROUTE' and subtitle 'From April 2027'. Picture: a small car ferry crossing open water between a mainland harbour and the island with its lighthouse; the new route is shown as a dotted line across the water. The slide is calm and uncluttered, with generous empty space around the title so it stays readable from the back of a room. Layout, lettering and how picture and title share the slide are the style's choice.\n\nConstraints: Image format: landscape, 3:2. The only text in the image is exactly: 'NEW FERRY ROUTE', 'From April 2027'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "motif": "Subject: A title slide for a presentation announcing a new ferry connection to a fictional island. Title 'NEW FERRY ROUTE' and subtitle 'From April 2027'. Picture: a small car ferry crossing open water between a mainland harbour and the island with its lighthouse; the new route is shown as a dotted line across the water. The slide is calm and uncluttered, with generous empty space around the title so it stays readable from the back of a room. Layout, lettering and how picture and title share the slide are the style's choice.",
+    "guards": "Constraints: Image format: landscape, 3:2. The only text in the image is exactly: 'NEW FERRY ROUTE', 'From April 2027'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1536x1024",
+   "generated_at": "2026-10-08T16:47:20+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Fotorealistische Küste im Sonnenlicht: eine Autofähre fährt vom Hafen zur Insel mit Leuchtturm, die Route gestrichelt; oben „NEW FERRY ROUTE – From April 2027“.",
+   "alt_en": "Photorealistic sunlit coast: a car ferry heads from the harbour to the island with its lighthouse along a dashed route; 'NEW FERRY ROUTE – From April 2027' above.",
+   "ai_default": false,
+   "width": 1536,
+   "height": 1024
+  },
+  {
+   "type": "slide",
+   "style": "baseline-2",
+   "lang": "en",
+   "file": "baseline-2-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Subject: A title slide for a presentation announcing a new ferry connection to a fictional island. Title 'NEW FERRY ROUTE' and subtitle 'From April 2027'. Picture: a small car ferry crossing open water between a mainland harbour and the island with its lighthouse; the new route is shown as a dotted line across the water. The slide is calm and uncluttered, with generous empty space around the title so it stays readable from the back of a room. Layout, lettering and how picture and title share the slide are the style's choice.\n\nConstraints: Image format: landscape, 3:2. The only text in the image is exactly: 'NEW FERRY ROUTE', 'From April 2027'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "motif": "Subject: A title slide for a presentation announcing a new ferry connection to a fictional island. Title 'NEW FERRY ROUTE' and subtitle 'From April 2027'. Picture: a small car ferry crossing open water between a mainland harbour and the island with its lighthouse; the new route is shown as a dotted line across the water. The slide is calm and uncluttered, with generous empty space around the title so it stays readable from the back of a room. Layout, lettering and how picture and title share the slide are the style's choice.",
+    "guards": "Constraints: Image format: landscape, 3:2. The only text in the image is exactly: 'NEW FERRY ROUTE', 'From April 2027'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1536x1024",
+   "generated_at": "2026-10-08T16:47:34+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Fotorealistisch: Fähre zwischen Hafen und Leuchtturminsel, gepunktete Route, blauer Himmel mit „NEW FERRY ROUTE“ und „From April 2027“.",
+   "alt_en": "Photorealistic: a ferry between harbour and lighthouse island, dotted route, blue sky with 'NEW FERRY ROUTE' and 'From April 2027'.",
+   "ai_default": false,
+   "width": 1536,
+   "height": 1024
+  },
+  {
+   "type": "slide",
+   "style": "ancient-egyptian-wall-painting",
+   "lang": "en",
+   "file": "ancient-egyptian-wall-painting-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: Tomb wall painting, Thebes, Egypt, about 1400 BC, painted over the painter's red squared grid. Medium: flat Egyptian blue, green, ochres and soot black on dry whitewashed plaster, faint grid lines showing through; red-brown outlines. Composition: everything stands on ruled ground lines, squared to the grid; water blue with black zigzags; ground a plain ochre strip with sparse red dots; bare whitewash above. People: profile head and legs, frontal eye and shoulders; kneeling figures upright, one knee raised; men red-brown, women pale yellow at every age. Lettering, where text is needed: brush-painted letters and numerals in one colour, in ruled boxes. Information, where a diagram, map or chart is shown: steps as successive bands; a chart alone on the wall: plain flat-colour bars on the bottom ground line, heights read off the grid in exact proportion, numeral just above each; maps as top-view plans. Avoid gold, deities and hieroglyphs.\n\nSubject: A title slide for a presentation announcing a new ferry connection to a fictional island. Title 'NEW FERRY ROUTE' and subtitle 'From April 2027'. Picture: a small car ferry crossing open water between a mainland harbour and the island with its lighthouse; the new route is shown as a dotted line across the water. The slide is calm and uncluttered, with generous empty space around the title so it stays readable from the back of a room. Layout, lettering and how picture and title share the slide are the style's choice.\n\nConstraints: Image format: landscape, 3:2. The only text in the image is exactly: 'NEW FERRY ROUTE', 'From April 2027'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: Tomb wall painting, Thebes, Egypt, about 1400 BC, painted over the painter's red squared grid. Medium: flat Egyptian blue, green, ochres and soot black on dry whitewashed plaster, faint grid lines showing through; red-brown outlines. Composition: everything stands on ruled ground lines, squared to the grid; water blue with black zigzags; ground a plain ochre strip with sparse red dots; bare whitewash above. People: profile head and legs, frontal eye and shoulders; kneeling figures upright, one knee raised; men red-brown, women pale yellow at every age. Lettering, where text is needed: brush-painted letters and numerals in one colour, in ruled boxes. Information, where a diagram, map or chart is shown: steps as successive bands; a chart alone on the wall: plain flat-colour bars on the bottom ground line, heights read off the grid in exact proportion, numeral just above each; maps as top-view plans. Avoid gold, deities and hieroglyphs.",
+    "motif": "Subject: A title slide for a presentation announcing a new ferry connection to a fictional island. Title 'NEW FERRY ROUTE' and subtitle 'From April 2027'. Picture: a small car ferry crossing open water between a mainland harbour and the island with its lighthouse; the new route is shown as a dotted line across the water. The slide is calm and uncluttered, with generous empty space around the title so it stays readable from the back of a room. Layout, lettering and how picture and title share the slide are the style's choice.",
+    "guards": "Constraints: Image format: landscape, 3:2. The only text in the image is exactly: 'NEW FERRY ROUTE', 'From April 2027'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1536x1024",
+   "generated_at": "2026-10-08T16:48:03+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Wandmalerei auf Rasterputz: links Menschen im Profil am Kai, in der Mitte eine Autofähre auf Zickzackwasser, rechts der Leuchtturm; oben „NEW FERRY ROUTE – From April 2027“ in Rot.",
+   "alt_en": "Wall painting on gridded plaster: profile figures on the quay at left, a car ferry on zigzag water, the lighthouse at right; 'NEW FERRY ROUTE – From April 2027' in red above.",
+   "ai_default": false,
+   "width": 1536,
+   "height": 1024
+  },
+  {
+   "type": "slide",
+   "style": "woodcut",
+   "lang": "en",
+   "file": "woodcut-2.png",
+   "attempt": 2,
+   "discarded": 0,
+   "prompt": "Style: Bold black-line woodcut cut with knife and gouge into a plank of soft wood, in the manner of early 16th-century broadsheets and herbals. Medium: thick, coarse black lines and large solid black areas, only sparse parallel hatching, no cross-hatching and no fine detail; faces and hands reduced to a few confident cuts; wood-grain streaks and white flecks in the solids; uneven hand-burnished ink, black on warm off-white laid paper. Composition: flat, stage-like space with few overlapping planes, figures large and outlined, a heavy ruled border. Lettering, where text is needed: chunky carved roman capitals or blackletter in scroll banners or a framed title panel. Information is arranged like a broadsheet page of framed, numbered vignettes. Avoid fine wood engraving, scratchboard, photographic tonal modelling, smooth vector lines and grey tones.\n\nSubject: A title slide for a presentation announcing a new ferry connection to a fictional island. Title 'NEW FERRY ROUTE' and subtitle 'From April 2027'. Picture: a small car ferry crossing open water between a mainland harbour and the island with its lighthouse; the new route is shown as a dotted line across the water. The slide is calm and uncluttered, with generous empty space around the title so it stays readable from the back of a room. Layout, lettering and how picture and title share the slide are the style's choice.\n\nConstraints: Image format: landscape, 3:2. The only text in the image is exactly: 'NEW FERRY ROUTE', 'From April 2027'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: Bold black-line woodcut cut with knife and gouge into a plank of soft wood, in the manner of early 16th-century broadsheets and herbals. Medium: thick, coarse black lines and large solid black areas, only sparse parallel hatching, no cross-hatching and no fine detail; faces and hands reduced to a few confident cuts; wood-grain streaks and white flecks in the solids; uneven hand-burnished ink, black on warm off-white laid paper. Composition: flat, stage-like space with few overlapping planes, figures large and outlined, a heavy ruled border. Lettering, where text is needed: chunky carved roman capitals or blackletter in scroll banners or a framed title panel. Information is arranged like a broadsheet page of framed, numbered vignettes. Avoid fine wood engraving, scratchboard, photographic tonal modelling, smooth vector lines and grey tones.",
+    "motif": "Subject: A title slide for a presentation announcing a new ferry connection to a fictional island. Title 'NEW FERRY ROUTE' and subtitle 'From April 2027'. Picture: a small car ferry crossing open water between a mainland harbour and the island with its lighthouse; the new route is shown as a dotted line across the water. The slide is calm and uncluttered, with generous empty space around the title so it stays readable from the back of a room. Layout, lettering and how picture and title share the slide are the style's choice.",
+    "guards": "Constraints: Image format: landscape, 3:2. The only text in the image is exactly: 'NEW FERRY ROUTE', 'From April 2027'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1536x1024",
+   "generated_at": "2026-10-08T16:58:40+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Holzschnitt: Schriftband mit „NEW FERRY ROUTE“ und „From April 2027“, darunter die Fähre mit gepunkteter Route vom Hafen zur Leuchtturminsel, Möwen am Himmel.",
+   "alt_en": "Woodcut: a banner with 'NEW FERRY ROUTE' and 'From April 2027', below it the ferry on a dotted route from the harbour to the lighthouse island, gulls overhead.",
+   "ai_default": false,
+   "width": 1536,
+   "height": 1024
+  },
+  {
+   "type": "slide",
+   "style": "cyanotype",
+   "lang": "en",
+   "file": "cyanotype-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: A hand-coated cyanotype, the iron-based sun print of 19th-century England. Medium: Prussian blue and bare paper white only; watercolour paper hand-brushed with sensitiser, leaving ragged stroke edges, drips and thin patches; soft detail, blocked shadows. Composition: the blue field sits inside a wide unprinted margin. People and scenes print from a glass negative: still, eye level, plainly framed. Anything otherwise drawn becomes a photogram: cut paper, tissue and lace laid flat, no perspective, soft-edged white and pale-blue silhouettes. Lettering, where text is needed: white on blue, inked on tracing paper in a careful 19th-century hand or stencil capitals. Information, where a diagram, map or chart is shown: unboxed cut-paper shapes laid out like album specimens, a handwritten label beneath each; quantities as paper strips cut to length; lines in thin white ink. Avoid blue-filtered digital photos, glossy cyan, digital gradients, boxed tile grids and the gridded engineering blueprint.\n\nSubject: A title slide for a presentation announcing a new ferry connection to a fictional island. Title 'NEW FERRY ROUTE' and subtitle 'From April 2027'. Picture: a small car ferry crossing open water between a mainland harbour and the island with its lighthouse; the new route is shown as a dotted line across the water. The slide is calm and uncluttered, with generous empty space around the title so it stays readable from the back of a room. Layout, lettering and how picture and title share the slide are the style's choice.\n\nConstraints: Image format: landscape, 3:2. The only text in the image is exactly: 'NEW FERRY ROUTE', 'From April 2027'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: A hand-coated cyanotype, the iron-based sun print of 19th-century England. Medium: Prussian blue and bare paper white only; watercolour paper hand-brushed with sensitiser, leaving ragged stroke edges, drips and thin patches; soft detail, blocked shadows. Composition: the blue field sits inside a wide unprinted margin. People and scenes print from a glass negative: still, eye level, plainly framed. Anything otherwise drawn becomes a photogram: cut paper, tissue and lace laid flat, no perspective, soft-edged white and pale-blue silhouettes. Lettering, where text is needed: white on blue, inked on tracing paper in a careful 19th-century hand or stencil capitals. Information, where a diagram, map or chart is shown: unboxed cut-paper shapes laid out like album specimens, a handwritten label beneath each; quantities as paper strips cut to length; lines in thin white ink. Avoid blue-filtered digital photos, glossy cyan, digital gradients, boxed tile grids and the gridded engineering blueprint.",
+    "motif": "Subject: A title slide for a presentation announcing a new ferry connection to a fictional island. Title 'NEW FERRY ROUTE' and subtitle 'From April 2027'. Picture: a small car ferry crossing open water between a mainland harbour and the island with its lighthouse; the new route is shown as a dotted line across the water. The slide is calm and uncluttered, with generous empty space around the title so it stays readable from the back of a room. Layout, lettering and how picture and title share the slide are the style's choice.",
+    "guards": "Constraints: Image format: landscape, 3:2. The only text in the image is exactly: 'NEW FERRY ROUTE', 'From April 2027'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1536x1024",
+   "generated_at": "2026-10-08T16:48:07+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Cyanotypie mit Pinselrand: Fähre zwischen Hafenstadt und Leuchtturminsel, weiß gestrichelte Route, oben „NEW FERRY ROUTE – From April 2027“.",
+   "alt_en": "Cyanotype with brushed edges: a ferry between harbour town and lighthouse island, white dashed route, 'NEW FERRY ROUTE – From April 2027' above.",
+   "ai_default": false,
+   "width": 1536,
+   "height": 1024
+  },
+  {
+   "type": "slide",
+   "style": "watercolor-wet-in-wet",
+   "lang": "en",
+   "file": "watercolor-wet-in-wet-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: Loose wet-in-wet watercolour painted quickly on cold-press cotton paper. Medium: broad soft washes bleeding into damp paper with feathered edges, cauliflower blooms and backruns, granulating blues and earth tones, untouched white paper as highlights, dried tide-line edges, a few drips; forms are suggested by a few broad strokes, never rendered in photographic detail, faces and hands simplified to washes and a few dark accents. Composition: a vignette that dissolves into bare paper at the edges, no frame, the focal area most worked, the rest left as faint wash. Lettering, where text is needed: handwritten with a brush or dip pen in sepia ink on an uneven baseline. Information is laid out like a travel-sketchbook page, sketches and notes scattered organically and linked by hand-drawn arrows. Avoid photographic detail under a watercolour texture, a clean digital brush, black outlines and edge-to-edge painting.\n\nSubject: A title slide for a presentation announcing a new ferry connection to a fictional island. Title 'NEW FERRY ROUTE' and subtitle 'From April 2027'. Picture: a small car ferry crossing open water between a mainland harbour and the island with its lighthouse; the new route is shown as a dotted line across the water. The slide is calm and uncluttered, with generous empty space around the title so it stays readable from the back of a room. Layout, lettering and how picture and title share the slide are the style's choice.\n\nConstraints: Image format: landscape, 3:2. The only text in the image is exactly: 'NEW FERRY ROUTE', 'From April 2027'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: Loose wet-in-wet watercolour painted quickly on cold-press cotton paper. Medium: broad soft washes bleeding into damp paper with feathered edges, cauliflower blooms and backruns, granulating blues and earth tones, untouched white paper as highlights, dried tide-line edges, a few drips; forms are suggested by a few broad strokes, never rendered in photographic detail, faces and hands simplified to washes and a few dark accents. Composition: a vignette that dissolves into bare paper at the edges, no frame, the focal area most worked, the rest left as faint wash. Lettering, where text is needed: handwritten with a brush or dip pen in sepia ink on an uneven baseline. Information is laid out like a travel-sketchbook page, sketches and notes scattered organically and linked by hand-drawn arrows. Avoid photographic detail under a watercolour texture, a clean digital brush, black outlines and edge-to-edge painting.",
+    "motif": "Subject: A title slide for a presentation announcing a new ferry connection to a fictional island. Title 'NEW FERRY ROUTE' and subtitle 'From April 2027'. Picture: a small car ferry crossing open water between a mainland harbour and the island with its lighthouse; the new route is shown as a dotted line across the water. The slide is calm and uncluttered, with generous empty space around the title so it stays readable from the back of a room. Layout, lettering and how picture and title share the slide are the style's choice.",
+    "guards": "Constraints: Image format: landscape, 3:2. The only text in the image is exactly: 'NEW FERRY ROUTE', 'From April 2027'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1536x1024",
+   "generated_at": "2026-10-08T16:48:33+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Aquarell: Fähre in türkisem Wasser zwischen Hafen und Leuchtturm, gestrichelte Route, oben „NEW FERRY ROUTE“ in Blau und „From April 2027“ in Braun.",
+   "alt_en": "Watercolour: a ferry in turquoise water between harbour and lighthouse, dashed route, 'NEW FERRY ROUTE' in blue and 'From April 2027' in brown above.",
+   "ai_default": false,
+   "width": 1536,
+   "height": 1024
+  },
+  {
+   "type": "slide",
+   "style": "clay-animation",
+   "lang": "en",
+   "file": "clay-animation-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: A frame from a clay-animation series for European children's television, 1970s–1990s, modelled in a dozen plain shop colours of modelling clay. Medium: red, orange, yellow, pink, green, two blues, brown, cream, white, grey, black, unmixed. Every part is one of them, even from edge to edge, marbled only where two were kneaded; food, cloth, wood and water too. The only texture: fingerprints, smears, tool scores, lint. Forms chunky, rounded, a little lopsided. Figures: ball heads, bead eyes, sausage limbs, mitten hands, caught mid-action. Composition: medium-wide where the subject allows, front edge showing, things side by side, painted card in flat colours close behind; white studio lamps, everything sharp. Lettering, where text is needed: clay snakes pressed flat into thick letters. Information, where a diagram, map or chart is shown: clay relief on a board, shot straight on; snake arrows, columns to scale, equal symbol tiles. Avoid gloss and known characters.\n\nSubject: A title slide for a presentation announcing a new ferry connection to a fictional island. Title 'NEW FERRY ROUTE' and subtitle 'From April 2027'. Picture: a small car ferry crossing open water between a mainland harbour and the island with its lighthouse; the new route is shown as a dotted line across the water. The slide is calm and uncluttered, with generous empty space around the title so it stays readable from the back of a room. Layout, lettering and how picture and title share the slide are the style's choice.\n\nConstraints: Image format: landscape, 3:2. The only text in the image is exactly: 'NEW FERRY ROUTE', 'From April 2027'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: A frame from a clay-animation series for European children's television, 1970s–1990s, modelled in a dozen plain shop colours of modelling clay. Medium: red, orange, yellow, pink, green, two blues, brown, cream, white, grey, black, unmixed. Every part is one of them, even from edge to edge, marbled only where two were kneaded; food, cloth, wood and water too. The only texture: fingerprints, smears, tool scores, lint. Forms chunky, rounded, a little lopsided. Figures: ball heads, bead eyes, sausage limbs, mitten hands, caught mid-action. Composition: medium-wide where the subject allows, front edge showing, things side by side, painted card in flat colours close behind; white studio lamps, everything sharp. Lettering, where text is needed: clay snakes pressed flat into thick letters. Information, where a diagram, map or chart is shown: clay relief on a board, shot straight on; snake arrows, columns to scale, equal symbol tiles. Avoid gloss and known characters.",
+    "motif": "Subject: A title slide for a presentation announcing a new ferry connection to a fictional island. Title 'NEW FERRY ROUTE' and subtitle 'From April 2027'. Picture: a small car ferry crossing open water between a mainland harbour and the island with its lighthouse; the new route is shown as a dotted line across the water. The slide is calm and uncluttered, with generous empty space around the title so it stays readable from the back of a room. Layout, lettering and how picture and title share the slide are the style's choice.",
+    "guards": "Constraints: Image format: landscape, 3:2. The only text in the image is exactly: 'NEW FERRY ROUTE', 'From April 2027'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1536x1024",
+   "generated_at": "2026-10-08T16:48:46+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Knetlandschaft: Fähre mit zwei Autos auf Knetwellen, Route aus weißen Knetstücken, Sonne und Wolken, „NEW FERRY ROUTE“ in Blau, „From April 2027“ in Orange.",
+   "alt_en": "Clay landscape: a ferry with two cars on clay waves, a route of white clay dashes, sun and clouds, 'NEW FERRY ROUTE' in blue and 'From April 2027' in orange.",
+   "ai_default": false,
+   "width": 1536,
+   "height": 1024
+  },
+  {
+   "type": "slide",
+   "style": "16-bit-pixel-art",
+   "lang": "en",
+   "file": "16-bit-pixel-art-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: A screen from a Japanese 16-bit console game, early 1990s. Medium: one coarse grid of identical square pixels, about 256 on the short side, text included; no anti-aliasing; limited flat palette, three-to-five-step colour ramps per material; dark coloured outlines, lighter on the lit side; checkerboard dithering in skies. Composition: full-frame side or high top-down view of repeating tiles, parallax background bands, compact sprites; close-ups as a framed dialogue portrait. Lettering, where text is needed: monospaced bitmap letters, one 8x8 cell each, white with dark shadow, in dark blue bordered windows; titles as blocky colour-banded logo letters across the upper third. Information, where a diagram, map or chart is shown: a menu screen of framed windows with list rows, square icon cells and segmented block meters; maps as top-down tile overworlds. Avoid painterly gradients, centred hero shots, mixed pixel sizes, hi-bit glow, sparse 8-bit sprites, TV bezels, scanlines, score counters.\n\nSubject: A title slide for a presentation announcing a new ferry connection to a fictional island. Title 'NEW FERRY ROUTE' and subtitle 'From April 2027'. Picture: a small car ferry crossing open water between a mainland harbour and the island with its lighthouse; the new route is shown as a dotted line across the water. The slide is calm and uncluttered, with generous empty space around the title so it stays readable from the back of a room. Layout, lettering and how picture and title share the slide are the style's choice.\n\nConstraints: Image format: landscape, 3:2. The only text in the image is exactly: 'NEW FERRY ROUTE', 'From April 2027'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: A screen from a Japanese 16-bit console game, early 1990s. Medium: one coarse grid of identical square pixels, about 256 on the short side, text included; no anti-aliasing; limited flat palette, three-to-five-step colour ramps per material; dark coloured outlines, lighter on the lit side; checkerboard dithering in skies. Composition: full-frame side or high top-down view of repeating tiles, parallax background bands, compact sprites; close-ups as a framed dialogue portrait. Lettering, where text is needed: monospaced bitmap letters, one 8x8 cell each, white with dark shadow, in dark blue bordered windows; titles as blocky colour-banded logo letters across the upper third. Information, where a diagram, map or chart is shown: a menu screen of framed windows with list rows, square icon cells and segmented block meters; maps as top-down tile overworlds. Avoid painterly gradients, centred hero shots, mixed pixel sizes, hi-bit glow, sparse 8-bit sprites, TV bezels, scanlines, score counters.",
+    "motif": "Subject: A title slide for a presentation announcing a new ferry connection to a fictional island. Title 'NEW FERRY ROUTE' and subtitle 'From April 2027'. Picture: a small car ferry crossing open water between a mainland harbour and the island with its lighthouse; the new route is shown as a dotted line across the water. The slide is calm and uncluttered, with generous empty space around the title so it stays readable from the back of a room. Layout, lettering and how picture and title share the slide are the style's choice.",
+    "guards": "Constraints: Image format: landscape, 3:2. The only text in the image is exactly: 'NEW FERRY ROUTE', 'From April 2027'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1536x1024",
+   "generated_at": "2026-10-08T16:48:48+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "16-Bit-Pixelkarte von oben: Fähre zwischen Hafen und Leuchtturminsel mit gepunkteter Route, oben „NEW FERRY ROUTE“ in Spieletitel-Schrift.",
+   "alt_en": "16-bit pixel map from above: a ferry between harbour and lighthouse island with a dotted route, 'NEW FERRY ROUTE' in game-title lettering above.",
+   "ai_default": false,
+   "width": 1536,
+   "height": 1024
+  },
+  {
+   "type": "slide",
+   "style": "swiss-international-typographic-style",
+   "lang": "en",
+   "file": "swiss-international-typographic-style-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: A Swiss printed poster or page from Zurich or Basel, 1950s–60s. Medium: flat opaque inks on white paper; black plus one or two strong colours; pictures as hard-cropped black-and-white photographs or pure circles and arcs. Composition: an invisible four- or six-column grid fixes every edge of image and type; asymmetric placement, large empty fields; one shape repeated or scaled in rhythm; nothing centred. Lettering, where text is needed: one neo-grotesque sans-serif in two or three sizes, flush left, ragged right; the main word huge, near full width; small lines hung on one column edge. Information, where a diagram, map or chart is shown: flush-left figures, thin rules, one-colour bars; hierarchy by size and position, never boxes or icons. Avoid centred hero framing, a sun disc over a horizon, gradients, shadows, invented small print, drawn grid lines, national crosses, gridless minimalism and the heavy bars of 1920s New Typography.\n\nSubject: A title slide for a presentation announcing a new ferry connection to a fictional island. Title 'NEW FERRY ROUTE' and subtitle 'From April 2027'. Picture: a small car ferry crossing open water between a mainland harbour and the island with its lighthouse; the new route is shown as a dotted line across the water. The slide is calm and uncluttered, with generous empty space around the title so it stays readable from the back of a room. Layout, lettering and how picture and title share the slide are the style's choice.\n\nConstraints: Image format: landscape, 3:2. The only text in the image is exactly: 'NEW FERRY ROUTE', 'From April 2027'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: A Swiss printed poster or page from Zurich or Basel, 1950s–60s. Medium: flat opaque inks on white paper; black plus one or two strong colours; pictures as hard-cropped black-and-white photographs or pure circles and arcs. Composition: an invisible four- or six-column grid fixes every edge of image and type; asymmetric placement, large empty fields; one shape repeated or scaled in rhythm; nothing centred. Lettering, where text is needed: one neo-grotesque sans-serif in two or three sizes, flush left, ragged right; the main word huge, near full width; small lines hung on one column edge. Information, where a diagram, map or chart is shown: flush-left figures, thin rules, one-colour bars; hierarchy by size and position, never boxes or icons. Avoid centred hero framing, a sun disc over a horizon, gradients, shadows, invented small print, drawn grid lines, national crosses, gridless minimalism and the heavy bars of 1920s New Typography.",
+    "motif": "Subject: A title slide for a presentation announcing a new ferry connection to a fictional island. Title 'NEW FERRY ROUTE' and subtitle 'From April 2027'. Picture: a small car ferry crossing open water between a mainland harbour and the island with its lighthouse; the new route is shown as a dotted line across the water. The slide is calm and uncluttered, with generous empty space around the title so it stays readable from the back of a room. Layout, lettering and how picture and title share the slide are the style's choice.",
+    "guards": "Constraints: Image format: landscape, 3:2. The only text in the image is exactly: 'NEW FERRY ROUTE', 'From April 2027'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1536x1024",
+   "generated_at": "2026-10-08T16:48:53+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Schwarzweißfoto mit Grotesk-Titel „NEW FERRY ROUTE“ linksbündig, „From April 2027“ in Blau, blaue gepunktete Linie von der Fähre zur Insel.",
+   "alt_en": "Black-and-white photo with a flush-left grotesque title 'NEW FERRY ROUTE', 'From April 2027' in blue, a blue dotted line from the ferry to the island.",
+   "ai_default": false,
+   "width": 1536,
+   "height": 1024
+  },
+  {
+   "type": "slide",
+   "style": "bauhaus-new-typography",
+   "lang": "en",
+   "file": "bauhaus-new-typography-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: A sheet of New Typography as printed at the Dessau Bauhaus and by German modernist typographers, 1925-1932. Medium: letterpress from hand-set metal type and brass rules on off-white uncoated paper, black plus one red; uneven solids, red slightly off register; pictures as coarse halftone photographs cropped to hard rectangles. Composition: asymmetric, hung from an off-centre vertical axis; heavy bars and thin rules divide the sheet; much empty white; one red square as accent; one line turned ninety degrees. Lettering, where text is needed: grotesque sans-serif, geometric in headings, flush left, few sizes, hard contrast, outsized bold numerals; never all capitals. Information, where a diagram, map or chart is shown: steps hang in order along one heavy bar, each with a big numeral and a small label; solid triangular arrowheads; no boxes. Avoid rounded-card tile grids with icons, pastel geometric wall art, centred symmetry, Swiss modular grids and Constructivist diagonals.\n\nSubject: A title slide for a presentation announcing a new ferry connection to a fictional island. Title 'NEW FERRY ROUTE' and subtitle 'From April 2027'. Picture: a small car ferry crossing open water between a mainland harbour and the island with its lighthouse; the new route is shown as a dotted line across the water. The slide is calm and uncluttered, with generous empty space around the title so it stays readable from the back of a room. Layout, lettering and how picture and title share the slide are the style's choice.\n\nConstraints: Image format: landscape, 3:2. The only text in the image is exactly: 'NEW FERRY ROUTE', 'From April 2027'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: A sheet of New Typography as printed at the Dessau Bauhaus and by German modernist typographers, 1925-1932. Medium: letterpress from hand-set metal type and brass rules on off-white uncoated paper, black plus one red; uneven solids, red slightly off register; pictures as coarse halftone photographs cropped to hard rectangles. Composition: asymmetric, hung from an off-centre vertical axis; heavy bars and thin rules divide the sheet; much empty white; one red square as accent; one line turned ninety degrees. Lettering, where text is needed: grotesque sans-serif, geometric in headings, flush left, few sizes, hard contrast, outsized bold numerals; never all capitals. Information, where a diagram, map or chart is shown: steps hang in order along one heavy bar, each with a big numeral and a small label; solid triangular arrowheads; no boxes. Avoid rounded-card tile grids with icons, pastel geometric wall art, centred symmetry, Swiss modular grids and Constructivist diagonals.",
+    "motif": "Subject: A title slide for a presentation announcing a new ferry connection to a fictional island. Title 'NEW FERRY ROUTE' and subtitle 'From April 2027'. Picture: a small car ferry crossing open water between a mainland harbour and the island with its lighthouse; the new route is shown as a dotted line across the water. The slide is calm and uncluttered, with generous empty space around the title so it stays readable from the back of a room. Layout, lettering and how picture and title share the slide are the style's choice.",
+    "guards": "Constraints: Image format: landscape, 3:2. The only text in the image is exactly: 'NEW FERRY ROUTE', 'From April 2027'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1536x1024",
+   "generated_at": "2026-10-08T16:49:40+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Neue Typografie: schwarzer Balken, rotes Quadrat und Titel „NEW FERRY ROUTE“, „From April 2027“ in Rot, Schwarzweißfoto der Fähre mit roter Pfeilroute zur Insel.",
+   "alt_en": "New Typography: a black bar, a red square and the title 'NEW FERRY ROUTE', 'From April 2027' in red, a black-and-white ferry photo with a red arrowed route.",
+   "ai_default": false,
+   "width": 1536,
+   "height": 1024
+  },
+  {
+   "type": "slide",
+   "style": "mid-century-modern-commercial-art",
+   "lang": "en",
+   "file": "mid-century-modern-commercial-art-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: A 1950s American picture-book or magazine-advertisement illustration, printed in five inks. Medium: gouache and grease crayon as flat opaque shapes slightly off-register from a loose, broken black brush line; overlaps print a darker third tone; mustard, teal, tomato red, olive, black on cream paper. Composition: no perspective, horizon, depth, cast shadow or modelling; a shallow stage: ground a tilted colour slab, flat bands or bare paper behind; everything in profile or front view, farther things higher, not smaller; figures as cut shapes: block torso, oval head, dot eyes, tapered limbs, mitten hands; age as signs: grey hair, stoop, creases; water as wavy stripes, ground as dots; main group off-centre. Lettering, where text is needed: casual brush letters bouncing beside slab capitals. Avoid naturalistic depth under crayon texture, realistic faces or hands, childlike drawing, clean vector art, digital painting, period-advertising realism and fake halftone or worn paper.\n\nSubject: A title slide for a presentation announcing a new ferry connection to a fictional island. Title 'NEW FERRY ROUTE' and subtitle 'From April 2027'. Picture: a small car ferry crossing open water between a mainland harbour and the island with its lighthouse; the new route is shown as a dotted line across the water. The slide is calm and uncluttered, with generous empty space around the title so it stays readable from the back of a room. Layout, lettering and how picture and title share the slide are the style's choice.\n\nConstraints: Image format: landscape, 3:2. The only text in the image is exactly: 'NEW FERRY ROUTE', 'From April 2027'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: A 1950s American picture-book or magazine-advertisement illustration, printed in five inks. Medium: gouache and grease crayon as flat opaque shapes slightly off-register from a loose, broken black brush line; overlaps print a darker third tone; mustard, teal, tomato red, olive, black on cream paper. Composition: no perspective, horizon, depth, cast shadow or modelling; a shallow stage: ground a tilted colour slab, flat bands or bare paper behind; everything in profile or front view, farther things higher, not smaller; figures as cut shapes: block torso, oval head, dot eyes, tapered limbs, mitten hands; age as signs: grey hair, stoop, creases; water as wavy stripes, ground as dots; main group off-centre. Lettering, where text is needed: casual brush letters bouncing beside slab capitals. Avoid naturalistic depth under crayon texture, realistic faces or hands, childlike drawing, clean vector art, digital painting, period-advertising realism and fake halftone or worn paper.",
+    "motif": "Subject: A title slide for a presentation announcing a new ferry connection to a fictional island. Title 'NEW FERRY ROUTE' and subtitle 'From April 2027'. Picture: a small car ferry crossing open water between a mainland harbour and the island with its lighthouse; the new route is shown as a dotted line across the water. The slide is calm and uncluttered, with generous empty space around the title so it stays readable from the back of a room. Layout, lettering and how picture and title share the slide are the style's choice.",
+    "guards": "Constraints: Image format: landscape, 3:2. The only text in the image is exactly: 'NEW FERRY ROUTE', 'From April 2027'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1536x1024",
+   "generated_at": "2026-10-08T16:49:46+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Werbegrafik der 50er: „NEW FERRY ROUTE“ in roter Pinselschrift, „From April 2027“ in Blau, darunter Fähre, Hafenhäuser und Leuchtturm in flachen Farben.",
+   "alt_en": "1950s commercial art: 'NEW FERRY ROUTE' in red brush lettering, 'From April 2027' in blue, the ferry, harbour houses and lighthouse in flat colours below.",
+   "ai_default": false,
+   "width": 1536,
+   "height": 1024
+  },
+  {
+   "type": "slide",
+   "style": "ligne-claire",
+   "lang": "en",
+   "file": "ligne-claire-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: A ligne claire comic-album panel, Brussels, around 1950, pen-inked and printed in flat colours. Medium: thin, steady black outlines of constant weight around every form, near and far; flat fills of sky blue, ochre, brick red, leaf green, cream; no hatching, gradients or highlights; few, flat cast shadows; even daylight. Composition: one wide framed panel at eye level, medium-long view; simplified dot-eyed cartoon figures, full length, off-centre, in profile or three-quarter, mid-action, within precisely drawn surroundings that fill the frame; everything equally sharp. Lettering, where text is needed: neat, even hand lettering only on signs in the scene; no invented balloons or captions. Information, where a diagram, map or chart is shown: flat cutaways, thin leader lines, small hand-lettered labels. Avoid soft shading, glow, blur, centred hero framing, corporate vector figures, the Marcinelle school's swelling brush line; no dog resembling a small white terrier; no quiff-haired young reporter.\n\nSubject: A title slide for a presentation announcing a new ferry connection to a fictional island. Title 'NEW FERRY ROUTE' and subtitle 'From April 2027'. Picture: a small car ferry crossing open water between a mainland harbour and the island with its lighthouse; the new route is shown as a dotted line across the water. The slide is calm and uncluttered, with generous empty space around the title so it stays readable from the back of a room. Layout, lettering and how picture and title share the slide are the style's choice.\n\nConstraints: Image format: landscape, 3:2. The only text in the image is exactly: 'NEW FERRY ROUTE', 'From April 2027'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: A ligne claire comic-album panel, Brussels, around 1950, pen-inked and printed in flat colours. Medium: thin, steady black outlines of constant weight around every form, near and far; flat fills of sky blue, ochre, brick red, leaf green, cream; no hatching, gradients or highlights; few, flat cast shadows; even daylight. Composition: one wide framed panel at eye level, medium-long view; simplified dot-eyed cartoon figures, full length, off-centre, in profile or three-quarter, mid-action, within precisely drawn surroundings that fill the frame; everything equally sharp. Lettering, where text is needed: neat, even hand lettering only on signs in the scene; no invented balloons or captions. Information, where a diagram, map or chart is shown: flat cutaways, thin leader lines, small hand-lettered labels. Avoid soft shading, glow, blur, centred hero framing, corporate vector figures, the Marcinelle school's swelling brush line; no dog resembling a small white terrier; no quiff-haired young reporter.",
+    "motif": "Subject: A title slide for a presentation announcing a new ferry connection to a fictional island. Title 'NEW FERRY ROUTE' and subtitle 'From April 2027'. Picture: a small car ferry crossing open water between a mainland harbour and the island with its lighthouse; the new route is shown as a dotted line across the water. The slide is calm and uncluttered, with generous empty space around the title so it stays readable from the back of a room. Layout, lettering and how picture and title share the slide are the style's choice.",
+    "guards": "Constraints: Image format: landscape, 3:2. The only text in the image is exactly: 'NEW FERRY ROUTE', 'From April 2027'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1536x1024",
+   "generated_at": "2026-10-08T16:49:40+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Ligne claire: Fähre mit Autos vor Hafenstadt und Leuchtturm, weiße gestrichelte Route, „NEW FERRY ROUTE“ in Rot und „From April 2027“ in Schwarz.",
+   "alt_en": "Ligne claire: a ferry with cars before a harbour town and lighthouse, white dashed route, 'NEW FERRY ROUTE' in red and 'From April 2027' in black.",
+   "ai_default": false,
+   "width": 1536,
+   "height": 1024
+  },
+  {
+   "type": "social",
+   "style": "baseline",
+   "lang": "en",
+   "file": "baseline-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Subject: A square social media post announcing that a small bakery at the harbour of a fictional island has opened. Headline 'NOW OPEN', name 'HARBOUR BAKERY'. Picture: a round crusty loaf fresh from the oven with steam rising, on a wooden board, beside it a cinnamon bun and a brown paper bag. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: square, 1:1. The only text in the image is exactly: 'NOW OPEN', 'HARBOUR BAKERY'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "motif": "Subject: A square social media post announcing that a small bakery at the harbour of a fictional island has opened. Headline 'NOW OPEN', name 'HARBOUR BAKERY'. Picture: a round crusty loaf fresh from the oven with steam rising, on a wooden board, beside it a cinnamon bun and a brown paper bag. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice.",
+    "guards": "Constraints: Image format: square, 1:1. The only text in the image is exactly: 'NOW OPEN', 'HARBOUR BAKERY'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1024x1024",
+   "generated_at": "2026-10-08T16:49:41+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Fotorealistisch im Gegenlicht: dampfender Brotlaib, Zimtschnecke und Papiertüte am Hafen, oben „NOW OPEN“ und „HARBOUR BAKERY“ auf einem Holzschild.",
+   "alt_en": "Photorealistic, backlit: a steaming loaf, cinnamon bun and paper bag at the harbour, 'NOW OPEN' and 'HARBOUR BAKERY' on a wooden sign above.",
+   "ai_default": false,
+   "width": 1254,
+   "height": 1254
+  },
+  {
+   "type": "social",
+   "style": "baseline-2",
+   "lang": "en",
+   "file": "baseline-2-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Subject: A square social media post announcing that a small bakery at the harbour of a fictional island has opened. Headline 'NOW OPEN', name 'HARBOUR BAKERY'. Picture: a round crusty loaf fresh from the oven with steam rising, on a wooden board, beside it a cinnamon bun and a brown paper bag. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: square, 1:1. The only text in the image is exactly: 'NOW OPEN', 'HARBOUR BAKERY'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "motif": "Subject: A square social media post announcing that a small bakery at the harbour of a fictional island has opened. Headline 'NOW OPEN', name 'HARBOUR BAKERY'. Picture: a round crusty loaf fresh from the oven with steam rising, on a wooden board, beside it a cinnamon bun and a brown paper bag. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice.",
+    "guards": "Constraints: Image format: square, 1:1. The only text in the image is exactly: 'NOW OPEN', 'HARBOUR BAKERY'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1024x1024",
+   "generated_at": "2026-10-08T16:50:35+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Fotorealistisch bei Sonnenuntergang: Brotlaib, Zimtschnecke und Papiertüte auf einem Brett am Hafen, darüber das Holzschild „NOW OPEN – HARBOUR BAKERY“.",
+   "alt_en": "Photorealistic at sunset: loaf, cinnamon bun and paper bag on a board at the harbour, the wooden sign 'NOW OPEN – HARBOUR BAKERY' above.",
+   "ai_default": false,
+   "width": 1254,
+   "height": 1254
+  },
+  {
+   "type": "social",
+   "style": "ancient-egyptian-wall-painting",
+   "lang": "en",
+   "file": "ancient-egyptian-wall-painting-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: Tomb wall painting, Thebes, Egypt, about 1400 BC, painted over the painter's red squared grid. Medium: flat Egyptian blue, green, ochres and soot black on dry whitewashed plaster, faint grid lines showing through; red-brown outlines. Composition: everything stands on ruled ground lines, squared to the grid; water blue with black zigzags; ground a plain ochre strip with sparse red dots; bare whitewash above. People: profile head and legs, frontal eye and shoulders; kneeling figures upright, one knee raised; men red-brown, women pale yellow at every age. Lettering, where text is needed: brush-painted letters and numerals in one colour, in ruled boxes. Information, where a diagram, map or chart is shown: steps as successive bands; a chart alone on the wall: plain flat-colour bars on the bottom ground line, heights read off the grid in exact proportion, numeral just above each; maps as top-view plans. Avoid gold, deities and hieroglyphs.\n\nSubject: A square social media post announcing that a small bakery at the harbour of a fictional island has opened. Headline 'NOW OPEN', name 'HARBOUR BAKERY'. Picture: a round crusty loaf fresh from the oven with steam rising, on a wooden board, beside it a cinnamon bun and a brown paper bag. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: square, 1:1. The only text in the image is exactly: 'NOW OPEN', 'HARBOUR BAKERY'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: Tomb wall painting, Thebes, Egypt, about 1400 BC, painted over the painter's red squared grid. Medium: flat Egyptian blue, green, ochres and soot black on dry whitewashed plaster, faint grid lines showing through; red-brown outlines. Composition: everything stands on ruled ground lines, squared to the grid; water blue with black zigzags; ground a plain ochre strip with sparse red dots; bare whitewash above. People: profile head and legs, frontal eye and shoulders; kneeling figures upright, one knee raised; men red-brown, women pale yellow at every age. Lettering, where text is needed: brush-painted letters and numerals in one colour, in ruled boxes. Information, where a diagram, map or chart is shown: steps as successive bands; a chart alone on the wall: plain flat-colour bars on the bottom ground line, heights read off the grid in exact proportion, numeral just above each; maps as top-view plans. Avoid gold, deities and hieroglyphs.",
+    "motif": "Subject: A square social media post announcing that a small bakery at the harbour of a fictional island has opened. Headline 'NOW OPEN', name 'HARBOUR BAKERY'. Picture: a round crusty loaf fresh from the oven with steam rising, on a wooden board, beside it a cinnamon bun and a brown paper bag. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice.",
+    "guards": "Constraints: Image format: square, 1:1. The only text in the image is exactly: 'NOW OPEN', 'HARBOUR BAKERY'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1024x1024",
+   "generated_at": "2026-10-08T16:50:34+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "flawed",
+    "note_de": "Brot, Schnecke und Tüte sind räumlich schattiert statt flach gemalt.",
+    "note_en": "Bread, bun and bag are modelled in 3D instead of painted flat.",
+    "text_exact": null
+   },
+   "alt_de": "Wandmalerei: „NOW OPEN“ in Rot und „HARBOUR BAKERY“ in Blau über einem Brett mit Brot und Zimtschnecke, dahinter Segelboote mit Männern im Profil und Palmen.",
+   "alt_en": "Wall painting: 'NOW OPEN' in red and 'HARBOUR BAKERY' in blue above a board with bread and a cinnamon bun, sailing boats with profile figures and palms behind.",
+   "ai_default": false,
+   "width": 1254,
+   "height": 1254
+  },
+  {
+   "type": "social",
+   "style": "woodcut",
+   "lang": "en",
+   "file": "woodcut-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: Bold black-line woodcut cut with knife and gouge into a plank of soft wood, in the manner of early 16th-century broadsheets and herbals. Medium: thick, coarse black lines and large solid black areas, only sparse parallel hatching, no cross-hatching and no fine detail; faces and hands reduced to a few confident cuts; wood-grain streaks and white flecks in the solids; uneven hand-burnished ink, black on warm off-white laid paper. Composition: flat, stage-like space with few overlapping planes, figures large and outlined, a heavy ruled border. Lettering, where text is needed: chunky carved roman capitals or blackletter in scroll banners or a framed title panel. Information is arranged like a broadsheet page of framed, numbered vignettes. Avoid fine wood engraving, scratchboard, photographic tonal modelling, smooth vector lines and grey tones.\n\nSubject: A square social media post announcing that a small bakery at the harbour of a fictional island has opened. Headline 'NOW OPEN', name 'HARBOUR BAKERY'. Picture: a round crusty loaf fresh from the oven with steam rising, on a wooden board, beside it a cinnamon bun and a brown paper bag. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: square, 1:1. The only text in the image is exactly: 'NOW OPEN', 'HARBOUR BAKERY'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: Bold black-line woodcut cut with knife and gouge into a plank of soft wood, in the manner of early 16th-century broadsheets and herbals. Medium: thick, coarse black lines and large solid black areas, only sparse parallel hatching, no cross-hatching and no fine detail; faces and hands reduced to a few confident cuts; wood-grain streaks and white flecks in the solids; uneven hand-burnished ink, black on warm off-white laid paper. Composition: flat, stage-like space with few overlapping planes, figures large and outlined, a heavy ruled border. Lettering, where text is needed: chunky carved roman capitals or blackletter in scroll banners or a framed title panel. Information is arranged like a broadsheet page of framed, numbered vignettes. Avoid fine wood engraving, scratchboard, photographic tonal modelling, smooth vector lines and grey tones.",
+    "motif": "Subject: A square social media post announcing that a small bakery at the harbour of a fictional island has opened. Headline 'NOW OPEN', name 'HARBOUR BAKERY'. Picture: a round crusty loaf fresh from the oven with steam rising, on a wooden board, beside it a cinnamon bun and a brown paper bag. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice.",
+    "guards": "Constraints: Image format: square, 1:1. The only text in the image is exactly: 'NOW OPEN', 'HARBOUR BAKERY'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1024x1024",
+   "generated_at": "2026-10-08T16:50:32+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Holzschnitt: Schriftband „NOW OPEN“, dampfendes Brot, Zimtschnecke und Tüte vor Hafen und Segelboot, unten „HARBOUR BAKERY“.",
+   "alt_en": "Woodcut: a 'NOW OPEN' banner, steaming bread, cinnamon bun and bag before the harbour and a sailing boat, 'HARBOUR BAKERY' below.",
+   "ai_default": false,
+   "width": 1254,
+   "height": 1254
+  },
+  {
+   "type": "social",
+   "style": "cyanotype",
+   "lang": "en",
+   "file": "cyanotype-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: A hand-coated cyanotype, the iron-based sun print of 19th-century England. Medium: Prussian blue and bare paper white only; watercolour paper hand-brushed with sensitiser, leaving ragged stroke edges, drips and thin patches; soft detail, blocked shadows. Composition: the blue field sits inside a wide unprinted margin. People and scenes print from a glass negative: still, eye level, plainly framed. Anything otherwise drawn becomes a photogram: cut paper, tissue and lace laid flat, no perspective, soft-edged white and pale-blue silhouettes. Lettering, where text is needed: white on blue, inked on tracing paper in a careful 19th-century hand or stencil capitals. Information, where a diagram, map or chart is shown: unboxed cut-paper shapes laid out like album specimens, a handwritten label beneath each; quantities as paper strips cut to length; lines in thin white ink. Avoid blue-filtered digital photos, glossy cyan, digital gradients, boxed tile grids and the gridded engineering blueprint.\n\nSubject: A square social media post announcing that a small bakery at the harbour of a fictional island has opened. Headline 'NOW OPEN', name 'HARBOUR BAKERY'. Picture: a round crusty loaf fresh from the oven with steam rising, on a wooden board, beside it a cinnamon bun and a brown paper bag. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: square, 1:1. The only text in the image is exactly: 'NOW OPEN', 'HARBOUR BAKERY'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: A hand-coated cyanotype, the iron-based sun print of 19th-century England. Medium: Prussian blue and bare paper white only; watercolour paper hand-brushed with sensitiser, leaving ragged stroke edges, drips and thin patches; soft detail, blocked shadows. Composition: the blue field sits inside a wide unprinted margin. People and scenes print from a glass negative: still, eye level, plainly framed. Anything otherwise drawn becomes a photogram: cut paper, tissue and lace laid flat, no perspective, soft-edged white and pale-blue silhouettes. Lettering, where text is needed: white on blue, inked on tracing paper in a careful 19th-century hand or stencil capitals. Information, where a diagram, map or chart is shown: unboxed cut-paper shapes laid out like album specimens, a handwritten label beneath each; quantities as paper strips cut to length; lines in thin white ink. Avoid blue-filtered digital photos, glossy cyan, digital gradients, boxed tile grids and the gridded engineering blueprint.",
+    "motif": "Subject: A square social media post announcing that a small bakery at the harbour of a fictional island has opened. Headline 'NOW OPEN', name 'HARBOUR BAKERY'. Picture: a round crusty loaf fresh from the oven with steam rising, on a wooden board, beside it a cinnamon bun and a brown paper bag. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice.",
+    "guards": "Constraints: Image format: square, 1:1. The only text in the image is exactly: 'NOW OPEN', 'HARBOUR BAKERY'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1024x1024",
+   "generated_at": "2026-10-08T16:50:44+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Cyanotypie: Brotlaib, Zimtschnecke und Papiertüte auf einem Brett am Hafen, oben „NOW OPEN“ und „HARBOUR BAKERY“ in hellen Lettern.",
+   "alt_en": "Cyanotype: loaf, cinnamon bun and paper bag on a board at the harbour, 'NOW OPEN' and 'HARBOUR BAKERY' in pale letters above.",
+   "ai_default": false,
+   "width": 1254,
+   "height": 1254
+  },
+  {
+   "type": "social",
+   "style": "watercolor-wet-in-wet",
+   "lang": "en",
+   "file": "watercolor-wet-in-wet-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: Loose wet-in-wet watercolour painted quickly on cold-press cotton paper. Medium: broad soft washes bleeding into damp paper with feathered edges, cauliflower blooms and backruns, granulating blues and earth tones, untouched white paper as highlights, dried tide-line edges, a few drips; forms are suggested by a few broad strokes, never rendered in photographic detail, faces and hands simplified to washes and a few dark accents. Composition: a vignette that dissolves into bare paper at the edges, no frame, the focal area most worked, the rest left as faint wash. Lettering, where text is needed: handwritten with a brush or dip pen in sepia ink on an uneven baseline. Information is laid out like a travel-sketchbook page, sketches and notes scattered organically and linked by hand-drawn arrows. Avoid photographic detail under a watercolour texture, a clean digital brush, black outlines and edge-to-edge painting.\n\nSubject: A square social media post announcing that a small bakery at the harbour of a fictional island has opened. Headline 'NOW OPEN', name 'HARBOUR BAKERY'. Picture: a round crusty loaf fresh from the oven with steam rising, on a wooden board, beside it a cinnamon bun and a brown paper bag. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: square, 1:1. The only text in the image is exactly: 'NOW OPEN', 'HARBOUR BAKERY'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: Loose wet-in-wet watercolour painted quickly on cold-press cotton paper. Medium: broad soft washes bleeding into damp paper with feathered edges, cauliflower blooms and backruns, granulating blues and earth tones, untouched white paper as highlights, dried tide-line edges, a few drips; forms are suggested by a few broad strokes, never rendered in photographic detail, faces and hands simplified to washes and a few dark accents. Composition: a vignette that dissolves into bare paper at the edges, no frame, the focal area most worked, the rest left as faint wash. Lettering, where text is needed: handwritten with a brush or dip pen in sepia ink on an uneven baseline. Information is laid out like a travel-sketchbook page, sketches and notes scattered organically and linked by hand-drawn arrows. Avoid photographic detail under a watercolour texture, a clean digital brush, black outlines and edge-to-edge painting.",
+    "motif": "Subject: A square social media post announcing that a small bakery at the harbour of a fictional island has opened. Headline 'NOW OPEN', name 'HARBOUR BAKERY'. Picture: a round crusty loaf fresh from the oven with steam rising, on a wooden board, beside it a cinnamon bun and a brown paper bag. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice.",
+    "guards": "Constraints: Image format: square, 1:1. The only text in the image is exactly: 'NOW OPEN', 'HARBOUR BAKERY'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1024x1024",
+   "generated_at": "2026-10-08T16:51:25+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Aquarell: Brot und glasierte Zimtschnecke vor Hafen mit roten Häusern, oben „NOW OPEN“ und „HARBOUR BAKERY“ in brauner Pinselschrift.",
+   "alt_en": "Watercolour: bread and an iced cinnamon bun before a harbour with red houses, 'NOW OPEN' and 'HARBOUR BAKERY' in brown brush lettering above.",
+   "ai_default": false,
+   "width": 1254,
+   "height": 1254
+  },
+  {
+   "type": "social",
+   "style": "clay-animation",
+   "lang": "en",
+   "file": "clay-animation-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: A frame from a clay-animation series for European children's television, 1970s–1990s, modelled in a dozen plain shop colours of modelling clay. Medium: red, orange, yellow, pink, green, two blues, brown, cream, white, grey, black, unmixed. Every part is one of them, even from edge to edge, marbled only where two were kneaded; food, cloth, wood and water too. The only texture: fingerprints, smears, tool scores, lint. Forms chunky, rounded, a little lopsided. Figures: ball heads, bead eyes, sausage limbs, mitten hands, caught mid-action. Composition: medium-wide where the subject allows, front edge showing, things side by side, painted card in flat colours close behind; white studio lamps, everything sharp. Lettering, where text is needed: clay snakes pressed flat into thick letters. Information, where a diagram, map or chart is shown: clay relief on a board, shot straight on; snake arrows, columns to scale, equal symbol tiles. Avoid gloss and known characters.\n\nSubject: A square social media post announcing that a small bakery at the harbour of a fictional island has opened. Headline 'NOW OPEN', name 'HARBOUR BAKERY'. Picture: a round crusty loaf fresh from the oven with steam rising, on a wooden board, beside it a cinnamon bun and a brown paper bag. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: square, 1:1. The only text in the image is exactly: 'NOW OPEN', 'HARBOUR BAKERY'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: A frame from a clay-animation series for European children's television, 1970s–1990s, modelled in a dozen plain shop colours of modelling clay. Medium: red, orange, yellow, pink, green, two blues, brown, cream, white, grey, black, unmixed. Every part is one of them, even from edge to edge, marbled only where two were kneaded; food, cloth, wood and water too. The only texture: fingerprints, smears, tool scores, lint. Forms chunky, rounded, a little lopsided. Figures: ball heads, bead eyes, sausage limbs, mitten hands, caught mid-action. Composition: medium-wide where the subject allows, front edge showing, things side by side, painted card in flat colours close behind; white studio lamps, everything sharp. Lettering, where text is needed: clay snakes pressed flat into thick letters. Information, where a diagram, map or chart is shown: clay relief on a board, shot straight on; snake arrows, columns to scale, equal symbol tiles. Avoid gloss and known characters.",
+    "motif": "Subject: A square social media post announcing that a small bakery at the harbour of a fictional island has opened. Headline 'NOW OPEN', name 'HARBOUR BAKERY'. Picture: a round crusty loaf fresh from the oven with steam rising, on a wooden board, beside it a cinnamon bun and a brown paper bag. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice.",
+    "guards": "Constraints: Image format: square, 1:1. The only text in the image is exactly: 'NOW OPEN', 'HARBOUR BAKERY'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1024x1024",
+   "generated_at": "2026-10-08T16:51:28+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Knetwelt: Schild „NOW OPEN – HARBOUR BAKERY“ aus Knete, darunter dampfendes Brot, Zimtschnecke und Tüte, dahinter Hafen und Leuchtturm.",
+   "alt_en": "Clay world: a clay sign 'NOW OPEN – HARBOUR BAKERY', steaming bread, cinnamon bun and bag below, harbour and lighthouse behind.",
+   "ai_default": false,
+   "width": 1254,
+   "height": 1254
+  },
+  {
+   "type": "social",
+   "style": "16-bit-pixel-art",
+   "lang": "en",
+   "file": "16-bit-pixel-art-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: A screen from a Japanese 16-bit console game, early 1990s. Medium: one coarse grid of identical square pixels, about 256 on the short side, text included; no anti-aliasing; limited flat palette, three-to-five-step colour ramps per material; dark coloured outlines, lighter on the lit side; checkerboard dithering in skies. Composition: full-frame side or high top-down view of repeating tiles, parallax background bands, compact sprites; close-ups as a framed dialogue portrait. Lettering, where text is needed: monospaced bitmap letters, one 8x8 cell each, white with dark shadow, in dark blue bordered windows; titles as blocky colour-banded logo letters across the upper third. Information, where a diagram, map or chart is shown: a menu screen of framed windows with list rows, square icon cells and segmented block meters; maps as top-down tile overworlds. Avoid painterly gradients, centred hero shots, mixed pixel sizes, hi-bit glow, sparse 8-bit sprites, TV bezels, scanlines, score counters.\n\nSubject: A square social media post announcing that a small bakery at the harbour of a fictional island has opened. Headline 'NOW OPEN', name 'HARBOUR BAKERY'. Picture: a round crusty loaf fresh from the oven with steam rising, on a wooden board, beside it a cinnamon bun and a brown paper bag. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: square, 1:1. The only text in the image is exactly: 'NOW OPEN', 'HARBOUR BAKERY'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: A screen from a Japanese 16-bit console game, early 1990s. Medium: one coarse grid of identical square pixels, about 256 on the short side, text included; no anti-aliasing; limited flat palette, three-to-five-step colour ramps per material; dark coloured outlines, lighter on the lit side; checkerboard dithering in skies. Composition: full-frame side or high top-down view of repeating tiles, parallax background bands, compact sprites; close-ups as a framed dialogue portrait. Lettering, where text is needed: monospaced bitmap letters, one 8x8 cell each, white with dark shadow, in dark blue bordered windows; titles as blocky colour-banded logo letters across the upper third. Information, where a diagram, map or chart is shown: a menu screen of framed windows with list rows, square icon cells and segmented block meters; maps as top-down tile overworlds. Avoid painterly gradients, centred hero shots, mixed pixel sizes, hi-bit glow, sparse 8-bit sprites, TV bezels, scanlines, score counters.",
+    "motif": "Subject: A square social media post announcing that a small bakery at the harbour of a fictional island has opened. Headline 'NOW OPEN', name 'HARBOUR BAKERY'. Picture: a round crusty loaf fresh from the oven with steam rising, on a wooden board, beside it a cinnamon bun and a brown paper bag. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice.",
+    "guards": "Constraints: Image format: square, 1:1. The only text in the image is exactly: 'NOW OPEN', 'HARBOUR BAKERY'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1024x1024",
+   "generated_at": "2026-10-08T16:51:28+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "16-Bit-Pixelgrafik: Schilder „NOW OPEN“ und „HARBOUR BAKERY“ über Brot, Zimtschnecke und Tüte, dahinter Hafen mit Segelschiff.",
+   "alt_en": "16-bit pixel art: signs 'NOW OPEN' and 'HARBOUR BAKERY' above bread, cinnamon bun and bag, a harbour with a sailing ship behind.",
+   "ai_default": false,
+   "width": 1254,
+   "height": 1254
+  },
+  {
+   "type": "social",
+   "style": "risograph",
+   "lang": "en",
+   "file": "risograph-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: Risograph print in three spot inks, fluorescent pink, medium blue and yellow, overprinting to make new colours. Medium: grainy uneven ink coverage with speckled solids, coarse halftone dither in tonal areas, visible misregistration between layers, faint roller marks, matte ink on uncoated off-white paper. Composition: bold flat shapes cropped tightly, overlapping colour fields, generous paper margins, an asymmetric zine-like layout. Lettering, where text is needed: chunky condensed grotesque or stencil letters in one spot ink, slightly out of register with the image. Information is laid out like a DIY zine spread with oversized numbers and hand-drawn arrows. Avoid smooth gradients, full colour and neat vector polish.\n\nSubject: A square social media post announcing that a small bakery at the harbour of a fictional island has opened. Headline 'NOW OPEN', name 'HARBOUR BAKERY'. Picture: a round crusty loaf fresh from the oven with steam rising, on a wooden board, beside it a cinnamon bun and a brown paper bag. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: square, 1:1. The only text in the image is exactly: 'NOW OPEN', 'HARBOUR BAKERY'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: Risograph print in three spot inks, fluorescent pink, medium blue and yellow, overprinting to make new colours. Medium: grainy uneven ink coverage with speckled solids, coarse halftone dither in tonal areas, visible misregistration between layers, faint roller marks, matte ink on uncoated off-white paper. Composition: bold flat shapes cropped tightly, overlapping colour fields, generous paper margins, an asymmetric zine-like layout. Lettering, where text is needed: chunky condensed grotesque or stencil letters in one spot ink, slightly out of register with the image. Information is laid out like a DIY zine spread with oversized numbers and hand-drawn arrows. Avoid smooth gradients, full colour and neat vector polish.",
+    "motif": "Subject: A square social media post announcing that a small bakery at the harbour of a fictional island has opened. Headline 'NOW OPEN', name 'HARBOUR BAKERY'. Picture: a round crusty loaf fresh from the oven with steam rising, on a wooden board, beside it a cinnamon bun and a brown paper bag. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice.",
+    "guards": "Constraints: Image format: square, 1:1. The only text in the image is exactly: 'NOW OPEN', 'HARBOUR BAKERY'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1024x1024",
+   "generated_at": "2026-10-08T16:51:44+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Risografie in Pink, Blau und Gelb mit Versatz: „NOW OPEN“ groß oben links, Brot und Zimtschnecke vor dem Hafen, unten „HARBOUR BAKERY“.",
+   "alt_en": "Risograph in pink, blue and yellow with misregistration: big 'NOW OPEN' top left, bread and bun before the harbour, 'HARBOUR BAKERY' below.",
+   "ai_default": false,
+   "width": 1254,
+   "height": 1254
+  },
+  {
+   "type": "social",
+   "style": "memphis-design",
+   "lang": "en",
+   "file": "memphis-design-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: A coloured presentation drawing by a Milan postmodern design collective, early 1980s, treating every object as stacked simple solids clad in printed laminate. Medium: even black felt-tip outlines, flat gouache fills, slight hand wobble; each part its own laminate pattern: black-and-white terrazzo speckle, squiggles, black grid, zigzags; salmon, mint and lemon clash with red, cobalt and black; no gradients. Composition: subject whole in steep axonometric view, off-centre on a two-colour split ground; three or four confetti dashes, squiggles or small cones float around it; hard black shadow shapes. Lettering, where text is needed: chunky geometric capitals from bars and circles, alternating colours, tilted baseline. Information, where a diagram, map or chart is shown: labels in scattered flat blocks of different shapes, linked by zigzags; categories coded by pattern. Avoid glossy 3D renders, gradient backdrops, centred hero framing, harmonious pastels, invented extra parts, rounded 2010s corporate flat illustration and vaporwave.\n\nSubject: A square social media post announcing that a small bakery at the harbour of a fictional island has opened. Headline 'NOW OPEN', name 'HARBOUR BAKERY'. Picture: a round crusty loaf fresh from the oven with steam rising, on a wooden board, beside it a cinnamon bun and a brown paper bag. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: square, 1:1. The only text in the image is exactly: 'NOW OPEN', 'HARBOUR BAKERY'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: A coloured presentation drawing by a Milan postmodern design collective, early 1980s, treating every object as stacked simple solids clad in printed laminate. Medium: even black felt-tip outlines, flat gouache fills, slight hand wobble; each part its own laminate pattern: black-and-white terrazzo speckle, squiggles, black grid, zigzags; salmon, mint and lemon clash with red, cobalt and black; no gradients. Composition: subject whole in steep axonometric view, off-centre on a two-colour split ground; three or four confetti dashes, squiggles or small cones float around it; hard black shadow shapes. Lettering, where text is needed: chunky geometric capitals from bars and circles, alternating colours, tilted baseline. Information, where a diagram, map or chart is shown: labels in scattered flat blocks of different shapes, linked by zigzags; categories coded by pattern. Avoid glossy 3D renders, gradient backdrops, centred hero framing, harmonious pastels, invented extra parts, rounded 2010s corporate flat illustration and vaporwave.",
+    "motif": "Subject: A square social media post announcing that a small bakery at the harbour of a fictional island has opened. Headline 'NOW OPEN', name 'HARBOUR BAKERY'. Picture: a round crusty loaf fresh from the oven with steam rising, on a wooden board, beside it a cinnamon bun and a brown paper bag. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice.",
+    "guards": "Constraints: Image format: square, 1:1. The only text in the image is exactly: 'NOW OPEN', 'HARBOUR BAKERY'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1024x1024",
+   "generated_at": "2026-10-08T16:52:16+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Memphis-Design: bunte Formen, Terrazzo-Muster und „NOW OPEN“ in Blockbuchstaben, Brot und Zimtschnecke auf rosa Fläche, unten „HARBOUR BAKERY“ in Farbbuchstaben.",
+   "alt_en": "Memphis design: colourful shapes, terrazzo pattern and blocky 'NOW OPEN', bread and bun on a pink surface, 'HARBOUR BAKERY' in multicoloured letters below.",
+   "ai_default": false,
+   "width": 1254,
+   "height": 1254
+  },
+  {
+   "type": "social",
+   "style": "cut-paper-collage",
+   "lang": "en",
+   "file": "cut-paper-collage-2.png",
+   "attempt": 2,
+   "discarded": 1,
+   "prompt": "Style: A French gouache cut-out of about 1950 from Nice or Vence, scissor-cut freehand from hand-painted sheets. Medium: paper brushed with opaque gouache in a few saturated colours (ultramarine, vermilion, lemon yellow, emerald, black), brush streaks in each sheet; fluid scissor contours, slightly angular where the blade turned; overlaps with lifted edges, pinholes and glue wrinkles; photographed flat. Composition: no perspective; a ground of two or three large colour rectangles butted edge to edge; big simplified silhouettes, some cropped by the edge; faces and hands as a few cut pieces, never drawn; leaf, star or seaweed shapes scattered for rhythm. Lettering, where text is needed: uneven scissor-cut capitals glued in a row. Information, where a diagram, map or chart is shown: cut strips side by side, keyed by colour swatches. Avoid smooth vector illustration, gradients, shading, outlines and a centred hero figure; no torn edges, newsprint or shadow-box depth.\n\nSubject: A square social media post announcing that a small bakery at the harbour of a fictional island has opened. Headline 'NOW OPEN', name 'HARBOUR BAKERY'. Picture: a round crusty loaf fresh from the oven with steam rising, on a wooden board, beside it a cinnamon bun and a brown paper bag. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: square, 1:1. The only text in the image is exactly: 'NOW OPEN', 'HARBOUR BAKERY'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: A French gouache cut-out of about 1950 from Nice or Vence, scissor-cut freehand from hand-painted sheets. Medium: paper brushed with opaque gouache in a few saturated colours (ultramarine, vermilion, lemon yellow, emerald, black), brush streaks in each sheet; fluid scissor contours, slightly angular where the blade turned; overlaps with lifted edges, pinholes and glue wrinkles; photographed flat. Composition: no perspective; a ground of two or three large colour rectangles butted edge to edge; big simplified silhouettes, some cropped by the edge; faces and hands as a few cut pieces, never drawn; leaf, star or seaweed shapes scattered for rhythm. Lettering, where text is needed: uneven scissor-cut capitals glued in a row. Information, where a diagram, map or chart is shown: cut strips side by side, keyed by colour swatches. Avoid smooth vector illustration, gradients, shading, outlines and a centred hero figure; no torn edges, newsprint or shadow-box depth.",
+    "motif": "Subject: A square social media post announcing that a small bakery at the harbour of a fictional island has opened. Headline 'NOW OPEN', name 'HARBOUR BAKERY'. Picture: a round crusty loaf fresh from the oven with steam rising, on a wooden board, beside it a cinnamon bun and a brown paper bag. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice.",
+    "guards": "Constraints: Image format: square, 1:1. The only text in the image is exactly: 'NOW OPEN', 'HARBOUR BAKERY'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1024x1024",
+   "generated_at": "2026-10-08T16:58:30+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Papiercollage: „NOW OPEN“ auf gelbem und rotem Papier, Brot, Zimtschnecke und Tüte vor Hafen und Leuchtturm, unten „HARBOUR BAKERY“ auf grünem Streifen.",
+   "alt_en": "Cut-paper collage: 'NOW OPEN' on yellow and red paper, bread, bun and bag before the harbour and lighthouse, 'HARBOUR BAKERY' on a green strip below.",
+   "ai_default": false,
+   "width": 1254,
+   "height": 1254
+  },
+  {
+   "type": "social",
+   "style": "art-deco-poster",
+   "lang": "en",
+   "file": "art-deco-poster-1.png",
+   "attempt": 1,
+   "discarded": 0,
+   "prompt": "Style: A Paris colour-lithograph advertising poster of 1925-1940, built with ruler, compass and airbrush. Medium: matte black, deep blue, vermilion and ochre inks on cream paper; airbrushed gradients with spray grain inside hard masked edges; no brushwork or fine detail. Composition: a geometric construction, not a view: one form enormous, from steeply below or dead-on, cropped by the edge; all else small flat signs before an empty gradient field; depth only from that scale jump: no receding layers, haze or cast shadows. Forms: cones, cylinders, wedges, arcs, each split into lit and shaded facets; water as ruled bands, slopes stepped wedges, trees cones, houses white cubes. Lettering, where text is needed: hand-drawn bold geometric monoline capitals in a solid band. Information, where a diagram, map or chart is shown: routes as one ruled line, stops as dots. Avoid detailed foliage, rocks, reflections, glossy retro travel-poster vectors, sunbursts and gold filigree.\n\nSubject: A square social media post announcing that a small bakery at the harbour of a fictional island has opened. Headline 'NOW OPEN', name 'HARBOUR BAKERY'. Picture: a round crusty loaf fresh from the oven with steam rising, on a wooden board, beside it a cinnamon bun and a brown paper bag. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice.\n\nConstraints: Image format: square, 1:1. The only text in the image is exactly: 'NOW OPEN', 'HARBOUR BAKERY'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks.",
+   "parts": {
+    "style": "Style: A Paris colour-lithograph advertising poster of 1925-1940, built with ruler, compass and airbrush. Medium: matte black, deep blue, vermilion and ochre inks on cream paper; airbrushed gradients with spray grain inside hard masked edges; no brushwork or fine detail. Composition: a geometric construction, not a view: one form enormous, from steeply below or dead-on, cropped by the edge; all else small flat signs before an empty gradient field; depth only from that scale jump: no receding layers, haze or cast shadows. Forms: cones, cylinders, wedges, arcs, each split into lit and shaded facets; water as ruled bands, slopes stepped wedges, trees cones, houses white cubes. Lettering, where text is needed: hand-drawn bold geometric monoline capitals in a solid band. Information, where a diagram, map or chart is shown: routes as one ruled line, stops as dots. Avoid detailed foliage, rocks, reflections, glossy retro travel-poster vectors, sunbursts and gold filigree.",
+    "motif": "Subject: A square social media post announcing that a small bakery at the harbour of a fictional island has opened. Headline 'NOW OPEN', name 'HARBOUR BAKERY'. Picture: a round crusty loaf fresh from the oven with steam rising, on a wooden board, beside it a cinnamon bun and a brown paper bag. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice.",
+    "guards": "Constraints: Image format: square, 1:1. The only text in the image is exactly: 'NOW OPEN', 'HARBOUR BAKERY'. Spell every string exactly as given; add no other words, numbers or small print. No logos, brand names, signatures or watermarks."
+   },
+   "size": "1024x1024",
+   "generated_at": "2026-10-08T16:55:01+00:00",
+   "tool": "Codex CLI built-in image_gen",
+   "codex_version": "codex-cli 0.160.0",
+   "qa": {
+    "verdict": "pass",
+    "note_de": "",
+    "note_en": "",
+    "text_exact": null
+   },
+   "alt_de": "Art-déco-Plakat: „NOW OPEN“ in Creme und Rot, Brot und Zimtschnecke in Facetten-Licht vor der Hafenstadt, unten „HARBOUR BAKERY“ auf schwarzem Balken.",
+   "alt_en": "Art deco poster: 'NOW OPEN' in cream and red, faceted bread and bun before the harbour town, 'HARBOUR BAKERY' on a black band below.",
+   "ai_default": false,
+   "width": 1254,
+   "height": 1254
   },
   {
    "type": "infographic",

@@ -1,5 +1,5 @@
 {
- "_comment": "Welche Stile auf welchem Motiv gezeigt werden, in Anzeigereihenfolge. Kuratiert aus dem Lexikon (14 Kategorie-Kuratoren, zwei Balancer, Juror, Kritiker). flagships laufen durch alle 16 Motive; ai_default sind bewusste Negativbeispiele.",
+ "_comment": "Welche Stile auf welchem Motiv gezeigt werden, in Anzeigereihenfolge. Kuratiert aus dem Lexikon (14 Kategorie-Kuratoren, zwei Balancer, Juror, Kritiker). flagships laufen durch alle Motive; ai_default sind bewusste Negativbeispiele.",
  "flagships": [
   "ancient-egyptian-wall-painting",
   "woodcut",
@@ -300,6 +300,42 @@
    "x-ray-radiograph",
    "clay-animation",
    "16-bit-pixel-art"
+  ],
+  "thumbnail": [
+   "ancient-egyptian-wall-painting",
+   "woodcut",
+   "cyanotype",
+   "watercolor-wet-in-wet",
+   "clay-animation",
+   "16-bit-pixel-art",
+   "ghanaian-hand-painted-movie-poster",
+   "four-color-newsprint-comic",
+   "giallo",
+   "pop-art-silkscreen"
+  ],
+  "slide": [
+   "ancient-egyptian-wall-painting",
+   "woodcut",
+   "cyanotype",
+   "watercolor-wet-in-wet",
+   "clay-animation",
+   "16-bit-pixel-art",
+   "swiss-international-typographic-style",
+   "bauhaus-new-typography",
+   "mid-century-modern-commercial-art",
+   "ligne-claire"
+  ],
+  "social": [
+   "ancient-egyptian-wall-painting",
+   "woodcut",
+   "cyanotype",
+   "watercolor-wet-in-wet",
+   "clay-animation",
+   "16-bit-pixel-art",
+   "risograph",
+   "memphis-design",
+   "cut-paper-collage",
+   "art-deco-poster"
   ]
  },
  "de_twins": [

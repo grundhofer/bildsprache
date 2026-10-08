@@ -74,6 +74,42 @@
    "subject_en": "A poster for [EVENT OR TOPIC] with the headline '[HEADLINE]' and the line '[DATE · PLACE]'. Main image: [WHAT THE POSTER SHOWS]. Layout and lettering are the style's choice."
   },
   {
+   "id": "slides",
+   "motifs": ["slide"],
+   "size": "1536x1024", "figurative": false, "text": true,
+   "name_de": "Folie & Präsentation",
+   "name_en": "Slide & presentation",
+   "summary_de": "Titel- und Kapitelfolien mit einem ruhigen Bild und Platz für die Überschrift.",
+   "summary_en": "Title and section slides with a calm picture and room for the heading.",
+   "tip_de": "Kurzer Titel, ein Bildgedanke, viel Freiraum. Für Folien das Format 16:9 wählen. Soll der Titel später in der Präsentation gesetzt werden, das Textfeld leer lassen und nur Freiraum verlangen.",
+   "tip_en": "A short title, one picture idea, plenty of empty space. Choose 16:9 for slides. If the title will be set in the presentation later, leave the text field empty and only ask for empty space.",
+   "subject_en": "A title slide for a presentation about [TOPIC]. Title '[TITLE]' and subtitle '[SUBTITLE]'. Picture: [ONE PICTURE IDEA FOR THE TOPIC]. The slide is calm and uncluttered, with generous empty space around the title so it stays readable from the back of a room. Layout, lettering and how picture and title share the slide are the style's choice."
+  },
+  {
+   "id": "thumbnail",
+   "motifs": ["thumbnail"],
+   "size": "1536x1024", "figurative": true, "text": true,
+   "name_de": "Thumbnail",
+   "name_en": "Thumbnail",
+   "summary_de": "Vorschaubilder für Videos, Podcasts und Webinare: ein Gesicht, wenige Wörter, auch winzig lesbar.",
+   "summary_en": "Preview images for videos, podcasts and webinars: one face, a few words, legible even when tiny.",
+   "tip_de": "Höchstens vier Wörter Titel, eine Person oder ein Gegenstand im Mittelpunkt, ein deutlicher Ausdruck. Für YouTube das Format 16:9 wählen.",
+   "tip_en": "Four words of title at most, one person or object in the centre, a clear expression. Choose 16:9 for YouTube.",
+   "subject_en": "A thumbnail for an online video about [TOPIC]. Large title '[TITLE: 2 to 4 words]', readable even at a very small size. One dominant subject: [WHO OR WHAT: appearance, expression, what they hold or do]. Behind it, smaller: [ONE BACKGROUND ELEMENT]. Few elements, strong contrast, one clear focal point. Layout, lettering and framing are the style's choice."
+  },
+  {
+   "id": "social",
+   "motifs": ["social"],
+   "size": "1024x1024", "figurative": false, "text": true,
+   "name_de": "Social-Media-Post",
+   "name_en": "Social media post",
+   "summary_de": "Quadratische Posts für Instagram, LinkedIn und Co.: eine Botschaft, ein Bild, im Feed sofort erkennbar.",
+   "summary_en": "Square posts for Instagram, LinkedIn and the like: one message, one picture, recognisable at once in the feed.",
+   "tip_de": "Eine Botschaft in wenigen Wörtern und ein dominantes Bild. Was im schnell scrollenden Feed nicht in einer Sekunde wirkt, gehört in den Begleittext.",
+   "tip_en": "One message in a few words and one dominant picture. Whatever does not land within a second in a fast feed belongs in the caption.",
+   "subject_en": "A square social media post announcing [WHAT]. Headline '[HEADLINE]' and the line '[SECOND LINE]'. Picture: [ONE DOMINANT SUBJECT: material, colour, details]. The post must catch the eye in a fast-scrolling feed: one bold message, one dominant picture, strong contrast. Layout, lettering and framing are the style's choice."
+  },
+  {
    "id": "illustration",
    "motifs": ["editorial", "character"],
    "size": "1536x1024", "figurative": true, "text": false,
